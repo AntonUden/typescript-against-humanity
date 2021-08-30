@@ -95,9 +95,25 @@ export class Server {
 		}
 	}
 
+	getDeck(name: string): Deck | null {
+		for (let i = 0; i < this.deckCollections.length; i++) {
+			for (let j = 0; j < this.deckCollections[i].getDecks().length; j++) {
+				if (this.deckCollections[i].getDecks()[j].getName() == name) {
+					return this.deckCollections[i].getDecks()[j];
+				}
+			}
+		}
+
+		return null;
+	}
+
+	getDeckCollections(): DeckCollection[] {
+		return this.deckCollections;
+	}
+
 	getGame(uuid: string): Game | null {
-		for(let i = 0; i < this.games.length; i++) {
-			if(this.games[i].getUUID() == uuid) {
+		for (let i = 0; i < this.games.length; i++) {
+			if (this.games[i].getUUID() == uuid) {
 				return this.games[i];
 			}
 		}

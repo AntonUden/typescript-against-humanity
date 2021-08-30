@@ -22,9 +22,10 @@ export class DeckCollectionReader {
 			let decks: Deck[] = DeckCollectionReader.readFolder("./decks/" + name + "/");
 
 			let set: DeckCollection = new DeckCollection(name, displayName, description, decks);
+			deckSets.push(set);
 		}
 
-		return sets;
+		return deckSets;
 	}
 
 	private static readFolder(path: string): Deck[] {

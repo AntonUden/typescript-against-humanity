@@ -30,7 +30,8 @@ export class User {
 		let clientSettings: ClientSettings = {
 			maxPlayersPerGame: this._server.settings.maxPlayersPerGame,
 			maxGameNameLength: this._server.settings.maxGameNameLength,
-			maxPlayerNameLength: this._server.settings.maxPlayerNameLength
+			maxPlayerNameLength: this._server.settings.maxPlayerNameLength,
+			deckCollections: this._server.getDeckCollections()
 		}
 
 		socket.send("client_settings", clientSettings);
@@ -164,16 +165,36 @@ export class User {
 
 				players.push({
 					uuid: player.getUUID(),
-					username: player.getUser().getUsername()
+					username: player.getUser().getUsername(),
+					score: player.getScore()
 				});
 			}
 
-			gameList.push({
+			let decks: string[] = [];
+
+			game.getDecks().forEach((deck) => {
+				decks.push(deck.getName());
+			})
+
+			let gameObject: any = {
 				uuid: game.getUUID(),
 				name: game.getName(),
 				state: game.getGameState(),
+				decks: decks,
 				players: players
-			});
+			};
+
+			if(this.isInGame()) {
+				if(this.getGame().getUUID() == game.getUUID()) {
+					let gameData: any = {
+
+					};
+
+					gameObject["data"] = gameData;
+				}
+			}
+
+			gameList.push(gameObject);
 		}
 
 		let state = {

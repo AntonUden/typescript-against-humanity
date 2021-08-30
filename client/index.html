@@ -35,10 +35,11 @@
 		const socket = io();
 
 		var gameConfig = null;
+		var ready = false;
 
 		socket.on("message", function (message, content) {
-			console.log(message);
-			console.log(content);
+			console.debug(message);
+			console.debug(content);
 
 			switch (message) {
 				case "message":
@@ -51,8 +52,7 @@
 
 				case "client_settings":
 					gameConfig = content;
-					console.debug("Recived settings");
-					console.debug(gameConfig);
+					ready = true;
 					break;
 
 				default:
@@ -61,6 +61,20 @@
 			}
 		});
 
+		function getDeck(name) {
+			let result = null;
+
+			gameConfig.deckCollections.forEach((deckCollection) => {
+				deckCollection.decks.forEach((deck) => {
+					if (deck.name == name) {
+						result = deck;
+					}
+				});
+			});
+
+			return result;
+		}
+
 		function joinGame(uuid) {
 			socket.send("join_game", {
 				uuid: uuid
@@ -68,8 +82,30 @@
 		}
 
 		function handleState(state) {
+			if (!ready) {
+				console.log("ignoring handleState() since we are not ready");
+				return;
+			}
+
 			console.log("received state change");
 			console.log(state);
+
+			let activeGame = null;
+
+			if (state.active_game == null) {
+				$("#game_browser").show();
+				$("#game").hide();
+			} else {
+				$("#game").show();
+				$("#game_browser").hide();
+
+				state.games.forEach((game) => {
+					if (game.uuid == state.active_game) {
+						activeGame = game;
+					}
+				});
+			}
+
 
 			/* ===== Setup table rows ===== */
 			let foundGames = [];
@@ -85,7 +121,7 @@
 			for (let i = 0; i < state.games.length; i++) {
 				let game = state.games[i];
 
-				console.log("foundGames.includes(game.uuid) " + game.uuid + " : " + foundGames.includes(game.uuid));
+				//console.log("foundGames.includes(game.uuid) " + game.uuid + " : " + foundGames.includes(game.uuid));
 
 				if (foundGames.includes(game.uuid)) {
 					foundGames.remove(game.uuid);
@@ -128,9 +164,40 @@
 
 					if (game.uuid == uuid) {
 						$(this).find(".td-game-player-count").text(game.players.length + " / " + gameConfig.maxPlayersPerGame + " Players")
+						let decksString = game.decks.join(", ");
+
+						let expansions = "";
+
+						game.decks.forEach((deckName) => {
+							let deck = getDeck(deckName);
+
+							if (deck == null) {
+								expansions += "null, ";
+							} else {
+								expansions += deck.displayName + ", ";
+							}
+						});
+
+						if(expansions.length > 2) {
+							expansions = expansions.substring(0, expansions.length - 2)
+						}
+
+						$(this).find(".td-game-expansions").text(expansions)
 					}
 				});
 			}
+
+			/* ===== Active game ===== */
+			if (activeGame != null) {
+				$("#game_name").text(activeGame.name);
+				if (activeGame.state == 0) {
+					$("#waiting_for_host").show();
+				} else {
+					$("#waiting_for_host").hide();
+				}
+			}
+
+			console.log(activeGame);
 		}
 
 		$(function () {
@@ -183,9 +250,12 @@
 		</table>
 	</div>
 
+	<div id="game">
+		<h2>In game: <span id="game_name"></span></h2>
+		<h3 id="waiting_for_host">Waiting for host to start</h3>
+	</div>
 
-
-	<div id="game-browser">
+	<div id="game_browser">
 		<div class="container">
 			<div class="row">
 				<div class="col">
@@ -210,7 +280,7 @@
 						<thead>
 							<tr>
 								<th>Name</th>
-								<th>Set</th>
+								<th>Expansions</th>
 								<th>Players</th>
 								<th></th>
 							</tr>

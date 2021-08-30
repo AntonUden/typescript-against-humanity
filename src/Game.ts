@@ -1,3 +1,4 @@
+import { Deck } from "./card/Deck";
 import { GameState } from "./enum/GameState";
 import { JoinGameResponse } from "./enum/JoinGameResponse";
 import { MessageType } from "./enum/MessageType";
@@ -12,6 +13,7 @@ export class Game {
 	private players: Player[] = [];
 	private gameState: GameState;
 	private settings: GameSettings;
+	private decks: Deck[] = [];
 	private _server: Server;
 
 	constructor(server: Server, uuid: string, name: string) {
@@ -22,6 +24,11 @@ export class Game {
 		this.settings = {
 			handSize: 10,
 			winScore: 10
+		}
+
+		let defaultDeck: Deck | null = this._server.getDeck("Base");
+		if (defaultDeck != null) {
+			this.decks.push(defaultDeck);
 		}
 	}
 
@@ -48,7 +55,7 @@ export class Game {
 	}
 
 	joinGame(user: User, password: string | null = null): JoinGameResponse {
-		if (this.players.length > this._server.settings.maxPlayersPerGame) {
+		if (this.players.length >= this._server.settings.maxPlayersPerGame) {
 			return JoinGameResponse.GAME_FULL;
 		}
 
@@ -76,6 +83,9 @@ export class Game {
 			this._server.removeGame(this);
 		} else {
 			this._server.broadcastStateChange();
+			for (let i = 0; i < this.players.length; i++) {
+				this.players[i].getUser().sendMessage(user.getUsername() + " left the game", MessageType.INFO);
+			}
 		}
 	}
 
@@ -90,5 +100,9 @@ export class Game {
 
 	getPlayers(): Player[] {
 		return this.players;
+	}
+
+	getDecks(): Deck[] {
+		return  this.decks;
 	}
 }
