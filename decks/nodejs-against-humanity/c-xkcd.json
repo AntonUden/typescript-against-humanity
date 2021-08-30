@@ -1,0 +1,319 @@
+{
+    "source": 0,
+    "order": 56,
+    "filename": "c-xkcd",
+    "name": "[C] xkcd",
+    "black_cards": [
+        {
+            "text": "_.tumblr.com",
+            "pick": 1
+        },
+        {
+            "text": "Did you know you can just buy _?",
+            "pick": 1
+        },
+        {
+            "text": "My new favorite game is Strip _.",
+            "pick": 1
+        },
+        {
+            "text": "Now I have to live my whole life pretending _ never happened. It's going to be a fun 70 years.",
+            "pick": 1
+        },
+        {
+            "text": "_'s fetish: _.",
+            "pick": 2
+        },
+        {
+            "text": "2009 called? Did you warn them about _?",
+            "pick": 1
+        },
+        {
+            "text": "Just because I have _ doesn't mean you could milk me now. I'd have to be lactating.",
+            "pick": 1
+        },
+        {
+            "text": "_. That's right. Shit just got REAL.",
+            "pick": 1
+        },
+        {
+            "text": "Take me down to the _, where the _ is green and the _ are pretty.",
+            "pick": 3
+        },
+        {
+            "text": "Did you know November is _ Awareness Month?",
+            "pick": 1
+        },
+        {
+            "text": "Until I see more data, I'm going to assume _ causes _.",
+            "pick": 2
+        },
+        {
+            "text": "3D printers sound great until you receive spam containing actual _.",
+            "pick": 1
+        },
+        {
+            "text": "I'm going to name my child _.",
+            "pick": 1
+        },
+        {
+            "text": "_. So it has come to this.",
+            "pick": 1
+        },
+        {
+            "text": "If you really hate someone, teach them to recognize _.",
+            "pick": 1
+        },
+        {
+            "text": "It's fun to mentally replace the word _ with _.",
+            "pick": 2
+        },
+        {
+            "text": "University Researchers create life in lab! _ blamed!",
+            "pick": 1
+        },
+        {
+            "text": "Ebay review: Instead of _, package contained _. Would not buy again.",
+            "pick": 2
+        },
+        {
+            "text": "Social rule 99.1: If friends spend more than 60 minutes deciding what to do, they must default to _.",
+            "pick": 1
+        },
+        {
+            "text": "The #1 Programmer's excuse for legitimately slacking off: _.",
+            "pick": 1
+        },
+        {
+            "text": "I like alter songs by replacing _ with _.",
+            "pick": 2
+        },
+        {
+            "text": "Real Programmers use _.",
+            "pick": 1
+        },
+        {
+            "text": "After finding Higgs-Boson, I can always use the LHC for _.",
+            "pick": 1
+        },
+        {
+            "text": "_ linked to Acne! 95% confidence.",
+            "pick": 1
+        },
+        {
+            "text": "How many Google results are there for \"Died in a _ accident?\"",
+            "pick": 1
+        },
+        {
+            "text": "What's my favorite unit of measurement?",
+            "pick": 1
+        },
+        {
+            "text": "In the extended base metaphor, shortstop is _.",
+            "pick": 1
+        },
+        {
+            "text": "My health declined when I realized I could eat _ whenever I wanted.",
+            "pick": 1
+        },
+        {
+            "text": "_ is just applied _.",
+            "pick": 2
+        },
+        {
+            "text": "I set up script to buy things on ebay for $1, but then it bought _, _, and _.",
+            "pick": 3
+        },
+        {
+            "text": "I can extrude _, but I can't retract it.",
+            "pick": 1
+        },
+        {
+            "text": "I don't actually care about _, I just like _.",
+            "pick": 2
+        },
+        {
+            "text": "Why do you have a crossbow in your desk?",
+            "pick": 1
+        },
+        {
+            "text": "Spoiler Alert! _ kills _ with _!",
+            "pick": 3
+        },
+        {
+            "text": "I'm like _, except with love.",
+            "pick": 1
+        },
+        {
+            "text": "Do you really expect _? No, Mister Bond. I expect you to die!",
+            "pick": 1
+        },
+        {
+            "text": "I didn't actually want you to be _; I just wanted you to be _.",
+            "pick": 2
+        },
+        {
+            "text": "I filled my apartment with _.",
+            "pick": 1
+        },
+        {
+            "text": "What do we miss most from the internet in 1998?",
+            "pick": 1
+        },
+        {
+            "text": "Waking up would be a lot easier if _ didn't look so much like you.",
+            "pick": 1
+        },
+        {
+            "text": "All of my algorithms were really just disguised _.",
+            "pick": 1
+        },
+        {
+            "text": "I got a lot more interested in _ when I made the connection to _.",
+            "pick": 2
+        },
+        {
+            "text": "_? No, I'm not really into Pok&eacute;mon.",
+            "pick": 1
+        },
+        {
+            "text": "When I eat _, I like to pretend I'm a Turing machine.",
+            "pick": 1
+        },
+        {
+            "text": "Dreaming about _ in Cirque du Soleil.",
+            "pick": 1
+        },
+        {
+            "text": "It turns out God created the universe using _.",
+            "pick": 1
+        },
+        {
+            "text": "Freestyle rapping is really just _.",
+            "pick": 1
+        },
+        {
+            "text": "If I could rearrange the alphabet, I'd put _ and _ together.",
+            "pick": 2
+        },
+        {
+            "text": "Human intelligence decreases with increasing proximity to _.",
+            "pick": 1
+        },
+        {
+            "text": "_ would be a good name for a band.",
+            "pick": 1
+        },
+        {
+            "text": "_ wouldn't be funny if not for the irony.",
+            "pick": 1
+        },
+        {
+            "text": "Help, I'm trapped in a _ factory!",
+            "pick": 1
+        },
+        {
+            "text": "None of the places I floated to had _.",
+            "pick": 1
+        },
+        {
+            "text": "_. My normal method is useless here.",
+            "pick": 1
+        },
+        {
+            "text": "We had a _ party, but it turned out not to be very much fun.",
+            "pick": 1
+        },
+        {
+            "text": "My hobby: _.",
+            "pick": 1
+        },
+        {
+            "text": "_ makes terrible pillow talk.",
+            "pick": 1
+        },
+        {
+            "text": "What is the best way to protect yourself from Velociraptors?",
+            "pick": 1
+        },
+        {
+            "text": "I'm pretty sure you can't send _ through the mail.",
+            "pick": 1
+        },
+        {
+            "text": "What did I suggest to the IAU for a new planet name?",
+            "pick": 1
+        },
+        {
+            "text": "_ is too big for small talk.",
+            "pick": 1
+        },
+        {
+            "text": "New movie this summer: _ beats up everyone.",
+            "pick": 1
+        },
+        {
+            "text": "By 2019, _ will be outnumbered by _.",
+            "pick": 2
+        },
+        {
+            "text": "The past is a foreign country... with _ and _!",
+            "pick": 2
+        },
+        {
+            "text": "Hey baby, wanna come back to my sex _?",
+            "pick": 1
+        },
+        {
+            "text": "_. It works in Kerbal Space Program.",
+            "pick": 1
+        },
+        {
+            "text": "What role has social media played in _? Well, it's certainly made _ stupider.",
+            "pick": 2
+        }
+    ],
+    "white_cards": [
+        "Raptor attacks",
+        "Getting Jeremy Irons to do your dialogue",
+        "Answering casual questions in Iambic Pentameter",
+        "An inexorably advancing wall of ice",
+        "Mixing curse levels",
+        "Going out in a blaze of Dadaist glory",
+        "Poking small holes in noodle cups",
+        "Zeppelins",
+        "Vanilla Ice",
+        "Computational Linguists",
+        "A girl whose only mode of transportation is the M.C. Hammer slide",
+        "Clark Gable's Tourette's",
+        "Moral Relativity",
+        "Snakes on Every Plane!",
+        "Sending strange things through the mail",
+        "The RJX-21 Laser Scope",
+        "Electric Skateboards",
+        "The mathematics of cunnilungus",
+        "The math of Velociraptors",
+        "Embedded music on MySpace",
+        "The elimination of all culture you don't control",
+        "Centrifugal force",
+        "A Pong machine that's self-aware",
+        "Cunnilingus",
+        "Commenting out what other people say",
+        "An embarrassing search history",
+        "A human-sized hamster ball",
+        "Casual use of 'sudo'",
+        "Pronouncing 'Blog' as 'Blag'",
+        "Using 'They' as a third-person singular gender-free pronoun",
+        "A poisson distribution",
+        "A ferret with wings strapped on",
+        "An apple infused with tin",
+        "The Bellman-Ford algorithm",
+        "Orion's penis",
+        "Feeding rocks to children",
+        "Only knowing music from Guitar Hero",
+        "The red spiders",
+        "Taking a fourier transform of your cat",
+        "The square root of lov",
+        "A malaria party"
+    ]
+}

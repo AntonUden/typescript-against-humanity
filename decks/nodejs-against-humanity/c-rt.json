@@ -1,0 +1,441 @@
+{
+    "source": 0,
+    "order": 49,
+    "filename": "c-rt",
+    "name": "[C] Rooster Teeth",
+    "black_cards": [
+        {
+            "text": "Why are there six _ when there are only four _?",
+            "pick": 2
+        },
+        {
+            "text": "What is your mating call?",
+            "pick": 1
+        },
+        {
+            "text": "What is the worst thing anyone could say in front of the police?",
+            "pick": 1
+        },
+        {
+            "text": "What is the saddest thing you've ever seen?",
+            "pick": 1
+        },
+        {
+            "text": "What is your favorite book?",
+            "pick": 1
+        },
+        {
+            "text": "_ is the greatest Canadian.",
+            "pick": 1
+        },
+        {
+            "text": "What is the meaning of life?",
+            "pick": 1
+        },
+        {
+            "text": "If you could fuck anyone in the world, who would you choose?",
+            "pick": 1
+        },
+        {
+            "text": "No one in the office expected the bromance between _ and _.",
+            "pick": 2
+        },
+        {
+            "text": "Select two cards to create your team name.",
+            "pick": 2
+        },
+        {
+            "text": "This week on VS, _ challenges _ to a game of _.",
+            "pick": 3
+        },
+        {
+            "text": "The war's over. We're holding a parade in _'s honor. _ drives the float, and _ is in charge of confetti.",
+            "pick": 3
+        },
+        {
+            "text": "_ is the best _ ever. Of all time.",
+            "pick": 2
+        },
+        {
+            "text": "_ wins! _ is a horse!",
+            "pick": 2
+        },
+        {
+            "text": "If you got $1,000,000 per week, would you _, but in the next day, you'd have to _?",
+            "pick": 2
+        },
+        {
+            "text": "My name is _, and I hate _!",
+            "pick": 2
+        },
+        {
+            "text": "Why was Michael screaming at Gavin?",
+            "pick": 1
+        },
+        {
+            "text": "Would you guys still like me if my name was _?",
+            "pick": 1
+        },
+        {
+            "text": "You threw it against the wall like a _!",
+            "pick": 1
+        },
+        {
+            "text": "_ is _ as dicks.",
+            "pick": 2
+        },
+        {
+            "text": "Who has a fake Internet girlfriend?",
+            "pick": 1
+        },
+        {
+            "text": "Why is Geoff cool?",
+            "pick": 1
+        },
+        {
+            "text": "Why are we here?",
+            "pick": 1
+        },
+        {
+            "text": "What's in Gavin's desk?",
+            "pick": 1
+        },
+        {
+            "text": "What would be your chosen catchphrase?",
+            "pick": 1
+        },
+        {
+            "text": "Where does Ray belong?",
+            "pick": 1
+        },
+        {
+            "text": "Where are we going for lunch?",
+            "pick": 1
+        },
+        {
+            "text": "What makes Caboose angry?",
+            "pick": 1
+        },
+        {
+            "text": "What mysteries lie beyond Jack's beard? ",
+            "pick": 1
+        },
+        {
+            "text": "What makes Michael the angriest?",
+            "pick": 1
+        },
+        {
+            "text": "What is your biggest feature?",
+            "pick": 1
+        },
+        {
+            "text": "_ is the worst on the Podcast.",
+            "pick": 1
+        },
+        {
+            "text": "_. That's top.",
+            "pick": 1
+        },
+        {
+            "text": "After getting wasted at PAX, Burnie announced that \"I am _!\"",
+            "pick": 1
+        },
+        {
+            "text": "Barbara sucks _.",
+            "pick": 1
+        },
+        {
+            "text": "Close up of my _.",
+            "pick": 1
+        },
+        {
+            "text": "Come to Fort _!",
+            "pick": 1
+        },
+        {
+            "text": "Describe yourself in one word/phrase.",
+            "pick": 1
+        },
+        {
+            "text": "_ is probably a Venusaur kind of guy.",
+            "pick": 1
+        },
+        {
+            "text": "This week on AHWU, _.",
+            "pick": 1
+        },
+        {
+            "text": "This week on Immersion, we are going to test _.",
+            "pick": 1
+        },
+        {
+            "text": "The next RvB cameo will be voiced by _.",
+            "pick": 1
+        },
+        {
+            "text": "They questioned Ryan's sanity after finding _ in his house.",
+            "pick": 1
+        },
+        {
+            "text": "What is Game Night?",
+            "pick": 1
+        },
+        {
+            "text": "What are fire hydrants called in England?",
+            "pick": 1
+        },
+        {
+            "text": "What does Ryan's kid listen to?",
+            "pick": 1
+        },
+        {
+            "text": "People like _.",
+            "pick": 1
+        },
+        {
+            "text": "RT Recap, featuring _!",
+            "pick": 1
+        },
+        {
+            "text": "My _ is trying to die.",
+            "pick": 1
+        },
+        {
+            "text": "On tonight's Let's Play, the AH crew plays _.",
+            "pick": 1
+        },
+        {
+            "text": "So, I was just walking along, until suddenly _ came along and attacked me.",
+            "pick": 1
+        },
+        {
+            "text": "Thanks to _ for this week's theme song.",
+            "pick": 1
+        },
+        {
+            "text": "Shout out to _!",
+            "pick": 1
+        },
+        {
+            "text": "Shout out to my mom. Called my Teddy Bear _.",
+            "pick": 1
+        },
+        {
+            "text": "It's not my fault. Somebody put _ in my way.",
+            "pick": 1
+        },
+        {
+            "text": "It's a _ out there.",
+            "pick": 1
+        },
+        {
+            "text": "If you were allowed to do one illegal thing, what would it be? ",
+            "pick": 1
+        },
+        {
+            "text": "If you could have any superpower, what would it be?",
+            "pick": 1
+        },
+        {
+            "text": "LLLLLLLLLLLLLET'S _!",
+            "pick": 1
+        },
+        {
+            "text": "Lindsay could fuck up _.",
+            "pick": 1
+        },
+        {
+            "text": "Let's do _ again! This is fun!",
+            "pick": 1
+        },
+        {
+            "text": "Joel plays _.",
+            "pick": 1
+        },
+        {
+            "text": "Fight, fight, fight, _?",
+            "pick": 1
+        },
+        {
+            "text": "Dude, I got sixteen _!",
+            "pick": 1
+        },
+        {
+            "text": "Does our house say \"We love _?\"",
+            "pick": 1
+        },
+        {
+            "text": "Detective _ is down!",
+            "pick": 1
+        },
+        {
+            "text": "If Jack was frog and you kissed him, what would he turn into?",
+            "pick": 1
+        },
+        {
+            "text": "I'ma smother you in my _!",
+            "pick": 1
+        },
+        {
+            "text": "Fuck it, I mean _, right?",
+            "pick": 1
+        }
+    ],
+    "white_cards": [
+        "A bag of dicks.",
+        "Surgeon Simulator 2013.",
+        "Minecraft.",
+        "A wet paper towel.",
+        "ENDERMAN!!!",
+        "Lightish red.",
+        "In denial.",
+        "Enwrong.",
+        "Papa BrownMan.",
+        "Caleb's house.",
+        "Evil Ryan.",
+        "Randy Savage.",
+        "Gavin's dick.",
+        "Wearing your headphones backwards during a podcast week after week.",
+        "Flicking the bean.",
+        "Getting minged up your quelch.",
+        "Grand Theft Auto IV.",
+        "Ray's wet sponge.",
+        "Bankrupting your company over a crane game.",
+        "A gay cave. A gayve.",
+        "Montages no one will watch.",
+        "Getting boned.",
+        "A squid orgy.",
+        "Team Magnum Dong.",
+        "300,000 Gamerscore.",
+        "Barbara Dunkelman.",
+        "Lindsay Tuggey.",
+        "Two dumb cunts.",
+        "RT Confessions.",
+        "Guffpap.",
+        "Smegpot.",
+        "Because bitches ain't shit.",
+        "Launching dump trucks off an unfinished bridge.",
+        "Monoray.",
+        "Gavino.",
+        "Monty Oum.",
+        "Mavin slash fiction.",
+        "Caleb Denecour.",
+        "Reaching a billion total views on YouTube.",
+        "Doing a double barrel roll and immediately running someone over.",
+        "A Ray-Cam masturbation moment.",
+        "Tackling Gavin to stop him from winning.",
+        "RT Shorts.",
+        "RT Animated Adventures.",
+        "Mega64.",
+        "Immersion.",
+        "The Frienderman.",
+        "Beating a man to death with his own skull.",
+        "Fighting to the death on pigback.",
+        "RWBY.",
+        "Throwing shit at the AHWU announcer.",
+        "Red vs. Blue.",
+        "Geoff's cancer-curing laugh.",
+        "The Tower of Pimps.",
+        "Using CPR to treat a bullet wound to the head.",
+        "A plan that involves Grif dying.",
+        "Trying to eat a five-pound gummy bear in one sitting.",
+        "Front flip for style!",
+        "Parkour.",
+        "Blood Gulch.",
+        "Something that is top.",
+        "Faffy Waffle.",
+        "Cockbites.",
+        "Slapping the controller out of a competitor's hands.",
+        "Two bases in the middle of a box canyon. Whoop-dee-fuckin'-doo.",
+        "Achievement City.",
+        "Fails of the Weak.",
+        "Losing an hour's worth of footage to a brief blackout.",
+        "Trials PIG.",
+        "Achievement HORSE.",
+        "Edgar the cow.",
+        "Gavin's Trophy Room of Victory.",
+        "Team Neighborhood Watch.",
+        "Ray winning.",
+        "Team Gents.",
+        "Plan G.",
+        "Team Nice Dynamite.",
+        "Team Lads.",
+        "Jack's dick.",
+        "The Crev.",
+        "The Internet Box.",
+        "Performing surgery in space.",
+        "Slenderman.",
+        "The R&R Connection.",
+        "RTX.",
+        "Randy Newman.",
+        "Giving up and building a house.",
+        "A miniature Tower of Pimps.",
+        "Tupperware.",
+        "Flynt Coal.",
+        "Meatspin.",
+        "Gubbins.",
+        "Knobs.",
+        "Because they'd like it.",
+        "The adventures of Batman and Randy Newman.",
+        "Ray's douche-cut.",
+        "A megalomaniac with a beard.",
+        "Discovering your long-lost Creeper parents.",
+        "Killing Gavin.",
+        "Geoff's hobo beard.",
+        "Being trapped in a dog cage.",
+        "Jack's beard.",
+        "RoosterTeeth.",
+        "Man-Gobbler, the turkey bestiality movie.",
+        "Gavin Free.",
+        "Michael Jones.",
+        "Ray Narvaez, Jr.",
+        "Geoff Lazer Ramsey.",
+        "Burnie Burns.",
+        "Jack Pattillo.",
+        "Ryan Haywood.",
+        "Gus Sorola.",
+        "The cardboard cutout of Gus.",
+        "Joel Heyman.",
+        "Going cakeless.",
+        "Headlight fluid.",
+        "Playing Hitler twice.",
+        "Sarge.",
+        "Lopez la Pesado.",
+        "Franklin Delano Donut.",
+        "Dexter Grif.",
+        "Dick Simmons.",
+        "Agent Washington.",
+        "Andy the bomb.",
+        "Picking up chicks in a tank.",
+        "Lavernius Tucker.",
+        "Leonard Church.",
+        "Sheila the tank.",
+        "Michael J. Caboose.",
+        "Frank \"Doc\" DuFresne.",
+        "Agent Maine / the Meta.",
+        "Omega / O'Malley.",
+        "Agent Texas / Allison.",
+        "MOGAR!",
+        "Screen looking.",
+        "Joe the cat.",
+        "#DantheMan.",
+        "Slo Mo Guys.",
+        "X-Ray and Vav.",
+        "Rage Quit.",
+        "Achievement Hunter.",
+        "Pongo.",
+        "Soggy bread.",
+        "Sarge's funeral.",
+        "Camping, as a legitimate strategy.",
+        "Team-killing fucktards.",
+        "Calling dibs on a spaceship.",
+        "Because people like grapes.",
+        "Upside-down Kerry.",
+        "Epsilon's laser face.",
+        "MOTHERFUCKING TRIPLE SPIKES!",
+        "Mark Nutt.",
+        "AHWU.",
+        "Ray's sombrero.",
+        "Doing a dig-down."
+    ]
+}

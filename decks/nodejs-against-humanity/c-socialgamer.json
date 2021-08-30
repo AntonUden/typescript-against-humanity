@@ -1,0 +1,84 @@
+{
+    "source": 0,
+    "order": 51,
+    "filename": "c-socialgamer",
+    "name": "[C] SocialGamer",
+    "black_cards": [
+        {
+            "text": "_.tumblr.com",
+            "pick": 1
+        },
+        {
+            "text": "Alcoholic games of Clue&reg; lead to _.",
+            "pick": 1
+        },
+        {
+            "text": "_ is the name of my _ cover band.",
+            "pick": 2
+        },
+        {
+            "text": "_ has the \"mount\" keyword.",
+            "pick": 1
+        },
+        {
+            "text": "_ probably tastes better than Quiznos.",
+            "pick": 1
+        },
+        {
+            "text": "Nickelodeon's next kids' game show is \"_\", hosted by _.",
+            "pick": 2
+        },
+        {
+            "text": "_.",
+            "pick": 1
+        },
+        {
+            "text": "Next on GSN: \"The $100,000 _.\"",
+            "pick": 1
+        },
+        {
+            "text": "Who dunnit? _ with _ in _.",
+            "pick": 3
+        },
+        {
+            "text": "Much _. So _. Wow.",
+            "pick": 2
+        },
+        {
+            "text": "At the last PAX, Paul and Storm had _ thrown at them during \"Opening Band\".",
+            "pick": 1
+        },
+        {
+            "text": "Don't slow down in East Cleveland or _.",
+            "pick": 1
+        },
+        {
+            "text": "Drunken games of Pretend You're Xyzzy lead to _ and _.",
+            "pick": 2
+        }
+    ],
+    "white_cards": [
+        "The biggest, blackest dick.",
+        "The League of Legends.",
+        "A fountain of vomit.",
+        "Being banned from /r/pyongyang.",
+        "The lost city of Atlantis.",
+        "Dr. Phil.",
+        "The sound a single ThunderStix&reg; makes.",
+        "Billy the Answer Head.",
+        "Performing the Secret Slime Action.",
+        "The Hollaad Tonnel.",
+        "Cleveland (it's not Detroit!).",
+        "The best card in my hand.",
+        "MC Frontalot.",
+        "Pretending you're Xyzzy.",
+        "Paul and Storm.",
+        "Jonathan Coulton.",
+        "Blank.",
+        "The Chilled Knife.",
+        "Suddenly realizing you're retarded.",
+        "A Canadian penny.",
+        "dho's penis.",
+        "Griffy's tits."
+    ]
+}

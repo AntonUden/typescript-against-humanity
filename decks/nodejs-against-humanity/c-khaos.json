@@ -1,0 +1,404 @@
+{
+    "source": 0,
+    "order": 41,
+    "filename": "c-khaos",
+    "name": "[C] Khaos WolfKat",
+    "black_cards": [
+        {
+            "text": "I used to be an adventurer like you, then I took a/an _ in the _.",
+            "pick": 2
+        },
+        {
+            "text": "You've got to check out _ Fluxx!",
+            "pick": 1
+        },
+        {
+            "text": "For the love of GOD, and all that is HOLY, _!!",
+            "pick": 1
+        },
+        {
+            "text": "The new Operating System will be called _.",
+            "pick": 1
+        },
+        {
+            "text": "Yes, Mr. Death... I'll play you a game! But not chess! My game is _.",
+            "pick": 1
+        },
+        {
+            "text": "I cannot preach hate and warfare when I am a disciple of _.",
+            "pick": 1
+        },
+        {
+            "text": "Call of Duty Modern Warfare 37: War of _!",
+            "pick": 1
+        },
+        {
+            "text": "In brightest day, in blackest night, no _ shall escape my sight.",
+            "pick": 1
+        },
+        {
+            "text": "My next video turorial covers _.",
+            "pick": 1
+        },
+        {
+            "text": "We found a map Charlie! A map to _ Mountain!",
+            "pick": 1
+        },
+        {
+            "text": "Honey badger don't give a _!",
+            "pick": 1
+        },
+        {
+            "text": "Good. Bad. I'm the guy with the _.",
+            "pick": 1
+        },
+        {
+            "text": "Hail to the _, baby.",
+            "pick": 1
+        },
+        {
+            "text": "Shop smart. Shop _.",
+            "pick": 1
+        },
+        {
+            "text": "Alright you Primitive Screwheads, listen up! You see this? This... is my _!",
+            "pick": 1
+        },
+        {
+            "text": "Every sperm is _.",
+            "pick": 1
+        },
+        {
+            "text": "I see you have the machine that goes _.",
+            "pick": 1
+        },
+        {
+            "text": "I seek The Holy _.",
+            "pick": 1
+        },
+        {
+            "text": "How will we stop an army of the dead at our castle walls?",
+            "pick": 1
+        },
+        {
+            "text": "Faster than a speeding _! More powerful than a _!",
+            "pick": 2
+        },
+        {
+            "text": "Fighting a never-ending battle for truth, justice, and the American _!",
+            "pick": 1
+        },
+        {
+            "text": "Don't make me _. You wouldn't like me when I'm _.",
+            "pick": 1
+        },
+        {
+            "text": "With great power comes great _.",
+            "pick": 1
+        },
+        {
+            "text": "I'm loyal to nothing, General - except the _.",
+            "pick": 1
+        },
+        {
+            "text": "Patriotism doesn't automatically equal _.",
+            "pick": 1
+        },
+        {
+            "text": "Disguised as _, mild-mannered _. ",
+            "pick": 2
+        },
+        {
+            "text": "Able to leap _ in a single bound! ",
+            "pick": 1
+        },
+        {
+            "text": "These aren't the _ you're looking for.",
+            "pick": 1
+        },
+        {
+            "text": "We're gonna need a bigger _.",
+            "pick": 1
+        },
+        {
+            "text": "Beavis and Butthead Do _.",
+            "pick": 1
+        },
+        {
+            "text": "I, for one, welcome our new _ overlords.",
+            "pick": 1
+        },
+        {
+            "text": "You know, there's a million fine looking women in the world, dude. But they don't all bring you _ at work. Most of 'em just _.",
+            "pick": 2
+        },
+        {
+            "text": "Teenage Mutant Ninja _.",
+            "pick": 1
+        },
+        {
+            "text": "Achy Breaky _.",
+            "pick": 1
+        },
+        {
+            "text": "I'm not a _, but I play one on TV",
+            "pick": 1
+        },
+        {
+            "text": "An African or European _?",
+            "pick": 1
+        },
+        {
+            "text": "Well you can't expect to wield supreme executive power just 'cause some watery tart threw a _ at you!",
+            "pick": 1
+        },
+        {
+            "text": "\"_!\" \"It's only a model.\"",
+            "pick": 1
+        },
+        {
+            "text": "Good night. Sleep well. I'll most likely _ you in the morning.",
+            "pick": 1
+        },
+        {
+            "text": "I am The Dread Pirate _.",
+            "pick": 1
+        },
+        {
+            "text": "Do you want me to send you back to where you were, _ in _?",
+            "pick": 2
+        },
+        {
+            "text": "I see _ people",
+            "pick": 1
+        },
+        {
+            "text": "_? We don't need no stinking _!",
+            "pick": 1
+        },
+        {
+            "text": "I am not fat! I'm just _.",
+            "pick": 1
+        },
+        {
+            "text": "Oh my god! They killed _!",
+            "pick": 1
+        },
+        {
+            "text": "The anxiously awaited new season of Firefly is rumoured to kick off with an action packed scene, featuring River Tam's amazing feats of _!",
+            "pick": 1
+        },
+        {
+            "text": "Two by two, hands of _.",
+            "pick": 1
+        },
+        {
+            "text": "Wendy's _ & Juicy.",
+            "pick": 1
+        },
+        {
+            "text": "I swear by my pretty floral _, I will _ you.",
+            "pick": 2
+        },
+        {
+            "text": "At _, where every day is _ day!",
+            "pick": 2
+        },
+        {
+            "text": "I HATE it when _(s) crawl(s) up my _!",
+            "pick": 2
+        },
+        {
+            "text": "_. Like a boss!",
+            "pick": 1
+        },
+        {
+            "text": "_'s latest music video features a dozen _ on _.",
+            "pick": 3
+        },
+        {
+            "text": "_. It's not just for breakfast anymore.",
+            "pick": 1
+        },
+        {
+            "text": "In Soviet _, _ _s you.",
+            "pick": 3
+        },
+        {
+            "text": "_. Part of this nutritious breakfast.",
+            "pick": 1
+        },
+        {
+            "text": "_. It's what's for dinner!",
+            "pick": 1
+        },
+        {
+            "text": "Where's the beef?",
+            "pick": 1
+        },
+        {
+            "text": "_. Breakfast of champions!",
+            "pick": 1
+        },
+        {
+            "text": "I _, therefore I _.",
+            "pick": 2
+        },
+        {
+            "text": "Welcome to my secret lair. I call it The Fortress of _.",
+            "pick": 1
+        },
+        {
+            "text": "My safeword is _.",
+            "pick": 1
+        },
+        {
+            "text": "I like _, but _ is a hard limit!",
+            "pick": 2
+        },
+        {
+            "text": "Team _!",
+            "pick": 1
+        },
+        {
+            "text": "We went to a workshop on tantric _.",
+            "pick": 1
+        },
+        {
+            "text": "Thou shalt not_.",
+            "pick": 1
+        },
+        {
+            "text": "I am the King of _!",
+            "pick": 1
+        },
+        {
+            "text": "The only good _ is a dead _.",
+            "pick": 1
+        },
+        {
+            "text": "A vote for _ is a vote for _.",
+            "pick": 2
+        },
+        {
+            "text": "_ is the new _.",
+            "pick": 2
+        },
+        {
+            "text": "Bitches LOVE _!",
+            "pick": 1
+        },
+        {
+            "text": "This year's _ guest of honour is _.",
+            "pick": 2
+        },
+        {
+            "text": "This will be the greatest _con ever!",
+            "pick": 1
+        },
+        {
+            "text": "_ at last! _ at last! Thank God almighty, I'm _ at last! ",
+            "pick": 1
+        },
+        {
+            "text": "I have a dream that one day this nation will rise up and live out the true meaning of its creed:",
+            "pick": 1
+        },
+        {
+            "text": "These are my minions of _!",
+            "pick": 1
+        }
+    ],
+    "white_cards": [
+        "Badger badger badger badger badger...",
+        "Candy Mountain.",
+        "Pewdiepie.",
+        "Black Mesa.",
+        "Linux.",
+        "Unix.",
+        "My ANUS is bleeding!",
+        "My spoon is too big.",
+        "Godwin's law.",
+        "Nope! Chuck Testa.",
+        "Pedo-bear.",
+        "Honey badger.",
+        "Morgan Freeman",
+        "Inconceivable!!",
+        "The Holy Grail",
+        "Camelot",
+        "The machine that goes \"Ping!\"",
+        "A herring!",
+        "Groovy",
+        "A shrubbery!",
+        "The Necronomiconexmortis",
+        "We're coming to get you, Barbara!",
+        "My boomstick",
+        "S-Mart",
+        "Good Ash",
+        "Evil Ash",
+        "A REALLY cool cape and tights",
+        "Content.",
+        "Pissing in the suit",
+        "Getting caught between Green Lantern creating an anvil and Sinestro creating a hammer.",
+        "Getting caught in Spiderman's sticky, sticky... web.",
+        "Outrunning The Flash!",
+        "The Batmobile!",
+        "Being tied up with Wonder Woman's Magic Lasso.",
+        "SHAZAM!",
+        "The Tick.",
+        "Wonder Woman's invisible chopper",
+        "Wood for sheep.",
+        "All your base.",
+        "An arrow to the knee.",
+        "GLaDOS's cake recipe.",
+        "Head Crabs.",
+        "Gordon Freeman.",
+        "The Umbrella Corporation.",
+        "A bigger, blacker deck",
+        "The Necronomicon",
+        "Fruit flies",
+        "Fruit bat",
+        "Traumatic insemination",
+        "Bagpipes",
+        "The Metal!",
+        "All the ass in the world!",
+        "Anti-Matter Chopsticks",
+        "Groinal Exploder",
+        "Shiny!",
+        "River Tam",
+        "Browncoats",
+        "Getting raped to death by reavers",
+        "I'll be in my bunk!",
+        "The Alliance",
+        "Honey Boo Boo",
+        "Snookie",
+        "Mutton Vindaloo Beast",
+        "Like a boss!",
+        "Talkie Toaster",
+        "Queeg 500",
+        "Athlete's Hand",
+        "Droid Rot",
+        "Iocane powder",
+        "To the pain",
+        "Damn dirty ape",
+        "The Orgazmorator",
+        "Festively plump",
+        "Cowboys from Hell",
+        "Mecha-Streisand",
+        "Ants in the Pants",
+        "Lice",
+        "Cake",
+        "A gang of bikers",
+        "Soggy biscuit",
+        "Rough trade",
+        "The walk of shame",
+        "A tantrum",
+        "Locusts",
+        "No pants",
+        "Prehensile nipples",
+        "Cultural misappropriation",
+        "Rape culture",
+        "Wal-Mart",
+        "Fifi the dancing poodle"
+    ]
+}

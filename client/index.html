@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Typescript Against Humanity</title>
+
+	<link rel="stylesheet" href="/css/toastr.min.css">
+	<link rel="stylesheet" href="/css/bootstrap.min.css">
+
+	<script src="/socket.io/socket.io.js"></script>
+	<script src="/js/jquery-3.6.0.min.js"></script>
+	<script src="/js/toastr.min.js"></script>
+	<script src="/js/popper.min.js"></script>
+	<script src="/js/bootstrap.min.js"></script>
+
+	<script src="/js/message_handler.js"></script>
+
+	<script>
+		Array.prototype.remove = function () {
+			var what, a = arguments, L = a.length, ax;
+			while (L && this.length) {
+				what = a[--L];
+				while ((ax = this.indexOf(what)) !== -1) {
+					this.splice(ax, 1);
+				}
+			}
+			return this;
+		};
+	</script>
+
+	<script>
+		const socket = io();
+
+		var gameConfig = null;
+
+		socket.on("message", function (message, content) {
+			console.log(message);
+			console.log(content);
+
+			switch (message) {
+				case "message":
+					handleMessage(content);
+					break;
+
+				case "state":
+					handleState(content);
+					break;
+
+				case "client_settings":
+					gameConfig = content;
+					console.debug("Recived settings");
+					console.debug(gameConfig);
+					break;
+
+				default:
+					console.warn("invalid packet: " + message);
+					break;
+			}
+		});
+
+		function joinGame(uuid) {
+			socket.send("join_game", {
+				uuid: uuid
+			});
+		}
+
+		function handleState(state) {
+			console.log("received state change");
+			console.log(state);
+
+			/* ===== Setup table rows ===== */
+			let foundGames = [];
+
+			$(".game-tr").each(function () {
+				let uuid = $(this).data("game-id");
+
+				foundGames.push(uuid);
+			});
+
+			console.log(foundGames);
+
+			for (let i = 0; i < state.games.length; i++) {
+				let game = state.games[i];
+
+				console.log("foundGames.includes(game.uuid) " + game.uuid + " : " + foundGames.includes(game.uuid));
+
+				if (foundGames.includes(game.uuid)) {
+					foundGames.remove(game.uuid);
+				} else {
+					console.debug("Creating tr for game " + game.uuid);
+
+					let newElement = $("#game_tr_template").clone();
+					newElement.removeAttr("id");
+					newElement.addClass("game-tr");
+					newElement.attr("data-game-id", game.uuid);
+
+					newElement.find(".td-game-name").text(game.name);
+
+					newElement.find(".join-game-button").on("click", function () {
+						let uuid = $(this).parent().parent().data("game-id");
+						console.debug("Attempting to join game " + uuid);
+						joinGame(uuid);
+					});
+
+					console.log(newElement);
+
+					$("#game_table_rows").prepend(newElement);
+				}
+			}
+
+			$(".game-tr").each(function () {
+				let uuid = $(this).data("game-id");
+
+				if (foundGames.includes(uuid)) {
+					$(this).remove();
+				}
+			});
+
+			/* ===== Update rows ===== */
+			for (let i = 0; i < state.games.length; i++) {
+				let game = state.games[i];
+
+				$(".game-tr").each(function () {
+					let uuid = $(this).data("game-id");
+
+					if (game.uuid == uuid) {
+						$(this).find(".td-game-player-count").text(game.players.length + " / " + gameConfig.maxPlayersPerGame + " Players")
+					}
+				});
+			}
+		}
+
+		$(function () {
+			$("#btn_createGame").on("click", function () {
+				let gameName = $("#tbx_careateGameName").val();
+
+				if (gameName.length == 0) {
+					toastr.error("Please provide a name for the game");
+					return;
+				}
+
+				if (gameName.length > gameConfig.maxGameNameLength) {
+					toastr.error("The name cant be over " + gameConfig.maxGameNameLength + " characters");
+					return;
+				}
+
+				socket.send("create_game", {
+					game_name: gameName
+				});
+			});
+		});
+
+	</script>
+</head>
+
+<body>
+	<nav class="navbar navbar-dark bg-dark">
+		<div class="container-md">
+			<a class="navbar-brand" href="#">Typescript Against Humanity</a>
+		</div>
+	</nav>
+
+
+
+
+	<div class="d-none">
+		<table>
+			<tbody>
+				<tr id="game_tr_template" data-game-id="00000000-0000-0000-0000-000000000000">
+					<td class="td-game-name">NAME</td>
+					<td class="td-game-expansions">Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic aliquid
+						tenetur, eos fugiat vel sapiente omnis voluptates temporibus, debitis explicabo cum ad.
+						Laboriosam, assumenda expedita. Vero tempore quaerat sit tempora.</td>
+					<td class="td-game-player-count">0 / 0 Players</td>
+					<td>
+						<button type="button" class="btn btn-primary float-end join-game-button">Join game</button>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+
+
+
+	<div id="game-browser">
+		<div class="container">
+			<div class="row">
+				<div class="col">
+					<h3>Create game</h3>
+				</div>
+			</div>
+
+			<div class="row mb-4">
+				<div class="col-auto">
+					<input type="text" class="form-control" placeholder="Game name" id="tbx_careateGameName">
+				</div>
+
+				<div class="col-auto">
+					<button id="btn_createGame" class="btn btn-primary">Create game</button>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col">
+					<h3>Join game</h3>
+					<table class="table table-striped table-hover">
+						<thead>
+							<tr>
+								<th>Name</th>
+								<th>Set</th>
+								<th>Players</th>
+								<th></th>
+							</tr>
+						</thead>
+
+						<tbody id="game_table_rows"></tbody>
+					</table>
+				</div>
+			</div>
+		</div>
+
+	</div>
+
+
+</body>
+
+</html>

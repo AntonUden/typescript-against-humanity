@@ -1,0 +1,585 @@
+{
+    "source": 0,
+    "order": 46,
+    "filename": "c-northernlion",
+    "name": "[C] Northernlion",
+    "black_cards": [
+        {
+            "text": "Best game of 2013? _, of course.",
+            "pick": 1
+        },
+        {
+            "text": "How do you get your dog to stop humping your leg?",
+            "pick": 1
+        },
+        {
+            "text": "_ sounds like a great alternative rock band.",
+            "pick": 1
+        },
+        {
+            "text": "_. Everything else is uncivilized.",
+            "pick": 1
+        },
+        {
+            "text": "_? It's a DLC item.",
+            "pick": 1
+        },
+        {
+            "text": "Oh god, I can't believe we ate _ at PAX.",
+            "pick": 1
+        },
+        {
+            "text": "Only in Korea can you see _.",
+            "pick": 1
+        },
+        {
+            "text": "The Holy Trinity: _, _, and _!",
+            "pick": 3
+        },
+        {
+            "text": "When I was a kid, all we had in Lunchables were three _ and _.",
+            "pick": 2
+        },
+        {
+            "text": "On its last dying breath, _ sent out a cry for help. A bunch of _ heard the cry.",
+            "pick": 2
+        },
+        {
+            "text": "_ caused Northernlion to take stupid damage.",
+            "pick": 1
+        },
+        {
+            "text": "_ Is the best item in The Binding of Isaac.",
+            "pick": 1
+        },
+        {
+            "text": "Everything's coming up _.",
+            "pick": 1
+        },
+        {
+            "text": "Even _ is/are better at video games than Northernlion.",
+            "pick": 1
+        },
+        {
+            "text": "But that _ has sailed.",
+            "pick": 1
+        },
+        {
+            "text": "Get in my _ zone.",
+            "pick": 1
+        },
+        {
+            "text": "Fuck the haters, this is _.",
+            "pick": 1
+        },
+        {
+            "text": "Finding something like _ would turn this run around.",
+            "pick": 1
+        },
+        {
+            "text": "_: The Northernlion Story.",
+            "pick": 1
+        },
+        {
+            "text": "_ is/are Northernlion's worst nightmare.",
+            "pick": 1
+        },
+        {
+            "text": "_ is the worst item in The Binding of Isaac.",
+            "pick": 1
+        },
+        {
+            "text": "As always, I will _ you next time!",
+            "pick": 1
+        },
+        {
+            "text": "\"Hey everybody and welcome to Let's Look At _!\"",
+            "pick": 1
+        },
+        {
+            "text": "_? Well, I won't look a gift horse in the mouth on that one.",
+            "pick": 1
+        },
+        {
+            "text": "More like the Duke of _, right?",
+            "pick": 1
+        },
+        {
+            "text": "No one man should have all that _.",
+            "pick": 1
+        },
+        {
+            "text": "Let's Look At: _.",
+            "pick": 1
+        },
+        {
+            "text": "Northernlion's latest novelty Twitter account is @_.",
+            "pick": 1
+        },
+        {
+            "text": "Northernlion's refusal to Let's Play _ was probably a good call.",
+            "pick": 1
+        },
+        {
+            "text": "Of all the things that Ryan and Josh have in common, they bond together through their mutual love of _.",
+            "pick": 1
+        },
+        {
+            "text": "Northernlion has been facing ridicule for calling _ a rogue-like.",
+            "pick": 1
+        },
+        {
+            "text": "Northernlion always forgets the name of _.",
+            "pick": 1
+        },
+        {
+            "text": "I'm in the permanent _ state.",
+            "pick": 1
+        },
+        {
+            "text": "If sloth _ are wrong I don't want to be right.",
+            "pick": 1
+        },
+        {
+            "text": "I can do _ and die immediately afterward.",
+            "pick": 1
+        },
+        {
+            "text": "I don't even see _ anymore; all I see are blondes, brunettes, redheads...",
+            "pick": 1
+        },
+        {
+            "text": "JSmithOTI: Total _.",
+            "pick": 1
+        },
+        {
+            "text": "Legend has it, the Thug of Porn was arrested for _.",
+            "pick": 1
+        },
+        {
+            "text": "Invaded the world of _.",
+            "pick": 1
+        },
+        {
+            "text": "It's _, ya dangus!",
+            "pick": 1
+        },
+        {
+            "text": "Whenever I _, take a drink.",
+            "pick": 1
+        },
+        {
+            "text": "We're rolling in _!",
+            "pick": 1
+        },
+        {
+            "text": "_ was full of leeches.",
+            "pick": 1
+        },
+        {
+            "text": "What do you give to the CEO of Youtube as a gift?",
+            "pick": 1
+        },
+        {
+            "text": "Dang it, _!",
+            "pick": 1
+        },
+        {
+            "text": "Today's trivia topic is _.",
+            "pick": 1
+        },
+        {
+            "text": "My apologies to the _ estate.",
+            "pick": 1
+        },
+        {
+            "text": "The Youtube chat proved ineffective, so instead we had to communicate via _.",
+            "pick": 1
+        },
+        {
+            "text": "Pimp your _!",
+            "pick": 1
+        },
+        {
+            "text": "The stream was going well until _.",
+            "pick": 1
+        },
+        {
+            "text": "Travel by _.",
+            "pick": 1
+        },
+        {
+            "text": "This new game is an interesting _-like-like.",
+            "pick": 1
+        },
+        {
+            "text": "What interrupted the #NLSS?",
+            "pick": 1
+        },
+        {
+            "text": "Say that to my face one more time and I'll start _.",
+            "pick": 1
+        },
+        {
+            "text": "Roguelike? How about _-like.",
+            "pick": 1
+        },
+        {
+            "text": "The stream broke when Ryuka stepped on the _ key.",
+            "pick": 1
+        },
+        {
+            "text": "Recently, Northernlion has felt woefully insecure due to _.",
+            "pick": 1
+        },
+        {
+            "text": "Krazy Mike lost to _!",
+            "pick": 1
+        },
+        {
+            "text": "The hero of the stream was _.",
+            "pick": 1
+        },
+        {
+            "text": "Oh my god, he's using _ magic!",
+            "pick": 1
+        },
+        {
+            "text": "Sometimes, a man's just gotta _.",
+            "pick": 1
+        },
+        {
+            "text": "_ has invaded!",
+            "pick": 1
+        },
+        {
+            "text": "One thing Northernlion was right about was _.",
+            "pick": 1
+        },
+        {
+            "text": "What would you do if Ohm really did just die?",
+            "pick": 1
+        },
+        {
+            "text": "JSmithOTI is referred to as a Scumlord, but his friends call him _.",
+            "pick": 1
+        },
+        {
+            "text": "Praise the _!",
+            "pick": 1
+        },
+        {
+            "text": "We're having technical difficulties due to _.",
+            "pick": 1
+        },
+        {
+            "text": "I beat Blue Baby with only _ and _!",
+            "pick": 2
+        },
+        {
+            "text": "Northernlion has alienated fans of _ by calling them _.",
+            "pick": 2
+        },
+        {
+            "text": "Northernlion was fired from his teaching job and had to flee South Korea after an incident involving _ and _.",
+            "pick": 2
+        },
+        {
+            "text": "Northernlion's doctor diagnosed him today with _, an unfortunate condition that would lead to _.",
+            "pick": 2
+        },
+        {
+            "text": "_ was indicted on account of _.",
+            "pick": 2
+        },
+        {
+            "text": "_: The _ Story.",
+            "pick": 2
+        },
+        {
+            "text": "And now we're going to be fighting _ on _.",
+            "pick": 2
+        },
+        {
+            "text": "Hello everybody, welcome to a new episode of _ plays _.",
+            "pick": 2
+        },
+        {
+            "text": "I'd sacrifice _ at the Altar.",
+            "pick": 1
+        },
+        {
+            "text": "Fox would still be here if not for _.",
+            "pick": 1
+        },
+        {
+            "text": "I wasn't even that drunk! I just had some _, _, and _.",
+            "pick": 3
+        },
+        {
+            "text": "The only way NL is ever going to make it to Hell in Spelunky is by using _.",
+            "pick": 1
+        },
+        {
+            "text": "Welcome back to The Binding of Isaac. Today's challenge run will be based on _.",
+            "pick": 1
+        },
+        {
+            "text": "Well there's nothing wrong with _ by any stretch of the imagination.",
+            "pick": 1
+        },
+        {
+            "text": "This time on _ vs. _, we're playing _.",
+            "pick": 3
+        },
+        {
+            "text": "After winning yet another race, Josh made _ tweet about _.",
+            "pick": 2
+        },
+        {
+            "text": "Today on Crusader Kings 2, NL plays King _ the _.",
+            "pick": 2
+        },
+        {
+            "text": "That's the way _ did it, that's the way _ does it, and it''s worked out pretty well so far.",
+            "pick": 2
+        },
+        {
+            "text": "After Mars, _ is the next furthest planet from the sun.",
+            "pick": 1
+        },
+        {
+            "text": "What would Ohm do?",
+            "pick": 1
+        },
+        {
+            "text": "Ohmwrecker is known for his MLG online play. What people don't know is that he's also MLG at _.",
+            "pick": 1
+        },
+        {
+            "text": "Follow MichaelALFox on Twitter and you can see pictures of _.",
+            "pick": 1
+        },
+        {
+            "text": "Green loves the new Paranautical Activity item _, but keeps comparing it to the crossbow.",
+            "pick": 1
+        },
+        {
+            "text": "_ is really essential to completing the game.",
+            "pick": 1
+        },
+        {
+            "text": "The next movie reading will be of _.",
+            "pick": 1
+        },
+        {
+            "text": "How did Northernlion unite Scotland?",
+            "pick": 1
+        },
+        {
+            "text": "What gave Ohmwrecker his gaming powers?",
+            "pick": 1
+        },
+        {
+            "text": "Hello anybody, I am _Patrol.",
+            "pick": 1
+        },
+        {
+            "text": "My channel is youtube.com/_.",
+            "pick": 1
+        },
+        {
+            "text": "Northernlion's cat Ryuka is known for _ while he records.",
+            "pick": 1
+        },
+        {
+            "text": "My name is _ and today we'll be checking out _.",
+            "pick": 2
+        },
+        {
+            "text": "It's true that Green9090 is _, but we must all admit that Ohm is better at _",
+            "pick": 2
+        },
+        {
+            "text": "I have _, can you _ me?",
+            "pick": 2
+        },
+        {
+            "text": "_! Get off the _!",
+            "pick": 2
+        }
+    ],
+    "white_cards": [
+        "Sex.",
+        "Reddit.",
+        "Novelty Twitter accounts.",
+        "Olmec.",
+        "Type-C Tetris music.",
+        "YouTube.",
+        "South Korea.",
+        "A big wet pink laser sword.",
+        "A brief moment of aptitude.",
+        "John Madden.",
+        "Maple syrup.",
+        "A mile-long penis.",
+        "Lara Croft.",
+        "A delicious baby.",
+        "A butt egg.",
+        "A street cleaning simulator.",
+        "DOTA 2.",
+        "#Krazymike.",
+        "A Bane impression.",
+        "Steven Docking.",
+        "/r/Letsplay.",
+        "/r/sloths.",
+        "Getting wood.",
+        "Getting corner fucked.",
+        "Harry Potter and the Chamber of a Salty Surprise.",
+        "Greed.",
+        "Infomercials.",
+        "Hookers, blow, and JSmithOTI.",
+        "JSmithOTI.",
+        "Eyeless ooze guys.",
+        "Ohm, our god.",
+        "Excuse me?",
+        "RedPandaGamer.",
+        "Fat Robert Downey Jr.",
+        "#MikeBithell.",
+        "Falling down the stairs with a bag full of glass.",
+        "Green9090.",
+        "Fuck tables.",
+        "Zen.",
+        "Feline eugenics.",
+        "AlpacaPatrol.",
+        "Garglebutts.",
+        "Travelling by bones.",
+        "Fucking during a Diphtheria epidemic.",
+        "Childlike bukakke.",
+        "Losing to Quelaag 12 times in 72 minutes.",
+        "A water supply full of leeches.",
+        "JSmith's laundry.",
+        "Michael Caine's spider collection.",
+        "Mount Your Friends: Docking Edition.",
+        "Michaelalfox.",
+        "Ryuka.",
+        "Michaelalfox's love of cheese.",
+        "The blue candle.",
+        "Michaelalfox's muscles.",
+        "Ohmsdrawings.tumblr.com.",
+        "Soul level 1 invasions.",
+        "Milking the poop for red hearts.",
+        "youtube.com/Ohmwrecker.",
+        "Kate's Mario Party skills.",
+        "Drinkable fire.",
+        "Krazy Mike doing a backflip, throwing a talking nut, and chanting \"Hello!\"",
+        "This cat, I swear to god.",
+        "Using the tears of an abused toddler to conquer my foes.",
+        "Krazy Mike.",
+        "Ohmwrecker.",
+        "Up in the air like a George Clooney movie.",
+        "Like you, but not rogue-like you.",
+        "A lemon mishap.",
+        "Losing to Monstro after 300 hours of experience.",
+        "Josh's washing machine.",
+        "The backroom casting couch.",
+        "Dang it, Bobby!",
+        "The fuck zone.",
+        "Bejeweed.",
+        "Being terrible at games.",
+        "Beating it on camera.",
+        "Anything from http://www.thenorthernlionstory.com/.",
+        "BOOYAH!",
+        "Blue Baby.",
+        "Blondes, brunettes, and redheads.",
+        "Big Hat Logan.",
+        "A butt pooping upwards an egg.",
+        "A bunch of jabronies.",
+        "An old man carrying a box of glass down stairs.",
+        "A little bit of added defense.",
+        "A docking sleeve.",
+        "Dark holes.",
+        "Detroit Dock City.",
+        "Crazy Mike.",
+        "Cross-dimensional fucking.",
+        "Dung pies.",
+        "Dying in a hang gliding accident. ",
+        "Docking.",
+        "DockLeeSmile.",
+        "Butt meat.",
+        "Checking the wiki.",
+        "Bow to your sensei!",
+        "Brimstone.",
+        "Coming on Milhouse.",
+        "Corner fucking.",
+        "Cheeseysaurus Rex.",
+        "Classic Northernlion.",
+        "#ShotsFired.",
+        "JSmith's salty nuts.",
+        "Butterjail.",
+        "Banana bread.",
+        "A DraculaFetus animation.",
+        "A profile pic that looks like a dick and balls.",
+        "Spy Party racism.",
+        "The ghost of Ohmwrecker.",
+        "Shooting the black guy.",
+        "Ohm's mindgames.",
+        "Magic: The Gathering.",
+        "A failed challenge run.",
+        "A beef swarm.",
+        "Setting the world on fire.",
+        "Pot magic.",
+        "Rogue-like likes.",
+        "RockLeeSmile.",
+        "Ronald McDonald.",
+        "Roll Fizzlebeef.",
+        "Shit happens.",
+        "Solaire of Astora.",
+        "Shooting the poop.",
+        "Pretending youtube let's playing is a real job.",
+        "Poutine-induced diabetes.",
+        "Putting your balls in her butt.",
+        "Projectile annoyance.",
+        "Quelaag's Furysword.",
+        "Puzzle platformers with rogue-like elements.",
+        "Residue.",
+        "Northernlion's coffee maker.",
+        "Northernlion's hair.",
+        "Northernlion's pooping album.",
+        "Not Satan, I promise.",
+        "Permanent Polaroid invincibility.",
+        "Poison Mushroom.",
+        "Mom's knife.",
+        "Mom's pad.",
+        "Monty.",
+        "A motherfucker.",
+        "Motherfucking.",
+        "Nipple hair.",
+        "Northernlion.",
+        "Northernlion's cancelled Assassin's Creed II let's play.",
+        "Striking fear into the hearts of your enemies.",
+        "A total scumbag.",
+        "The Ozymandias head.",
+        "Talking nuts.",
+        "That damned HDPVR.",
+        "The Thug of Porn.",
+        "The World Docking Champion.",
+        "The Four Horsemen of The Apocolypse.",
+        "Well, what is it?",
+        "Patrick Dempsey thrusting violently into my midsection.",
+        "The NLSS: drawing unwanted attention from the actual docking community.",
+        "The USS Buttfucker.",
+        "Vaginal silk worms.",
+        "Thornforg.",
+        "When you fuck a dog in the ass and it shits all over your dick.",
+        "The saga of Krazy Mike.",
+        "A urination break.",
+        "The Anor Londo Archers.",
+        "Stupid damage.",
+        "A tactical backflip.",
+        "Stream lag.",
+        "The notorious Grey's Anatomy let's play.",
+        "The Binding of Isaac wiki.",
+        "The Northernlion Story.",
+        "Whispering sweet nothings into your rear."
+    ]
+}

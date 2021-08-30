@@ -1,0 +1,283 @@
+{
+    "source": 0,
+    "order": 40,
+    "filename": "c-imgur",
+    "name": "[C] Imgur",
+    "black_cards": [
+        {
+            "text": "That was more awkward than _.",
+            "pick": 1
+        },
+        {
+            "text": "Boardgame Online is more fun than _.",
+            "pick": 1
+        },
+        {
+            "text": "I hate My Little Pony more than _ hates _.",
+            "pick": 2
+        },
+        {
+            "text": "I love My Little Pony more than _ loves _.",
+            "pick": 2
+        },
+        {
+            "text": "Cat gifs are cuter than _. ",
+            "pick": 1
+        },
+        {
+            "text": "If it fits, I _. ",
+            "pick": 1
+        },
+        {
+            "text": "_. My moon and my stars. ",
+            "pick": 1
+        },
+        {
+            "text": "A _ always pays his debts. ",
+            "pick": 1
+        },
+        {
+            "text": "My ovaries just exploded because of _. ",
+            "pick": 1
+        },
+        {
+            "text": "Chewie, _ it!",
+            "pick": 1
+        },
+        {
+            "text": "Steven Moffat has no _. ",
+            "pick": 1
+        },
+        {
+            "text": "Dobby is _!!",
+            "pick": 1
+        },
+        {
+            "text": "_ for temperature. ",
+            "pick": 1
+        },
+        {
+            "text": "I always _ ass - razor1000.",
+            "pick": 1
+        },
+        {
+            "text": "I got _ to the frontpage ",
+            "pick": 1
+        },
+        {
+            "text": "Not asking for upvotes but _.",
+            "pick": 1
+        },
+        {
+            "text": "Not sure if Imgur reference or _.",
+            "pick": 1
+        },
+        {
+            "text": "ERMAGERD! _.",
+            "pick": 1
+        },
+        {
+            "text": "Press 0 twice for _.",
+            "pick": 1
+        },
+        {
+            "text": "Having a bit of fun with the new _.",
+            "pick": 1
+        },
+        {
+            "text": "I know this is a selfie but _.",
+            "pick": 1
+        },
+        {
+            "text": "I know this is going to get downvoted to hell but _.",
+            "pick": 1
+        },
+        {
+            "text": "If you could stop _, that'd be greeeeattt. ",
+            "pick": 1
+        },
+        {
+            "text": "Imgur: where the points don't matter and the _ is made up.",
+            "pick": 1
+        },
+        {
+            "text": "If _ happens because of _, I will eat my socks.",
+            "pick": 2
+        },
+        {
+            "text": "Put that _ back where it came from or so help me.",
+            "pick": 1
+        },
+        {
+            "text": "No, no, you leave _. We no like you.",
+            "pick": 1
+        },
+        {
+            "text": "FOR _!!!!",
+            "pick": 1
+        },
+        {
+            "text": "Confession Bear: When I was 6, I _ on my _.",
+            "pick": 2
+        },
+        {
+            "text": "Actual Advice Mallard: Always _.",
+            "pick": 1
+        },
+        {
+            "text": "Yer a wizard _",
+            "pick": 1
+        },
+        {
+            "text": "Am I the only one around here who _?",
+            "pick": 1
+        },
+        {
+            "text": "_. Forever Alone.",
+            "pick": 1
+        },
+        {
+            "text": "_. TOO SAD AND TOO TINY!",
+            "pick": 1
+        },
+        {
+            "text": "For every upvote I will _.",
+            "pick": 1
+        },
+        {
+            "text": "_. Awkward boner. ",
+            "pick": 1
+        },
+        {
+            "text": "You know nothing _.",
+            "pick": 1
+        },
+        {
+            "text": "Most of the time you can only fit one_ in there.",
+            "pick": 1
+        },
+        {
+            "text": "I've never seen anyone so _ while _.",
+            "pick": 2
+        },
+        {
+            "text": "OH MY GOD _. ARE YOU FUCKING KIDDING ME!?",
+            "pick": 1
+        },
+        {
+            "text": "SAY GOODBYE TO_.",
+            "pick": 1
+        },
+        {
+            "text": "+1 for _.",
+            "pick": 1
+        },
+        {
+            "text": "I don't always _. But when I do_..",
+            "pick": 2
+        },
+        {
+            "text": "That _ tasted so bad, I needed a Jolly Rancher. ",
+            "pick": 1
+        },
+        {
+            "text": "Any love for _?",
+            "pick": 1
+        },
+        {
+            "text": "The _ for this _ is TOO DAMN HIGH. ",
+            "pick": 2
+        },
+        {
+            "text": "France is _",
+            "pick": 1
+        },
+        {
+            "text": "When I found _ in usersubmitted, I was flabbergasted. ",
+            "pick": 1
+        },
+        {
+            "text": "Justin Bieber is a _.",
+            "pick": 1
+        },
+        {
+            "text": "A hipster needs a _ as much as a fish needs a _.",
+            "pick": 2
+        },
+        {
+            "text": "I love bacon as much as _ loves _.",
+            "pick": 2
+        },
+        {
+            "text": "In Japan, _ is the new sexual trend.",
+            "pick": 1
+        },
+        {
+            "text": "I am a leaf on the _.",
+            "pick": 1
+        },
+        {
+            "text": "I have a bad feeling about _.",
+            "pick": 1
+        },
+        {
+            "text": "Weasley is our _.",
+            "pick": 1
+        },
+        {
+            "text": "Are you my _?",
+            "pick": 1
+        }
+    ],
+    "white_cards": [
+        "Ewoks.",
+        "#SOCKS.",
+        "OP Delivers.",
+        "Expelliarmus!",
+        "Hagrid.",
+        "Buckbeak.",
+        "Luke Skywalker making out with his sister, Leia.",
+        "Sonic Screwdriver. ",
+        "Chak's homemade maple bacon jam.",
+        "Moisturize me.",
+        "Mummy.",
+        "Demonstrating how to properly put on a condom using a cucumber as substitute for a penis.",
+        "Katie the Cock Cozy.",
+        "NobodySaysThis.",
+        "Nargles.",
+        "Annie's boobs.",
+        "An overpriced cup of coffee.",
+        "This was a grave mistake.",
+        "ANUSTART.",
+        "Imgurgiraffe.",
+        "Edward Macaroni Fork.",
+        "Lechuga.",
+        "Not since the accident.",
+        "Theon Greyjoy's dismembered member.",
+        "Ass.",
+        "Erotic fiction featuring Snape and Hermione.",
+        "Bacon.",
+        "Potato. ",
+        "Tard.",
+        "Nevernudes.",
+        "STEVE HOLT.",
+        "Cousin Maeby.",
+        "BAZINGA!",
+        "Troy and Abed.",
+        "MOON MOON.",
+        "Juan.",
+        "Sir Patrick Stewart.",
+        "Banana.",
+        "Read me 10 for all coffee.",
+        "Oh look! A cat!",
+        "I am not a clever man.",
+        "Tesla.",
+        "Jon Snow.",
+        "11.",
+        "BOOM! Pregnant.",
+        "9.",
+        "10.",
+        "Nathan Fillion.",
+        "Felica Day."
+    ]
+}
