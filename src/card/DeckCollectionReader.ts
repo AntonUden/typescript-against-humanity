@@ -16,7 +16,7 @@ export class DeckCollectionReader {
 			let setData: any = sets[i];
 
 			let name = setData.name;
-			let displayName = setData.displayName;
+			let displayName = setData.display_name;
 			let description = setData.description;
 
 			let decks: Deck[] = DeckCollectionReader.readFolder("./decks/" + name + "/");

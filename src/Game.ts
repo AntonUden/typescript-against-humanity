@@ -89,6 +89,18 @@ export class Game {
 		}
 	}
 
+	isHost(user: User): boolean {
+		return this.getHostUUID() == user.getUUID();
+	}
+
+	getHostUUID(): string | null {
+		if (this.players.length > 0) {
+			return this.players[0].getUUID();
+		}
+
+		return null;
+	}
+
 	getGameState(): GameState {
 		return this.gameState;
 	}
@@ -102,7 +114,30 @@ export class Game {
 		return this.players;
 	}
 
+	hasDeck(deck: Deck): boolean {
+		for (let i = 0; i < this.decks.length; i++) {
+			if (this.decks[i].getName() == deck.getName()) {
+				return true;
+			}
+		}
+
+		return false;
+	}
+
+	removeDeck(deck: Deck) {
+		for (let i = 0; i < this.decks.length; i++) {
+			if (this.decks[i].getName() == deck.getName()) {
+				this.decks.splice(i, 1);
+				break;
+			}
+		}
+	}
+
+	addDeck(deck: Deck) {
+		this.decks.push(deck);
+	}
+
 	getDecks(): Deck[] {
-		return  this.decks;
+		return this.decks;
 	}
 }

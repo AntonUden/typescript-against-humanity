@@ -1,11 +1,11 @@
 import { Deck } from "./Deck";
 
 export class DeckCollection {
-	private name: string;
-	private displayName: string;
-	private description: string;
+	public name: string;
+	public displayName: string;
+	public description: string;
 
-	private decks: Deck[];
+	public decks: Deck[];
 
 	constructor(name: string, displayName: string, description: string, decks: Deck[]) {
 		this.name = name;

@@ -31,208 +31,18 @@
 		};
 	</script>
 
-	<script>
-		const socket = io();
-
-		var gameConfig = null;
-		var ready = false;
-
-		socket.on("message", function (message, content) {
-			console.debug(message);
-			console.debug(content);
-
-			switch (message) {
-				case "message":
-					handleMessage(content);
-					break;
-
-				case "state":
-					handleState(content);
-					break;
-
-				case "client_settings":
-					gameConfig = content;
-					ready = true;
-					break;
-
-				default:
-					console.warn("invalid packet: " + message);
-					break;
-			}
-		});
-
-		function getDeck(name) {
-			let result = null;
-
-			gameConfig.deckCollections.forEach((deckCollection) => {
-				deckCollection.decks.forEach((deck) => {
-					if (deck.name == name) {
-						result = deck;
-					}
-				});
-			});
-
-			return result;
-		}
-
-		function joinGame(uuid) {
-			socket.send("join_game", {
-				uuid: uuid
-			});
-		}
-
-		function handleState(state) {
-			if (!ready) {
-				console.log("ignoring handleState() since we are not ready");
-				return;
-			}
-
-			console.log("received state change");
-			console.log(state);
-
-			let activeGame = null;
-
-			if (state.active_game == null) {
-				$("#game_browser").show();
-				$("#game").hide();
-			} else {
-				$("#game").show();
-				$("#game_browser").hide();
-
-				state.games.forEach((game) => {
-					if (game.uuid == state.active_game) {
-						activeGame = game;
-					}
-				});
-			}
-
-
-			/* ===== Setup table rows ===== */
-			let foundGames = [];
-
-			$(".game-tr").each(function () {
-				let uuid = $(this).data("game-id");
-
-				foundGames.push(uuid);
-			});
-
-			console.log(foundGames);
-
-			for (let i = 0; i < state.games.length; i++) {
-				let game = state.games[i];
-
-				//console.log("foundGames.includes(game.uuid) " + game.uuid + " : " + foundGames.includes(game.uuid));
-
-				if (foundGames.includes(game.uuid)) {
-					foundGames.remove(game.uuid);
-				} else {
-					console.debug("Creating tr for game " + game.uuid);
-
-					let newElement = $("#game_tr_template").clone();
-					newElement.removeAttr("id");
-					newElement.addClass("game-tr");
-					newElement.attr("data-game-id", game.uuid);
-
-					newElement.find(".td-game-name").text(game.name);
-
-					newElement.find(".join-game-button").on("click", function () {
-						let uuid = $(this).parent().parent().data("game-id");
-						console.debug("Attempting to join game " + uuid);
-						joinGame(uuid);
-					});
-
-					console.log(newElement);
-
-					$("#game_table_rows").prepend(newElement);
-				}
-			}
-
-			$(".game-tr").each(function () {
-				let uuid = $(this).data("game-id");
-
-				if (foundGames.includes(uuid)) {
-					$(this).remove();
-				}
-			});
-
-			/* ===== Update rows ===== */
-			for (let i = 0; i < state.games.length; i++) {
-				let game = state.games[i];
-
-				$(".game-tr").each(function () {
-					let uuid = $(this).data("game-id");
-
-					if (game.uuid == uuid) {
-						$(this).find(".td-game-player-count").text(game.players.length + " / " + gameConfig.maxPlayersPerGame + " Players")
-						let decksString = game.decks.join(", ");
-
-						let expansions = "";
-
-						game.decks.forEach((deckName) => {
-							let deck = getDeck(deckName);
-
-							if (deck == null) {
-								expansions += "null, ";
-							} else {
-								expansions += deck.displayName + ", ";
-							}
-						});
-
-						if(expansions.length > 2) {
-							expansions = expansions.substring(0, expansions.length - 2)
-						}
-
-						$(this).find(".td-game-expansions").text(expansions)
-					}
-				});
-			}
-
-			/* ===== Active game ===== */
-			if (activeGame != null) {
-				$("#game_name").text(activeGame.name);
-				if (activeGame.state == 0) {
-					$("#waiting_for_host").show();
-				} else {
-					$("#waiting_for_host").hide();
-				}
-			}
-
-			console.log(activeGame);
-		}
-
-		$(function () {
-			$("#btn_createGame").on("click", function () {
-				let gameName = $("#tbx_careateGameName").val();
-
-				if (gameName.length == 0) {
-					toastr.error("Please provide a name for the game");
-					return;
-				}
-
-				if (gameName.length > gameConfig.maxGameNameLength) {
-					toastr.error("The name cant be over " + gameConfig.maxGameNameLength + " characters");
-					return;
-				}
-
-				socket.send("create_game", {
-					game_name: gameName
-				});
-			});
-		});
-
-	</script>
+	<script src="/js/game.js"></script>
 </head>
 
 <body>
+	<!-- Navbar -->
 	<nav class="navbar navbar-dark bg-dark">
 		<div class="container-md">
 			<a class="navbar-brand" href="#">Typescript Against Humanity</a>
 		</div>
 	</nav>
 
-
-
-
+	<!-- Templates -->
 	<div class="d-none">
 		<table>
 			<tbody>
@@ -247,12 +57,82 @@
 					</td>
 				</tr>
 			</tbody>
+
+			<tbody>
+				<tr id="lobby_player_template" data-player-id="00000000-0000-0000-0000-000000000000">
+					<td class="td-player-name"></td>
+				</tr>
+			</tbody>
 		</table>
+
+		<div class="form-check" id="expanstion_template">
+			<input class="form-check-input" type="checkbox" id="expanstion_template_checkbox">
+			<label class="form-check-label" for="expanstion_template_checkbox">
+				Example
+			</label>
+		</div>
+
+		<div id="deck_collection_template">
+			<hr>
+			<h4 class="collection-name">Collection name</h4>
+			<small>
+				<p class="collection-description">Lorem ipsum dolor sit amet consectetur adipisicing elit.
+					Nobis recusandae sequi esse porro natus quibusdam sapiente repellat laborum praesentium
+					assumenda. Velit deserunt asperiores fuga odit. Aut laborum laudantium ducimus esse?</p>
+			</small>
+		</div>
 	</div>
 
+
 	<div id="game">
-		<h2>In game: <span id="game_name"></span></h2>
-		<h3 id="waiting_for_host">Waiting for host to start</h3>
+		<div>
+			<h2>In game: <span id="game_name"></span></h2>
+		</div>
+
+		<div class="container-fluid" id="waiting_lobby">
+			<div class="row">
+				<div class="col">
+					<h3>Waiting for host to start</h3>
+				</div>
+			</div>
+
+			<div class="row" id="host_options">
+				<div class="col">
+					<button type="button" class="btn btn-primary" id="btn_select_expansions">Select expansions</button>
+					<button type="button" class="btn btn-primary" id="btn_select_expansions">Start game</button>
+				</div>
+			</div>
+
+			<div class="row mt-2">
+				<div class="col-4">
+					<h3>Players</h3>
+					<table class="table table-striped table-hover">
+						<thead>
+							<tr>
+								<th>Name</th>
+							</tr>
+						</thead>
+
+						<tbody id="players_tbody"></tbody>
+					</table>
+				</div>
+				<div class="col">
+					<h3>Expansions</h3>
+					<div id="game_expansions"></div>
+				</div>
+			</div>
+
+			<div class="row mt-2">
+				<div class="col">
+					<button type="button" class="btn btn-danger btn_leaveGame float-end">Leave game</button>
+				</div>
+			</div>
+		</div>
+
+
+
+
+
 	</div>
 
 	<div id="game_browser">
@@ -294,7 +174,25 @@
 
 	</div>
 
-
+	<!-- Modals -->
+	<div class="modal fade" id="selectExpansionsModal" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1"
+		aria-labelledby="selectExpansionsModalTitle" aria-hidden="true">
+		<div class="modal-dialog modal-lg">
+			<div class="modal-content">
+				<div class="modal-header">
+					<h5 class="modal-title" id="selectExpansionsModalTitle">Select expansions</h5>
+					<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+				</div>
+				<div class="modal-body">
+					<div id="expansions"></div>
+				</div>
+				<div class="modal-footer">
+					<button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+					<button type="button" class="btn btn-primary" id="btn_save_expansions">Save</button>
+				</div>
+			</div>
+		</div>
+	</div>
 </body>
 
 </html>

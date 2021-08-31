@@ -1,5 +1,6 @@
 
 import { Socket } from "socket.io";
+import { Deck } from "./card/Deck";
 import { JoinGameResponse } from "./enum/JoinGameResponse";
 import { MessageType } from "./enum/MessageType";
 import { Game } from "./Game";
@@ -31,7 +32,8 @@ export class User {
 			maxPlayersPerGame: this._server.settings.maxPlayersPerGame,
 			maxGameNameLength: this._server.settings.maxGameNameLength,
 			maxPlayerNameLength: this._server.settings.maxPlayerNameLength,
-			deckCollections: this._server.getDeckCollections()
+			deckCollections: this._server.getDeckCollections(),
+			uuid: this.getUUID()
 		}
 
 		socket.send("client_settings", clientSettings);
@@ -135,6 +137,69 @@ export class User {
 
 				break;
 
+			case "leave_game":
+				if (!this.isInGame()) {
+					console.log("[User] User " + this.uuid + " tried to leave a game while not in one");
+					this.sendMessage("You are not in a game", MessageType.WARNING);
+					return;
+				}
+
+				this.getGame().leaveGame(this);
+
+				this.sendMessage("You left the game", MessageType.INFO);
+				break;
+
+			case "set_game_expanstions":
+				if (content["expansions"] == undefined) {
+					console.warn("[User] Received set_game_expanstions without expansions from " + this.uuid);
+					return;
+				}
+
+				if (!this.isInGame()) {
+					console.warn("[User] User " + this.uuid + " tried to set expansions while not in a game");
+					this.sendMessage("You are not in a game", MessageType.WARNING);
+					return;
+				}
+
+				if (!this.getGame().isHost(this)) {
+					console.warn("[User] User " + this.uuid + " tried to set expansions while not being the host of the game");
+					this.sendMessage("You are not the host of this game", MessageType.ERROR);
+				}
+
+				console.debug(Object.entries(content["expansions"]));
+
+				for (let [key, value] of Object.entries(content["expansions"])) {
+					let name = key + "";
+					let enabled = (value + "" == "true");
+
+					console.debug(name + " " + enabled);
+
+					let deck: Deck | null = this._server.getDeck(name);
+
+					if (deck == null) {
+						console.warn("[User] User " + this.uuid + " tried to set the state of an invalid expansion");
+						continue;
+					}
+
+					let hasDeck: boolean = this.getGame().hasDeck(deck);
+
+					if (hasDeck) {
+						if (!enabled) {
+							console.log("[User] removing deck " + deck.getName());
+							this.getGame().removeDeck(deck);
+						}
+					} else {
+						if (enabled) {
+							console.log("[User] adding deck " + deck.getName());
+							this.getGame().addDeck(deck);
+						}
+					}
+
+					this._server.broadcastStateChange();
+				}
+
+				break;
+
 			default:
 				console.warn("[User] Invalid message received: " + message);
 				break;
@@ -180,12 +245,13 @@ export class User {
 				uuid: game.getUUID(),
 				name: game.getName(),
 				state: game.getGameState(),
+				host: game.getHostUUID(),
 				decks: decks,
 				players: players
 			};
 
-			if(this.isInGame()) {
-				if(this.getGame().getUUID() == game.getUUID()) {
+			if (this.isInGame()) {
+				if (this.getGame().getUUID() == game.getUUID()) {
 					let gameData: any = {
 
 					};

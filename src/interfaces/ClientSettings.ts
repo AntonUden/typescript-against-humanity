@@ -3,4 +3,5 @@ export interface ClientSettings {
 	maxGameNameLength: number;
 	maxPlayerNameLength: number;
 	deckCollections: any[];
+	uuid: string;
 }
