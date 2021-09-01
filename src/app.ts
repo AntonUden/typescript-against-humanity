@@ -8,5 +8,6 @@ const server = new Server({
 	port: parseInt(port),
 	maxPlayersPerGame: 10,
 	maxGameNameLength: 40,
-	maxPlayerNameLength: 40
+	maxPlayerNameLength: 40,
+	minCardsRequiredToStart: 10
 });

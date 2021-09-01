@@ -195,7 +195,7 @@ export class User {
 						}
 					}
 
-					this._server.broadcastStateChange();
+					this.getGame().sendFullUpdate();
 				}
 
 				break;
@@ -212,19 +212,13 @@ export class User {
 		}
 	}
 
-	sendGameState() {
-		let activeGame: string | null = null;
-
-		if (this.isInGame()) {
-			activeGame = this.getGame().getUUID();
-		}
-
+	sendGameList() {
 		let gameList: any[] = [];
 
 		for (let i: number = 0; i < this._server.getGames().length; i++) {
 			let game: Game = this._server.getGames()[i];
 
-			let players: any[] = [];
+			/*let players: any[] = [];
 			for (let j: number = 0; j < game.getPlayers().length; j++) {
 				let player: Player = game.getPlayers()[j];
 
@@ -233,7 +227,7 @@ export class User {
 					username: player.getUser().getUsername(),
 					score: player.getScore()
 				});
-			}
+			}*/
 
 			let decks: string[] = [];
 
@@ -245,27 +239,54 @@ export class User {
 				uuid: game.getUUID(),
 				name: game.getName(),
 				state: game.getGameState(),
-				host: game.getHostUUID(),
 				decks: decks,
-				players: players
+				player_count: game.getPlayers().length
 			};
-
-			if (this.isInGame()) {
-				if (this.getGame().getUUID() == game.getUUID()) {
-					let gameData: any = {
-
-					};
-
-					gameObject["data"] = gameData;
-				}
-			}
 
 			gameList.push(gameObject);
 		}
 
 		let state = {
-			active_game: activeGame,
 			games: gameList
+		}
+
+		this.socket.send("game_list", state);
+	}
+
+	sendActiveGameState() {
+		let activeGameData: any | null = null;
+
+		if (this.isInGame()) {
+			let game: Game = this.getGame();
+
+			let decks: string[] = [];
+
+			game.getDecks().forEach((deck) => {
+				decks.push(deck.getName());
+			});
+
+			let players: any[] = [];
+
+			game.getPlayers().forEach((player) => {
+				players.push({
+					uuid: player.getUUID(),
+					username: player.getUser().getUsername(),
+					score: player.getScore()
+				});
+			});
+
+			activeGameData = {
+				uuid: game.getUUID(),
+				name: game.getName(),
+				state: game.getGameState(),
+				decks: decks,
+				host: game.getHostUUID(),
+				players: players
+			};
+		}
+
+		let state = {
+			active_game: activeGameData
 		}
 
 		this.socket.send("state", state);

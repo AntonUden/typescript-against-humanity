@@ -3,4 +3,5 @@ export interface Settings {
 	maxPlayersPerGame: number;
 	maxGameNameLength: number;
 	maxPlayerNameLength: number;
+	minCardsRequiredToStart: number;
 }

@@ -9,6 +9,7 @@ import { MessageType } from "./enum/MessageType";
 import { Deck } from "./card/Deck";
 import { DeckCollection } from "./card/DeckCollection";
 import { DeckCollectionReader } from "./card/DeckCollectionReader";
+import { Utils } from "./Utils";
 
 export class Server {
 	public settings: Settings;
@@ -42,7 +43,7 @@ export class Server {
 		});
 
 		this.io.on("connection", (socket: socketio.Socket) => {
-			let user: User = new User(this, uuidv4(), socket, "Anonymous");
+			let user: User = new User(this, uuidv4(), socket, "Anonymous " + Utils.getRandomInt(1, 9999));
 
 			this.users.push(user);
 
@@ -50,7 +51,7 @@ export class Server {
 
 			user.sendMessage("Connected!", MessageType.SUCCESS);
 
-			user.sendGameState();
+			user.sendGameList();
 		});
 	}
 
@@ -66,7 +67,7 @@ export class Server {
 				this.games.splice(i, 1);
 			}
 		}
-		this.broadcastStateChange();
+		this.broadcastGameList();
 	}
 
 	createGame(owner: User, name: string): Game {
@@ -89,9 +90,9 @@ export class Server {
 		console.log("[User] User " + user.getUUID() + " disconnected (User count: " + this.users.length + ")");
 	}
 
-	broadcastStateChange() {
+	broadcastGameList() {
 		for (let i = 0; i < this.users.length; i++) {
-			this.users[i].sendGameState();
+			this.users[i].sendGameList();
 		}
 	}
 

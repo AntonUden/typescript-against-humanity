@@ -15,8 +15,13 @@ socket.on("message", function (message, content) {
 			break;
 
 		case "state":
-			handleState(content);
+			handleGameState(content);
 			break;
+
+		case "game_list":
+			handleGameList(content);
+			break;
+
 
 		case "client_settings":
 			gameConfig = content;
@@ -24,6 +29,7 @@ socket.on("message", function (message, content) {
 			ready = true;
 			setupExpansions();
 			break;
+
 
 		default:
 			console.warn("invalid packet: " + message);
@@ -51,30 +57,10 @@ function joinGame(uuid) {
 	});
 }
 
-
-function handleState(state) {
+function handleGameList(data) {
 	if (!ready) {
-		console.log("ignoring handleState() since we are not ready");
+		console.log("ignoring handleGameList() since we are not ready");
 		return;
-	}
-
-	console.log("received state change");
-	console.log(state);
-
-	activeGame = null;
-
-	if (state.active_game == null) {
-		$("#game_browser").show();
-		$("#game").hide();
-	} else {
-		$("#game").show();
-		$("#game_browser").hide();
-
-		state.games.forEach((game) => {
-			if (game.uuid == state.active_game) {
-				activeGame = game;
-			}
-		});
 	}
 
 
@@ -89,8 +75,8 @@ function handleState(state) {
 
 	//console.log(foundGames);
 
-	for (let i = 0; i < state.games.length; i++) {
-		let game = state.games[i];
+	for (let i = 0; i < data.games.length; i++) {
+		let game = data.games[i];
 
 		//console.log("foundGames.includes(game.uuid) " + game.uuid + " : " + foundGames.includes(game.uuid));
 
@@ -127,14 +113,14 @@ function handleState(state) {
 	});
 
 	/* ===== Update rows ===== */
-	for (let i = 0; i < state.games.length; i++) {
-		let game = state.games[i];
+	for (let i = 0; i < data.games.length; i++) {
+		let game = data.games[i];
 
 		$(".game-tr").each(function () {
 			let uuid = $(this).data("game-id");
 
 			if (game.uuid == uuid) {
-				$(this).find(".td-game-player-count").text(game.players.length + " / " + gameConfig.maxPlayersPerGame + " Players")
+				$(this).find(".td-game-player-count").text(game.player_count + " / " + gameConfig.maxPlayersPerGame + " Players")
 
 				let expansions = "";
 
@@ -156,26 +142,40 @@ function handleState(state) {
 			}
 		});
 	}
+}
 
-	/* ===== Active game ===== */
-	if (activeGame != null) {
-		$("#game_name").text(activeGame.name);
+function handleGameState(data) {
+	if (!ready) {
+		console.log("ignoring handleGameState() since we are not ready");
+		return;
+	}
+
+
+	if (data.active_game == null) {
+		$("#game_browser").show();
+		$("#game").hide();
+
+		activeGame = null;
+	} else {
+		$("#game").show();
+		$("#game_browser").hide();
+
+		activeGame = data.active_game;
+
 		if (activeGame.state == 0) {
+			/* ===== Lobby data ===== */
 			$("#waiting_lobby").show();
 			$("#in_game").hide();
 
-			if(activeGame.host == myUUID) {
+			if (activeGame.host == myUUID) {
 				$("#host_options").show();
 			} else {
 				$("#host_options").hide();
 			}
 
 			$("#players_tbody").find(".lobby-player-tr").remove();
-
 			for (let i = 0; i < activeGame.players.length; i++) {
 				let player = activeGame.players[i];
-
-				let uuid = $(this).data("player-id");
 
 				let newElement = $("#lobby_player_template").clone();
 				newElement.removeAttr("id");
@@ -186,34 +186,35 @@ function handleState(state) {
 
 				$("#players_tbody").append(newElement);
 			}
+
+			let expansions = "";
+
+			activeGame.decks.forEach((deckName) => {
+				let deck = getDeck(deckName);
+
+				if (deck == null) {
+					expansions += "null, ";
+				} else {
+					expansions += deck.displayName + ", ";
+				}
+			});
+
+			if (expansions.length > 2) {
+				expansions = expansions.substring(0, expansions.length - 2)
+			}
+
+			$("#game_expansions").text(expansions);
 		} else {
+			/* ===== In game ===== */
 			$("#waiting_lobby").hide();
 			$("#in_game").show();
 		}
-
-		let expansions = "";
-
-		activeGame.decks.forEach((deckName) => {
-			let deck = getDeck(deckName);
-
-			if (deck == null) {
-				expansions += "null, ";
-			} else {
-				expansions += deck.displayName + ", ";
-			}
-		});
-
-		if (expansions.length > 2) {
-			expansions = expansions.substring(0, expansions.length - 2)
-		}
-
-		$("#game_expansions").text(expansions);
 	}
-
-	console.log(activeGame);
 }
 
 $(function () {
+	$("#game").hide();
+
 	$("#btn_createGame").on("click", function () {
 		let gameName = $("#tbx_careateGameName").val();
 
@@ -250,7 +251,6 @@ $(function () {
 function useAllExpansions() {
 	$(".cbx-expansion-selection").prop("checked", true);
 }
-
 
 function setupExpansions() {
 	$("#expansions").text("");

@@ -1,4 +1,7 @@
+import { BlackCard } from "./card/BlackCard";
 import { Deck } from "./card/Deck";
+import { WhiteCard } from "./card/WhiteCard";
+import { GameStartResponse } from "./enum/GameStartResponse";
 import { GameState } from "./enum/GameState";
 import { JoinGameResponse } from "./enum/JoinGameResponse";
 import { MessageType } from "./enum/MessageType";
@@ -65,7 +68,7 @@ export class Game {
 
 		this.players.push(new Player(this, user));
 
-		this._server.broadcastStateChange();
+		this.sendFullUpdate();
 
 		return JoinGameResponse.SUCCESS;
 	}
@@ -78,11 +81,11 @@ export class Game {
 			}
 		}
 
-		// removeGame() also calls broadcastStateChange() so no need to do it twice
 		if (this.players.length == 0) {
 			this._server.removeGame(this);
+			this.sendStateUpdate(user); // user also needs to receive the state update
 		} else {
-			this._server.broadcastStateChange();
+			this.sendFullUpdate(user); // user also needs to receive the state update
 			for (let i = 0; i < this.players.length; i++) {
 				this.players[i].getUser().sendMessage(user.getUsername() + " left the game", MessageType.INFO);
 			}
@@ -139,5 +142,87 @@ export class Game {
 
 	getDecks(): Deck[] {
 		return this.decks;
+	}
+
+	getBlackCards(): BlackCard[] {
+		let result: BlackCard[] = [];
+
+		for (let i = 0; i < this.decks.length; i++) {
+			let deck: Deck = this.decks[i];
+
+			for (let j = 0; j < deck.getBlackCards().length; j++) {
+				result.push(deck.getBlackCards()[i]);
+			}
+		}
+
+		return result;
+	}
+
+	getWhiteCards(): WhiteCard[] {
+		let result: WhiteCard[] = [];
+
+		for (let i = 0; i < this.decks.length; i++) {
+			let deck: Deck = this.decks[i];
+
+			for (let j = 0; j < deck.getWhiteCards().length; j++) {
+				result.push(deck.getWhiteCards()[i]);
+			}
+		}
+
+		return result;
+	}
+
+	fillPlayerHand(player: Player) {
+
+	}
+
+	startGame(): GameStartResponse {
+		if (this.gameState == GameState.INGAME) {
+			return GameStartResponse.ALREADY_RUNNING;
+		}
+
+		if (this.getBlackCards().length < this._server.settings.minCardsRequiredToStart) {
+			return GameStartResponse.NOT_ENOUGH_BLACK_CARDS;
+		}
+
+		if (this.getWhiteCards().length < this._server.settings.minCardsRequiredToStart) {
+			return GameStartResponse.NOT_ENOUGH_WHITE_CARDS;
+		}
+
+		if (this.players.length < 3) {
+			return GameStartResponse.NOT_ENOUGH_PLAYERS;
+		}
+
+		this.gameState = GameState.INGAME;
+
+		this.sendStateUpdate();
+		this.sendGameListUpdateUpdate();
+
+		return GameStartResponse.SUCCESS;
+	}
+
+	sendGameListUpdateUpdate() {
+		this._server.broadcastGameList();
+	}
+
+	sendStateUpdate(includeUser: User = null) {
+		let target: User[] = [];
+
+		this.players.forEach((p) => {
+			target.push(p.getUser());
+		});
+
+		if (includeUser != null) {
+			target.push(includeUser);
+		}
+
+		target.forEach((user) => {
+			user.sendActiveGameState();
+		});
+	}
+
+	sendFullUpdate(includeUser: User = null) {
+		this.sendStateUpdate(includeUser);
+		this.sendGameListUpdateUpdate();
 	}
 }

@@ -15,22 +15,8 @@
 	<script src="/js/toastr.min.js"></script>
 	<script src="/js/popper.min.js"></script>
 	<script src="/js/bootstrap.min.js"></script>
-
+	<script src="/js/misc.js"></script>
 	<script src="/js/message_handler.js"></script>
-
-	<script>
-		Array.prototype.remove = function () {
-			var what, a = arguments, L = a.length, ax;
-			while (L && this.length) {
-				what = a[--L];
-				while ((ax = this.indexOf(what)) !== -1) {
-					this.splice(ax, 1);
-				}
-			}
-			return this;
-		};
-	</script>
-
 	<script src="/js/game.js"></script>
 </head>
 
@@ -60,7 +46,7 @@
 
 			<tbody>
 				<tr id="lobby_player_template" data-player-id="00000000-0000-0000-0000-000000000000">
-					<td class="td-player-name"></td>
+					<td class="td-player-name">h</td>
 				</tr>
 			</tbody>
 		</table>
@@ -85,10 +71,6 @@
 
 
 	<div id="game">
-		<div>
-			<h2>In game: <span id="game_name"></span></h2>
-		</div>
-
 		<div class="container-fluid" id="waiting_lobby">
 			<div class="row">
 				<div class="col">
