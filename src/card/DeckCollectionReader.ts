@@ -57,7 +57,7 @@ export class DeckCollectionReader {
 			}
 
 			for (let i = 0; i < json.white_cards.length; i++) {
-				let text: string = "" + json.white_cards[i].text;
+				let text: string = "" + json.white_cards[i];
 
 				let card: WhiteCard = new WhiteCard(text);
 

@@ -18,6 +18,31 @@
 	<script src="/js/misc.js"></script>
 	<script src="/js/message_handler.js"></script>
 	<script src="/js/game.js"></script>
+
+	<style>
+		#black_card {
+			max-width: 18rem;
+			min-height: 200px;
+		}
+
+		.player-hand-card {
+			min-width: 100px;
+			max-width: 18rem;
+			min-height: 150px;
+		}
+
+		.player-hand-card:hover {
+			background-color: #EEEEEE;
+		}
+
+		.selected-white-card {
+			background-color: #BBFFBB;
+		}
+
+		.selected-white-card:hover {
+			background-color: #99FF99 !important;
+		}
+	</style>
 </head>
 
 <body>
@@ -67,10 +92,23 @@
 					assumenda. Velit deserunt asperiores fuga odit. Aut laborum laudantium ducimus esse?</p>
 			</small>
 		</div>
+
+		<div class="card" id="white_card_template">
+			<div class="card-body">
+
+				<p class="card-text">
+					<span class="badge bg-primary selected-card-number">0</span>
+					<span class="cord-text-content">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Tempore
+						eligendi assumenda error laborum, rerum magnam hic? Ratione, dolore? Eaque placeat, consectetur
+						porro quisquam quaerat recusandae dolores consequatur beatae distinctio harum?</span>
+				</p>
+			</div>
+		</div>
 	</div>
 
-
+	<!-- Game -->
 	<div id="game">
+		<!-- Lobby -->
 		<div class="container-fluid" id="waiting_lobby">
 			<div class="row">
 				<div class="col">
@@ -81,7 +119,7 @@
 			<div class="row" id="host_options">
 				<div class="col">
 					<button type="button" class="btn btn-primary" id="btn_select_expansions">Select expansions</button>
-					<button type="button" class="btn btn-primary" id="btn_select_expansions">Start game</button>
+					<button type="button" class="btn btn-primary" id="btn_start_game">Start game</button>
 				</div>
 			</div>
 
@@ -110,10 +148,29 @@
 				</div>
 			</div>
 		</div>
+		<!-- In game -->
+		<div class="container-fluid" id="in_game">
+			<div class="row mt-2">
+				<div class="col">
+					<div class="card text-white bg-dark mb-3 px-2" id="black_card">
+						<div class="card-header" id="black_card_pick">pick 0</div>
+						<h5 class="card-title" id="black_card_text">H</h5>
+						<!--<p class="card-text">Some quick example text to build on the card title and make up the bulk
+								of the card's content.</p>-->
+					</div>
+				</div>
+			</div>
 
+			<div class="row">
+				<div class="col">
+					<h6>Hand</h6>
+					<div class="card-group" id="player_hand">
 
-
-
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
 
 	</div>
 

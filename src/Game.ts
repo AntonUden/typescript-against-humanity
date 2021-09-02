@@ -1,6 +1,8 @@
+import { throws } from "assert/strict";
 import { BlackCard } from "./card/BlackCard";
 import { Deck } from "./card/Deck";
 import { WhiteCard } from "./card/WhiteCard";
+import { GameEndReason } from "./enum/GameEndReason";
 import { GameStartResponse } from "./enum/GameStartResponse";
 import { GameState } from "./enum/GameState";
 import { JoinGameResponse } from "./enum/JoinGameResponse";
@@ -9,15 +11,23 @@ import { GameSettings } from "./interfaces/GameSettings";
 import { Player } from "./Player";
 import { Server } from "./Server";
 import { User } from "./User";
+import { Utils } from "./Utils";
 
 export class Game {
 	private uuid: string;
 	private name: string;
-	private players: Player[] = [];
+	private players: Player[];
 	private gameState: GameState;
 	private settings: GameSettings;
-	private decks: Deck[] = [];
+	private decks: Deck[];
+
+	private activeBlackCard: BlackCard | null;
+
+	private blackCardDeck: BlackCard[];
+	private whiteCardDeck: WhiteCard[];
+
 	private _server: Server;
+
 
 	constructor(server: Server, uuid: string, name: string) {
 		this._server = server;
@@ -28,6 +38,13 @@ export class Game {
 			handSize: 10,
 			winScore: 10
 		}
+
+		this.activeBlackCard = null;
+
+		this.whiteCardDeck = [];
+		this.blackCardDeck = [];
+		this.decks = [];
+		this.players = [];
 
 		let defaultDeck: Deck | null = this._server.getDeck("Base");
 		if (defaultDeck != null) {
@@ -66,7 +83,13 @@ export class Game {
 			this.players[i].getUser().sendMessage(user.getUsername() + " joined the game", MessageType.INFO);
 		}
 
-		this.players.push(new Player(this, user));
+		let player: Player = new Player(this, user);
+
+		this.players.push(player);
+
+		if (this.gameState == GameState.INGAME) {
+			this.fillPlayerHand(player);
+		}
 
 		this.sendFullUpdate();
 
@@ -88,6 +111,10 @@ export class Game {
 			this.sendFullUpdate(user); // user also needs to receive the state update
 			for (let i = 0; i < this.players.length; i++) {
 				this.players[i].getUser().sendMessage(user.getUsername() + " left the game", MessageType.INFO);
+			}
+
+			if (this.players.length < 3 && this.gameState == GameState.INGAME) {
+				this.endGame(GameEndReason.NOT_ENOUGH_PLAYERS);
 			}
 		}
 	}
@@ -172,8 +199,71 @@ export class Game {
 		return result;
 	}
 
-	fillPlayerHand(player: Player) {
+	broadcastMessage(message: string, type: MessageType) {
+		this.players.forEach((player) => {
+			player.getUser().sendMessage(message, type);
+		});
+	}
 
+	startRound() {
+		this.players.forEach((player) => {
+			this.fillPlayerHand(player);
+		});
+		this.activeBlackCard = this.getBlackCard();
+
+		this.sendStateUpdate();
+		this.sendGameListUpdateUpdate();
+	}
+
+	fillPlayerHand(player: Player) {
+		let tries = 0;
+		let maxTries = 10000;
+
+		while (player.getHand().length < this.settings.handSize) {
+			tries++;
+			let card: WhiteCard = this.getWhiteCard();
+			if (!player.getHand().includes(card.getText())) {
+				player.getHand().push(card.getText());
+			}
+
+
+
+			// Prevent soft lock
+			if (tries > maxTries) {
+				console.error("Failed to fill the hand of " + player.getUser().getUsername() + " within " + maxTries + " tries in game " + this.getName());
+				return;
+			}
+		}
+	}
+
+	getWhiteCard(): WhiteCard {
+		if (this.whiteCardDeck.length == 0) {
+			this.decks.forEach((deck) => {
+				deck.getWhiteCards().forEach((card) => {
+					this.whiteCardDeck.push(card);
+				});
+			});
+
+			Utils.shuffle(this.whiteCardDeck);
+		}
+
+		//return this.getWhiteCards().splice(Math.floor(Math.random() * this.getWhiteCards().length), 1)[0];
+
+		return this.whiteCardDeck.pop();
+	}
+
+	getBlackCard(): BlackCard {
+		if (this.blackCardDeck.length == 0) {
+			this.decks.forEach((deck) => {
+				deck.getBlackCards().forEach((card) => {
+					this.blackCardDeck.push(card);
+				});
+			});
+
+			Utils.shuffle(this.blackCardDeck);
+		}
+
+		return this.blackCardDeck.pop();
 	}
 
 	startGame(): GameStartResponse {
@@ -195,10 +285,44 @@ export class Game {
 
 		this.gameState = GameState.INGAME;
 
-		this.sendStateUpdate();
-		this.sendGameListUpdateUpdate();
+		this.startRound();
 
 		return GameStartResponse.SUCCESS;
+	}
+
+	getActiveBlackCard(): BlackCard | null {
+		return this.activeBlackCard;
+	}
+
+	endGame(reason: GameEndReason) {
+		if (this.gameState == GameState.INGAME) {
+			this.gameState = GameState.WAITING;
+
+			this.blackCardDeck = [];
+			this.whiteCardDeck = [];
+
+			this.players.forEach((player) => {
+				player.clearHand();
+			});
+
+			switch (reason) {
+				case GameEndReason.WIN:
+					//TODO: win message
+					this.broadcastMessage("Game over", MessageType.SUCCESS);
+					break;
+
+				case GameEndReason.NOT_ENOUGH_PLAYERS:
+					this.broadcastMessage("Game ended due to there not being enough players left", MessageType.WARNING);
+					break;
+
+				default:
+					this.broadcastMessage("Game ended", MessageType.INFO);
+					console.error("Invalid game end reason " + reason);
+					break;
+			}
+
+			this.sendFullUpdate();
+		}
 	}
 
 	sendGameListUpdateUpdate() {

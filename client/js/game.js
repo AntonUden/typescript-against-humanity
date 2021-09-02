@@ -5,6 +5,8 @@ var activeGame = null;
 var ready = false;
 var myUUID = null;
 
+var selectedCards = [];
+
 socket.on("message", function (message, content) {
 	console.debug(message);
 	console.debug(content);
@@ -208,6 +210,96 @@ function handleGameState(data) {
 			/* ===== In game ===== */
 			$("#waiting_lobby").hide();
 			$("#in_game").show();
+
+			if (activeGame.black_card != null) {
+				let blackCard = activeGame.black_card;
+
+				$("#black_card_pick").text("pick " + blackCard.pick);
+				$("#black_card_text").html(blackCard.text);
+			} else {
+				$("#black_card_pick").text("");
+				$("#black_card_text").text("");
+			}
+
+
+
+			let handCards = [];
+
+			$(".player-hand-card").each(function () {
+				handCards.push(b64_to_utf8($(this).data("content")));
+			});
+
+			console.log(handCards);
+
+			activeGame.hand.forEach((card) => {
+				if (!handCards.includes(card)) {
+					let newHtml = $("#white_card_template").clone();
+
+					newHtml.removeAttr("id");
+					newHtml.attr("data-content", utf8_to_b64(card));
+					newHtml.addClass("player-hand-card");
+
+					newHtml.find(".selected-card-number").hide();
+					newHtml.find(".cord-text-content").html(card);
+
+					newHtml.on("click", function () {
+						if ($(this).hasClass("selected-white-card")) {
+							$(this).removeClass("selected-white-card");
+							selectedCards.remove(b64_to_utf8($(this).data("content")));
+							updateSelectionNumbers();
+						} else {
+							if (activeGame.black_card == null) {
+								return;
+							}
+
+							if (selectedCards.length >= activeGame.black_card.pick) {
+								toastr.warning("Click on the selected cards to unselect them", "You have selected the maximum amount of cards");
+								return;
+							}
+
+							$(this).addClass("selected-white-card");
+							selectedCards.push(b64_to_utf8($(this).data("content")));
+							updateSelectionNumbers();
+						}
+
+
+					});
+
+					$("#player_hand").append(newHtml);
+				}
+
+				handCards.remove(card);
+			});
+
+
+			$(".player-hand-card").each(function () {
+				if (handCards.includes(b64_to_utf8($(this).data("content")))) {
+					$(this).remove();
+				}
+			});
+		}
+	}
+}
+
+function updateSelectionNumbers() {
+	if(activeGame != null) {
+		if(activeGame.black_card != null) {
+			let select = activeGame.black_card.pick;
+
+			$("#player_hand").find(".selected-card-number").hide();
+			if(select > 1) {
+				for(let i = 0; i < selectedCards.length; i++) {
+					let b64 = utf8_to_b64(selectedCards[i]);
+					console.log("target: " + b64);
+					$("#player_hand").find(".player-hand-card").each(function() {
+						console.log($(this).data("content"));
+						if($(this).data("content") == b64) {
+							$(this).find(".selected-card-number").text(i + 1);
+							$(this).find(".selected-card-number").show();
+						}
+					});
+				}
+			}
 		}
 	}
 }
@@ -246,6 +338,10 @@ $(function () {
 		$("#selectExpansionsModal").modal("hide");
 		saveExpansions();
 	});
+
+	$("#btn_start_game").on("click", function () {
+		socket.send("start_game", {});
+	})
 });
 
 function useAllExpansions() {

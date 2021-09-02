@@ -1,6 +1,9 @@
 
+import { throws } from "assert/strict";
 import { Socket } from "socket.io";
 import { Deck } from "./card/Deck";
+import { WhiteCard } from "./card/WhiteCard";
+import { GameStartResponse } from "./enum/GameStartResponse";
 import { JoinGameResponse } from "./enum/JoinGameResponse";
 import { MessageType } from "./enum/MessageType";
 import { Game } from "./Game";
@@ -149,6 +152,15 @@ export class User {
 				this.sendMessage("You left the game", MessageType.INFO);
 				break;
 
+
+			case "test":
+				//TODO: remove
+				this.getGame().getPlayers().forEach((player) => {
+					player.clearHand();
+				});
+				this.getGame().startRound();
+				break;
+
 			case "set_game_expanstions":
 				if (content["expansions"] == undefined) {
 					console.warn("[User] Received set_game_expanstions without expansions from " + this.uuid);
@@ -166,13 +178,13 @@ export class User {
 					this.sendMessage("You are not the host of this game", MessageType.ERROR);
 				}
 
-				console.debug(Object.entries(content["expansions"]));
+				//console.debug(Object.entries(content["expansions"]));
 
 				for (let [key, value] of Object.entries(content["expansions"])) {
 					let name = key + "";
 					let enabled = (value + "" == "true");
 
-					console.debug(name + " " + enabled);
+					//console.debug(name + " " + enabled);
 
 					let deck: Deck | null = this._server.getDeck(name);
 
@@ -196,6 +208,48 @@ export class User {
 					}
 
 					this.getGame().sendFullUpdate();
+				}
+
+				break;
+
+			case "start_game":
+				if (!this.isInGame()) {
+					console.warn("[User] User " + this.uuid + " tried to start a game while not in one");
+					this.sendMessage("You are not in a game", MessageType.WARNING);
+					return;
+				}
+
+				if (!this.getGame().isHost(this)) {
+					console.warn("[User] User " + this.uuid + " tried to set start the game while not being the host");
+					this.sendMessage("You are not the host of this game", MessageType.ERROR);
+				}
+
+				let response: GameStartResponse = this.getGame().startGame();
+
+				switch (response) {
+					case GameStartResponse.SUCCESS:
+						this.getGame().broadcastMessage("Game started", MessageType.SUCCESS);
+						break;
+
+					case GameStartResponse.ALREADY_RUNNING:
+						this.sendMessage("The game has already been started", MessageType.ERROR);
+						break;
+
+					case GameStartResponse.NOT_ENOUGH_PLAYERS:
+						this.sendMessage("There needs to be atleast 3 players before the game can start", MessageType.ERROR);
+						break;
+
+					case GameStartResponse.NOT_ENOUGH_BLACK_CARDS:
+						this.sendMessage("There are not enough black cards in the expansions you have selected. Please select more expansions and try again", MessageType.ERROR);
+						break;
+
+					case GameStartResponse.NOT_ENOUGH_WHITE_CARDS:
+						this.sendMessage("There are not enough white cards in the expansions you have selected. Please select more expansions and try again", MessageType.ERROR);
+						break;
+
+					default:
+						console.warn("Unknown game start response " + response);
+						break;
 				}
 
 				break;
@@ -275,13 +329,23 @@ export class User {
 				});
 			});
 
+			let player: Player = game.getPlayers().find((p) => p.getUUID() == this.getUUID());
+
+			let hand: string[] = [];
+
+			if (player != null) {
+				hand = player.getHand();
+			}
+
 			activeGameData = {
 				uuid: game.getUUID(),
 				name: game.getName(),
 				state: game.getGameState(),
 				decks: decks,
 				host: game.getHostUUID(),
-				players: players
+				players: players,
+				black_card: game.getActiveBlackCard(),
+				hand: hand
 			};
 		}
 
