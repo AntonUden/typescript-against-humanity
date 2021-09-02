@@ -3,5 +3,10 @@
 		"name": "nodejs-against-humanity",
 		"display_name": "NodeJS Against humanity",
 		"description": "These packs where taken from here <a href=\"https://github.com/amirrajan/nodejs-against-humanity\">https://github.com/amirrajan/nodejs-against-humanity</a>"
+	},
+	{
+		"name": "misc",
+		"display_name": "Other",
+		"description": "Miscellaneous expansions"
 	}
 ]

@@ -24,6 +24,9 @@ socket.on("message", function (message, content) {
 			handleGameList(content);
 			break;
 
+		case "round_start":
+			handleRoundStart(content);
+			break;
 
 		case "client_settings":
 			gameConfig = content;
@@ -144,6 +147,12 @@ function handleGameList(data) {
 			}
 		});
 	}
+}
+
+function handleRoundStart(data) {
+	// Reset and prepare for next round
+	selectedCards = [];
+	updateSelectionNumbers();
 }
 
 function handleGameState(data) {
@@ -282,18 +291,18 @@ function handleGameState(data) {
 }
 
 function updateSelectionNumbers() {
-	if(activeGame != null) {
-		if(activeGame.black_card != null) {
+	if (activeGame != null) {
+		if (activeGame.black_card != null) {
 			let select = activeGame.black_card.pick;
 
 			$("#player_hand").find(".selected-card-number").hide();
-			if(select > 1) {
-				for(let i = 0; i < selectedCards.length; i++) {
+			if (select > 1) {
+				for (let i = 0; i < selectedCards.length; i++) {
 					let b64 = utf8_to_b64(selectedCards[i]);
 					console.log("target: " + b64);
-					$("#player_hand").find(".player-hand-card").each(function() {
+					$("#player_hand").find(".player-hand-card").each(function () {
 						console.log($(this).data("content"));
-						if($(this).data("content") == b64) {
+						if ($(this).data("content") == b64) {
 							$(this).find(".selected-card-number").text(i + 1);
 							$(this).find(".selected-card-number").show();
 						}

@@ -8,10 +8,11 @@ import { JoinGameResponse } from "./enum/JoinGameResponse";
 import { MessageType } from "./enum/MessageType";
 import { Game } from "./Game";
 import { ClientSettings } from "./interfaces/ClientSettings";
+import { ITickable } from "./interfaces/ITickable";
 import { Player } from "./Player";
 import { Server } from "./Server";
 
-export class User {
+export class User implements ITickable {
 	private socket: Socket;
 	private uuid: string;
 	private username: string;
@@ -354,5 +355,9 @@ export class User {
 		}
 
 		this.socket.send("state", state);
+	}
+
+	tick(): void {
+
 	}
 }

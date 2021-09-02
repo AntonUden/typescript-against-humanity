@@ -10,8 +10,9 @@ import { Deck } from "./card/Deck";
 import { DeckCollection } from "./card/DeckCollection";
 import { DeckCollectionReader } from "./card/DeckCollectionReader";
 import { Utils } from "./Utils";
+import { ITickable } from "./interfaces/ITickable";
 
-export class Server {
+export class Server implements ITickable {
 	public settings: Settings;
 
 	public app;
@@ -53,6 +54,10 @@ export class Server {
 
 			user.sendGameList();
 		});
+
+		setInterval(() => {
+			this.tick();
+		}, 100);
 	}
 
 	getGames(): Game[] {
@@ -120,5 +125,11 @@ export class Server {
 		}
 
 		return null;
+	}
+
+	// Called 10 times / second
+	tick(): void {
+		this.users.forEach((user) => user.tick());
+		this.games.forEach((game) => game.tick());
 	}
 }

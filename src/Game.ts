@@ -8,12 +8,13 @@ import { GameState } from "./enum/GameState";
 import { JoinGameResponse } from "./enum/JoinGameResponse";
 import { MessageType } from "./enum/MessageType";
 import { GameSettings } from "./interfaces/GameSettings";
+import { ITickable } from "./interfaces/ITickable";
 import { Player } from "./Player";
 import { Server } from "./Server";
 import { User } from "./User";
 import { Utils } from "./Utils";
 
-export class Game {
+export class Game implements ITickable {
 	private uuid: string;
 	private name: string;
 	private players: Player[];
@@ -213,6 +214,10 @@ export class Game {
 
 		this.sendStateUpdate();
 		this.sendGameListUpdateUpdate();
+
+		this.players.forEach((player) => {
+			player.getUser().getSocket().send("round_start", {});
+		});
 	}
 
 	fillPlayerHand(player: Player) {
@@ -348,5 +353,9 @@ export class Game {
 	sendFullUpdate(includeUser: User = null) {
 		this.sendStateUpdate(includeUser);
 		this.sendGameListUpdateUpdate();
+	}
+
+	tick(): void {
+
 	}
 }
