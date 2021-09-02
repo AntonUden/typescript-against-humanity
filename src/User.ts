@@ -153,15 +153,6 @@ export class User implements ITickable {
 				this.sendMessage("You left the game", MessageType.INFO);
 				break;
 
-
-			case "test":
-				//TODO: remove
-				this.getGame().getPlayers().forEach((player) => {
-					player.clearHand();
-				});
-				this.getGame().startRound();
-				break;
-
 			case "set_game_expanstions":
 				if (content["expansions"] == undefined) {
 					console.warn("[User] Received set_game_expanstions without expansions from " + this.uuid);
