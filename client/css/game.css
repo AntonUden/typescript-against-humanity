@@ -1,0 +1,28 @@
+#black_card {
+	max-width: 18rem;
+	min-height: 200px;
+	display: inline-flex !important;
+}
+
+.player-hand-card {
+	min-width: 100px;
+	max-width: 18rem;
+	min-height: 150px;
+}
+
+.player-hand-card:hover {
+	background-color: #EEEEEE;
+}
+
+.selected-white-card {
+	background-color: #BBFFBB;
+}
+
+.selected-white-card:hover {
+	background-color: #99FF99 !important;
+}
+
+.disabled-content {
+	pointer-events: none;
+	opacity: 0.4;
+}

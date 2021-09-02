@@ -8,8 +8,8 @@ var myUUID = null;
 var selectedCards = [];
 
 socket.on("message", function (message, content) {
-	console.debug(message);
-	console.debug(content);
+	//console.debug(message);
+	//console.debug(content);
 
 	switch (message) {
 		case "message":
@@ -33,6 +33,10 @@ socket.on("message", function (message, content) {
 			myUUID = gameConfig.uuid;
 			ready = true;
 			setupExpansions();
+			break;
+
+		case "time_left":
+			$("#time_left").text(content.time);
 			break;
 
 
@@ -152,6 +156,7 @@ function handleGameList(data) {
 function handleRoundStart(data) {
 	// Reset and prepare for next round
 	selectedCards = [];
+	$(".selected-white-card").addClass("selected-white-card");
 	updateSelectionNumbers();
 }
 
@@ -220,15 +225,93 @@ function handleGameState(data) {
 			$("#waiting_lobby").hide();
 			$("#in_game").show();
 
-			if (activeGame.black_card != null) {
+			if (activeGame.black_card == null) {
+				$("#black_card_pick").text("");
+				$("#black_card_text").text("");
+			} else {
 				let blackCard = activeGame.black_card;
 
 				$("#black_card_pick").text("pick " + blackCard.pick);
 				$("#black_card_text").html(blackCard.text);
-			} else {
-				$("#black_card_pick").text("");
-				$("#black_card_text").text("");
 			}
+
+
+			//game_players_tbody
+
+			let foundPlayers = [];
+			$(".ingame-player-tr").each(function () {
+				foundPlayers.push($(this).data("uuid"));
+			});
+
+			console.log(foundPlayers);
+
+			activeGame.players.forEach((player) => {
+				if (foundPlayers.includes(player.uuid)) {
+					//TODO: update
+				} else {
+					//foundPlayers.
+					let newElement = $("#ingame_player_template").clone();
+					newElement.removeAttr("id");
+					newElement.addClass("ingame-player-tr");
+					newElement.attr("data-uuid", player.uuid);
+
+					newElement.find(".card-czar").hide();
+					newElement.find(".player-name").text(player.username);
+					newElement.find(".td-player-score").text(player.score);
+
+					$("#game_players_tbody").append(newElement);
+				}
+
+				foundPlayers.remove(player.uuid);
+			});
+
+			foundPlayers.forEach((uuid) => {
+				$(".ingame-player-tr").each(function () {
+					if ($(this).data("uuid") == uuid) {
+						$(this).remove();
+					}
+				});
+			});
+
+			$(".ingame-player-tr").each(function () {
+				if($(this).data("uuid") == activeGame.card_czar) {
+					$(this).find(".card-czar").show();
+				} else {
+					$(this).find(".card-czar").hide();
+				}
+			});
+
+			let isCardCzar = myUUID == activeGame.card_czar;
+
+			let enableHand = true;
+
+			if(isCardCzar) {
+				$("#you_are_card_czar").show();
+				enableHand = false;
+			} else {
+				$("#you_are_card_czar").hide();
+			}
+
+			if (activeGame.phase == 1 && !isCardCzar) {
+				$("#wait_for_card_czar").show();
+				enableHand = false;
+			} else {
+				$("#wait_for_card_czar").hide();
+			}
+
+			if (activeGame.phase == 0 && !isCardCzar) {
+				// Playing and not card boi
+			} else {
+				enableHand = false;
+				// Voting or card boi
+			}
+
+			if(enableHand) {
+				$("#player_hand").removeClass("disabled-content");
+			} else {
+				$("#player_hand").addClass("disabled-content");
+			}
+			
 
 
 
@@ -315,6 +398,7 @@ function updateSelectionNumbers() {
 
 $(function () {
 	$("#game").hide();
+	$("#you_are_card_czar").hide();
 
 	$("#btn_createGame").on("click", function () {
 		let gameName = $("#tbx_careateGameName").val();

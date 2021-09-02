@@ -3,6 +3,7 @@ import { BlackCard } from "./card/BlackCard";
 import { Deck } from "./card/Deck";
 import { WhiteCard } from "./card/WhiteCard";
 import { GameEndReason } from "./enum/GameEndReason";
+import { GamePhase } from "./enum/GamePhase";
 import { GameStartResponse } from "./enum/GameStartResponse";
 import { GameState } from "./enum/GameState";
 import { JoinGameResponse } from "./enum/JoinGameResponse";
@@ -21,14 +22,18 @@ export class Game implements ITickable {
 	private gameState: GameState;
 	private settings: GameSettings;
 	private decks: Deck[];
+	private gamePhase: GamePhase;
 
 	private activeBlackCard: BlackCard | null;
 
 	private blackCardDeck: BlackCard[];
 	private whiteCardDeck: WhiteCard[];
 
+	private cardCzar: number;
+
 	private _server: Server;
 
+	private timeLeft;
 
 	constructor(server: Server, uuid: string, name: string) {
 		this._server = server;
@@ -37,15 +42,21 @@ export class Game implements ITickable {
 		this.gameState = GameState.WAITING;
 		this.settings = {
 			handSize: 10,
-			winScore: 10
+			winScore: 10,
+			maxRoundTime: 10//60
 		}
 
 		this.activeBlackCard = null;
+
+		this.cardCzar = 0;
+
+		this.gamePhase = GamePhase.PICKING;
 
 		this.whiteCardDeck = [];
 		this.blackCardDeck = [];
 		this.decks = [];
 		this.players = [];
+		this.timeLeft = -1;
 
 		let defaultDeck: Deck | null = this._server.getDeck("Base");
 		if (defaultDeck != null) {
@@ -98,8 +109,23 @@ export class Game implements ITickable {
 	}
 
 	leaveGame(user: User) {
+		let cardCzarPlayer: Player = this.getCardCzar();
+		let skipRound: boolean = false;
+
+		if (cardCzarPlayer != null) {
+			if (user.getUUID() == cardCzarPlayer.getUUID()) {
+				skipRound = true;
+			}
+		}
+
 		for (let i: number = 0; i < this.players.length; i++) {
 			if (this.players[i].getUUID() == user.getUUID()) {
+				//console.debug(this.cardCzar + " | " + i + " | " + (this.cardCzar <= i) + " | " + (this.cardCzar > 0));
+				
+				if (this.cardCzar > i && this.cardCzar > 0) {
+					// Keep the same player as card czar
+					this.cardCzar--;
+				}
 				this.players.splice(i, 1);
 				break;
 			}
@@ -116,6 +142,10 @@ export class Game implements ITickable {
 
 			if (this.players.length < 3 && this.gameState == GameState.INGAME) {
 				this.endGame(GameEndReason.NOT_ENOUGH_PLAYERS);
+			} else {
+				if (skipRound) {
+					this.broadcastMessage("Round skupped because the card czar left", MessageType.WARNING);
+				}
 			}
 		}
 	}
@@ -164,6 +194,14 @@ export class Game implements ITickable {
 		}
 	}
 
+	getCardCzar(): Player | null {
+		if (this.cardCzar >= this.players.length) {
+			return null;
+		}
+
+		return this.players[this.cardCzar];
+	}
+
 	addDeck(deck: Deck) {
 		this.decks.push(deck);
 	}
@@ -207,6 +245,13 @@ export class Game implements ITickable {
 	}
 
 	startRound() {
+		this.cardCzar++;
+		if (this.cardCzar >= this.players.length) {
+			this.cardCzar = 0;
+		}
+
+		this.gamePhase = GamePhase.PICKING;
+		this.timeLeft = this.settings.maxRoundTime * 10;
 		this.players.forEach((player) => {
 			this.fillPlayerHand(player);
 		});
@@ -218,6 +263,11 @@ export class Game implements ITickable {
 		this.players.forEach((player) => {
 			player.getUser().getSocket().send("round_start", {});
 		});
+	}
+
+	startVotingPhase() {
+		this.gamePhase = GamePhase.VOTING;
+		this.timeLeft = this.settings.maxRoundTime * 10;
 	}
 
 	fillPlayerHand(player: Player) {
@@ -288,11 +338,17 @@ export class Game implements ITickable {
 			return GameStartResponse.NOT_ENOUGH_PLAYERS;
 		}
 
+		this.cardCzar = 0;
+
 		this.gameState = GameState.INGAME;
 
 		this.startRound();
 
 		return GameStartResponse.SUCCESS;
+	}
+
+	getPhase(): GamePhase {
+		return this.gamePhase;
 	}
 
 	getActiveBlackCard(): BlackCard | null {
@@ -356,6 +412,37 @@ export class Game implements ITickable {
 	}
 
 	tick(): void {
+		//console.debug(this.cardCzar);
 
+		if (this.gameState == GameState.INGAME) {
+			if (this.timeLeft >= 0) {
+				if (this.timeLeft % 10 == 0) {
+					this.players.forEach((player) => {
+						player.getUser().getSocket().send("time_left", {
+							time: Math.floor(this.timeLeft / 10)
+						})
+					});
+				}
+
+				if (this.timeLeft == 0) {
+					console.debug("Game timed out at phase " + this.gamePhase);
+					switch (this.gamePhase) {
+						case GamePhase.PICKING:
+							this.broadcastMessage("Some players did not select cards in time", MessageType.WARNING);
+							this.startVotingPhase();
+							break;
+
+						case GamePhase.VOTING:
+							this.broadcastMessage("The card czar did not pick a card in time", MessageType.WARNING);
+							this.startRound();
+							break;
+					}
+				}
+
+
+
+				this.timeLeft--;
+			}
+		}
 	}
 }
