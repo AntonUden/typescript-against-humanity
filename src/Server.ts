@@ -30,6 +30,19 @@ export class Server implements ITickable {
 		console.log("Reading decks...");
 		this.deckCollections = DeckCollectionReader.readDeckCollections();
 
+		let totalWhite = 0;
+		let totalBlack = 0;
+
+		this.deckCollections.forEach(dc => {
+			dc.decks.forEach(d => {
+				totalBlack += d.getBlackCards().length;
+				totalWhite += d.getWhiteCards().length;
+			});
+		});
+
+		console.log(totalWhite + " white cards loaded");
+		console.log(totalBlack + " black cards loaded");
+
 		this.app = express();
 		this.app.set("port", settings.port);
 

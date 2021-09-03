@@ -190,12 +190,12 @@ export class User implements ITickable {
 
 						if (hasDeck) {
 							if (!enabled) {
-								console.log("[User] removing deck " + deck.getName());
+								console.log("[User] removing deck " + deck.getName() + " from session");
 								this.getGame().removeDeck(deck);
 							}
 						} else {
 							if (enabled) {
-								console.log("[User] adding deck " + deck.getName());
+								console.log("[User] adding deck " + deck.getName() + " to session");
 								this.getGame().addDeck(deck);
 							}
 						}
@@ -300,6 +300,42 @@ export class User implements ITickable {
 					}
 
 					player.setSelectedCards(selected);
+
+					break;
+
+				case "card_czar_select_cards":
+					if (!this.isInGame()) {
+						console.warn("[User] Tried to select winner cards while not in a game");
+						return;
+					}
+
+					if (this.getGame().getPhase() != GamePhase.VOTING) {
+						console.warn("[User] Tried to select winner cards while not in the voting phase");
+						return;
+					}
+
+					let cardCzar: Player | null = this.getGame().getCardCzar();
+
+					if (cardCzar == null) {
+						console.warn("[User] Tried to select winner cards but the card czar is null");
+						return;
+					}
+
+					if (cardCzar.getUUID() != this.uuid) {
+						console.warn("[User] Tried to select winner cards but the user is not the card czar");
+						this.sendMessage("You are not the card czar", MessageType.ERROR);
+						return;
+					}
+
+					if (content["selected"] == null) {
+						console.warn("[User] Tried to select winner cards but selected is null");
+						return;
+					}
+					
+					if(!this.getGame().selectWinner("" + content["selected"])) {
+						console.warn("[User] Tried to select winner cards but it failed");
+						this.sendMessage("Failed to select winner. Please try again", MessageType.ERROR);
+					}
 
 					break;
 
@@ -409,7 +445,8 @@ export class User implements ITickable {
 				black_card: game.getActiveBlackCard(),
 				hand: hand,
 				phase: game.getPhase(),
-				card_czar: cardCzar
+				card_czar: cardCzar,
+				winner_selected: game.isWinnerSelected()
 			};
 		}
 

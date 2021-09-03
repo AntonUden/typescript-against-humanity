@@ -63,9 +63,14 @@
 	display: none !important;
 }
 
+.my-player {
+	background-color: #AAFFAA;
+}
+
 .played-card-set {
 	display: inline-flex;
 	margin-right: 5px;
+	margin-bottom: 5px;
 	padding-left: 2px;
 	padding-right: 2px;
 	padding-top: 2px;
@@ -73,8 +78,22 @@
 	border: 2px solid #000000;
 }
 
+.card-czar-can-select:hover {
+	border: 2px solid #0000FF;
+}
+
+.card-czar-selected {
+	border: 2px solid #00FF00 !important;
+}
+
 .played-white-card {
 	min-width: 100px;
 	max-width: 18rem;
 	min-height: 150px;
+}
+
+#round_winner_text {
+	font-size: 2rem;
+	font-weight: 500;
+	line-height: 1.2;
 }

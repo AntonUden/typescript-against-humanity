@@ -15,6 +15,7 @@ import { Server } from "./Server";
 import { User } from "./User";
 import { Utils } from "./Utils";
 import { v4 as uuidv4 } from 'uuid';
+import { SelectWinnerResponse } from "./SelectWinnerResponse";
 
 export class Game implements ITickable {
 	private uuid: string;
@@ -39,16 +40,19 @@ export class Game implements ITickable {
 	private votingHashes: any;
 	private startVotingDataCache: any; // used for people who join during voting
 
+	private winnerSelected: boolean;
+
 	constructor(server: Server, uuid: string, name: string) {
 		this._server = server;
 		this.uuid = uuid;
 		this.name = name;
 		this.gameState = GameState.WAITING;
 		this.votingHashes = {};
+		this.winnerSelected = false;
 		this.settings = {
 			handSize: 10,
 			winScore: 10,
-			maxRoundTime: 1000//60
+			maxRoundTime: 60
 		}
 
 		this.activeBlackCard = null;
@@ -70,6 +74,12 @@ export class Game implements ITickable {
 		}
 	}
 
+	destroyInstance() {
+		this.players = [];
+		this.name = "[deleted]";
+	}
+
+	/* ===== Getters and setters ===== */
 	getUUID(): string {
 		return this.uuid;
 	}
@@ -82,6 +92,51 @@ export class Game implements ITickable {
 		return this.settings;
 	}
 
+	getHostUUID(): string | null {
+		if (this.players.length > 0) {
+			return this.players[0].getUUID();
+		}
+
+		return null;
+	}
+
+	getGameState(): GameState {
+		return this.gameState;
+	}
+
+	getPlayers(): Player[] {
+		return this.players;
+	}
+
+	getDecks(): Deck[] {
+		return this.decks;
+	}
+
+	getCardCzar(): Player | null {
+		if (this.cardCzar >= this.players.length) {
+			return null;
+		}
+
+		return this.players[this.cardCzar];
+	}
+
+	getPhase(): GamePhase {
+		return this.gamePhase;
+	}
+
+	getActiveBlackCard(): BlackCard | null {
+		return this.activeBlackCard;
+	}
+
+	getPlayerByUser(user: User): Player | null {
+		return this.players.find(p => p.getUUID() == user.getUUID());
+	}
+
+	/* ===== Functions to determine if things are true ===== */
+	isWinnerSelected(): boolean {
+		return this.winnerSelected;
+	}
+
 	isInGame(user: User): boolean {
 		for (let i: number = 0; i < this.players.length; i++) {
 			if (this.players[i].getUUID() == user.getUUID()) {
@@ -92,6 +147,30 @@ export class Game implements ITickable {
 		return false;
 	}
 
+	isHost(user: User): boolean {
+		return this.getHostUUID() == user.getUUID();
+	}
+
+	isAllPlayersDone(): boolean {
+		let allDone = true;
+		let cardCzar: Player = this.getCardCzar();
+
+		this.players.forEach(p => {
+			if (cardCzar != null) {
+				if (cardCzar.getUUID() == p.getUUID()) {
+					return;
+				}
+			}
+
+			if (p.getSelectedCards().length == 0) {
+				allDone = false;
+			}
+		});
+
+		return allDone;
+	}
+
+	/* ===== Join and leave ===== */
 	joinGame(user: User, password: string | null = null): JoinGameResponse {
 		if (this.players.length >= this._server.settings.maxPlayersPerGame) {
 			return JoinGameResponse.GAME_FULL;
@@ -171,31 +250,7 @@ export class Game implements ITickable {
 		}
 	}
 
-	isHost(user: User): boolean {
-		return this.getHostUUID() == user.getUUID();
-	}
-
-	getHostUUID(): string | null {
-		if (this.players.length > 0) {
-			return this.players[0].getUUID();
-		}
-
-		return null;
-	}
-
-	getGameState(): GameState {
-		return this.gameState;
-	}
-
-	destroyInstance() {
-		this.players = [];
-		this.name = "[deleted]";
-	}
-
-	getPlayers(): Player[] {
-		return this.players;
-	}
-
+	/* ===== Deck related ===== */
 	hasDeck(deck: Deck): boolean {
 		for (let i = 0; i < this.decks.length; i++) {
 			if (this.decks[i].getName() == deck.getName()) {
@@ -213,125 +268,6 @@ export class Game implements ITickable {
 				break;
 			}
 		}
-	}
-
-	getCardCzar(): Player | null {
-		if (this.cardCzar >= this.players.length) {
-			return null;
-		}
-
-		return this.players[this.cardCzar];
-	}
-
-	addDeck(deck: Deck) {
-		this.decks.push(deck);
-	}
-
-	getDecks(): Deck[] {
-		return this.decks;
-	}
-
-	getBlackCards(): BlackCard[] {
-		let result: BlackCard[] = [];
-
-		for (let i = 0; i < this.decks.length; i++) {
-			let deck: Deck = this.decks[i];
-
-			for (let j = 0; j < deck.getBlackCards().length; j++) {
-				result.push(deck.getBlackCards()[i]);
-			}
-		}
-
-		return result;
-	}
-
-	getWhiteCards(): WhiteCard[] {
-		let result: WhiteCard[] = [];
-
-		for (let i = 0; i < this.decks.length; i++) {
-			let deck: Deck = this.decks[i];
-
-			for (let j = 0; j < deck.getWhiteCards().length; j++) {
-				result.push(deck.getWhiteCards()[i]);
-			}
-		}
-
-		return result;
-	}
-
-	broadcastMessage(message: string, type: MessageType) {
-		this.players.forEach((player) => {
-			player.getUser().sendMessage(message, type);
-		});
-	}
-
-	startRound() {
-		this.cardCzar++;
-		if (this.cardCzar >= this.players.length) {
-			this.cardCzar = 0;
-		}
-
-		this.gamePhase = GamePhase.PICKING;
-		this.timeLeft = this.settings.maxRoundTime * 10;
-		this.players.forEach((player) => {
-			this.fillPlayerHand(player);
-		});
-		this.activeBlackCard = this.getBlackCard();
-
-		this.sendStateUpdate();
-		this.sendGameListUpdateUpdate();
-
-		this.players.forEach((player) => {
-			player.getUser().getSocket().send("round_start", {});
-		});
-	}
-
-	startVotingPhase() {
-		this.gamePhase = GamePhase.VOTING;
-		this.timeLeft = this.settings.maxRoundTime * 10;
-
-		// check if any players has selected cards
-		let shouldContinue = false;
-		this.players.forEach(player => {
-			if (player.getSelectedCards().length > 0) {
-				shouldContinue = true;
-			}
-		});
-
-		if (!shouldContinue) {
-			this.broadcastMessage("Skipping round due to no players selecting cards", MessageType.WARNING);
-			this.startRound();
-			return;
-		}
-
-		this.votingHashes = {};
-
-		let selectedSets: any[] = [];
-
-		this.players.forEach(player => {
-			if (player.getSelectedCards().length > 0) {
-				let hash = Utils.md5String(player.getUUID() + uuidv4());
-
-				this.votingHashes[hash] = player.getUUID();
-
-				selectedSets.push({
-					hash: hash,
-					selected: player.getSelectedCards()
-				});
-			}
-		});
-
-		// Shuffle array so that the cards will be displayed in a random order instead of the same every time.
-		// This is used to prevent players from cheating by memorising the location of each player.
-		Utils.shuffle(selectedSets);
-
-		this.startVotingDataCache = {
-			selected_sets: selectedSets
-		};
-
-		this.players.forEach(player => player.getUser().getSocket().send("voting_start", this.startVotingDataCache));
-
-		this.sendStateUpdate();
 	}
 
 	fillPlayerHand(player: Player) {
@@ -385,7 +321,148 @@ export class Game implements ITickable {
 		return this.blackCardDeck.pop();
 	}
 
+	addDeck(deck: Deck) {
+		this.decks.push(deck);
+	}
+
+	getBlackCards(): BlackCard[] {
+		let result: BlackCard[] = [];
+
+		for (let i = 0; i < this.decks.length; i++) {
+			let deck: Deck = this.decks[i];
+
+			for (let j = 0; j < deck.getBlackCards().length; j++) {
+				result.push(deck.getBlackCards()[i]);
+			}
+		}
+
+		return result;
+	}
+
+	getWhiteCards(): WhiteCard[] {
+		let result: WhiteCard[] = [];
+
+		for (let i = 0; i < this.decks.length; i++) {
+			let deck: Deck = this.decks[i];
+
+			for (let j = 0; j < deck.getWhiteCards().length; j++) {
+				result.push(deck.getWhiteCards()[i]);
+			}
+		}
+
+		return result;
+	}
+
+	/* ===== Rounds ===== */
+	startRound() {
+		this.cardCzar++;
+		this.winnerSelected = false;
+		if (this.cardCzar >= this.players.length) {
+			this.cardCzar = 0;
+		}
+
+		this.gamePhase = GamePhase.PICKING;
+		this.timeLeft = this.settings.maxRoundTime * 10;
+
+		this.players.forEach((player) => {
+			player.clearSelectedCards();
+			this.fillPlayerHand(player);
+		});
+
+		this.activeBlackCard = this.getBlackCard();
+
+		this.sendStateUpdate();
+		this.sendGameListUpdateUpdate();
+
+		this.players.forEach((player) => {
+			player.getUser().getSocket().send("round_start", {});
+		});
+	}
+
+	startVotingPhase() {
+		this.gamePhase = GamePhase.VOTING;
+		this.timeLeft = this.settings.maxRoundTime * 10;
+		this.winnerSelected = false;
+
+		// check if any players has selected cards
+		let shouldContinue = false;
+		this.players.forEach(player => {
+			if (player.getSelectedCards().length > 0) {
+				shouldContinue = true;
+			}
+		});
+
+		if (!shouldContinue) {
+			this.broadcastMessage("Skipping round due to no players selecting cards", MessageType.WARNING);
+			this.startRound();
+			return;
+		}
+
+		this.votingHashes = {};
+
+		let selectedSets: any[] = [];
+
+		this.players.forEach(player => {
+			if (player.getSelectedCards().length > 0) {
+				let hash = Utils.md5String(player.getUUID() + uuidv4());
+
+				this.votingHashes[hash] = player.getUUID();
+
+				selectedSets.push({
+					hash: hash,
+					selected: player.getSelectedCards()
+				});
+			}
+		});
+
+		// Shuffle array so that the cards will be displayed in a random order instead of the same every time.
+		// This is used to prevent players from cheating by memorising the location of each player.
+		Utils.shuffle(selectedSets);
+
+		this.startVotingDataCache = {
+			selected_sets: selectedSets
+		};
+
+		this.players.forEach(player => player.getUser().getSocket().send("voting_start", this.startVotingDataCache));
+
+		this.sendStateUpdate();
+	}
+
+	/* ===== Networking ===== */
+	broadcastMessage(message: string, type: MessageType) {
+		this.players.forEach((player) => {
+			player.getUser().sendMessage(message, type);
+		});
+	}
+
+	sendGameListUpdateUpdate() {
+		this._server.broadcastGameList();
+	}
+
+	sendStateUpdate(includeUser: User = null) {
+		let target: User[] = [];
+
+		this.players.forEach((p) => {
+			target.push(p.getUser());
+		});
+
+		if (includeUser != null) {
+			target.push(includeUser);
+		}
+
+		target.forEach((user) => {
+			user.sendActiveGameState();
+		});
+	}
+
+	sendFullUpdate(includeUser: User = null) {
+		this.sendStateUpdate(includeUser);
+		this.sendGameListUpdateUpdate();
+	}
+
+	/* ===== Starting and ending game ===== */
 	startGame(): GameStartResponse {
+		console.trace("succ");
 		if (this.gameState == GameState.INGAME) {
 			return GameStartResponse.ALREADY_RUNNING;
 		}
@@ -403,20 +480,13 @@ export class Game implements ITickable {
 		}
 
 		this.cardCzar = 0;
+		this.winnerSelected = false;
 
 		this.gameState = GameState.INGAME;
 
 		this.startRound();
 
 		return GameStartResponse.SUCCESS;
-	}
-
-	getPhase(): GamePhase {
-		return this.gamePhase;
-	}
-
-	getActiveBlackCard(): BlackCard | null {
-		return this.activeBlackCard;
 	}
 
 	endGame(reason: GameEndReason) {
@@ -450,35 +520,7 @@ export class Game implements ITickable {
 		}
 	}
 
-	sendGameListUpdateUpdate() {
-		this._server.broadcastGameList();
-	}
-
-	sendStateUpdate(includeUser: User = null) {
-		let target: User[] = [];
-
-		this.players.forEach((p) => {
-			target.push(p.getUser());
-		});
-
-		if (includeUser != null) {
-			target.push(includeUser);
-		}
-
-		target.forEach((user) => {
-			user.sendActiveGameState();
-		});
-	}
-
-	sendFullUpdate(includeUser: User = null) {
-		this.sendStateUpdate(includeUser);
-		this.sendGameListUpdateUpdate();
-	}
-
-	getPlayerByUser(user: User): Player | null {
-		return this.players.find(p => p.getUUID() == user.getUUID());
-	}
-
+	/* ===== Player game interactions ===== */
 	onPlayerSelectCards(player: Player): void {
 		if (this.gamePhase != GamePhase.PICKING) {
 			return;
@@ -494,25 +536,58 @@ export class Game implements ITickable {
 		}
 	}
 
-	isAllPlayersDone(): boolean {
-		let allDone = true;
-		let cardCzar: Player = this.getCardCzar();
+	selectWinner(hash: string): SelectWinnerResponse {
+		if (this.gameState != GameState.INGAME || this.gamePhase != GamePhase.VOTING) {
+			console.warn("Tried to select winner while not in the ingame voting state");
+			return { success: false };
+		}
 
-		this.players.forEach(p => {
-			if (cardCzar != null) {
-				if (cardCzar.getUUID() == p.getUUID()) {
-					return;
-				}
-			}
+		if (this.winnerSelected) {
+			console.warn("Tried to select winner while the winner has already been declared");
+			return { success: false };
+		}
 
-			if (p.getSelectedCards().length == 0) {
-				allDone = false;
-			}
+		if (this.votingHashes[hash] == undefined) {
+			console.warn("Invalid winner hash: " + hash);
+			return { success: false };
+		}
+
+		let uuid = this.votingHashes[hash];
+
+		let player = this.players.find(p => p.getUUID() == uuid);
+
+		this.winnerSelected = true;
+
+		if (player != null) {
+			player.setScore(player.getScore() + 1);
+		}
+
+		this.players.forEach(player => {
+			player.getUser().getSocket().send("round_winner", {
+				uuid: uuid,
+				hash: hash
+			});
 		});
 
-		return allDone;
+		this.sendStateUpdate();
+
+		this.timeLeft = -1;
+
+		console.log("[Game] Winner selected. Starting next round in 4 seconds");
+
+		setTimeout(() => {
+			if (this.getPhase() == GamePhase.VOTING && this.getGameState() == GameState.INGAME) {
+				this.startRound();
+			}
+		}, 4000);
+
+		return {
+			success: true,
+			player: player
+		};
 	}
 
+	/* ===== Game loop ===== */
 	tick(): void {
 		//console.debug(this.cardCzar);
 

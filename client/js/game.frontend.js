@@ -9,6 +9,8 @@ var selectedCards = [];
 
 var disconnected = false;
 
+var cardCzarSelected = null;
+
 var debugMode = true;
 
 socket.on("message", function (message, content) {
@@ -54,6 +56,30 @@ socket.on("message", function (message, content) {
 			handleVotingStart(content);
 			break;
 
+		case "round_winner":
+			console.log(content);
+			let winner = "[Unknown player]"
+
+			activeGame.players.forEach(player => {
+				if (player.uuid == content.uuid) {
+					winner = player.username;
+				}
+			});
+
+			console.log("This rounds winner is: " + winner);
+			$("#round_winner_text").text("This rounds winner is: " + winner);
+			$("#round_winner_text").show();
+
+			let hash = content.hash;
+
+			$(".played-card-set").each(function () {
+				if ($(this).data("hash") == hash) {
+					$(this).addClass("card-czar-selected");
+				}
+			});
+
+			break;
+
 		default:
 			console.warn("invalid packet: " + message);
 			break;
@@ -91,7 +117,6 @@ function handleGameList(data) {
 		console.log("ignoring handleGameList() since we are not ready");
 		return;
 	}
-
 
 	/* ===== Setup table rows ===== */
 	let foundGames = [];
@@ -175,6 +200,9 @@ function handleGameList(data) {
 
 function handleVotingStart(data) {
 	$("#voting_cards").html("");
+	$("#btn_card_czar_confirm").attr("disabled", true);
+
+	cardCzarSelected = null;
 
 	let selectedSets = data.selected_sets;
 
@@ -190,15 +218,31 @@ function handleVotingStart(data) {
 		setHtml.attr("data-hash", set.hash);
 		setHtml.addClass("played-card-set");
 
+		if (myUUID == activeGame.card_czar) {
+			setHtml.addClass("card-czar-can-select");
+		}
+
 		set.selected.forEach(text => {
 			let cardHtml = $("#white_card_template").clone();
 
 			cardHtml.removeAttr("id");
 			cardHtml.find(".selected-card-number").remove(); // Remove badge that we dont need here
-			cardHtml.find(".card-text-content").text(text);
+			cardHtml.find(".card-text-content").html(text);
 			cardHtml.addClass("played-white-card");
 
 			setHtml.append(cardHtml);
+		});
+
+		setHtml.on("click", function () {
+			if (myUUID != activeGame.card_czar) {
+				return; // The player is not the card czar
+			}
+
+			$(".card-czar-selected").removeClass("card-czar-selected");
+			$(this).addClass("card-czar-selected");
+			$("#btn_card_czar_confirm").attr("disabled", false);
+			cardCzarSelected = $(this).data("hash");
+			console.debug("Selected " + cardCzarSelected);
 		});
 
 		$("#voting_cards").append(setHtml);
@@ -233,6 +277,10 @@ function handleGameState(data) {
 		$("#game_browser").hide();
 
 		activeGame = data.active_game;
+
+		if (!activeGame.winner_selected) {
+			$("#round_winner_text").hide();
+		}
 
 		if (activeGame.state == 0) {
 			/* ===== Lobby data ===== */
@@ -321,6 +369,10 @@ function handleGameState(data) {
 					newElement.find(".player-name").text(player.username);
 					newElement.find(".td-player-score").text(player.score);
 
+					if (player.uuid == myUUID) {
+						newElement.addClass("my-player");
+					}
+
 					$("#game_players_tbody").append(newElement);
 				}
 
@@ -346,7 +398,7 @@ function handleGameState(data) {
 						// Show because we are the card boi
 						$(this).find(".selecting-cards").hide();
 					} else {
-						if(activeGame.phase == 0) {
+						if (activeGame.phase == 0) {
 							// Show because we are in the selecting phase
 							$(this).find(".selecting-cards").show();
 						} else {
@@ -357,11 +409,78 @@ function handleGameState(data) {
 				}
 			});
 
+			/* ===== Card czar ===== */
+			if (activeGame.phase == 1 && myUUID == activeGame.card_czar) {
+				$("#card_czar_options").show();
+			} else {
+				$("#card_czar_options").hide();
+			}
+
 			/* ===== Player hand state ===== */
 			let isCardCzar = myUUID == activeGame.card_czar;
-
 			let enableHand = true;
 
+			let message = -1; // 1: You are the Card Czar 2: Waiting for other players 3: Wait for the Card Czar to pick the winner
+
+			if (isCardCzar) {
+				// Card czar does not have a hand
+				message = 1;
+				enableHand = false;
+			} else {
+				// We are not the card czar
+				$("#you_are_card_czar").hide();
+
+				if (activeGame.phase == 0) {
+					// Picking phase
+					if (activeGame.players.find(p => p.uuid == myUUID).done) {
+						// We are done
+						enableHand = false;
+						message = 2;
+					}
+				} else {
+					enableHand = false; // You cant pick cards in the voting phase
+
+					// Voting phase
+					if (!isCardCzar) {
+						message = 3;
+					}
+				}
+			}
+
+			if (activeGame.winner_selected) {
+				// No message because the winner is selected
+				$("#btn_card_czar_confirm").attr("disabled", true);
+				message = -1;
+			}
+
+			$(".player-message").hide();
+
+			switch (message) {
+				case 1:
+					$("#you_are_card_czar").show();
+					break;
+
+				case 2:
+					$("#wait_for_other_players").show();
+					break;
+
+				case 3:
+					$("#wait_for_card_czar").show();
+					break;
+
+				default:
+					break;
+			}
+
+			// enable / disable hand depending on hame state
+			if (enableHand) {
+				$("#player_hand").removeClass("disabled-content");
+			} else {
+				$("#player_hand").addClass("disabled-content");
+				$("#btn_confirm_selection").attr("disabled", true);
+			}
+
+			/*
 			// player is the card czar
 			if (isCardCzar) {
 				$("#you_are_card_czar").show();
@@ -385,13 +504,7 @@ function handleGameState(data) {
 			} else {
 				$("#wait_for_card_czar").hide();
 			}
-
-			// enable / disable hand depending on hame state
-			if (enableHand) {
-				$("#player_hand").removeClass("disabled-content");
-			} else {
-				$("#player_hand").addClass("disabled-content");
-			}
+			*/
 
 			/* ===== Player hand cards ===== */
 			let handCards = [];
@@ -432,8 +545,6 @@ function handleGameState(data) {
 							selectedCards.push(b64_to_utf8($(this).data("content")));
 							updateSelectionNumbers();
 						}
-
-
 					});
 
 					$("#player_hand").append(newHtml);
@@ -529,6 +640,16 @@ $(function () {
 		socket.send("select_cards", {
 			selected_cards: selectedCards
 		});
+	});
+
+	$("#btn_card_czar_confirm").on("click", function () {
+		if (cardCzarSelected != null) {
+			socket.send("card_czar_select_cards", {
+				selected: cardCzarSelected
+			});
+		} else {
+			console.log("#btn_card_czar_confirm clicked while cardCzarSelected is null");
+		}
 	});
 
 	$(".hide-until-loaded").removeClass(".hide-until-loaded");
