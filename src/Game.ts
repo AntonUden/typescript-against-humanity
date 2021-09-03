@@ -121,7 +121,7 @@ export class Game implements ITickable {
 		for (let i: number = 0; i < this.players.length; i++) {
 			if (this.players[i].getUUID() == user.getUUID()) {
 				//console.debug(this.cardCzar + " | " + i + " | " + (this.cardCzar <= i) + " | " + (this.cardCzar > 0));
-				
+
 				if (this.cardCzar > i && this.cardCzar > 0) {
 					// Keep the same player as card czar
 					this.cardCzar--;
@@ -144,6 +144,7 @@ export class Game implements ITickable {
 				this.endGame(GameEndReason.NOT_ENOUGH_PLAYERS);
 			} else {
 				if (skipRound) {
+					this.players.forEach(player => player.clearSelectedCards());
 					this.broadcastMessage("Round skupped because the card czar left", MessageType.WARNING);
 				}
 			}
@@ -268,6 +269,8 @@ export class Game implements ITickable {
 	startVotingPhase() {
 		this.gamePhase = GamePhase.VOTING;
 		this.timeLeft = this.settings.maxRoundTime * 10;
+
+		this.sendStateUpdate();
 	}
 
 	fillPlayerHand(player: Player) {
@@ -411,6 +414,38 @@ export class Game implements ITickable {
 		this.sendGameListUpdateUpdate();
 	}
 
+	getPlayerByUser(user: User): Player | null {
+		return this.players.find(p => p.getUUID() == user.getUUID());
+	}
+
+	onPlayerSelectCards(player: Player): void {
+		if (this.gamePhase != GamePhase.PICKING) {
+			return;
+		}
+
+		let allDone = true;
+		let cardCzar: Player = this.getCardCzar();
+
+		this.players.forEach(p => {
+			if (cardCzar != null) {
+				if (cardCzar.getUUID() == p.getUUID()) {
+					return;
+				}
+			}
+
+			if (p.getSelectedCards().length == 0) {
+				allDone = false;
+			}
+		});
+
+		if (allDone) {
+			this.startVotingPhase();
+		} else {
+			this.sendStateUpdate();
+			player.getUser().getSocket().send("cards_selected_success", {});
+		}
+	}
+
 	tick(): void {
 		//console.debug(this.cardCzar);
 
@@ -425,7 +460,7 @@ export class Game implements ITickable {
 				}
 
 				if (this.timeLeft == 0) {
-					console.debug("Game timed out at phase " + this.gamePhase);
+					//console.debug("Game timed out at phase " + this.gamePhase);
 					switch (this.gamePhase) {
 						case GamePhase.PICKING:
 							this.broadcastMessage("Some players did not select cards in time", MessageType.WARNING);
@@ -434,12 +469,11 @@ export class Game implements ITickable {
 
 						case GamePhase.VOTING:
 							this.broadcastMessage("The card czar did not pick a card in time", MessageType.WARNING);
+							this.players.forEach(player => player.clearSelectedCards());
 							this.startRound();
 							break;
 					}
 				}
-
-
 
 				this.timeLeft--;
 			}

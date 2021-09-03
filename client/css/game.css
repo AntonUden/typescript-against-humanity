@@ -26,3 +26,10 @@
 	pointer-events: none;
 	opacity: 0.4;
 }
+
+#hand_message {
+	position: fixed;
+	z-index: 99999;
+	pointer-events: none; 
+	text-align: center;
+}

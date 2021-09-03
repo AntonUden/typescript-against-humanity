@@ -3,6 +3,7 @@ import { throws } from "assert/strict";
 import { Socket } from "socket.io";
 import { Deck } from "./card/Deck";
 import { WhiteCard } from "./card/WhiteCard";
+import { GamePhase } from "./enum/GamePhase";
 import { GameStartResponse } from "./enum/GameStartResponse";
 import { JoinGameResponse } from "./enum/JoinGameResponse";
 import { MessageType } from "./enum/MessageType";
@@ -246,6 +247,62 @@ export class User implements ITickable {
 
 					break;
 
+				case "select_cards":
+					if (!Array.isArray(content["selected_cards"])) {
+						console.warn("[User] Received select_cards without selected_cards array");
+						return;
+					}
+
+					if (!this.isInGame()) {
+						console.warn("[User] Tried to select cards while not in a game");
+						return;
+					}
+
+					if (this.getGame().getPhase() != GamePhase.PICKING) {
+						console.warn("[User] Tried to select cards while not in the picking phase");
+						return;
+					}
+
+					let selected: string[] = content["selected_cards"];
+
+					for (let i = 0; i < selected.length; i++) {
+						for (let j = 0; j < selected.length; j++) {
+							if (i == j) {
+								continue;
+							}
+
+							if (selected[i] == selected[j]) {
+								this.sendMessage("Duplicate cards selected", MessageType.ERROR);
+								return;
+							}
+						}
+					}
+
+					let player: Player = this.getGame().getPlayerByUser(this);
+
+					if (player.getSelectedCards().length > 0) {
+						this.sendMessage("You have already selected cards for this round", MessageType.WARNING);
+						return;
+					}
+
+					if (player == null) {
+						this.sendMessage("Server error: Could not find player object", MessageType.ERROR);
+						return;
+					}
+
+					let hand: string[] = player.getHand();
+
+					for (let i = 0; i < selected.length; i++) {
+						if (!hand.includes(selected[i])) {
+							this.sendMessage("You tried to play a card you do not have", MessageType.ERROR);
+							return;
+						}
+					}
+
+					player.setSelectedCards(selected);
+
+					break;
+
 				default:
 					console.warn("[User] Invalid message received: " + message);
 					break;
@@ -283,7 +340,7 @@ export class User implements ITickable {
 
 			game.getDecks().forEach((deck) => {
 				decks.push(deck.getName());
-			})
+			});
 
 			let gameObject: any = {
 				uuid: game.getUUID(),
@@ -318,10 +375,13 @@ export class User implements ITickable {
 			let players: any[] = [];
 
 			game.getPlayers().forEach((player) => {
+				let done: boolean = player.getSelectedCards().length > 0;
+
 				players.push({
 					uuid: player.getUUID(),
 					username: player.getUser().getUsername(),
-					score: player.getScore()
+					score: player.getScore(),
+					done: done
 				});
 			});
 
@@ -335,7 +395,7 @@ export class User implements ITickable {
 
 			let cardCzar: string | null = null;
 
-			if(game.getCardCzar() != null) {
+			if (game.getCardCzar() != null) {
 				cardCzar = game.getCardCzar().getUUID();
 			}
 

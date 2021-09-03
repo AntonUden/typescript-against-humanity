@@ -35,6 +35,11 @@ socket.on("message", function (message, content) {
 			setupExpansions();
 			break;
 
+		case "cards_selected_success":
+			toastr.success("Cards selected");
+			updateSelectionNumbers();
+			break;
+
 		case "time_left":
 			$("#time_left").text(content.time);
 			break;
@@ -107,7 +112,7 @@ function handleGameList(data) {
 				joinGame(uuid);
 			});
 
-			console.log(newElement);
+			//console.log(newElement);
 
 			$("#game_table_rows").prepend(newElement);
 		}
@@ -156,10 +161,11 @@ function handleGameList(data) {
 function handleRoundStart(data) {
 	// Reset and prepare for next round
 	selectedCards = [];
-	$(".selected-white-card").addClass("selected-white-card");
+	$(".selected-white-card").removeClass("selected-white-card");
 	updateSelectionNumbers();
 }
 
+/* ===== This gets called when something in the game changes and the game needs to update ===== */
 function handleGameState(data) {
 	if (!ready) {
 		console.log("ignoring handleGameState() since we are not ready");
@@ -222,6 +228,8 @@ function handleGameState(data) {
 			$("#game_expansions").text(expansions);
 		} else {
 			/* ===== In game ===== */
+
+			/* ===== Black card ===== */
 			$("#waiting_lobby").hide();
 			$("#in_game").show();
 
@@ -236,26 +244,30 @@ function handleGameState(data) {
 			}
 
 
-			//game_players_tbody
-
+			/* ===== Player list (ingame version) ===== */
 			let foundPlayers = [];
 			$(".ingame-player-tr").each(function () {
 				foundPlayers.push($(this).data("uuid"));
 			});
 
-			console.log(foundPlayers);
+			//console.log(foundPlayers);
 
 			activeGame.players.forEach((player) => {
 				if (foundPlayers.includes(player.uuid)) {
-					//TODO: update
+					$(".ingame-player-tr").each(function () {
+						if (player.uuid == $(this).data("uuid")) {
+							$(this).find(".td-player-score").text(player.score);
+						}
+					});
 				} else {
-					//foundPlayers.
 					let newElement = $("#ingame_player_template").clone();
 					newElement.removeAttr("id");
 					newElement.addClass("ingame-player-tr");
 					newElement.attr("data-uuid", player.uuid);
 
 					newElement.find(".card-czar").hide();
+					newElement.find(".selecting-cards").hide();
+
 					newElement.find(".player-name").text(player.username);
 					newElement.find(".td-player-score").text(player.score);
 
@@ -274,24 +286,42 @@ function handleGameState(data) {
 			});
 
 			$(".ingame-player-tr").each(function () {
-				if($(this).data("uuid") == activeGame.card_czar) {
+				let uuid = $(this).data("uuid");
+				if (uuid == activeGame.card_czar) {
 					$(this).find(".card-czar").show();
+					$(this).find(".selecting-cards").hide();
 				} else {
 					$(this).find(".card-czar").hide();
+					if (activeGame.players.find(p => p.uuid == uuid).done) {
+						$(this).find(".selecting-cards").hide();
+					} else {
+						$(this).find(".selecting-cards").show();
+					}
 				}
 			});
 
+			/* ===== Player hand state ===== */
 			let isCardCzar = myUUID == activeGame.card_czar;
 
 			let enableHand = true;
 
-			if(isCardCzar) {
+			// player is the card czar
+			if (isCardCzar) {
 				$("#you_are_card_czar").show();
 				enableHand = false;
 			} else {
 				$("#you_are_card_czar").hide();
 			}
 
+			// player has played their cards and is waiting for the other players
+			if (activeGame.phase == 0 && !isCardCzar && activeGame.players.find(p => p.uuid == myUUID).done) {
+				$("#wait_for_other_players").show();
+				enableHand = false;
+			} else {
+				$("#wait_for_other_players").hide();
+			}
+
+			// player is waiting for the card czar to pick
 			if (activeGame.phase == 1 && !isCardCzar) {
 				$("#wait_for_card_czar").show();
 				enableHand = false;
@@ -299,29 +329,21 @@ function handleGameState(data) {
 				$("#wait_for_card_czar").hide();
 			}
 
-			if (activeGame.phase == 0 && !isCardCzar) {
-				// Playing and not card boi
-			} else {
-				enableHand = false;
-				// Voting or card boi
-			}
-
-			if(enableHand) {
+			// enable / disable hand depending on hame state
+			if (enableHand) {
 				$("#player_hand").removeClass("disabled-content");
 			} else {
 				$("#player_hand").addClass("disabled-content");
 			}
-			
 
-
-
+			/* ===== Player hand cards ===== */
 			let handCards = [];
 
 			$(".player-hand-card").each(function () {
 				handCards.push(b64_to_utf8($(this).data("content")));
 			});
 
-			console.log(handCards);
+			//console.log(handCards);
 
 			activeGame.hand.forEach((card) => {
 				if (!handCards.includes(card)) {
@@ -373,6 +395,7 @@ function handleGameState(data) {
 	}
 }
 
+// also enables / disables the confirm selection button
 function updateSelectionNumbers() {
 	if (activeGame != null) {
 		if (activeGame.black_card != null) {
@@ -382,15 +405,23 @@ function updateSelectionNumbers() {
 			if (select > 1) {
 				for (let i = 0; i < selectedCards.length; i++) {
 					let b64 = utf8_to_b64(selectedCards[i]);
-					console.log("target: " + b64);
+					//console.log("target: " + b64);
 					$("#player_hand").find(".player-hand-card").each(function () {
-						console.log($(this).data("content"));
+						//console.log($(this).data("content"));
 						if ($(this).data("content") == b64) {
 							$(this).find(".selected-card-number").text(i + 1);
 							$(this).find(".selected-card-number").show();
 						}
 					});
 				}
+			}
+
+			console.log("done: " + activeGame.players.find(p => p.uuid == myUUID).done);
+
+			if (selectedCards.length == select && game.card_czar != myUUID && !activeGame.players.find(p => p.uuid == myUUID).done) {
+				$("#btn_confirm_selection").attr("disabled", false);
+			} else {
+				$("#btn_confirm_selection").attr("disabled", true);
 			}
 		}
 	}
@@ -399,6 +430,7 @@ function updateSelectionNumbers() {
 $(function () {
 	$("#game").hide();
 	$("#you_are_card_czar").hide();
+	$("#btn_confirm_selection").attr("disabled", true);
 
 	$("#btn_createGame").on("click", function () {
 		let gameName = $("#tbx_careateGameName").val();
@@ -434,7 +466,13 @@ $(function () {
 
 	$("#btn_start_game").on("click", function () {
 		socket.send("start_game", {});
-	})
+	});
+
+	$("#btn_confirm_selection").on("click", function () {
+		socket.send("select_cards", {
+			selected_cards: selectedCards
+		});
+	});
 });
 
 function useAllExpansions() {
@@ -444,7 +482,7 @@ function useAllExpansions() {
 function setupExpansions() {
 	$("#expansions").text("");
 	gameConfig.deckCollections.forEach((deckCollection) => {
-		console.log(deckCollection);
+		//console.log(deckCollection);
 
 		let collectionHtml = $("#deck_collection_template").clone();
 		collectionHtml.removeAttr("id");

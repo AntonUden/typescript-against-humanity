@@ -1,3 +1,4 @@
+import { WhiteCard } from "./card/WhiteCard";
 import { Game } from "./Game";
 import { User } from "./User";
 
@@ -6,13 +7,13 @@ export class Player {
 	private score: number;
 	private hand: string[];
 	private _game: Game;
-
-
+	private selectedCards: string[];
 
 	constructor(game: Game, user: User) {
 		this.user = user;
 		this.score = 0;
 		this.hand = [];
+		this.selectedCards = [];
 		this._game = game;
 	}
 
@@ -20,7 +21,7 @@ export class Player {
 		return this.hand;
 	}
 
-	clearHand() {
+	clearHand(): void {
 		this.hand = [];
 	}
 
@@ -38,5 +39,18 @@ export class Player {
 
 	getUUID(): string {
 		return this.user.getUUID();
+	}
+
+	clearSelectedCards(): void {
+		this.selectedCards = [];
+	}
+
+	getSelectedCards(): string[] {
+		return this.selectedCards;
+	}
+
+	setSelectedCards(selected: string[]): void {
+		this.selectedCards = selected;
+		this._game.onPlayerSelectCards(this);
 	}
 }
