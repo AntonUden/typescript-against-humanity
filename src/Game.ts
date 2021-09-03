@@ -567,6 +567,11 @@ export class Game implements ITickable {
 				uuid: uuid,
 				hash: hash
 			});
+
+			player.getSelectedCards().forEach(card => {
+				let index = player.getHand().indexOf(card, 0);
+				player.getHand().splice(index, 1);
+			});
 		});
 
 		this.sendStateUpdate();
