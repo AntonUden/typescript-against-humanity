@@ -462,7 +462,6 @@ export class Game implements ITickable {
 
 	/* ===== Starting and ending game ===== */
 	startGame(): GameStartResponse {
-		console.trace("succ");
 		if (this.gameState == GameState.INGAME) {
 			return GameStartResponse.ALREADY_RUNNING;
 		}
