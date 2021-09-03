@@ -93,6 +93,12 @@ export class User implements ITickable {
 						return;
 					}
 
+					let gamePassword: string | null = null;
+
+					if (content["password"] != null) {
+						gamePassword = content["password"] + "";
+					}
+
 					if (this.isInGame()) {
 						console.log("[User] User " + this.uuid + " tried to create a game while already in one");
 						this.sendMessage("You are already in a game", MessageType.WARNING);
@@ -107,7 +113,7 @@ export class User implements ITickable {
 					}
 
 					console.log("[Game] User " + this.uuid + " created a game named " + gameName);
-					this._server.createGame(this, gameName);
+					this._server.createGame(this, gameName, gamePassword);
 
 					break;
 
@@ -418,7 +424,8 @@ export class User implements ITickable {
 				name: game.getName(),
 				state: game.getGameState(),
 				decks: decks,
-				player_count: game.getPlayers().length
+				player_count: game.getPlayers().length,
+				password_protected: game.hasPassword()
 			};
 
 			gameList.push(gameObject);

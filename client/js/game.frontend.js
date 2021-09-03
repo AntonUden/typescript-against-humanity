@@ -106,9 +106,46 @@ function getDeck(name) {
 	return result;
 }
 
-function joinGame(uuid) {
+function joinGame(uuid, password = null) {
 	socket.send("join_game", {
-		uuid: uuid
+		uuid: uuid,
+		password: password
+	});
+}
+
+function joinPasswordProtected(uuid) {
+	$.confirm({
+		title: 'Enter game password!',
+		content: '' +
+			'<form action="" class="password-form">' +
+			'<div class="form-group">' +
+			'<label>This game is password protected</label>' +
+			'<input type="password" placeholder="Password" class="input-password form-control" required />' +
+			'</div>' +
+			'</form>',
+		buttons: {
+			formSubmit: {
+				text: 'Submit',
+				btnClass: 'btn-blue',
+				action: function () {
+					var password = this.$content.find('.input-password').val();
+
+					joinGame(uuid, password);
+				}
+			},
+			cancel: function () {
+				//close
+			},
+		},
+		onContentReady: function () {
+			// bind to events
+			var jc = this;
+			this.$content.find('form').on('submit', function (e) {
+				// if the user submits the form by pressing enter in the field.
+				e.preventDefault();
+				jc.$$formSubmit.trigger('click'); // reference the button and click it
+			});
+		}
 	});
 }
 
@@ -144,12 +181,28 @@ function handleGameList(data) {
 			newElement.addClass("game-tr");
 			newElement.attr("data-game-id", game.uuid);
 
-			newElement.find(".td-game-name").text(game.name);
+			newElement.find(".game-name-content").text(game.name);
+
+			console.log(game);
+
+			if (!game.password_protected) {
+				newElement.find(".password-protected").hide();
+			}
+			newElement.attr("data-password-protected", game.password_protected ? "1" : "0");
 
 			newElement.find(".join-game-button").on("click", function () {
 				let uuid = $(this).parent().parent().data("game-id");
-				console.debug("Attempting to join game " + uuid);
-				joinGame(uuid);
+				let passwordProtected = $(this).parent().parent().data("password-protected") == 1;
+
+				console.log($(this).parent().data("password-protected"));
+
+				if (passwordProtected) {
+					joinPasswordProtected(uuid);
+				} else {
+					console.debug("Attempting to join game " + uuid);
+					joinGame(uuid);
+				}
+
 			});
 
 			//console.log(newElement);
@@ -480,32 +533,6 @@ function handleGameState(data) {
 				$("#btn_confirm_selection").attr("disabled", true);
 			}
 
-			/*
-			// player is the card czar
-			if (isCardCzar) {
-				$("#you_are_card_czar").show();
-				enableHand = false;
-			} else {
-				$("#you_are_card_czar").hide();
-			}
-
-			// player has played their cards and is waiting for the other players
-			if (activeGame.phase == 0 && !isCardCzar && activeGame.players.find(p => p.uuid == myUUID).done) {
-				$("#wait_for_other_players").show();
-				enableHand = false;
-			} else {
-				$("#wait_for_other_players").hide();
-			}
-
-			// player is waiting for the card czar to pick
-			if (activeGame.phase == 1 && !isCardCzar) {
-				$("#wait_for_card_czar").show();
-				enableHand = false;
-			} else {
-				$("#wait_for_card_czar").hide();
-			}
-			*/
-
 			/* ===== Player hand cards ===== */
 			let handCards = [];
 
@@ -595,6 +622,7 @@ function updateSelectionNumbers() {
 	}
 }
 
+/* ----- JQuery ----- */
 $(function () {
 	$("#game").hide();
 	$("#you_are_card_czar").hide();
@@ -602,6 +630,11 @@ $(function () {
 
 	$("#btn_createGame").on("click", function () {
 		let gameName = $("#tbx_createGameName").val();
+		let password = $("#tbx_gamePassword").val();
+
+		if (password.length == 0) {
+			password = null;
+		}
 
 		if (gameName.length == 0) {
 			toastr.error("Please provide a name for the game");
@@ -614,7 +647,8 @@ $(function () {
 		}
 
 		socket.send("create_game", {
-			game_name: gameName
+			game_name: gameName,
+			password: password
 		});
 	});
 
@@ -665,7 +699,7 @@ $(function () {
 	if (window.localStorage.getItem("name") != null) {
 		let name = window.localStorage.getItem("name");
 
-		if(name.length == 0) {
+		if (name.length == 0) {
 			return;
 		}
 

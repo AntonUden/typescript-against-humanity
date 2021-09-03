@@ -88,12 +88,12 @@ export class Server implements ITickable {
 		this.broadcastGameList();
 	}
 
-	createGame(owner: User, name: string): Game {
-		let game: Game = new Game(this, uuidv4(), name);
+	createGame(owner: User, name: string, password: string | null = null): Game {
+		let game: Game = new Game(this, uuidv4(), name, password);
 
 		this.games.push(game);
 
-		game.joinGame(owner);
+		game.joinGame(owner, null, true);
 
 		return game;
 	}

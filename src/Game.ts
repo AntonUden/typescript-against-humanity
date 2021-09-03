@@ -40,9 +40,11 @@ export class Game implements ITickable {
 	private votingHashes: any;
 	private startVotingDataCache: any; // used for people who join during voting
 
+	private password: string;
+
 	private winnerSelected: boolean;
 
-	constructor(server: Server, uuid: string, name: string) {
+	constructor(server: Server, uuid: string, name: string, password: string | null = null) {
 		this._server = server;
 		this.uuid = uuid;
 		this.name = name;
@@ -54,6 +56,7 @@ export class Game implements ITickable {
 			winScore: 10,
 			maxRoundTime: 60
 		}
+		this.password = password;
 
 		this.activeBlackCard = null;
 
@@ -132,6 +135,10 @@ export class Game implements ITickable {
 		return this.players.find(p => p.getUUID() == user.getUUID());
 	}
 
+	getPassword(): string {
+		return this.password;
+	}
+
 	/* ===== Functions to determine if things are true ===== */
 	isWinnerSelected(): boolean {
 		return this.winnerSelected;
@@ -170,9 +177,19 @@ export class Game implements ITickable {
 		return allDone;
 	}
 
+	hasPassword(): boolean {
+		return this.password != null;
+	}
+
 	/* ===== Join and leave ===== */
-	joinGame(user: User, password: string | null = null): JoinGameResponse {
-		if (this.players.length >= this._server.settings.maxPlayersPerGame) {
+	joinGame(user: User, password: string | null = null, forceJoin: boolean = false): JoinGameResponse {
+		if (this.hasPassword() && !forceJoin) {
+			if (this.getPassword() != password) {
+				return JoinGameResponse.INVALID_PASSWORD;
+			}
+		}
+
+		if (this.players.length >= this._server.settings.maxPlayersPerGame && !forceJoin) {
 			return JoinGameResponse.GAME_FULL;
 		}
 
