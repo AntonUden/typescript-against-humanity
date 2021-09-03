@@ -62,3 +62,19 @@
 .hide-until-loaded {
 	display: none !important;
 }
+
+.played-card-set {
+	display: inline-flex;
+	margin-right: 5px;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border: 2px solid #000000;
+}
+
+.played-white-card {
+	min-width: 100px;
+	max-width: 18rem;
+	min-height: 150px;
+}

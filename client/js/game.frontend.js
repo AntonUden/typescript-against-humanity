@@ -9,19 +9,12 @@ var selectedCards = [];
 
 var disconnected = false;
 
-var debugMode = false;
+var debugMode = true;
 
 socket.on("message", function (message, content) {
 	// This is to prevent the player from going into a weird invalid game state when the server restarts
 	if (disconnected) {
 		return;
-	}
-
-	if (debugMode) {
-		console.debug("Received packet");
-		console.debug(message);
-		console.debug(content);
-		console.debug("---------------");
 	}
 
 	switch (message) {
@@ -181,12 +174,40 @@ function handleGameList(data) {
 }
 
 function handleVotingStart(data) {
-	console.log(data);
+	$("#voting_cards").html("");
+
+	let selectedSets = data.selected_sets;
+
+	selectedSets.forEach(set => {
+		if (debugMode) {
+			console.debug("drawing set with hash " + set.hash);
+			console.debug("Content:");
+			console.debug(set.selected);
+		}
+
+		let setHtml = $("<div></div>");
+
+		setHtml.attr("data-hash", set.hash);
+		setHtml.addClass("played-card-set");
+
+		set.selected.forEach(text => {
+			let cardHtml = $("#white_card_template").clone();
+
+			cardHtml.removeAttr("id");
+			cardHtml.find(".selected-card-number").remove(); // Remove badge that we dont need here
+			cardHtml.find(".card-text-content").text(text);
+			cardHtml.addClass("played-white-card");
+
+			setHtml.append(cardHtml);
+		});
+
+		$("#voting_cards").append(setHtml);
+	});
 }
 
 function handleRoundStart(data) {
 	// Clear voting cards
-	$("#voting_cards").html();
+	$("#voting_cards").html("");
 
 	// Reset and prepare for next round
 	selectedCards = [];
@@ -322,9 +343,16 @@ function handleGameState(data) {
 				} else {
 					$(this).find(".card-czar").hide();
 					if (activeGame.players.find(p => p.uuid == uuid).done) {
+						// Show because we are the card boi
 						$(this).find(".selecting-cards").hide();
 					} else {
-						$(this).find(".selecting-cards").show();
+						if(activeGame.phase == 0) {
+							// Show because we are in the selecting phase
+							$(this).find(".selecting-cards").show();
+						} else {
+							// Hide because we are in the voting phase
+							$(this).find(".selecting-cards").hide();
+						}
 					}
 				}
 			});
@@ -383,7 +411,7 @@ function handleGameState(data) {
 					newHtml.addClass("player-hand-card");
 
 					newHtml.find(".selected-card-number").hide();
-					newHtml.find(".cord-text-content").html(card);
+					newHtml.find(".card-text-content").html(card);
 
 					newHtml.on("click", function () {
 						if ($(this).hasClass("selected-white-card")) {

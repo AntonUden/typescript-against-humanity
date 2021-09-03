@@ -48,7 +48,7 @@ export class Game implements ITickable {
 		this.settings = {
 			handSize: 10,
 			winScore: 10,
-			maxRoundTime: 10//60
+			maxRoundTime: 1000//60
 		}
 
 		this.activeBlackCard = null;
@@ -111,9 +111,10 @@ export class Game implements ITickable {
 
 		this.sendFullUpdate();
 
-		if (this.gamePhase == GamePhase.VOTING) {
+		if (this.gamePhase == GamePhase.VOTING && this.gameState == GameState.INGAME) {
 			// send voting state to user
-			player.getUser().getSocket().send("start_voting", this.startVotingDataCache);
+			console.debug("Sending voting_start to a player that joined late");
+			player.getUser().getSocket().send("voting_start", this.startVotingDataCache);
 		}
 
 		return JoinGameResponse.SUCCESS;
@@ -153,11 +154,19 @@ export class Game implements ITickable {
 
 			if (this.players.length < 3 && this.gameState == GameState.INGAME) {
 				this.endGame(GameEndReason.NOT_ENOUGH_PLAYERS);
+				return;
 			} else {
 				if (skipRound) {
 					this.players.forEach(player => player.clearSelectedCards());
+					this.startRound();
 					this.broadcastMessage("Round skupped because the card czar left", MessageType.WARNING);
 				}
+			}
+		}
+
+		if (this.gameState == GameState.INGAME && this.gamePhase == GamePhase.PICKING && !skipRound) {
+			if (this.isAllPlayersDone()) {
+				this.startVotingPhase();
 			}
 		}
 	}
@@ -311,6 +320,10 @@ export class Game implements ITickable {
 				});
 			}
 		});
+
+		// Shuffle array so that the cards will be displayed in a random order instead of the same every time.
+		// This is used to prevent players from cheating by memorising the location of each player.
+		Utils.shuffle(selectedSets);
 
 		this.startVotingDataCache = {
 			selected_sets: selectedSets
@@ -471,6 +484,17 @@ export class Game implements ITickable {
 			return;
 		}
 
+		let allDone: boolean = this.isAllPlayersDone();
+
+		if (allDone) {
+			this.startVotingPhase();
+		} else {
+			this.sendStateUpdate();
+			player.getUser().getSocket().send("cards_selected_success", {});
+		}
+	}
+
+	isAllPlayersDone(): boolean {
 		let allDone = true;
 		let cardCzar: Player = this.getCardCzar();
 
@@ -486,12 +510,7 @@ export class Game implements ITickable {
 			}
 		});
 
-		if (allDone) {
-			this.startVotingPhase();
-		} else {
-			this.sendStateUpdate();
-			player.getUser().getSocket().send("cards_selected_success", {});
-		}
+		return allDone;
 	}
 
 	tick(): void {
