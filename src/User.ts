@@ -331,11 +331,46 @@ export class User implements ITickable {
 						console.warn("[User] Tried to select winner cards but selected is null");
 						return;
 					}
-					
-					if(!this.getGame().selectWinner("" + content["selected"])) {
+
+					if (!this.getGame().selectWinner("" + content["selected"]).success) {
 						console.warn("[User] Tried to select winner cards but it failed");
 						this.sendMessage("Failed to select winner. Please try again", MessageType.ERROR);
 					}
+
+					break;
+
+				case "set_name":
+					if (this.isInGame()) {
+						console.warn("[User] A user tried to change their name while in game");
+						return;
+					}
+
+					if (content["name"] == null) {
+						console.warn("[User] A user tried to change their name without sending a name variable");
+						return;
+					}
+
+					let name = "" + content["name"];
+
+					if (name == this.getUsername()) {
+						return;
+					}
+
+					if (name.trim().length == 0) {
+						this.sendMessage("You cant have an empty name", MessageType.ERROR);
+						return;
+					}
+
+					if (name.length > this._server.settings.maxPlayerNameLength) {
+						this.sendMessage("That name is too long", MessageType.ERROR);
+						return;
+					}
+
+
+					console.log("[User] User " + this.getUUID() + " changed their name from " + this.getUsername() + " to " + name);
+					this.setUsername(name);
+
+					this.sendMessage("Name set to " + name, MessageType.SUCCESS);
 
 					break;
 

@@ -601,7 +601,7 @@ $(function () {
 	$("#btn_confirm_selection").attr("disabled", true);
 
 	$("#btn_createGame").on("click", function () {
-		let gameName = $("#tbx_careateGameName").val();
+		let gameName = $("#tbx_createGameName").val();
 
 		if (gameName.length == 0) {
 			toastr.error("Please provide a name for the game");
@@ -651,6 +651,29 @@ $(function () {
 			console.log("#btn_card_czar_confirm clicked while cardCzarSelected is null");
 		}
 	});
+
+	$("#btn_setUsername").on("click", function () {
+		let name = $("#tbx_userName").val();
+
+		window.localStorage.setItem("name", name);
+
+		socket.send("set_name", {
+			name: name
+		});
+	});
+
+	if (window.localStorage.getItem("name") != null) {
+		let name = window.localStorage.getItem("name");
+
+		if(name.length == 0) {
+			return;
+		}
+
+		$("#tbx_userName").val(name)
+		socket.send("set_name", {
+			name: name
+		});
+	}
 
 	$(".hide-until-loaded").removeClass(".hide-until-loaded");
 });
