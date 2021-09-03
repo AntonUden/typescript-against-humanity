@@ -15,7 +15,7 @@ import { Server } from "./Server";
 import { User } from "./User";
 import { Utils } from "./Utils";
 import { v4 as uuidv4 } from 'uuid';
-import { SelectWinnerResponse } from "./SelectWinnerResponse";
+import { SelectWinnerResponse } from "./enum/SelectWinnerResponse";
 
 export class Game implements ITickable {
 	private uuid: string;
