@@ -183,6 +183,8 @@ function handleGameList(data) {
 
 			newElement.find(".game-name-content").text(game.name);
 
+			newElement.find(".td-game-custom-settings").text(game.custom_settings_string);
+
 			console.log(game);
 
 			if (!game.password_protected) {

@@ -425,7 +425,8 @@ export class User implements ITickable {
 				state: game.getGameState(),
 				decks: decks,
 				player_count: game.getPlayers().length,
-				password_protected: game.hasPassword()
+				password_protected: game.hasPassword(),
+				custom_settings_string: game.getCustomSettingsString()
 			};
 
 			gameList.push(gameObject);
@@ -488,7 +489,9 @@ export class User implements ITickable {
 				hand: hand,
 				phase: game.getPhase(),
 				card_czar: cardCzar,
-				winner_selected: game.isWinnerSelected()
+				winner_selected: game.isWinnerSelected(),
+				custom_settings_string: game.getCustomSettingsString(),
+				settings: game.getGameSettings()
 			};
 		}
 

@@ -42,6 +42,8 @@ export class Game implements ITickable {
 
 	private password: string;
 
+	private customSettingsString: string;
+
 	private winnerSelected: boolean;
 
 	constructor(server: Server, uuid: string, name: string, password: string | null = null) {
@@ -51,7 +53,8 @@ export class Game implements ITickable {
 		this.gameState = GameState.WAITING;
 		this.votingHashes = {};
 		this.winnerSelected = false;
-		this.useDefaultSettings();
+		this.customSettingsString = "None";
+		this.useDefaultSettings(false); // false to not cause a game update
 		this.password = password;
 
 		this.activeBlackCard = null;
@@ -135,8 +138,55 @@ export class Game implements ITickable {
 		return this.password;
 	}
 
-	useDefaultSettings(): void {
+	useDefaultSettings(update: boolean = true): void {
 		this.settings = Utils.cloneObject(this._server.defaultGameSettings);
+		this.updateSustomSettingsString();
+		if (update) {
+			this.sendFullUpdate();
+		}
+	}
+
+	getCustomSettingsString(): string {
+		return this.customSettingsString;
+	}
+
+	setCustomSettings(settings: GameSettings, update: boolean = true): void {
+		this.settings = settings;
+		this.updateSustomSettingsString();
+		if (update) {
+			this.sendFullUpdate();
+		}
+	}
+
+	/* ===== Custom settings ===== */
+	updateSustomSettingsString(): void {
+		let result: string = "";
+
+		if (this.settings.allowThrowingAwayCards != this._server.defaultGameSettings.allowThrowingAwayCards) {
+			result += "Allow throwing away cards, ";
+		}
+
+		if (this.settings.handSize != this._server.defaultGameSettings.handSize) {
+			result += "Hand size: " + this.settings.handSize + ", ";
+		}
+
+		if (this.settings.winScore != this._server.defaultGameSettings.winScore) {
+			result += "Win score: " + this.settings.winScore + ", ";
+		}
+
+		if (this.settings.maxRoundTime != this._server.defaultGameSettings.maxRoundTime) {
+			result += "Max round time: " + this.settings.maxRoundTime + ", ";
+		}
+
+		if (result.length == 0) {
+			result = "none";
+		} else {
+			// Remove space and comma at the end
+			result = result.trim();
+			result = result.substring(0, result.length - 1);
+		}
+
+		this.customSettingsString = result;
 	}
 
 	/* ===== Functions to determine if things are true ===== */
@@ -618,7 +668,7 @@ export class Game implements ITickable {
 					this.players.forEach((player) => {
 						player.getUser().getSocket().send("time_left", {
 							time: Math.floor(this.timeLeft / 10)
-						})
+						});
 					});
 				}
 

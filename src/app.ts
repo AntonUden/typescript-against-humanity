@@ -9,5 +9,7 @@ const server = new Server({
 	maxPlayersPerGame: 10,
 	maxGameNameLength: 40,
 	maxPlayerNameLength: 40,
-	minCardsRequiredToStart: 10
+	minCardsRequiredToStart: 10,
+	minHandSize: 5,
+	maxHandSize: 50
 });
