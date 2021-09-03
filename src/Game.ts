@@ -51,11 +51,7 @@ export class Game implements ITickable {
 		this.gameState = GameState.WAITING;
 		this.votingHashes = {};
 		this.winnerSelected = false;
-		this.settings = {
-			handSize: 10,
-			winScore: 10,
-			maxRoundTime: 60
-		}
+		this.useDefaultSettings();
 		this.password = password;
 
 		this.activeBlackCard = null;
@@ -77,7 +73,7 @@ export class Game implements ITickable {
 		}
 	}
 
-	destroyInstance() {
+	destroyInstance(): void {
 		this.players = [];
 		this.name = "[deleted]";
 	}
@@ -137,6 +133,10 @@ export class Game implements ITickable {
 
 	getPassword(): string {
 		return this.password;
+	}
+
+	useDefaultSettings(): void {
+		this.settings = Utils.cloneObject(this._server.defaultGameSettings);
 	}
 
 	/* ===== Functions to determine if things are true ===== */
@@ -216,7 +216,7 @@ export class Game implements ITickable {
 		return JoinGameResponse.SUCCESS;
 	}
 
-	leaveGame(user: User) {
+	leaveGame(user: User): void {
 		let cardCzarPlayer: Player = this.getCardCzar();
 		let skipRound: boolean = false;
 
@@ -278,7 +278,7 @@ export class Game implements ITickable {
 		return false;
 	}
 
-	removeDeck(deck: Deck) {
+	removeDeck(deck: Deck): void {
 		for (let i = 0; i < this.decks.length; i++) {
 			if (this.decks[i].getName() == deck.getName()) {
 				this.decks.splice(i, 1);
@@ -287,7 +287,7 @@ export class Game implements ITickable {
 		}
 	}
 
-	fillPlayerHand(player: Player) {
+	fillPlayerHand(player: Player): void {
 		let tries = 0;
 		let maxTries = 10000;
 
@@ -371,7 +371,7 @@ export class Game implements ITickable {
 	}
 
 	/* ===== Rounds ===== */
-	startRound() {
+	startRound(): void {
 		this.cardCzar++;
 		this.winnerSelected = false;
 		if (this.cardCzar >= this.players.length) {
@@ -396,7 +396,7 @@ export class Game implements ITickable {
 		});
 	}
 
-	startVotingPhase() {
+	startVotingPhase(): void {
 		this.gamePhase = GamePhase.VOTING;
 		this.timeLeft = this.settings.maxRoundTime * 10;
 		this.winnerSelected = false;
@@ -446,17 +446,17 @@ export class Game implements ITickable {
 	}
 
 	/* ===== Networking ===== */
-	broadcastMessage(message: string, type: MessageType) {
+	broadcastMessage(message: string, type: MessageType): void {
 		this.players.forEach((player) => {
 			player.getUser().sendMessage(message, type);
 		});
 	}
 
-	sendGameListUpdateUpdate() {
+	sendGameListUpdateUpdate(): void {
 		this._server.broadcastGameList();
 	}
 
-	sendStateUpdate(includeUser: User = null) {
+	sendStateUpdate(includeUser: User = null): void {
 		let target: User[] = [];
 
 		this.players.forEach((p) => {
@@ -472,7 +472,7 @@ export class Game implements ITickable {
 		});
 	}
 
-	sendFullUpdate(includeUser: User = null) {
+	sendFullUpdate(includeUser: User = null): void {
 		this.sendStateUpdate(includeUser);
 		this.sendGameListUpdateUpdate();
 	}
@@ -505,7 +505,7 @@ export class Game implements ITickable {
 		return GameStartResponse.SUCCESS;
 	}
 
-	endGame(reason: GameEndReason) {
+	endGame(reason: GameEndReason): void {
 		if (this.gameState == GameState.INGAME) {
 			this.gameState = GameState.WAITING;
 

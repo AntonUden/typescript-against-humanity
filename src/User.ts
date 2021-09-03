@@ -56,11 +56,11 @@ export class User implements ITickable {
 		return this.username;
 	}
 
-	setUsername(username: string) {
+	setUsername(username: string): void {
 		this.username = username;
 	}
 
-	sendMessage(message: string, type: MessageType) {
+	sendMessage(message: string, type: MessageType): void {
 		this.socket.send("message", {
 			"message": message,
 			"type": type
@@ -83,7 +83,7 @@ export class User implements ITickable {
 		return this.getGame() != null;
 	}
 
-	handleIncommingMessage(message: string, content: any) {
+	handleIncommingMessage(message: string, content: any): void {
 		let msgString: string = "" + message;
 		try {
 			switch (msgString) {
@@ -390,7 +390,7 @@ export class User implements ITickable {
 		}
 	}
 
-	dispose() {
+	dispose(): void {
 		if (this.isInGame()) {
 			this.getGame().leaveGame(this);
 		}
@@ -438,7 +438,7 @@ export class User implements ITickable {
 		this.socket.send("game_list", state);
 	}
 
-	sendActiveGameState() {
+	sendActiveGameState(): void {
 		let activeGameData: any | null = null;
 
 		if (this.isInGame()) {
@@ -499,7 +499,5 @@ export class User implements ITickable {
 		this.socket.send("state", state);
 	}
 
-	tick(): void {
-
-	}
+	tick(): void { }
 }

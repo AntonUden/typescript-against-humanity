@@ -27,4 +27,8 @@ export class Utils {
 	static md5String(string: string): string {
 		return crypto.createHash("md5").update(string).digest("hex");
 	}
+
+	static cloneObject<T>(object: T): T {
+		return JSON.parse(JSON.stringify(object));
+	}
 }

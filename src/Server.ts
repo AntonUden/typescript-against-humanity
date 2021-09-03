@@ -11,6 +11,7 @@ import { DeckCollection } from "./card/DeckCollection";
 import { DeckCollectionReader } from "./card/DeckCollectionReader";
 import { Utils } from "./Utils";
 import { ITickable } from "./interfaces/ITickable";
+import { GameSettings } from "./interfaces/GameSettings";
 
 export class Server implements ITickable {
 	public settings: Settings;
@@ -23,6 +24,13 @@ export class Server implements ITickable {
 	public games: Game[] = [];
 
 	public deckCollections: DeckCollection[] = [];
+
+	public defaultGameSettings: GameSettings = {
+		handSize: 10,
+		winScore: 10,
+		maxRoundTime: 60,
+		allowThrowingAwayCards: false
+	};
 
 	constructor(settings: Settings) {
 		this.settings = settings;
@@ -77,7 +85,7 @@ export class Server implements ITickable {
 		return this.games;
 	}
 
-	removeGame(game: Game) {
+	removeGame(game: Game): void {
 		console.log("[Game] Removing game instance " + game.getUUID() + " (" + game.getName() + ")");
 		game.destroyInstance();
 		for (let i = 0; i < this.games.length; i++) {
@@ -98,7 +106,7 @@ export class Server implements ITickable {
 		return game;
 	}
 
-	disconnectUser(user: User) {
+	disconnectUser(user: User): void {
 		user.dispose();
 		for (let i: number = 0; i < this.users.length; i++) {
 			if (this.users[i].getUUID() == user.getUUID()) {
@@ -108,7 +116,7 @@ export class Server implements ITickable {
 		console.log("[User] User " + user.getUUID() + " disconnected (User count: " + this.users.length + ")");
 	}
 
-	broadcastGameList() {
+	broadcastGameList(): void {
 		for (let i = 0; i < this.users.length; i++) {
 			this.users[i].sendGameList();
 		}
