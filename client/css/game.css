@@ -29,7 +29,36 @@
 
 #hand_message {
 	position: fixed;
-	z-index: 99999;
-	pointer-events: none; 
+	z-index: 100;
+	pointer-events: none;
 	text-align: center;
+}
+
+#disconnected_message_full {
+	position: fixed;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	background-color: rgba(0, 0, 0, 0.5);
+	z-index: 1000;
+}
+
+#disconnected_error {
+	text-align: center;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	-webkit-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+	z-index: 1001;
+	color: #FF0000;
+}
+
+#disconnected_error h1 {
+	font-size: 500% !important;
+}
+
+.hide-until-loaded {
+	display: none !important;
 }

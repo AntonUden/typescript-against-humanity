@@ -1,3 +1,5 @@
+import * as crypto from 'crypto';
+
 export class Utils {
 	static getRandomInt(min: number, max: number): number {
 		return Math.trunc(Math.random() * (max - min) + min);
@@ -20,5 +22,9 @@ export class Utils {
 		}
 
 		return array;
+	}
+
+	static md5String(string: string): string {
+		return crypto.createHash("md5").update(string).digest("hex");
 	}
 }

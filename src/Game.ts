@@ -14,6 +14,7 @@ import { Player } from "./Player";
 import { Server } from "./Server";
 import { User } from "./User";
 import { Utils } from "./Utils";
+import { v4 as uuidv4 } from 'uuid';
 
 export class Game implements ITickable {
 	private uuid: string;
@@ -35,11 +36,15 @@ export class Game implements ITickable {
 
 	private timeLeft;
 
+	private votingHashes: any;
+	private startVotingDataCache: any; // used for people who join during voting
+
 	constructor(server: Server, uuid: string, name: string) {
 		this._server = server;
 		this.uuid = uuid;
 		this.name = name;
 		this.gameState = GameState.WAITING;
+		this.votingHashes = {};
 		this.settings = {
 			handSize: 10,
 			winScore: 10,
@@ -57,6 +62,7 @@ export class Game implements ITickable {
 		this.decks = [];
 		this.players = [];
 		this.timeLeft = -1;
+		this.startVotingDataCache = null;
 
 		let defaultDeck: Deck | null = this._server.getDeck("Base");
 		if (defaultDeck != null) {
@@ -104,6 +110,11 @@ export class Game implements ITickable {
 		}
 
 		this.sendFullUpdate();
+
+		if (this.gamePhase == GamePhase.VOTING) {
+			// send voting state to user
+			player.getUser().getSocket().send("start_voting", this.startVotingDataCache);
+		}
 
 		return JoinGameResponse.SUCCESS;
 	}
@@ -269,6 +280,43 @@ export class Game implements ITickable {
 	startVotingPhase() {
 		this.gamePhase = GamePhase.VOTING;
 		this.timeLeft = this.settings.maxRoundTime * 10;
+
+		// check if any players has selected cards
+		let shouldContinue = false;
+		this.players.forEach(player => {
+			if (player.getSelectedCards().length > 0) {
+				shouldContinue = true;
+			}
+		});
+
+		if (!shouldContinue) {
+			this.broadcastMessage("Skipping round due to no players selecting cards", MessageType.WARNING);
+			this.startRound();
+			return;
+		}
+
+		this.votingHashes = {};
+
+		let selectedSets: any[] = [];
+
+		this.players.forEach(player => {
+			if (player.getSelectedCards().length > 0) {
+				let hash = Utils.md5String(player.getUUID() + uuidv4());
+
+				this.votingHashes[hash] = player.getUUID();
+
+				selectedSets.push({
+					hash: hash,
+					selected: player.getSelectedCards()
+				});
+			}
+		});
+
+		this.startVotingDataCache = {
+			selected_sets: selectedSets
+		};
+
+		this.players.forEach(player => player.getUser().getSocket().send(this.startVotingDataCache));
 
 		this.sendStateUpdate();
 	}

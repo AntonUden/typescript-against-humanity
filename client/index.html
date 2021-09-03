@@ -164,6 +164,7 @@
 									<div class="card-header" id="black_card_pick">pick 0</div>
 									<h5 class="card-title" id="black_card_text">H</h5>
 								</div>
+								<div class="voting_cards"></div>
 							</div>
 						</div>
 					</div>
@@ -173,15 +174,14 @@
 			<div class="row">
 				<div class="col">
 					<h6>Hand</h6>
-					<button type="button" class="btn btn-info mb-2" id="btn_confirm_selection">Confirm selection</button>
+					<button type="button" class="btn btn-info mb-2" id="btn_confirm_selection">Confirm
+						selection</button>
 					<div id="hand_message">
 						<h1 id="you_are_card_czar">You are the Card Czar</h1>
 						<h1 id="wait_for_other_players">Waiting for other players</h1>
 						<h1 id="wait_for_card_czar">Wait for the Card Czar to pick the winner</h1>
 					</div>
-					<div class="card-group" id="player_hand">
-
-					</div>
+					<div class="card-group" id="player_hand"></div>
 				</div>
 			</div>
 		</div>
@@ -245,6 +245,13 @@
 					<button type="button" class="btn btn-primary" id="btn_save_expansions">Save</button>
 				</div>
 			</div>
+		</div>
+	</div>
+
+	<div id="disconnected_message_full" class="d-none">
+		<div id="disconnected_error">
+			<h1>Disconnected</h1>
+			<h2>Please reload the page</h2>
 		</div>
 	</div>
 </body>

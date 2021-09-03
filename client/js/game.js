@@ -7,7 +7,14 @@ var myUUID = null;
 
 var selectedCards = [];
 
+var disconnected = false;
+
 socket.on("message", function (message, content) {
+	// This is to prevent the player from going into a weird invalid game state when the server restarts
+	if(disconnected) {
+		return;
+	}
+
 	//console.debug(message);
 	//console.debug(content);
 
@@ -44,11 +51,20 @@ socket.on("message", function (message, content) {
 			$("#time_left").text(content.time);
 			break;
 
+		case "voting_start":
+			handleVotingStart(content);
+			break;
 
 		default:
 			console.warn("invalid packet: " + message);
 			break;
 	}
+});
+
+socket.on("disconnect", () => {
+	toastr.error("Please reload the page", "Disconnected");
+	$("#disconnected_message_full").removeClass("d-none");
+	disconnected = true;
 });
 
 function getDeck(name) {
@@ -158,7 +174,14 @@ function handleGameList(data) {
 	}
 }
 
+function handleVotingStart(data) {
+	console.log(data);
+}
+
 function handleRoundStart(data) {
+	// Clear voting cards
+	$("#voting_cards").html();
+
 	// Reset and prepare for next round
 	selectedCards = [];
 	$(".selected-white-card").removeClass("selected-white-card");
@@ -473,6 +496,8 @@ $(function () {
 			selected_cards: selectedCards
 		});
 	});
+
+	$(".hide-until-loaded").removeClass(".hide-until-loaded");
 });
 
 function useAllExpansions() {
