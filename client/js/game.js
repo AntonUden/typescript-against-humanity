@@ -9,14 +9,20 @@ var selectedCards = [];
 
 var disconnected = false;
 
+var debugMode = false;
+
 socket.on("message", function (message, content) {
 	// This is to prevent the player from going into a weird invalid game state when the server restarts
-	if(disconnected) {
+	if (disconnected) {
 		return;
 	}
 
-	//console.debug(message);
-	//console.debug(content);
+	if (debugMode) {
+		console.debug("Received packet");
+		console.debug(message);
+		console.debug(content);
+		console.debug("---------------");
+	}
 
 	switch (message) {
 		case "message":
@@ -439,7 +445,7 @@ function updateSelectionNumbers() {
 				}
 			}
 
-			console.log("done: " + activeGame.players.find(p => p.uuid == myUUID).done);
+			//console.log("done: " + activeGame.players.find(p => p.uuid == myUUID).done);
 
 			if (selectedCards.length == select && game.card_czar != myUUID && !activeGame.players.find(p => p.uuid == myUUID).done) {
 				$("#btn_confirm_selection").attr("disabled", false);

@@ -316,7 +316,7 @@ export class Game implements ITickable {
 			selected_sets: selectedSets
 		};
 
-		this.players.forEach(player => player.getUser().getSocket().send(this.startVotingDataCache));
+		this.players.forEach(player => player.getUser().getSocket().send("voting_start", this.startVotingDataCache));
 
 		this.sendStateUpdate();
 	}
