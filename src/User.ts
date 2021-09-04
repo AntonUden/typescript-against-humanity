@@ -5,13 +5,16 @@ import { Deck } from "./card/Deck";
 import { WhiteCard } from "./card/WhiteCard";
 import { GamePhase } from "./enum/GamePhase";
 import { GameStartResponse } from "./enum/GameStartResponse";
+import { GameState } from "./enum/GameState";
 import { JoinGameResponse } from "./enum/JoinGameResponse";
 import { MessageType } from "./enum/MessageType";
 import { Game } from "./Game";
 import { ClientSettings } from "./interfaces/ClientSettings";
+import { GameSettings } from "./interfaces/GameSettings";
 import { ITickable } from "./interfaces/ITickable";
 import { Player } from "./Player";
 import { Server } from "./Server";
+import { Utils } from "./Utils";
 
 export class User implements ITickable {
 	private socket: Socket;
@@ -380,6 +383,10 @@ export class User implements ITickable {
 
 					break;
 
+				case "set_game_settings":
+					this.processGameSettings(content);
+					break;
+
 				default:
 					console.warn("[User] Invalid message received: " + message);
 					break;
@@ -387,6 +394,77 @@ export class User implements ITickable {
 		} catch (err) {
 			console.warn("Exception caught while processing incomming data from player " + this.getUUID());
 			console.error(err);
+		}
+	}
+
+	processGameSettings(content: any) {
+		if (!this.isInGame()) {
+			this.sendMessage("Cant change settings while not in game", MessageType.ERROR);
+			return;
+		}
+
+		if (this.getGame().getHostUUID() != this.uuid) {
+			this.sendMessage("You are not the host of this game", MessageType.ERROR);
+			return;
+		}
+
+		if (this.getGame().getGameState() != GameState.WAITING) {
+			this.sendMessage("Game is already running", MessageType.ERROR);
+			return;
+		}
+
+		if (content["reset"] == true) {
+			this.getGame().useDefaultSettings(true);
+			this.sendMessage("Settings have been reset", MessageType.SUCCESS);
+		} else {
+
+			let allowThrowingAwayCards: boolean = this.getGame().getGameSettings().allowThrowingAwayCards;
+			let handSize: number = this.getGame().getGameSettings().handSize;
+			let maxRoundTime: number = this.getGame().getGameSettings().maxRoundTime;
+			let winScore: number = this.getGame().getGameSettings().winScore;
+
+			if (content["allow_throwaway_cards"] != null) {
+				allowThrowingAwayCards = Utils.stringToBoolean(content["allow_throwaway_cards"]);
+			}
+
+			if (content["hand_size"] != null) {
+				let input: number = parseInt(content["hand_size"]);
+				if (!isNaN(input)) {
+					if (input <= this._server.settings.maxHandSize && input >= this._server.settings.minHandSize) {
+						handSize = input;
+					}
+				}
+			}
+
+			if (content["win_score"] != null) {
+				let input: number = parseInt(content["win_score"]);
+				if (!isNaN(input)) {
+					if (input <= this._server.settings.maxWinScore && input >= this._server.settings.minWinScore) {
+						winScore = input;
+					}
+				}
+			}
+
+
+			if (content["max_round_timer"] != null) {
+				let input: number = parseInt(content["hand_size"]);
+				if (!isNaN(input)) {
+					if (input <= this._server.settings.maxRoundTime && input >= this._server.settings.minRoundTime) {
+						maxRoundTime = input;
+					}
+				}
+			}
+
+			let newSettings: GameSettings = {
+				allowThrowingAwayCards: allowThrowingAwayCards,
+				handSize: handSize,
+				maxRoundTime: maxRoundTime,
+				winScore: winScore
+			}
+
+			console.debug(newSettings);
+
+			this.getGame().setCustomSettings(newSettings, true);
 		}
 	}
 

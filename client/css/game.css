@@ -5,7 +5,7 @@
 }
 
 .player-hand-card {
-	min-width: 100px;
+	min-width: 200px;
 	max-width: 18rem;
 	min-height: 150px;
 }
@@ -93,6 +93,12 @@
 }
 
 #round_winner_text {
+	font-size: 2rem;
+	font-weight: 500;
+	line-height: 1.2;
+}
+
+#lobby_text_waiting_for_host {
 	font-size: 2rem;
 	font-weight: 500;
 	line-height: 1.2;

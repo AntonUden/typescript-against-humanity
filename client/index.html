@@ -109,16 +109,19 @@
 	<!-- Game -->
 	<div id="game">
 		<!-- Lobby -->
-		<div class="container-fluid" id="waiting_lobby">
+		<div class="container-fluid mt-2" id="waiting_lobby">
 			<div class="row">
-				<div class="col">
-					<h3>Waiting for host to start</h3>
+				<div class="col-4">
+					<span id="lobby_text_waiting_for_host">Waiting for host to start</span>
+					<button type="button" class="btn btn-danger btn_leaveGame float-end">Leave game</button>
 				</div>
+				<div class="col"></div>
 			</div>
 
 			<div class="row" id="host_options">
 				<div class="col">
 					<button type="button" class="btn btn-primary" id="btn_select_expansions">Select expansions</button>
+					<button type="button" class="btn btn-primary" id="btn_custom_settings">Custom settings</button>
 					<button type="button" class="btn btn-primary" id="btn_start_game">Start game</button>
 				</div>
 			</div>
@@ -139,12 +142,8 @@
 				<div class="col">
 					<h3>Expansions</h3>
 					<div id="game_expansions"></div>
-				</div>
-			</div>
-
-			<div class="row mt-2">
-				<div class="col">
-					<button type="button" class="btn btn-danger btn_leaveGame float-end">Leave game</button>
+					<h3>Custom settings</h3>
+					<div id="game_custom_settings"></div>
 				</div>
 			</div>
 		</div>
@@ -245,7 +244,6 @@
 						</div>
 					</div>
 				</div>
-
 			</div>
 
 			<div class="row mt-4">
@@ -290,6 +288,28 @@
 		</div>
 	</div>
 
+	<div class="modal fade" id="gameSettingsModal" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1"
+		aria-labelledby="gameSettingsModalTitle" aria-hidden="true">
+		<div class="modal-dialog modal-lg">
+			<div class="modal-content">
+				<div class="modal-header">
+					<h5 class="modal-title" id="gameSettingsModalTitle">Game settings</h5>
+					<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+				</div>
+				<div class="modal-body">
+
+				</div>
+				<div class="modal-footer">
+					<button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+					<button type="button" class="btn btn-primary" id="btn_reset_game_settings">Reset</button>
+					<button type="button" class="btn btn-primary" id="btn_save_game_settings">Save</button>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+	<!-- Disconnect message -->
 	<div id="disconnected_message_full" class="d-none">
 		<div id="disconnected_error">
 			<h1>Disconnected</h1>

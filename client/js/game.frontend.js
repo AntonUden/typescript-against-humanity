@@ -183,7 +183,7 @@ function handleGameList(data) {
 
 			newElement.find(".game-name-content").text(game.name);
 
-			newElement.find(".td-game-custom-settings").text(game.custom_settings_string);
+			newElement.find(".td-game-custom-settings").text("Loading...");
 
 			console.log(game);
 
@@ -229,7 +229,8 @@ function handleGameList(data) {
 			let uuid = $(this).data("game-id");
 
 			if (game.uuid == uuid) {
-				$(this).find(".td-game-player-count").text(game.player_count + " / " + gameConfig.maxPlayersPerGame + " Players")
+				$(this).find(".td-game-player-count").text(game.player_count + " / " + gameConfig.maxPlayersPerGame + " Players");
+				$(this).find(".td-game-custom-settings").text(game.custom_settings_string);
 
 				let expansions = "";
 
@@ -379,6 +380,8 @@ function handleGameState(data) {
 			}
 
 			$("#game_expansions").text(expansions);
+
+			$("#game_custom_settings").text(activeGame.custom_settings_string);
 		} else {
 			/* ===== In game ===== */
 
@@ -711,9 +714,25 @@ $(function () {
 		});
 	}
 
+	$("#btn_custom_settings").on("click", function() {
+		showCustomSettingsMenu();
+	});
+
+	$("#btn_reset_game_settings").on("click", function() {
+		$("#gameSettingsModal").modal("hide");
+		resetCustomSettings();
+	});
+
+	$("#btn_save_game_settings").on("click", function() {
+		$("#gameSettingsModal").modal("hide");
+		saveCustomSettings();
+	});
+
+
 	$(".hide-until-loaded").removeClass(".hide-until-loaded");
 });
 
+/* ----- Expansions ----- */
 function useAllExpansions() {
 	$(".cbx-expansion-selection").prop("checked", true);
 }
@@ -771,5 +790,21 @@ function saveExpansions() {
 
 	socket.send("set_game_expanstions", {
 		expansions: expansions
+	});
+}
+
+/* ----- Custom game settings ----- */
+function showCustomSettingsMenu() {
+
+	$("#gameSettingsModal").modal("show");
+}
+
+function saveCustomSettings() {
+	
+}
+
+function resetCustomSettings() {
+	socket.send("set_game_settings", {
+		reset: true
 	});
 }
