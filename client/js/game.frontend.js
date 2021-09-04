@@ -773,7 +773,7 @@ function updateExpansionSelector() {
 	} else {
 		activeGame.decks.forEach((deck) => {
 			$(".cbx-expansion-selection[data-deck-name=\"" + deck + "\"]").prop("checked", true);
-		})
+		});
 	}
 }
 
@@ -795,6 +795,16 @@ function saveExpansions() {
 
 /* ----- Custom game settings ----- */
 function showCustomSettingsMenu() {
+	if(activeGame == null) {
+		return;
+	}
+
+	let settings = activeGame.settings;
+
+	$("#tbx_handSize").val(settings.handSize);
+	$("#tbx_timeLimit").val(settings.winScore);
+	$("#tbx_winScore").val(settings.maxRoundTime);
+	$("#cbx_throwawayCards").attr("checked", settings.allowThrowingAwayCards);
 
 	$("#gameSettingsModal").modal("show");
 }
