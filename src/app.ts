@@ -14,12 +14,14 @@ new Server({
 
 	minCardsRequiredToStart: 10,
 
-	minHandSize: 5,
-	maxHandSize: 100,
+	customSettingsLimit: {
+		minHandSize: 5,
+		maxHandSize: 100,
 
-	minRoundTime: 1,
-	maxRoundTime: 600,
+		minRoundTime: 1,
+		maxRoundTime: 600,
 
-	minWinScore: 1,
-	maxWinScore: 9999
+		minWinScore: 1,
+		maxWinScore: 9999
+	}
 });

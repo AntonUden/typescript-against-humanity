@@ -41,7 +41,11 @@ export class User implements ITickable {
 			maxGameNameLength: this._server.settings.maxGameNameLength,
 			maxPlayerNameLength: this._server.settings.maxPlayerNameLength,
 			deckCollections: this._server.getDeckCollections(),
-			uuid: this.getUUID()
+			uuid: this.getUUID(),
+
+			initialGeneratedName: username,
+
+			customSettingsLimit: this._server.settings.customSettingsLimit
 		}
 
 		socket.send("client_settings", clientSettings);
@@ -430,7 +434,7 @@ export class User implements ITickable {
 			if (content["hand_size"] != null) {
 				let input: number = parseInt(content["hand_size"]);
 				if (!isNaN(input)) {
-					if (input <= this._server.settings.maxHandSize && input >= this._server.settings.minHandSize) {
+					if (input <= this._server.settings.customSettingsLimit.maxHandSize && input >= this._server.settings.customSettingsLimit.minHandSize) {
 						handSize = input;
 					}
 				}
@@ -439,7 +443,7 @@ export class User implements ITickable {
 			if (content["win_score"] != null) {
 				let input: number = parseInt(content["win_score"]);
 				if (!isNaN(input)) {
-					if (input <= this._server.settings.maxWinScore && input >= this._server.settings.minWinScore) {
+					if (input <= this._server.settings.customSettingsLimit.maxWinScore && input >= this._server.settings.customSettingsLimit.minWinScore) {
 						winScore = input;
 					}
 				}
@@ -447,9 +451,9 @@ export class User implements ITickable {
 
 
 			if (content["max_round_timer"] != null) {
-				let input: number = parseInt(content["hand_size"]);
+				let input: number = parseInt(content["max_round_timer"]);
 				if (!isNaN(input)) {
-					if (input <= this._server.settings.maxRoundTime && input >= this._server.settings.minRoundTime) {
+					if (input <= this._server.settings.customSettingsLimit.maxRoundTime && input >= this._server.settings.customSettingsLimit.minRoundTime) {
 						maxRoundTime = input;
 					}
 				}
@@ -459,10 +463,11 @@ export class User implements ITickable {
 				allowThrowingAwayCards: allowThrowingAwayCards,
 				handSize: handSize,
 				maxRoundTime: maxRoundTime,
-				winScore: winScore
+				winScore: winScore,
+
 			}
 
-			console.debug(newSettings);
+			//console.debug(newSettings);
 
 			this.getGame().setCustomSettings(newSettings, true);
 		}

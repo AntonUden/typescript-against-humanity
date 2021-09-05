@@ -37,10 +37,14 @@ socket.on("message", function (message, content) {
 			break;
 
 		case "client_settings":
+			console.log("Received client configuration from server");
 			gameConfig = content;
 			myUUID = gameConfig.uuid;
 			ready = true;
+			$("#tbx_userName").val(gameConfig.initialGeneratedName);
 			setupExpansions();
+			setupGameSettingsLimits();
+			loadStoredName();
 			break;
 
 		case "cards_selected_success":
@@ -57,7 +61,6 @@ socket.on("message", function (message, content) {
 			break;
 
 		case "round_winner":
-			console.log(content);
 			let winner = "[Unknown player]"
 
 			activeGame.players.forEach(player => {
@@ -104,6 +107,24 @@ function getDeck(name) {
 	});
 
 	return result;
+}
+
+function loadStoredName() {
+	if (window.localStorage.getItem("name") != null) {
+		let name = window.localStorage.getItem("name");
+
+		if (name.length == 0) {
+			return;
+		}
+
+		console.log("Using stored name " + name);
+
+		$("#tbx_userName").val(name);
+
+		socket.send("set_name", {
+			name: name
+		});
+	}
 }
 
 function joinGame(uuid, password = null) {
@@ -701,29 +722,16 @@ $(function () {
 		});
 	});
 
-	if (window.localStorage.getItem("name") != null) {
-		let name = window.localStorage.getItem("name");
-
-		if (name.length == 0) {
-			return;
-		}
-
-		$("#tbx_userName").val(name)
-		socket.send("set_name", {
-			name: name
-		});
-	}
-
-	$("#btn_custom_settings").on("click", function() {
+	$("#btn_custom_settings").on("click", function () {
 		showCustomSettingsMenu();
 	});
 
-	$("#btn_reset_game_settings").on("click", function() {
+	$("#btn_reset_game_settings").on("click", function () {
 		$("#gameSettingsModal").modal("hide");
 		resetCustomSettings();
 	});
 
-	$("#btn_save_game_settings").on("click", function() {
+	$("#btn_save_game_settings").on("click", function () {
 		$("#gameSettingsModal").modal("hide");
 		saveCustomSettings();
 	});
@@ -765,6 +773,8 @@ function setupExpansions() {
 			$("#expansions").append(newElement);
 		});
 	});
+
+	console.log("All expansions has been loaded");
 }
 
 function updateExpansionSelector() {
@@ -795,7 +805,7 @@ function saveExpansions() {
 
 /* ----- Custom game settings ----- */
 function showCustomSettingsMenu() {
-	if(activeGame == null) {
+	if (activeGame == null) {
 		return;
 	}
 
@@ -810,11 +820,37 @@ function showCustomSettingsMenu() {
 }
 
 function saveCustomSettings() {
-	
+	let handSize = parseInt($("#tbx_handSize").val());
+	let maxRoundTime = parseInt($("#tbx_timeLimit").val());
+	let winScore = parseInt($("#tbx_winScore").val());
+	let allowThrowingAwayCards = $("#cbx_throwawayCards").is(':checked');
+
+	let customSettings = {
+		hand_size: handSize,
+		win_score: winScore,
+		max_round_timer: maxRoundTime,
+		allow_throwaway_cards: allowThrowingAwayCards
+	}
+
+	console.debug(customSettings);
+
+	socket.send("set_game_settings", customSettings);
 }
 
 function resetCustomSettings() {
 	socket.send("set_game_settings", {
 		reset: true
 	});
+}
+
+function setupGameSettingsLimits() {
+	$("#tbx_handSize").attr("min", gameConfig.customSettingsLimit.minHandSize);
+	$("#tbx_handSize").attr("max", gameConfig.customSettingsLimit.maxHandSize);
+
+	$("#tbx_timeLimit").attr("min", gameConfig.customSettingsLimit.minRoundTime);
+	$("#tbx_timeLimit").attr("max", gameConfig.customSettingsLimit.maxRoundTime);
+
+	$("#tbx_winScore").attr("min", gameConfig.customSettingsLimit.minWinScore);
+	$("#tbx_winScore").attr("max", gameConfig.customSettingsLimit.maxWinScore);
+	console.log("Custom settings limits set");
 }
