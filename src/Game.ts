@@ -433,6 +433,7 @@ export class Game implements ITickable {
 
 		this.players.forEach((player) => {
 			player.clearSelectedCards();
+			player.setThrowawayUsed(false);
 			this.fillPlayerHand(player);
 		});
 

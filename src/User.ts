@@ -413,14 +413,22 @@ export class User implements ITickable {
 							return;
 						}
 
+						if (player.isThrowawayUsed()) {
+							console.error("You can only throw away 1 card per round");
+							return;
+						}
+
 						let card: string = content["card"] + "";
 
-						if(player.getHand().includes(card)) {
+						if (player.getHand().includes(card)) {
 							let index: number = player.getHand().indexOf(card);
 
-							if(index > -1) {
+							if (index > -1) {
 								player.getHand().splice(index, 1);
+								player.setThrowawayUsed(true);
 								this.sendActiveGameState();
+
+								this.getGame().broadcastMessage(this.getUsername() + " threw away the card " + card, MessageType.INFO);
 							}
 						}
 					}
@@ -586,9 +594,11 @@ export class User implements ITickable {
 			let player: Player = game.getPlayers().find((p) => p.getUUID() == this.getUUID());
 
 			let hand: string[] = [];
+			let throwawayUsed: boolean = false;
 
 			if (player != null) {
 				hand = player.getHand();
+				throwawayUsed = player.isThrowawayUsed();
 			}
 
 			let cardCzar: string | null = null;
@@ -610,7 +620,8 @@ export class User implements ITickable {
 				card_czar: cardCzar,
 				winner_selected: game.isWinnerSelected(),
 				custom_settings_string: game.getCustomSettingsString(),
-				settings: game.getGameSettings()
+				settings: game.getGameSettings(),
+				throwaway_used: throwawayUsed
 			};
 		}
 

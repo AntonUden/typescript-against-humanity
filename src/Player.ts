@@ -8,6 +8,7 @@ export class Player {
 	private hand: string[];
 	private _game: Game;
 	private selectedCards: string[];
+	private trowawayUsed: boolean;
 
 	constructor(game: Game, user: User) {
 		this.user = user;
@@ -15,6 +16,7 @@ export class Player {
 		this.hand = [];
 		this.selectedCards = [];
 		this._game = game;
+		this.trowawayUsed = false;
 	}
 
 	getHand(): string[] {
@@ -52,5 +54,13 @@ export class Player {
 	setSelectedCards(selected: string[]): void {
 		this.selectedCards = selected;
 		this._game.onPlayerSelectCards(this);
+	}
+
+	isThrowawayUsed(): boolean {
+		return this.trowawayUsed;
+	}
+
+	setThrowawayUsed(used: boolean) {
+		this.trowawayUsed = used;
 	}
 }

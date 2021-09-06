@@ -187,17 +187,15 @@ function handleGameList(data) {
 		foundGames.push(uuid);
 	});
 
-	//console.log(foundGames);
-
 	for (let i = 0; i < data.games.length; i++) {
 		let game = data.games[i];
-
-		//console.log("foundGames.includes(game.uuid) " + game.uuid + " : " + foundGames.includes(game.uuid));
 
 		if (foundGames.includes(game.uuid)) {
 			foundGames.remove(game.uuid);
 		} else {
-			console.debug("Creating tr for game " + game.uuid);
+			if (debugMode) {
+				console.debug("Creating tr for game " + game.uuid);
+			}
 
 			let newElement = $("#game_tr_template").clone();
 			newElement.removeAttr("id");
@@ -208,8 +206,6 @@ function handleGameList(data) {
 
 			newElement.find(".td-game-custom-settings").text("Loading...");
 
-			console.log(game);
-
 			if (!game.password_protected) {
 				newElement.find(".password-protected").hide();
 			}
@@ -219,18 +215,14 @@ function handleGameList(data) {
 				let uuid = $(this).parent().parent().data("game-id");
 				let passwordProtected = $(this).parent().parent().data("password-protected") == 1;
 
-				console.log($(this).parent().data("password-protected"));
-
 				if (passwordProtected) {
 					joinPasswordProtected(uuid);
 				} else {
-					console.debug("Attempting to join game " + uuid);
+					console.log("Attempting to join game " + uuid);
 					joinGame(uuid);
 				}
 
 			});
-
-			//console.log(newElement);
 
 			$("#game_table_rows").prepend(newElement);
 		}
@@ -321,7 +313,9 @@ function handleVotingStart(data) {
 			$(this).addClass("card-czar-selected");
 			$("#btn_card_czar_confirm").attr("disabled", false);
 			cardCzarSelected = $(this).data("hash");
-			console.debug("Selected " + cardCzarSelected);
+			if (debugMode) {
+				console.debug("Selected " + cardCzarSelected);
+			}
 		});
 
 		$("#voting_cards").append(setHtml);
@@ -357,6 +351,12 @@ function handleGameState(data) {
 		$("#game_browser").hide();
 
 		activeGame = data.active_game;
+
+		if (activeGame.settings.allowThrowingAwayCards) {
+			$("#btn_throwaway_mode").show();
+		} else {
+			$("#btn_throwaway_mode").hide();
+		}
 
 		if (!activeGame.winner_selected) {
 			$("#round_winner_text").hide();
@@ -429,8 +429,6 @@ function handleGameState(data) {
 			$(".ingame-player-tr").each(function () {
 				foundPlayers.push($(this).data("uuid"));
 			});
-
-			//console.log(foundPlayers);
 
 			activeGame.players.forEach((player) => {
 				if (foundPlayers.includes(player.uuid)) {
@@ -557,7 +555,7 @@ function handleGameState(data) {
 			// enable / disable hand depending on hame state
 			if (enableHand) {
 				$("#player_hand").removeClass("disabled-content");
-				$("#btn_throwaway_mode").attr("disabled", false);
+				$("#btn_throwaway_mode").attr("disabled", activeGame.throwaway_used);
 			} else {
 				$("#player_hand").addClass("disabled-content");
 				$("#btn_confirm_selection").attr("disabled", true);
@@ -570,8 +568,6 @@ function handleGameState(data) {
 			$(".player-hand-card").each(function () {
 				handCards.push(b64_to_utf8($(this).data("content")));
 			});
-
-			//console.log(handCards);
 
 			activeGame.hand.forEach((card) => {
 				if (!handCards.includes(card)) {
@@ -636,9 +632,7 @@ function updateSelectionNumbers() {
 			if (select > 1) {
 				for (let i = 0; i < selectedCards.length; i++) {
 					let b64 = utf8_to_b64(selectedCards[i]);
-					//console.log("target: " + b64);
 					$("#player_hand").find(".player-hand-card").each(function () {
-						//console.log($(this).data("content"));
 						if ($(this).data("content") == b64) {
 							$(this).find(".selected-card-number").text(i + 1);
 							$(this).find(".selected-card-number").show();
@@ -646,8 +640,6 @@ function updateSelectionNumbers() {
 					});
 				}
 			}
-
-			//console.log("done: " + activeGame.players.find(p => p.uuid == myUUID).done);
 
 			if (selectedCards.length == select && game.card_czar != myUUID && !activeGame.players.find(p => p.uuid == myUUID).done) {
 				$("#btn_confirm_selection").attr("disabled", false);
@@ -761,8 +753,6 @@ function useAllExpansions() {
 function setupExpansions() {
 	$("#expansions").text("");
 	gameConfig.deckCollections.forEach((deckCollection) => {
-		//console.log(deckCollection);
-
 		let collectionHtml = $("#deck_collection_template").clone();
 		collectionHtml.removeAttr("id");
 		collectionHtml.find(".collection-name").text(deckCollection.displayName);
@@ -809,8 +799,6 @@ function saveExpansions() {
 		expansions[name] = $(this).is(':checked');
 	});
 
-	console.debug(expansions);
-
 	socket.send("set_game_expanstions", {
 		expansions: expansions
 	});
@@ -844,8 +832,6 @@ function saveCustomSettings() {
 		max_round_timer: maxRoundTime,
 		allow_throwaway_cards: allowThrowingAwayCards
 	}
-
-	console.debug(customSettings);
 
 	socket.send("set_game_settings", customSettings);
 }
