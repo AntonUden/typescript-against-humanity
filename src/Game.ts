@@ -545,6 +545,10 @@ export class Game implements ITickable {
 			return GameStartResponse.NOT_ENOUGH_PLAYERS;
 		}
 
+		this.players.forEach((player) => {
+			player.clearHand();
+		});
+
 		this.cardCzar = 0;
 		this.winnerSelected = false;
 

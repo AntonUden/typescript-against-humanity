@@ -812,8 +812,8 @@ function showCustomSettingsMenu() {
 	let settings = activeGame.settings;
 
 	$("#tbx_handSize").val(settings.handSize);
-	$("#tbx_timeLimit").val(settings.winScore);
-	$("#tbx_winScore").val(settings.maxRoundTime);
+	$("#tbx_timeLimit").val(settings.maxRoundTime);
+	$("#tbx_winScore").val(settings.winScore);
 	$("#cbx_throwawayCards").attr("checked", settings.allowThrowingAwayCards);
 
 	$("#gameSettingsModal").modal("show");
