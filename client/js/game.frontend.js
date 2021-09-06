@@ -13,6 +13,8 @@ var cardCzarSelected = null;
 
 var debugMode = true;
 
+var throwawayMode = false;
+
 socket.on("message", function (message, content) {
 	// This is to prevent the player from going into a weird invalid game state when the server restarts
 	if (disconnected) {
@@ -334,6 +336,7 @@ function handleRoundStart(data) {
 	selectedCards = [];
 	$(".selected-white-card").removeClass("selected-white-card");
 	updateSelectionNumbers();
+	setThrowawayMode(false);
 }
 
 /* ===== This gets called when something in the game changes and the game needs to update ===== */
@@ -554,9 +557,11 @@ function handleGameState(data) {
 			// enable / disable hand depending on hame state
 			if (enableHand) {
 				$("#player_hand").removeClass("disabled-content");
+				$("#btn_throwaway_mode").attr("disabled", false);
 			} else {
 				$("#player_hand").addClass("disabled-content");
 				$("#btn_confirm_selection").attr("disabled", true);
+				$("#btn_throwaway_mode").attr("disabled", true);
 			}
 
 			/* ===== Player hand cards ===== */
@@ -580,6 +585,11 @@ function handleGameState(data) {
 					newHtml.find(".card-text-content").html(card);
 
 					newHtml.on("click", function () {
+						if (throwawayMode) {
+							throwAwayCard(b64_to_utf8($(this).data("content")));
+							return;
+						}
+
 						if ($(this).hasClass("selected-white-card")) {
 							$(this).removeClass("selected-white-card");
 							selectedCards.remove(b64_to_utf8($(this).data("content")));
@@ -736,6 +746,9 @@ $(function () {
 		saveCustomSettings();
 	});
 
+	$("#btn_throwaway_mode").on("click", function () {
+		setThrowawayMode(!throwawayMode);
+	});
 
 	$(".hide-until-loaded").removeClass(".hide-until-loaded");
 });
@@ -853,4 +866,30 @@ function setupGameSettingsLimits() {
 	$("#tbx_winScore").attr("min", gameConfig.customSettingsLimit.minWinScore);
 	$("#tbx_winScore").attr("max", gameConfig.customSettingsLimit.maxWinScore);
 	console.log("Custom settings limits set");
+}
+
+/* ===== throwaway cards ===== */
+function setThrowawayMode(active) {
+	if (active === true) {
+		throwawayMode = true;
+		$("#btn_throwaway_mode").text("Cancel");
+		$(".player-hand-card").addClass("throwaway-card-mode");
+		toastr.info("Click on the card you want to throw away");
+	} else {
+		throwawayMode = false;
+		$("#btn_throwaway_mode").text("Throw away card");
+		$(".throwaway-card-mode").removeClass("throwaway-card-mode");
+	}
+}
+
+function throwAwayCard(cardName) {
+	console.log("Throwing away card " + cardName);
+	setThrowawayMode(false);
+	$(".selected-white-card").removeClass("selected-white-card");
+	selectedCards = [];
+	updateSelectionNumbers();
+
+	socket.send("throw_away_card", {
+		card: cardName
+	});
 }

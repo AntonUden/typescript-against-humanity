@@ -391,6 +391,43 @@ export class User implements ITickable {
 					this.processGameSettings(content);
 					break;
 
+				case "throw_away_card":
+					if (!this.isInGame()) {
+						console.warn("[User] A user tried to throw away card while not in game");
+						return;
+					}
+
+					if (!this.getGame().getGameSettings().allowThrowingAwayCards) {
+						this.sendMessage("This game does not allow you to throw away cards", MessageType.ERROR);
+						return;
+					}
+
+					if (content["card"] == null) {
+						console.warn("[User] A user tried to throw away card without sending a card variable");
+						return;
+					} else {
+						let player: Player = this.getGame().getPlayerByUser(this);
+
+						if (player == null) {
+							console.error("Failed to throw away card. Player not found");
+							return;
+						}
+
+						let card: string = content["card"] + "";
+
+						if(player.getHand().includes(card)) {
+							let index: number = player.getHand().indexOf(card);
+
+							if(index > -1) {
+								player.getHand().splice(index, 1);
+								this.sendActiveGameState();
+							}
+						}
+					}
+
+
+					break;
+
 				default:
 					console.warn("[User] Invalid message received: " + message);
 					break;
@@ -463,8 +500,7 @@ export class User implements ITickable {
 				allowThrowingAwayCards: allowThrowingAwayCards,
 				handSize: handSize,
 				maxRoundTime: maxRoundTime,
-				winScore: winScore,
-
+				winScore: winScore
 			}
 
 			//console.debug(newSettings);
