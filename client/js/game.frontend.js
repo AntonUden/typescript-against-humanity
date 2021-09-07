@@ -85,6 +85,10 @@ socket.on("message", function (message, content) {
 
 			break;
 
+		case "game_winner":
+			handleGameWinner(content);
+			break;
+
 		default:
 			console.warn("invalid packet: " + message);
 			break;
@@ -96,6 +100,24 @@ socket.on("disconnect", () => {
 	$("#disconnected_message_full").removeClass("d-none");
 	disconnected = true;
 });
+
+function handleGameWinner(data) {
+	let winnerUUID = data.uuid;
+	let winnerName = "[Unknown player]";
+
+	if (activeGame != null) {
+		activeGame.players.forEach(player => {
+			if (player.uuid == winnerUUID) {
+				winnerName = player.username;
+			}
+		});
+	}
+
+	$.alert({
+		title: 'Game over!',
+		content: 'Winner: ' + winnerName,
+	});
+}
 
 function getDeck(name) {
 	let result = null;

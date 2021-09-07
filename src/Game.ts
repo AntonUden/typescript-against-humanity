@@ -428,6 +428,20 @@ export class Game implements ITickable {
 			this.cardCzar = 0;
 		}
 
+		this.players.forEach(player => {
+			if (player.getScore() >= this.settings.winScore) {
+				this.endGame(GameEndReason.WIN);
+
+				this.players.forEach(p => {
+					p.getUser().getSocket().send("game_winner", {
+						uuid: player.getUUID()
+					});
+				});
+
+				return;
+			}
+		});
+
 		this.gamePhase = GamePhase.PICKING;
 		this.timeLeft = this.settings.maxRoundTime * 10;
 
