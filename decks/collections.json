@@ -1,5 +1,10 @@
 [
 	{
+		"name": "xyzzy",
+		"display_name": "Pretend You're Xyzzy",
+		"description": "These packs where taken from here <a href=\"https://pretendyoure.xyz/zy/\">https://pretendyoure.xyz/zy/</a>"
+	},
+	{
 		"name": "nodejs-against-humanity",
 		"display_name": "NodeJS Against humanity",
 		"description": "These packs where taken from here <a href=\"https://github.com/amirrajan/nodejs-against-humanity\">https://github.com/amirrajan/nodejs-against-humanity</a>"

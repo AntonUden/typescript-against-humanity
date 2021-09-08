@@ -36,6 +36,10 @@ export class DeckCollectionReader {
 		for (let i = 0; i < files.length; i++) {
 			let file = files[i];
 
+			if(!file.toLocaleLowerCase().endsWith(".json")) {
+				continue;
+			}
+
 			console.log("Parsing deck from: " + file);
 
 			let json: any = JSON.parse(fs.readFileSync(path + file, 'utf8'));
