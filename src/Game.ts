@@ -70,7 +70,7 @@ export class Game implements ITickable {
 		this.timeLeft = -1;
 		this.startVotingDataCache = null;
 
-		let defaultDeck: Deck | null = this._server.getDeck("Base");
+		let defaultDeck: Deck | null = this._server.getDeck("xyzzy_base_game_(international)");
 		if (defaultDeck != null) {
 			this.decks.push(defaultDeck);
 		}
