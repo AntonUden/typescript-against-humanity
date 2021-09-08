@@ -1,0 +1,74 @@
+{
+    "order": 28,
+    "filename": "xyzzy_pax_prime_2013_pack",
+    "name": "PAX Prime 2013 Pack",
+    "black_cards": [
+        {
+            "text": "In the new DLC for Mass Effect, Shepard must save the galaxy from ____.",
+            "pick": 1
+        },
+        {
+            "text": "____: Achievement unlocked.",
+            "pick": 1
+        },
+        {
+            "text": "The most controversial game at PAX this year is an 8-bit indie platformer about ____.",
+            "pick": 1
+        },
+        {
+            "text": "There was a riot at the Gearbox panel when they gave the attendees ____.",
+            "pick": 1
+        },
+        {
+            "text": "What's the latest bullshit that's troubling this quaint fantasy town?",
+            "pick": 1
+        },
+        {
+            "text": "What made Spock cry?",
+            "pick": 1
+        },
+        {
+            "text": "No Enforcer wants to manage the panel on ____.",
+            "pick": 1
+        }
+    ],
+    "white_cards": [
+        "Tapping Serra Angel.",
+        "The gravity gun.",
+        "Never watching, discussing, or thinking about My Little Pony.",
+        "Reading the comments.",
+        "The Sarlacc.",
+        "Unlocking a new sex position.",
+        "Being an attractive elf trapped in an unattractive human's body.",
+        "Bowser's aching heart.",
+        "Charles Barkley Shut Up and Jam!",
+        "70,000 games sweating and farting inside an airtight steel dome.",
+        "The collective wail of every <i>Magic</i> player suddenly realizing that they've spent hundreds of dollars on pieces of cardboard.",
+        "Legendary Creature -- Robert Khoo.",
+        "Allowing nacho cheese to curdle in your beard while you creep in League of Legends.",
+        "Winning the approval of Cooking Mama that you never got from actual mama.",
+        "Temporary invincibility.",
+        "Full HD.",
+        "The boner hatch in the Iron Man suit.",
+        "Buying virtual clothes for a Sim family instead of real clothes for a real family.",
+        "An angry stone head that stomps on the floor every three seconds.",
+        "Offering sexual favors for an ore and a sheep.",
+        "Turn-of-the-century-sky racists.",
+        "Getting into a situation with an owlbear.",
+        "Grand Theft Auto: Fort Lauderdale.",
+        "Achieving the manual dexterity and tactical brilliance of a 12-year-old Korean boy.",
+        "The decade of legal inquests following a single hour of Grand Theft Auto.",
+        "SNES cartridge cleaning fluid.",
+        "Eating a pizza that's lying in the street to gain health.",
+        "Mario Kart rage.",
+        "A homemade, cum-stained <i>Star Trek</i> uniform.",
+        "Google Glass + e-cigarette: Ultimate Combo!",
+        "Yoshi's huge egg-laying cloaca.",
+        "A fully-dressed female videogame character.",
+        "Nude-modding Super Mario World.",
+        "A madman who lives in a policebox and kidnaps women.",
+        "Filling every pouch of a UtiliKilt&trade; with pizza.",
+        "The Cock Ring of Alacrity.",
+        "Rolling a D20 to save a failing marriage."
+    ]
+}

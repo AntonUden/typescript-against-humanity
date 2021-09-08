@@ -1,0 +1,25 @@
+{
+    "order": 23,
+    "filename": "xyzzy_pax_east_2013_pack_b",
+    "name": "PAX East 2013 Pack B",
+    "black_cards": [
+        {
+            "text": "In the final round of this year's Omegathon, Omeganauts must face off in a game of ____.",
+            "pick": 1
+        },
+        {
+            "text": "Action stations! Action stations! Set condition one throughout the fleet and brace for ____!",
+            "pick": 1
+        }
+    ],
+    "white_cards": [
+        "Sharpening a foam broadsword on a foam whetstone.",
+        "The depression that ensues after catching 'em all.",
+        "Loading from a previous save.",
+        "The rocket launcher.",
+        "Getting inside the Horadric Cube with a hot babe and pressing the transmute button.",
+        "Spending the year's insulin budget on Warhammer 40k figurines.",
+        "Punching a tree to gather wood.",
+        "Violating the First Law of Robotics."
+    ]
+}

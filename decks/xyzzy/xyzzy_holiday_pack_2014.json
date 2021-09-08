@@ -1,0 +1,57 @@
+{
+    "order": 18,
+    "filename": "xyzzy_holiday_pack_2014",
+    "name": "Holiday Pack 2014",
+    "black_cards": [
+        {
+            "text": "Why am I so tired?",
+            "pick": 1
+        },
+        {
+            "text": "Behold the Four Horsemen of the Apocalypse! War, Famine, Death, and ____.",
+            "pick": 1
+        },
+        {
+            "text": "Honey, Mommy and Daddy love you very much.But apparently Mommy loves ____ more than she loves Daddy.",
+            "pick": 1
+        },
+        {
+            "text": "A curse upon thee! Many years from now, just when you think you're safe, ____ shall turn into ____.",
+            "pick": 2
+        },
+        {
+            "text": "Dear Mom and Dad, Camp is fun. I like capture the flag. Yesterday, one of the older kids taught me about ____. I love you, Casey",
+            "pick": 1
+        },
+        {
+            "text": "Today on Buzzfeed: 10 Pictures of ____ That Look Like ____!",
+            "pick": 2
+        }
+    ],
+    "white_cards": [
+        "A cloud of ash that darkens the Earth for a thousand years.",
+        "A vague fear of something called ISIS.",
+        "200 years of slavery.",
+        "The transience of all things.",
+        "Ebola.",
+        "Small-town cops with M4 assault rifles.",
+        "Rising sea levels consistent with scientific predictions.",
+        "What remains of my penis.",
+        "Harnessing the miraculous power of the atom to slaughter 200,000 Japanese people.",
+        "This groovy new thing called LSD.",
+        "Building a ladder of hot dogs to the moon.",
+        "Rock music and premarital sex.",
+        "The Great Lizard Uprising of 2352.",
+        "The dying breath of the last human.",
+        "Reading an entire book.",
+        "The 9,000 children who starved to death today.",
+        "The Bowflex Revolution.",
+        "Being replaced by a robot.",
+        "The events depicted in James Cameron's <i>Avatar.</i>",
+        "Blockbuster late fees up the wazoo.",
+        "All the poop inside of my body.",
+        "A protracted siege.",
+        "The diminishing purity of the white race.",
+        "Trying to feel something, anything."
+    ]
+}

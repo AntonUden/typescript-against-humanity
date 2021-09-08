@@ -1,0 +1,60 @@
+{
+    "order": 22,
+    "filename": "xyzzy_season's_greetings_pack",
+    "name": "Season's Greetings Pack",
+    "black_cards": [
+        {
+            "text": "It's beginning to look a lot like ____.",
+            "pick": 1
+        },
+        {
+            "text": "Blessed are you, Lord our God, creator of the universe, who has granted us ____.",
+            "pick": 1
+        },
+        {
+            "text": "Jesus is ____.",
+            "pick": 1
+        },
+        {
+            "text": "This holiday season, Tim Allen must overcome his fear of ____ to save Christmas.",
+            "pick": 1
+        },
+        {
+            "text": "Here's what you can expect for the new year. Out: ____. In: ____.",
+            "pick": 2
+        },
+        {
+            "text": "What's the one thing that makes an elf instantly ejaculate?",
+            "pick": 1
+        },
+        {
+            "text": "Donna, pick up my dry cleaning and get my wife something for christmas. I think she likes ____.",
+            "pick": 1
+        }
+    ],
+    "white_cards": [
+        "Probably Grandma's last Christmas, kids.",
+        "A toxic family environment.",
+        "A frozen homeless man shattering on your doorstep.",
+        "Snow falling gently on the frozen body of an orphan boy.",
+        "My uncle who voted for Trump.",
+        "How great of a blowjob Jesus could give.",
+        "Starting to see where ISIS is coming from.",
+        "Fucking up <i>Silent Night</i> in front of 300 parents.",
+        "The shittier, Jewish version of Christmas.",
+        "How cool it is that I love Jesus and he loves me back.",
+        "Gift-wrapping a live hamster.",
+        "Socks.",
+        "These low, low prices!",
+        "Finding out that Santa isn't real.",
+        "The 9,000 children who starved to death today.",
+        "My hot cousin.",
+        "Pretending to be happy.",
+        "Another shitty year.",
+        "How many drinks Aunt Deborah has had.",
+        "Elf cum.",
+        "A snowman that contains the soul of my dead father.",
+        "A choir of angels descending from the sky and jizzing all over dad's sweater.",
+        "Piece of shit Christmas cards with no money in them."
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "order": 26,
+    "filename": "xyzzy_pax_east_2014_pack",
+    "name": "PAX East 2014 Pack",
+    "black_cards": [
+        {
+            "text": "Unfortunately, Neo, no one can be <i>told</i> what ____ is. You have to see it for yourself.",
+            "pick": 1
+        },
+        {
+            "text": "You think you have defeated me? Well, let's see how you handle ____!",
+            "pick": 1
+        },
+        {
+            "text": "<i>(Heavy breathing)</i> Luke, I am ____.",
+            "pick": 1
+        },
+        {
+            "text": "What the hell?! They added a 6/6 with flying, trample, and ____.",
+            "pick": 1
+        },
+        {
+            "text": "____ is way better in ____mode.",
+            "pick": 2
+        }
+    ],
+    "white_cards": []
+}

@@ -1,0 +1,59 @@
+{
+    "order": 16,
+    "filename": "xyzzy_fantasy_pack",
+    "name": "Fantasy Pack",
+    "black_cards": [
+        {
+            "text": "Your father was a powerful wizard, Harry. Before he died, he left you something very precious: ____.",
+            "pick": 1
+        },
+        {
+            "text": "Having tired of poetry and music, the immortal elves now fill their days with ____.",
+            "pick": 1
+        },
+        {
+            "text": "And in the end while, the dragon was not evil; he just wanted ____.",
+            "pick": 1
+        },
+        {
+            "text": "Who blasphemes and bubbles at the center of all infinity, whose name no lips dare speak aloud, and who gnaws hungrily in inconceivable, unlighted chambers beyond time?",
+            "pick": 1
+        },
+        {
+            "text": "Legend tells of a princess who has been asleep for a thousand years and can only be awoken by ____.",
+            "pick": 1
+        },
+        {
+            "text": "Critics are raving about HBO's new <i>Game of Thrones</i> spin-off, \"____ of ____.\"",
+            "pick": 2
+        }
+    ],
+    "white_cards": [
+        "Dinosaurs who wear armor and you ride them and they kick ass.",
+        "Accidentally conjuring a legless horse that can't stop ejaculating.",
+        "Shitting in a wizard's spell book and jizzing in his hat.",
+        "A Hitachi Magic Wand.",
+        "Reading <i>The Hobbit</i> under the covers while mom and dad scream at each other downstairs.",
+        "How hot Orlando Bloom was in <i>Lord of the Rings.</i>",
+        "A mysterious, floating orb.",
+        "Shooting a wizard with a gun.",
+        "Hodor.",
+        "Make-believe stories for autistic white men.",
+        "A magical kingdom with dragons and elves and no black people.",
+        "The card Neil Gaiman wrote: \"Three elves at a time.\"",
+        "Gender equality.",
+        "Going on an epic adventure and learning a valuable lesson about friendship.",
+        "True love's kiss.",
+        "Eternal darkness.",
+        "The all-seeing Eye of Sauron.",
+        "Bathing naked in a moonlit grove.",
+        "Handcuffing a wizard to a radiator and dousing him with kerosene.",
+        "Kneeing a wizard in the balls.",
+        "A ghoul.",
+        "A weed elemental who gets everyone high.",
+        "A gay sorcerer who turns everyone gay.",
+        "A CGI dragon.",
+        "Freaky, pan-dimensional sex with a demigod.",
+        "A dwarf who won't leave you alone until you compare penis sizes."
+    ]
+}

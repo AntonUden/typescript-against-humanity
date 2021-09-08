@@ -1,0 +1,59 @@
+{
+    "order": 33,
+    "filename": "xyzzy_sci-fi_pack",
+    "name": "Sci-Fi Pack",
+    "black_cards": [
+        {
+            "text": "Fear leads to anger. Anger leads to hate. Hate leads to ____.",
+            "pick": 1
+        },
+        {
+            "text": "Computer! Display ____ on screen. Enhance.",
+            "pick": 1
+        },
+        {
+            "text": "You're not going to believe this, but I'm you from the future! You've got to stop ____.",
+            "pick": 1
+        },
+        {
+            "text": "This won't be like negotiating with the Vogons. Humans only respond to one thing: ____.",
+            "pick": 1
+        },
+        {
+            "text": "Madam President, the asteroid is headed directly for Earth and there's one one thing that can stop it: ____.",
+            "pick": 1
+        },
+        {
+            "text": "You have violated the Prime Directive! You exposed an alien culture to ____ before they were ready.",
+            "pick": 1
+        },
+        {
+            "text": "What is the answer to life, the universe, and everything?",
+            "pick": 1
+        }
+    ],
+    "white_cards": [
+        "Cosmic bowling.",
+        "Masturbating Yoda's leathery turtle-penis.",
+        "Laying thousands of eggs in a man's colon.",
+        "Trimming poop out of Chewbacca's butt hair.",
+        "Going too far with science and bad things happening.",
+        "Frantically writing equations on a chalkboard.",
+        "An alternate history where Hitler was gay but he still killed all those people.",
+        "A hazmat suit full of farts.",
+        "That girl from the Hungry Games.",
+        "Funkified aliens from the planet Groovius.",
+        "The ending of <i>Lost.</i>",
+        "Vulcan sex-madness.",
+        "Three boobs.",
+        "A misty room full of glistening egg sacs.",
+        "Cheerful blowjob robots.",
+        "How great of a movie <i>Men in Black</i> was.",
+        "A planet-devouring space worm named Rachel.",
+        "Beep beep boop beep boop.",
+        "Nine seasons of sexual tension with David Duchovny.",
+        "Darmok and Jalad at Tanagra.",
+        "A protagonist with no qualities.",
+        "The dystopia we're living in right now."
+    ]
+}

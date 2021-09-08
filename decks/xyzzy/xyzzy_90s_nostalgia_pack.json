@@ -1,0 +1,60 @@
+{
+    "order": 9,
+    "filename": "xyzzy_90s_nostalgia_pack",
+    "name": "90s Nostalgia Pack",
+    "black_cards": [
+        {
+            "text": "Up next on Nickelodeon: \"Clarissa Explains ____.\"",
+            "pick": 1
+        },
+        {
+            "text": "It's Morphin' Time! Mastodon! Pterodactyl! Triceratops! Sabertooth Tiger! ____!",
+            "pick": 1
+        },
+        {
+            "text": "Believe it or not, Jim Carrey can do a dead-on impression of ____.",
+            "pick": 1
+        },
+        {
+            "text": "I'm a bitch, I'm a lover, I'm a child, I'm ____.",
+            "pick": 1
+        },
+        {
+            "text": "Tonight on SNICK: \"Are You Afraid of ____?\"",
+            "pick": 1
+        },
+        {
+            "text": "How did Stella get her groove back?",
+            "pick": 1
+        },
+        {
+            "text": "Siskel and Ebert have panned ____ as \"poorly conceived\" and \"sloppily executed.\"",
+            "pick": 1
+        }
+    ],
+    "white_cards": [
+        "The Great Cornholio.",
+        "Painting with all the colors of the wind.",
+        "Cool 90s up-in-the-front hair.",
+        "The Y2K bug.",
+        "A mulatto, an albino, a mosquito, and my libido.",
+        "Liking big butts and not being able to lie about it.",
+        "Deregulating the mortgage market.",
+        "Kurt Cobain's death.",
+        "A threesome with 1996 Denise Richards and 1999 Denise Richards.",
+        "Freeing Willy.",
+        "Several Michael Keatons.",
+        "Patti Mayonnaise.",
+        "Wearing Nicolas Cage's face.",
+        "Log.&trade;",
+        "Pamela Anderson's boobs running in slow motion.",
+        "A bus that will explode if it goes under 50 miles per hour.",
+        "<i>Pure Moods</i> , Vol. 1.",
+        "Jerking off to a 10-second RealMedia clip.",
+        "Pizza in the morning, pizza in the evening, pizza at supper time.",
+        "Stabbing the shit out of a Capri Sun.",
+        "Angels interfering in an otherwise fair baseball game.",
+        "Sucking the President's dick.",
+        "Sunny D! Alright!"
+    ]
+}

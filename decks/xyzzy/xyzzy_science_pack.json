@@ -1,0 +1,60 @@
+{
+    "order": 35,
+    "filename": "xyzzy_science_pack",
+    "name": "Science Pack",
+    "black_cards": [
+        {
+            "text": "A study published in <i>Nature</i> this week found that ____ is good declare you cursor for small doses.",
+            "pick": 1
+        },
+        {
+            "text": "What really killed the dinosaurs?",
+            "pick": 1
+        },
+        {
+            "text": "In line with our predictions, we find a robust correlation between ____ and ____ ( <i>p&lt;.05).</i>",
+            "pick": 2
+        },
+        {
+            "text": "In an attempt to recreate conditions just after the Big Bang, physicists at the LHC are observing collisions between ____ and ____.",
+            "pick": 2
+        },
+        {
+            "text": "In what's being hailed as a major breakthrough, scientists have synthesized ____ in the lab.",
+            "pick": 1
+        },
+        {
+            "text": "Hey there, Young Scientists! Put on your labcoats and strap on your safety goggles, because today we're learning about ____!",
+            "pick": 1
+        },
+        {
+            "text": "Today on <i>Mythbusters,</i> we find out how long ____ can withstand ____.",
+            "pick": 2
+        }
+    ],
+    "white_cards": [
+        "Photosynthesis.",
+        "Getting really worried about global warming for a few seconds.",
+        "Infinity.",
+        "Reconciling quantum theory with general relativity.",
+        "Driving into a tornado to learn about tornadoes.",
+        "Explosive decompression.",
+        "Oxytocin release via manual stimulation of the nipples.",
+        "Developing secondary sex characteristics.",
+        "David Attenborough watching us mate.",
+        "Achieving reproductive success.",
+        "Electroejaculating a capuchin monkey.",
+        "Insufficient serotonin.",
+        "Slowly evaporating.",
+        "Failing the Turing test.",
+        "Evolving a labyrinthe vagina.",
+        "Fun and interesting facts about rocks.",
+        "The Sun engulfing the Earth.",
+        "3.7 billion years of evolution.",
+        "Being knowledgeable in a narrow domain that nobody understands or cares about.",
+        "Uranus.",
+        "A supermassive black hole.",
+        "A 0.7 waist-to-hip ratio.",
+        "The quiet majesty of the sea turtle."
+    ]
+}

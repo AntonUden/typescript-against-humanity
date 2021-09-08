@@ -1,0 +1,73 @@
+{
+    "order": 34,
+    "filename": "xyzzy_reject_pack_2",
+    "name": "Reject Pack 2",
+    "black_cards": [
+        {
+            "text": "In bourgeois society, capital is independent and has individuality, while the living person is ____.",
+            "pick": 1
+        },
+        {
+            "text": "Housekeeping! You want ____?",
+            "pick": 1
+        },
+        {
+            "text": "BowWOW! is the first pet hotel in LA that offers ____ for dogs.",
+            "pick": 1
+        },
+        {
+            "text": "Astronomers have discovered that the universe consists of 5% ordinary matter, 25% dark matter, and 70% ____.",
+            "pick": 1
+        },
+        {
+            "text": "Hey, whatever happened to Renee Zellweger?",
+            "pick": 1
+        },
+        {
+            "text": "What's wrong with these gorillas?",
+            "pick": 1
+        },
+        {
+            "text": "You say tomato, I say ____.",
+            "pick": 1
+        },
+        {
+            "text": "Why did the chicken cross the road?",
+            "pick": 1
+        },
+        {
+            "text": "Some men aren't looking for anything logical, like money. They can't be bought, bullied, reasoned, or negotiated with. Some men just want ____.",
+            "pick": 1
+        },
+        {
+            "text": "America is hungry. America needs ____.",
+            "pick": 1
+        }
+    ],
+    "white_cards": [
+        "Sandwich.",
+        "At least three ducks.",
+        "Mushy tushy.",
+        "Saving the Rainforest Cafe.",
+        "Becoming engorged with social justice jelly and secreting a thinkpiece.",
+        "That one leftover screw.",
+        "Greg Kinnear's terrible lightning breath.",
+        "Sir Thomas More's Fruitopia.&trade;",
+        "Mr. and Mrs. Tambourine Man's jingle-jangle morning sex.",
+        "The spooky skeleton under my skin.",
+        "A double murder suicide barbeque.",
+        "Sweating it out on the streets of a runaway American Dream.",
+        "Disco Mussolini.",
+        "That thing politicians do with their thumbs when they talk.",
+        "These dolphins.",
+        "A dick so big and so black that not even light can escape its pull.",
+        "Being the absolute worst.",
+        "A primordial soup and salad bar.",
+        "Three hairs from the silver-golden head of Galadriel.",
+        "A stack of bunnies in a trenchcoat.",
+        "Mitt Romney's eight sons Kip, Sam, Trot, Fergis, Toolshed, Grisham, Hawkeye, and Thorp.",
+        "Ringo Starr &amp; His All-Starr Band.",
+        "The token lesbian.",
+        "Water so cold it turned into a rock."
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "order": 11,
+    "filename": "xyzzy_vote_for_hillary_pack",
+    "name": "Vote for Hillary Pack",
+    "black_cards": [
+        {
+            "text": "As reparations for slavery, all African Americans will receive ____.",
+            "pick": 1
+        },
+        {
+            "text": "When you go to the polls on Tuesday, remember: a vote for me is a vote for ____.",
+            "pick": 1
+        },
+        {
+            "text": "Senator, I trust you enjoyed ____ last night. Now, can I count on your vote?",
+            "pick": 1
+        }
+    ],
+    "white_cards": [
+        "Black lives mattering.",
+        "Kicking the middle class in the balls with a regressive tax code.",
+        "Slapping Ted Cruz over and over.",
+        "Eating the president's pussy.",
+        "Keeping the government out of my vagina.",
+        "The fact that Hillary Clinton is a woman.",
+        "Increasing economic inequality and political polarization.",
+        "The Bernie Sanders revolution.",
+        "A beautiful, ever-expanding circle of inclusivity that will never include Republicans.",
+        "Letting Bernie Sanders rest his world-weary head on your lap.",
+        "The systemic disenfranchisement of black voters.",
+        "Donald Trump holding his nose while he eats pussy."
+    ]
+}

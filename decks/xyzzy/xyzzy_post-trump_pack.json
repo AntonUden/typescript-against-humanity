@@ -1,0 +1,43 @@
+{
+    "order": 30,
+    "filename": "xyzzy_post-trump_pack",
+    "name": "Post-Trump Pack",
+    "black_cards": [
+        {
+            "text": "Donald Trump's first act as president was to outlaw ____.",
+            "pick": 1
+        },
+        {
+            "text": "Donald Trump has nominated ____ for his VP.",
+            "pick": 1
+        },
+        {
+            "text": "In 2019, Donald Trump eliminated our national parks to make room for ____.",
+            "pick": 1
+        }
+    ],
+    "white_cards": [
+        "Nuclear winter.",
+        "Bringing millions of dangerous, low-paying manufacturing jobs back to America.",
+        "A gnawing sense of dread.",
+        "Whipping lower-class white men into a xenophobic frenzy.",
+        "Extra rations for my little girl.",
+        "Roaming through a wasteland of windblown trash and deserted highways.",
+        "Drinking urine to survive.",
+        "A legitimate reason to commit suicide.",
+        "Burying my only son.",
+        "Desperately hurling insults at Donald Trump as he absorbs them into his rapidly expanding body.",
+        "Trying to remember what music was.",
+        "Casual dismissiveness.",
+        "Finding out that democracy might not be such a great idea.",
+        "A father and son fighting each other over the last scrap of bread.",
+        "Mild amusement.",
+        "A back-alley abortion from a Mexican cyborg doctor.",
+        "Rage.",
+        "World Wards 3 through 5.",
+        "President Donald Trump.",
+        "Making Islam illegal.",
+        "Trying to wake up from this nightmare.",
+        "The purging of the disloyal."
+    ]
+}

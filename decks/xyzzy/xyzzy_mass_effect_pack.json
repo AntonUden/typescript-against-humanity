@@ -1,0 +1,35 @@
+{
+    "order": 17,
+    "filename": "xyzzy_mass_effect_pack",
+    "name": "Mass Effect Pack",
+    "black_cards": [
+        {
+            "text": "Coming this spring from BioWare, <i>Mass Effect: ____.</i>",
+            "pick": 1
+        },
+        {
+            "text": "I'm Commander Shepard, and this is my favorite place for ____ on the Citadel.",
+            "pick": 1
+        },
+        {
+            "text": "It turns out The Reapers didn't want to destroy the galaxy. They just wanted ____.",
+            "pick": 1
+        },
+        {
+            "text": "We were the best hand-to-hand combatants on the ship. I had reach, but she had ____.",
+            "pick": 1
+        }
+    ],
+    "white_cards": [
+        "Falling in actual love with a video game character.",
+        "My complicated backstory that you will soon learn about.",
+        "The Genophage.",
+        "Totally fuckable aliens.",
+        "Running a few errands before saving the galaxy.",
+        "Bone-shattering sex with a metal woman.",
+        "Space racism.",
+        "An emergency induction port.",
+        "An armored Krogan war-clitoris.",
+        "An extremely long elevator ride."
+    ]
+}

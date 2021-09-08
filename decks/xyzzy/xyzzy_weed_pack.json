@@ -1,0 +1,54 @@
+{
+    "order": 36,
+    "filename": "xyzzy_weed_pack",
+    "name": "Weed Pack",
+    "black_cards": [
+        {
+            "text": "Okay here's the pitch. James Franco and Seth Rogen are trying to score some weed, and then ____ happens.",
+            "pick": 1
+        },
+        {
+            "text": "You know what's like, really funny when you think about it? ____.",
+            "pick": 1
+        },
+        {
+            "text": "Instead of playing a card this round, everyone must stare at the Card Czar while making a sound you'd make after tasting something delicious.",
+            "pick": 1
+        },
+        {
+            "text": "Everyone is staring at you because you're ____.",
+            "pick": 1
+        },
+        {
+            "text": "Hold up. I gotta deal with ____, then I'mma smoke this.",
+            "pick": 1
+        }
+    ],
+    "white_cards": [
+        "How bright the sun is.",
+        "Grinning like an idiot.",
+        "Smoking a blunt butt-ass naked.",
+        "Forgetting to breathe and then dying.",
+        "Dank ass cancer weed.",
+        "Snoop Dogg.",
+        "A whole cheese pizza just for me.",
+        "Dicking around on the guitar for an hour.",
+        "Cheesy crunchies.",
+        "Whatever the fuck I was just talking about.",
+        "Ancient aliens.",
+        "Huge popcorn nugs of hairy alien weed.",
+        "Too much edibles.",
+        "An eight-foot man smoking a six-foot bong.",
+        "Unbelievably soft carpet.",
+        "Dropping stuff and knocking everything over.",
+        "My own fingers.",
+        "The banks, the media, the entire system, man.",
+        "A sandwich with Cheetos in it!",
+        "A bong rip so massive it restores justice to the kingdom.",
+        "Being too high for airplane.",
+        "Hot tub.",
+        "Eating all the skin off a rotisserie chicken.",
+        "Smoking a joint with former President Barack Obama.",
+        "Getting high and watching <i>Planet Earth.</i>"
+    ]
+}

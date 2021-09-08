@@ -195,7 +195,7 @@ export class User implements ITickable {
 						let deck: Deck | null = this._server.getDeck(name);
 
 						if (deck == null) {
-							console.warn("[User] User " + this.uuid + " tried to set the state of an invalid expansion");
+							console.warn("[User] User " + this.uuid + " tried to set the state of an invalid expansion: " + name);
 							continue;
 						}
 

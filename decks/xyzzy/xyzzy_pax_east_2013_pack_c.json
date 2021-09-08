@@ -1,0 +1,25 @@
+{
+    "order": 24,
+    "filename": "xyzzy_pax_east_2013_pack_c",
+    "name": "PAX East 2013 Pack C",
+    "black_cards": [
+        {
+            "text": "Press &darr;&darr;&larr;&rarr;B to unleash ____.",
+            "pick": 1
+        },
+        {
+            "text": "I don't know exactly how I got the PAX plague, but I suspect it had something to do with ____.",
+            "pick": 1
+        }
+    ],
+    "white_cards": [
+        "Charging up all the way.",
+        "Vespene gas.",
+        "Wil Wheaton crashing an actual spaceship.",
+        "The Klobb.",
+        "Achieving 500 actions per minute.",
+        "Smashing all the pottery in a Pottery Barn in search of rupees.",
+        "Forgetting to eat, and consequently dying.",
+        "Judging elves by the color of their skin and not by the content of their character."
+    ]
+}

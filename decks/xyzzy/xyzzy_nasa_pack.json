@@ -1,0 +1,25 @@
+{
+    "order": 19,
+    "filename": "xyzzy_nasa_pack",
+    "name": "NASA Pack",
+    "black_cards": [
+        {
+            "text": "Curiosity was put into safe mode after its hazcams detected ____.",
+            "pick": 1
+        },
+        {
+            "text": "NASA will spend 15 billion dollars on an unprecedented mission: ____ in space.",
+            "pick": 1
+        }
+    ],
+    "white_cards": [
+        "Discovering some bullshit microscopic life instead of anything cool.",
+        "Achieving escape velocity.",
+        "Dreaming of going to space, but being hopelessly fat.",
+        "Forgetting to convert pound-seconds into newton-seconds.",
+        "Uranus.",
+        "A zero-g cumshot.",
+        "Seven minutes of terror.",
+        "A slow, shitty car that drives around Mars for no reason."
+    ]
+}

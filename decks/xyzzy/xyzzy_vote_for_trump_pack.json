@@ -1,0 +1,33 @@
+{
+    "order": 12,
+    "filename": "xyzzy_vote_for_trump_pack",
+    "name": "Vote for Trump Pack",
+    "black_cards": [
+        {
+            "text": "Trump's great! Trump's got ____. I love that.",
+            "pick": 1
+        },
+        {
+            "text": "It's 3 AM. The red phone rings. It's ____. Who do you want answering?",
+            "pick": 1
+        },
+        {
+            "text": "According to Arizona's stand-your-ground law, you're allowed to shoot someone if they're ____.",
+            "pick": 1
+        }
+    ],
+    "white_cards": [
+        "Shouting the loudest.",
+        "Sound fiscal policy.",
+        "Actually voting for Donald Trump to be President of the actual United States.",
+        "Growing up and becoming a Republican.",
+        "A liberal bias.",
+        "Full-on socialism.",
+        "Hating Hillary Clinton.",
+        "Jeb!",
+        "Conservative talking points.",
+        "Courageously going ahead with that racist comment.",
+        "The good, hardworking people of Dubuque, Iowa.",
+        "Dispelling with this fiction that Barack Obama doesn't know what he's doing."
+    ]
+}
