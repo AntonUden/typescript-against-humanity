@@ -562,6 +562,7 @@ export class Game implements ITickable {
 
 		this.players.forEach((player) => {
 			player.clearHand();
+			player.setScore(0);
 		});
 
 		this.cardCzar = 0;
@@ -583,6 +584,7 @@ export class Game implements ITickable {
 
 			this.players.forEach((player) => {
 				player.clearHand();
+				player.setScore(0);
 			});
 
 			switch (reason) {
