@@ -12,11 +12,13 @@
     "express": "^4.17.1",
     "nodemon": "^2.0.12",
     "socket.io": "^4.2.0",
+    "typescript": "^4.4.3",
     "uuid": "^8.3.2",
     "uuidv4": "^6.2.12"
   },
   "devDependencies": {},
   "scripts": {
+    "build": "tsc",
     "start": "node ./dist/app.js",
     "test": "nodemon --ignore ./client/ ./dist/app.js"
   },

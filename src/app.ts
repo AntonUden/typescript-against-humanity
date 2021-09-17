@@ -2,7 +2,7 @@ import { Server } from "./Server";
 
 require('console-stamp')(console, '[HH:MM:ss.l]');
 
-let port: any = process.env.PORT || 30000;
+let port: any = process.env.PORT || 8080;
 
 new Server({
 	port: parseInt(port),
