@@ -11,7 +11,7 @@ export class DeckCollectionDTO {
 	constructor(deckCollection: DeckCollection) {
 		this.name = deckCollection.getName();
 		this.displayName = deckCollection.getDisplayName();
-		this.description = deckCollection.getDisplayName();
+		this.description = deckCollection.getDescription();
 
 		this.decks = deckCollection.getDecks().map(d => new DeckDTO(d));
 	}

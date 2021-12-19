@@ -177,8 +177,12 @@ export class Game implements ITickable {
 			result += "Max round time: " + this.settings.maxRoundTime + ", ";
 		}
 
+		if (this.settings.showCardPack) {
+			result += "Show expansion name, ";
+		}
+
 		if (result.length == 0) {
-			result = "none";
+			result = "None";
 		} else {
 			// Remove space and comma at the end
 			result = result.trim();

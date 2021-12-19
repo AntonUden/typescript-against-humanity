@@ -836,10 +836,14 @@ function showCustomSettingsMenu() {
 
 	let settings = activeGame.settings;
 
+	console.log("Active settings:");
+	console.log(activeGame.settings);
+
 	$("#tbx_handSize").val(settings.handSize);
 	$("#tbx_timeLimit").val(settings.maxRoundTime);
 	$("#tbx_winScore").val(settings.winScore);
 	$("#cbx_throwawayCards").attr("checked", settings.allowThrowingAwayCards);
+	$("#cbx_showExpansionName").attr("checked", settings.showCardPack);
 
 	$("#gameSettingsModal").modal("show");
 }
@@ -849,13 +853,18 @@ function saveCustomSettings() {
 	let maxRoundTime = parseInt($("#tbx_timeLimit").val());
 	let winScore = parseInt($("#tbx_winScore").val());
 	let allowThrowingAwayCards = $("#cbx_throwawayCards").is(':checked');
+	let showCardPack = $("#cbx_showExpansionName").is(':checked');
 
 	let customSettings = {
 		hand_size: handSize,
 		win_score: winScore,
 		max_round_timer: maxRoundTime,
-		allow_throwaway_cards: allowThrowingAwayCards
+		allow_throwaway_cards: allowThrowingAwayCards,
+		show_card_pack: showCardPack
 	}
+
+	console.log("Sending custom settings object");
+	console.log(customSettings);
 
 	socket.send("set_game_settings", customSettings);
 }
