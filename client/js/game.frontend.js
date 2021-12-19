@@ -317,13 +317,20 @@ function handleVotingStart(data) {
 			setHtml.addClass("card-czar-can-select");
 		}
 
-		set.selected.forEach(text => {
+		set.selected.forEach(card => {
 			let cardHtml = $("#white_card_template").clone();
 
 			cardHtml.removeAttr("id");
 			cardHtml.find(".selected-card-number").remove(); // Remove badge that we dont need here
-			cardHtml.find(".card-text-content").html(text);
+			cardHtml.find(".card-text-content").html(card.text);
 			cardHtml.addClass("played-white-card");
+
+			if(activeGame.settings.showCardPack) {
+				cardHtml.attr("title", "This card is from " + card.deck_name);
+				cardHtml.find(".expansion-name").text(card.deck_name);
+			} else {
+				cardHtml.find(".white-card-footer").remove();
+			}
 
 			setHtml.append(cardHtml);
 		});
@@ -440,11 +447,26 @@ function handleGameState(data) {
 			if (activeGame.black_card == null) {
 				$("#black_card_pick").text("");
 				$("#black_card_text").text("");
+
+				$("#black_card_footer").addClass("hidden");
+				$("#black_card_expansion_name").text("");
+				$("#black_card").removeAttr("title");
 			} else {
 				let blackCard = activeGame.black_card;
 
 				$("#black_card_pick").text("pick " + blackCard.pick);
 				$("#black_card_text").html(blackCard.text);
+
+				if(activeGame.settings.showCardPack) {
+					console.debug("Black card is from " + activeGame.black_card.deck_name);
+					$("#black_card_expansion_name").text(activeGame.black_card.deck_name);
+					$("#black_card_footer").removeClass("hidden");
+					$("#black_card").attr("title", "This card is from " + activeGame.black_card.deck_name);
+				} else {
+					$("#black_card_expansion_name").text("");
+					$("#black_card_footer").addClass("hidden");
+					$("#black_card").removeAttr("title");
+				}
 			}
 
 
@@ -603,6 +625,13 @@ function handleGameState(data) {
 
 					newHtml.find(".selected-card-number").hide();
 					newHtml.find(".card-text-content").html(card.text);
+
+					if(activeGame.settings.showCardPack) {
+						newHtml.attr("title", "This card is from " + card.deck_name);
+						newHtml.find(".expansion-name").text(card.deck_name);
+					} else {
+						newHtml.find(".white-card-footer").remove();
+					}
 
 					newHtml.on("click", function () {
 						if (throwawayMode) {

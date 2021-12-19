@@ -15,6 +15,7 @@ import { User } from "./User";
 import { Utils } from "./Utils";
 import { v4 as uuidv4 } from 'uuid';
 import { SelectWinnerResponse } from "./enum/SelectWinnerResponse";
+import { WhiteCardDTO } from "./card/WhiteCardDTO";
 
 export class Game implements ITickable {
 	private uuid: string;
@@ -503,9 +504,32 @@ export class Game implements ITickable {
 
 				this.votingHashes[hash] = player.getUUID();
 
+				let selectedCards: WhiteCard[] = [];
+
+				player.getSelectedCards().forEach(s => {
+					let found = false;
+					this.decks.forEach(deck => {
+						if (found) {
+							return;
+						}
+
+						deck.getWhiteCards().forEach(c => {
+							if(found) {
+								return;
+							}
+
+							if(c.getText() == s) {
+								selectedCards.push(c);
+								found = true;
+							}
+						});
+					});
+				});
+
+
 				selectedSets.push({
 					hash: hash,
-					selected: player.getSelectedCards()
+					selected: selectedCards.map(c => new WhiteCardDTO(c))
 				});
 			}
 		});
