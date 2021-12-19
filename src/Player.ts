@@ -5,7 +5,7 @@ import { User } from "./User";
 export class Player {
 	private user: User;
 	private score: number;
-	private hand: string[];
+	private hand: WhiteCard[];
 	private _game: Game;
 	private selectedCards: string[];
 	private trowawayUsed: boolean;
@@ -19,7 +19,7 @@ export class Player {
 		this.trowawayUsed = false;
 	}
 
-	getHand(): string[] {
+	getHand(): WhiteCard[] {
 		return this.hand;
 	}
 

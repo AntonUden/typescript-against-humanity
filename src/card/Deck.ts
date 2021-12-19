@@ -9,10 +9,15 @@ export class Deck {
 	private whiteCards: WhiteCard[] = [];
 
 
-	constructor(name: string, displayName: string, order: number, blackCards: BlackCard[], whiteCards: WhiteCard[]) {
+	constructor(name: string, displayName: string, order: number) {
 		this.name = name;
 		this.displayName = displayName;
 		this.order = order;
+		this.blackCards = [];
+		this.whiteCards = [];
+	}
+
+	setContent(blackCards: BlackCard[], whiteCards: WhiteCard[]) {
 		this.blackCards = blackCards;
 		this.whiteCards = whiteCards;
 	}

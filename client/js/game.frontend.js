@@ -115,6 +115,7 @@ function handleGameWinner(data) {
 
 	$.alert({
 		title: 'Game over!',
+		theme: (activeTheme.is_dark ? "dark" : "light"),
 		content: 'Winner: ' + winnerName,
 	});
 }
@@ -168,6 +169,7 @@ function joinPasswordProtected(uuid) {
 			'<input type="password" placeholder="Password" class="input-password form-control" required />' +
 			'</div>' +
 			'</form>',
+		theme: (activeTheme.is_dark ? "dark" : "light"),
 		buttons: {
 			formSubmit: {
 				text: 'Submit',
@@ -592,15 +594,15 @@ function handleGameState(data) {
 			});
 
 			activeGame.hand.forEach((card) => {
-				if (!handCards.includes(card)) {
+				if (!handCards.includes(card.text)) {
 					let newHtml = $("#white_card_template").clone();
 
 					newHtml.removeAttr("id");
-					newHtml.attr("data-content", utf8_to_b64(card));
+					newHtml.attr("data-content", utf8_to_b64(card.text));
 					newHtml.addClass("player-hand-card");
 
 					newHtml.find(".selected-card-number").hide();
-					newHtml.find(".card-text-content").html(card);
+					newHtml.find(".card-text-content").html(card.text);
 
 					newHtml.on("click", function () {
 						if (throwawayMode) {
@@ -631,7 +633,7 @@ function handleGameState(data) {
 					$("#player_hand").append(newHtml);
 				}
 
-				handCards.remove(card);
+				handCards.remove(card.text);
 			});
 
 

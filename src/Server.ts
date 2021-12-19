@@ -29,7 +29,8 @@ export class Server implements ITickable {
 		handSize: 10,
 		winScore: 10,
 		maxRoundTime: 60,
-		allowThrowingAwayCards: false
+		allowThrowingAwayCards: false,
+		showCardPack: false
 	};
 
 	constructor(settings: Settings) {

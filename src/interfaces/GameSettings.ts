@@ -3,4 +3,5 @@ export interface GameSettings {
 	winScore: number;
 	maxRoundTime: number;
 	allowThrowingAwayCards: boolean;
+	showCardPack: boolean;
 }

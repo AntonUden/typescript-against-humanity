@@ -48,6 +48,8 @@ export class DeckCollectionReader {
 			let name: string = json.filename;
 			let displayName: string = json.name;
 
+			let deck: Deck = new Deck(name, displayName, order);
+
 			let blackCards: BlackCard[] = [];
 			let whiteCards: WhiteCard[] = [];
 
@@ -55,7 +57,7 @@ export class DeckCollectionReader {
 				let text: string = "" + json.black_cards[i].text;
 				let pick: number = json.black_cards[i].pick;
 
-				let card: BlackCard = new BlackCard(text, pick);
+				let card: BlackCard = new BlackCard(deck, text, pick);
 
 				blackCards.push(card);
 			}
@@ -63,12 +65,13 @@ export class DeckCollectionReader {
 			for (let i = 0; i < json.white_cards.length; i++) {
 				let text: string = "" + json.white_cards[i];
 
-				let card: WhiteCard = new WhiteCard(text);
+				let card: WhiteCard = new WhiteCard(deck, text);
 
 				whiteCards.push(card);
 			}
 
-			let deck: Deck = new Deck(name, displayName, order, blackCards, whiteCards);
+			deck.setContent(blackCards, whiteCards);
+			
 			console.log("Read pack " + displayName + " (" + name + ") With " + blackCards.length + " black cards and " + whiteCards.length + " white cards");
 
 			decks.push(deck);

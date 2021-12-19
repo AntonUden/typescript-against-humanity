@@ -1,4 +1,3 @@
-import { throws } from "assert/strict";
 import { BlackCard } from "./card/BlackCard";
 import { Deck } from "./card/Deck";
 import { WhiteCard } from "./card/WhiteCard";
@@ -344,9 +343,19 @@ export class Game implements ITickable {
 		while (player.getHand().length < this.settings.handSize) {
 			tries++;
 			let card: WhiteCard = this.getWhiteCard();
-			if (!player.getHand().includes(card.getText())) {
-				player.getHand().push(card.getText());
+
+			var found = false;
+			for (var i = 0; i < player.getHand().length; i++) {
+				if (player.getHand()[i].getText() == card.getText()) {
+					found = true;
+					break;
+				}
 			}
+			if (!found) {
+				player.getHand().push(card);
+			}
+
+
 
 
 
@@ -560,6 +569,10 @@ export class Game implements ITickable {
 			return GameStartResponse.NOT_ENOUGH_PLAYERS;
 		}
 
+		// Clear cards from previous round
+		this.blackCardDeck = [];
+		this.whiteCardDeck = [];
+
 		this.players.forEach((player) => {
 			player.clearHand();
 			player.setScore(0);
@@ -656,8 +669,13 @@ export class Game implements ITickable {
 			});
 
 			player.getSelectedCards().forEach(card => {
-				let index = player.getHand().indexOf(card, 0);
-				player.getHand().splice(index, 1);
+				let index = player.getHand().findIndex(c => c.getText() == card);
+				if (index != -1) {
+					player.getHand().splice(index, 1);
+				}
+
+				//let index = player.getHand().indexOf(card, 0);
+				//player.getHand().splice(index, 1);
 			});
 		});
 

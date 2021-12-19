@@ -1,8 +1,8 @@
-
-import { throws } from "assert/strict";
 import { Socket } from "socket.io";
+import { BlackCardDTO } from "./card/BlackCardDTO";
 import { Deck } from "./card/Deck";
-import { WhiteCard } from "./card/WhiteCard";
+import { DeckCollectionDTO } from "./card/DeckCollectionDTO";
+import { WhiteCardDTO } from "./card/WhiteCardDTO";
 import { GamePhase } from "./enum/GamePhase";
 import { GameStartResponse } from "./enum/GameStartResponse";
 import { GameState } from "./enum/GameState";
@@ -40,7 +40,7 @@ export class User implements ITickable {
 			maxPlayersPerGame: this._server.settings.maxPlayersPerGame,
 			maxGameNameLength: this._server.settings.maxGameNameLength,
 			maxPlayerNameLength: this._server.settings.maxPlayerNameLength,
-			deckCollections: this._server.getDeckCollections(),
+			deckCollections: this._server.getDeckCollections().map(c => new DeckCollectionDTO(c)),
 			uuid: this.getUUID(),
 
 			initialGeneratedName: username,
@@ -303,7 +303,7 @@ export class User implements ITickable {
 						return;
 					}
 
-					let hand: string[] = player.getHand();
+					let hand: string[] = player.getHand().map(c => c.getText());
 
 					for (let i = 0; i < selected.length; i++) {
 						if (!hand.includes(selected[i])) {
@@ -420,8 +420,17 @@ export class User implements ITickable {
 
 						let card: string = content["card"] + "";
 
-						if (player.getHand().includes(card)) {
-							let index: number = player.getHand().indexOf(card);
+						var found = false;
+						for (var i = 0; i < player.getHand().length; i++) {
+							if (player.getHand()[i].getText() == card) {
+								found = true;
+								break;
+							}
+						}
+
+						if (found) {
+							//if (player.getHand().includes(card)) {
+							let index: number = player.getHand().findIndex(c => c.getText() == card);
 
 							if (index > -1) {
 								player.getHand().splice(index, 1);
@@ -430,6 +439,7 @@ export class User implements ITickable {
 
 								this.getGame().broadcastMessage(this.getUsername() + " threw away the card " + card, MessageType.INFO);
 							}
+							//}
 						}
 					}
 
@@ -471,9 +481,14 @@ export class User implements ITickable {
 			let handSize: number = this.getGame().getGameSettings().handSize;
 			let maxRoundTime: number = this.getGame().getGameSettings().maxRoundTime;
 			let winScore: number = this.getGame().getGameSettings().winScore;
+			let showCardPack: boolean = this.getGame().getGameSettings().showCardPack;
 
 			if (content["allow_throwaway_cards"] != null) {
 				allowThrowingAwayCards = Utils.stringToBoolean(content["allow_throwaway_cards"]);
+			}
+
+			if (content["show_card_pack"] != null) {
+				showCardPack = Utils.stringToBoolean(content["show_card_pack"]);
 			}
 
 			if (content["hand_size"] != null) {
@@ -508,7 +523,8 @@ export class User implements ITickable {
 				allowThrowingAwayCards: allowThrowingAwayCards,
 				handSize: handSize,
 				maxRoundTime: maxRoundTime,
-				winScore: winScore
+				winScore: winScore,
+				showCardPack: showCardPack
 			}
 
 			//console.debug(newSettings);
@@ -593,11 +609,11 @@ export class User implements ITickable {
 
 			let player: Player = game.getPlayers().find((p) => p.getUUID() == this.getUUID());
 
-			let hand: string[] = [];
+			let hand: WhiteCardDTO[] = [];
 			let throwawayUsed: boolean = false;
 
 			if (player != null) {
-				hand = player.getHand();
+				hand = player.getHand().map(c => new WhiteCardDTO(c));
 				throwawayUsed = player.isThrowawayUsed();
 			}
 
@@ -607,6 +623,12 @@ export class User implements ITickable {
 				cardCzar = game.getCardCzar().getUUID();
 			}
 
+			let activeBlackCard: BlackCardDTO | null = null;
+
+			if(game.getActiveBlackCard() != null) {
+				activeBlackCard = new BlackCardDTO(game.getActiveBlackCard())
+			}
+
 			activeGameData = {
 				uuid: game.getUUID(),
 				name: game.getName(),
@@ -614,7 +636,7 @@ export class User implements ITickable {
 				decks: decks,
 				host: game.getHostUUID(),
 				players: players,
-				black_card: game.getActiveBlackCard(),
+				black_card: activeBlackCard,
 				hand: hand,
 				phase: game.getPhase(),
 				card_czar: cardCzar,

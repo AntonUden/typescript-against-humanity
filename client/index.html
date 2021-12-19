@@ -22,16 +22,29 @@
 	<script src="/js/bootstrap.min.js"></script>
 	<script src="/js/misc.js"></script>
 	<script src="/js/message_handler.js"></script>
-	<script src="/js/game.frontend.js"></script>
 	<script src="/js/ui.js"></script>
 	<script src="/js/mobile_check.js"></script>
+	<script src="/js/game.frontend.js"></script>
+	<script src="/js/themes.js"></script>
+	<script src="/js/theme-manager.js"></script>
 </head>
 
 <body>
 	<!-- Navbar -->
-	<nav class="navbar navbar-dark bg-dark">
+	<nav class="navbar navbar-dark bg-dark navbar-expand-lg">
 		<div class="container-fluid">
 			<a class="navbar-brand" href="#">Cards Against Humanity</a>
+			<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+				aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+				<span class="navbar-toggler-icon"></span>
+			</button>
+			<div class="collapse navbar-collapse" id="navbarNav">
+				<ul class="navbar-nav">
+					<li class="nav-item">
+						<a class="nav-link select-theme-button" href="#">Theme</a>
+					</li>
+				</ul>
+			</div>
 		</div>
 	</nav>
 
@@ -266,6 +279,25 @@
 	</div>
 
 	<!-- Modals -->
+	<div class="modal fade" id="selectThemeModal" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1"
+		aria-labelledby="selectThemeModalTitle" aria-hidden="true">
+		<div class="modal-dialog modal-lg">
+			<div class="modal-content">
+				<div class="modal-header">
+					<h5 class="modal-title" id="selectThemeModalTitle">Select theme</h5>
+					<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+				</div>
+				<div class="modal-body">
+					<select class="form-select" id="theme-selector">
+					</select>
+				</div>
+				<div class="modal-footer">
+					<button type="button" class="btn btn-primary" data-bs-dismiss="modal">Close</button>
+				</div>
+			</div>
+		</div>
+	</div>
+
 	<div class="modal fade" id="selectExpansionsModal" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1"
 		aria-labelledby="selectExpansionsModalTitle" aria-hidden="true">
 		<div class="modal-dialog modal-lg">
