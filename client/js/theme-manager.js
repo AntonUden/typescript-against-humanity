@@ -23,7 +23,7 @@ $(function () {
 		$("#theme-selector").val(theme);
 		applyThemeByName(theme);
 	} else {
-		applyThemeByName("default");
+		applyThemeByName("quartz");
 	}
 
 	console.debug("Theme manager loaded");
