@@ -5,6 +5,11 @@
 		"description": "These packs where taken from here <a href=\"https://pretendyoure.xyz/zy/\">https://pretendyoure.xyz/zy/</a>"
 	},
 	{
+		"name": "json-against-humanity",
+		"display_name": "JSON Against humanity",
+		"description": "These packs where taken from here <a href=\"https://crhallberg.com/cah/\">https://crhallberg.com/cah/</a>"
+	},
+	{
 		"name": "nodejs-against-humanity",
 		"display_name": "NodeJS Against humanity",
 		"description": "These packs where taken from here <a href=\"https://github.com/amirrajan/nodejs-against-humanity\">https://github.com/amirrajan/nodejs-against-humanity</a>"
@@ -13,5 +18,10 @@
 		"name": "misc",
 		"display_name": "Other",
 		"description": "Miscellaneous expansions"
+	},
+	{
+		"name": "custom",
+		"display_name": "Custom",
+		"description": "Custom expansions added by the server host"
 	}
 ]

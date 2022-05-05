@@ -82,11 +82,11 @@ export class Server implements ITickable {
 		}, 100);
 	}
 
-	getGames(): Game[] {
+	public getGames(): Game[] {
 		return this.games;
 	}
 
-	removeGame(game: Game): void {
+	public removeGame(game: Game): void {
 		console.log("[Game] Removing game instance " + game.getUUID() + " (" + game.getName() + ")");
 		game.destroyInstance();
 		for (let i = 0; i < this.games.length; i++) {
@@ -97,7 +97,7 @@ export class Server implements ITickable {
 		this.broadcastGameList();
 	}
 
-	createGame(owner: User, name: string, password: string | null = null): Game {
+	public createGame(owner: User, name: string, password: string | null = null): Game {
 		let game: Game = new Game(this, uuidv4(), name, password);
 
 		this.games.push(game);
@@ -107,7 +107,7 @@ export class Server implements ITickable {
 		return game;
 	}
 
-	disconnectUser(user: User): void {
+	public disconnectUser(user: User): void {
 		user.dispose();
 		for (let i: number = 0; i < this.users.length; i++) {
 			if (this.users[i].getUUID() == user.getUUID()) {
@@ -117,13 +117,13 @@ export class Server implements ITickable {
 		console.log("[User] User " + user.getUUID() + " disconnected (User count: " + this.users.length + ")");
 	}
 
-	broadcastGameList(): void {
+	public broadcastGameList(): void {
 		for (let i = 0; i < this.users.length; i++) {
 			this.users[i].sendGameList();
 		}
 	}
 
-	getDeck(name: string): Deck | null {
+	public getDeck(name: string): Deck | null {
 		for (let i = 0; i < this.deckCollections.length; i++) {
 			for (let j = 0; j < this.deckCollections[i].getDecks().length; j++) {
 				if (this.deckCollections[i].getDecks()[j].getName() == name) {
@@ -135,11 +135,11 @@ export class Server implements ITickable {
 		return null;
 	}
 
-	getDeckCollections(): DeckCollection[] {
+	public getDeckCollections(): DeckCollection[] {
 		return this.deckCollections;
 	}
 
-	getGame(uuid: string): Game | null {
+	public getGame(uuid: string): Game | null {
 		for (let i = 0; i < this.games.length; i++) {
 			if (this.games[i].getUUID() == uuid) {
 				return this.games[i];
@@ -150,7 +150,7 @@ export class Server implements ITickable {
 	}
 
 	// Called 10 times / second
-	tick(): void {
+	public tick(): void {
 		this.users.forEach((user) => user.tick());
 		this.games.forEach((game) => game.tick());
 	}

@@ -51,30 +51,30 @@ export class User implements ITickable {
 		socket.send("client_settings", clientSettings);
 	}
 
-	getUUID(): string {
+	public getUUID(): string {
 		return this.uuid;
 	}
 
-	getSocket(): Socket {
+	public getSocket(): Socket {
 		return this.socket;
 	}
 
-	getUsername(): string {
+	public getUsername(): string {
 		return this.username;
 	}
 
-	setUsername(username: string): void {
+	public setUsername(username: string): void {
 		this.username = username;
 	}
 
-	sendMessage(message: string, type: MessageType): void {
+	public sendMessage(message: string, type: MessageType): void {
 		this.socket.send("message", {
 			"message": message,
 			"type": type
 		});
 	}
 
-	getGame(): Game | null {
+	public getGame(): Game | null {
 		for (let i: number = 0; i < this._server.games.length; i++) {
 			let game = this._server.games[i];
 
@@ -86,11 +86,11 @@ export class User implements ITickable {
 		return null;
 	}
 
-	isInGame(): boolean {
+	public isInGame(): boolean {
 		return this.getGame() != null;
 	}
 
-	handleIncommingMessage(message: string, content: any): void {
+	public handleIncommingMessage(message: string, content: any): void {
 		let msgString: string = "" + message;
 		try {
 			switch (msgString) {
@@ -456,7 +456,7 @@ export class User implements ITickable {
 		}
 	}
 
-	processGameSettings(content: any) {
+	public processGameSettings(content: any) {
 		if (!this.isInGame()) {
 			this.sendMessage("Cant change settings while not in game", MessageType.ERROR);
 			return;
@@ -533,13 +533,13 @@ export class User implements ITickable {
 		}
 	}
 
-	dispose(): void {
+	public dispose(): void {
 		if (this.isInGame()) {
 			this.getGame().leaveGame(this);
 		}
 	}
 
-	sendGameList() {
+	public sendGameList() {
 		let gameList: any[] = [];
 
 		for (let i: number = 0; i < this._server.getGames().length; i++) {
@@ -582,7 +582,7 @@ export class User implements ITickable {
 		this.socket.send("game_list", state);
 	}
 
-	sendActiveGameState(): void {
+	public sendActiveGameState(): void {
 		let activeGameData: any | null = null;
 
 		if (this.isInGame()) {
@@ -654,5 +654,5 @@ export class User implements ITickable {
 		this.socket.send("state", state);
 	}
 
-	tick(): void { }
+	public tick(): void { }
 }

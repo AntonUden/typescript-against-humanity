@@ -1,12 +1,12 @@
 import * as crypto from 'crypto';
 
 export class Utils {
-	static getRandomInt(min: number, max: number): number {
+	public static getRandomInt(min: number, max: number): number {
 		return Math.trunc(Math.random() * (max - min) + min);
 	}
 
 	// https://stackoverflow.com/a/2450976
-	static shuffle<T>(array: T[]): T[] {
+	public static shuffle<T>(array: T[]): T[] {
 		var currentIndex = array.length, randomIndex;
 
 		// While there remain elements to shuffle...
@@ -24,15 +24,15 @@ export class Utils {
 		return array;
 	}
 
-	static md5String(string: string): string {
+	public static md5String(string: string): string {
 		return crypto.createHash("md5").update(string).digest("hex");
 	}
 
-	static cloneObject<T>(object: T): T {
+	public static cloneObject<T>(object: T): T {
 		return JSON.parse(JSON.stringify(object));
 	}
 
-	static stringToBoolean(object: any): boolean {
+	public static stringToBoolean(object: any): boolean {
 		let string: string = String(object);
 		switch (string.toLowerCase().trim()) {
 			case "true": case "yes": case "1": return true;

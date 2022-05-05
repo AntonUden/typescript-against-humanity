@@ -14,19 +14,19 @@ export class DeckCollection {
 		this.decks = decks;
 	}
 
-	getName(): string {
+	public getName(): string {
 		return this.name;
 	}
 
-	getDisplayName(): string {
+	public getDisplayName(): string {
 		return this.displayName;
 	}
 
-	getDescription(): string {
+	public getDescription(): string {
 		return this.description;
 	}
 
-	getDecks(): Deck[] {
+	public getDecks(): Deck[] {
 		return this.decks;
 	}
 }

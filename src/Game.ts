@@ -76,25 +76,25 @@ export class Game implements ITickable {
 		}
 	}
 
-	destroyInstance(): void {
+	public destroyInstance(): void {
 		this.players = [];
 		this.name = "[deleted]";
 	}
 
 	/* ===== Getters and setters ===== */
-	getUUID(): string {
+	public getUUID(): string {
 		return this.uuid;
 	}
 
-	getName(): string {
+	public getName(): string {
 		return this.name;
 	}
 
-	getGameSettings(): GameSettings {
+	public getGameSettings(): GameSettings {
 		return this.settings;
 	}
 
-	getHostUUID(): string | null {
+	public getHostUUID(): string | null {
 		if (this.players.length > 0) {
 			return this.players[0].getUUID();
 		}
@@ -102,19 +102,19 @@ export class Game implements ITickable {
 		return null;
 	}
 
-	getGameState(): GameState {
+	public getGameState(): GameState {
 		return this.gameState;
 	}
 
-	getPlayers(): Player[] {
+	public getPlayers(): Player[] {
 		return this.players;
 	}
 
-	getDecks(): Deck[] {
+	public getDecks(): Deck[] {
 		return this.decks;
 	}
 
-	getCardCzar(): Player | null {
+	public getCardCzar(): Player | null {
 		if (this.cardCzar >= this.players.length) {
 			return null;
 		}
@@ -122,23 +122,23 @@ export class Game implements ITickable {
 		return this.players[this.cardCzar];
 	}
 
-	getPhase(): GamePhase {
+	public getPhase(): GamePhase {
 		return this.gamePhase;
 	}
 
-	getActiveBlackCard(): BlackCard | null {
+	public getActiveBlackCard(): BlackCard | null {
 		return this.activeBlackCard;
 	}
 
-	getPlayerByUser(user: User): Player | null {
+	public getPlayerByUser(user: User): Player | null {
 		return this.players.find(p => p.getUUID() == user.getUUID());
 	}
 
-	getPassword(): string {
+	public getPassword(): string {
 		return this.password;
 	}
 
-	useDefaultSettings(update: boolean = true): void {
+	public useDefaultSettings(update: boolean = true): void {
 		this.settings = Utils.cloneObject(this._server.defaultGameSettings);
 		this.updateSustomSettingsString();
 		if (update) {
@@ -146,11 +146,11 @@ export class Game implements ITickable {
 		}
 	}
 
-	getCustomSettingsString(): string {
+	public getCustomSettingsString(): string {
 		return this.customSettingsString;
 	}
 
-	setCustomSettings(settings: GameSettings, update: boolean = true): void {
+	public setCustomSettings(settings: GameSettings, update: boolean = true): void {
 		this.settings = settings;
 		this.updateSustomSettingsString();
 		if (update) {
@@ -159,7 +159,7 @@ export class Game implements ITickable {
 	}
 
 	/* ===== Custom settings ===== */
-	updateSustomSettingsString(): void {
+	public updateSustomSettingsString(): void {
 		let result: string = "";
 
 		if (this.settings.allowThrowingAwayCards != this._server.defaultGameSettings.allowThrowingAwayCards) {
@@ -194,11 +194,11 @@ export class Game implements ITickable {
 	}
 
 	/* ===== Functions to determine if things are true ===== */
-	isWinnerSelected(): boolean {
+	public isWinnerSelected(): boolean {
 		return this.winnerSelected;
 	}
 
-	isInGame(user: User): boolean {
+	public isInGame(user: User): boolean {
 		for (let i: number = 0; i < this.players.length; i++) {
 			if (this.players[i].getUUID() == user.getUUID()) {
 				return true;
@@ -208,11 +208,11 @@ export class Game implements ITickable {
 		return false;
 	}
 
-	isHost(user: User): boolean {
+	public isHost(user: User): boolean {
 		return this.getHostUUID() == user.getUUID();
 	}
 
-	isAllPlayersDone(): boolean {
+	public isAllPlayersDone(): boolean {
 		let allDone = true;
 		let cardCzar: Player = this.getCardCzar();
 
@@ -231,12 +231,12 @@ export class Game implements ITickable {
 		return allDone;
 	}
 
-	hasPassword(): boolean {
+	public hasPassword(): boolean {
 		return this.password != null;
 	}
 
 	/* ===== Join and leave ===== */
-	joinGame(user: User, password: string | null = null, forceJoin: boolean = false): JoinGameResponse {
+	public joinGame(user: User, password: string | null = null, forceJoin: boolean = false): JoinGameResponse {
 		if (this.hasPassword() && !forceJoin) {
 			if (this.getPassword() != password) {
 				return JoinGameResponse.INVALID_PASSWORD;
@@ -270,7 +270,7 @@ export class Game implements ITickable {
 		return JoinGameResponse.SUCCESS;
 	}
 
-	leaveGame(user: User): void {
+	public leaveGame(user: User): void {
 		let cardCzarPlayer: Player = this.getCardCzar();
 		let skipRound: boolean = false;
 
@@ -322,7 +322,7 @@ export class Game implements ITickable {
 	}
 
 	/* ===== Deck related ===== */
-	hasDeck(deck: Deck): boolean {
+	public hasDeck(deck: Deck): boolean {
 		for (let i = 0; i < this.decks.length; i++) {
 			if (this.decks[i].getName() == deck.getName()) {
 				return true;
@@ -332,7 +332,7 @@ export class Game implements ITickable {
 		return false;
 	}
 
-	removeDeck(deck: Deck): void {
+	public removeDeck(deck: Deck): void {
 		for (let i = 0; i < this.decks.length; i++) {
 			if (this.decks[i].getName() == deck.getName()) {
 				this.decks.splice(i, 1);
@@ -341,7 +341,7 @@ export class Game implements ITickable {
 		}
 	}
 
-	fillPlayerHand(player: Player): void {
+	public fillPlayerHand(player: Player): void {
 		let tries = 0;
 		let maxTries = 10000;
 
@@ -372,7 +372,7 @@ export class Game implements ITickable {
 		}
 	}
 
-	getWhiteCard(): WhiteCard {
+	public getWhiteCard(): WhiteCard {
 		if (this.whiteCardDeck.length == 0) {
 			this.decks.forEach((deck) => {
 				deck.getWhiteCards().forEach((card) => {
@@ -388,7 +388,7 @@ export class Game implements ITickable {
 		return this.whiteCardDeck.pop();
 	}
 
-	getBlackCard(): BlackCard {
+	public getBlackCard(): BlackCard {
 		if (this.blackCardDeck.length == 0) {
 			this.decks.forEach((deck) => {
 				deck.getBlackCards().forEach((card) => {
@@ -402,11 +402,11 @@ export class Game implements ITickable {
 		return this.blackCardDeck.pop();
 	}
 
-	addDeck(deck: Deck) {
+	public addDeck(deck: Deck) {
 		this.decks.push(deck);
 	}
 
-	getBlackCards(): BlackCard[] {
+	public getBlackCards(): BlackCard[] {
 		let result: BlackCard[] = [];
 
 		for (let i = 0; i < this.decks.length; i++) {
@@ -420,7 +420,7 @@ export class Game implements ITickable {
 		return result;
 	}
 
-	getWhiteCards(): WhiteCard[] {
+	public getWhiteCards(): WhiteCard[] {
 		let result: WhiteCard[] = [];
 
 		for (let i = 0; i < this.decks.length; i++) {
@@ -435,7 +435,7 @@ export class Game implements ITickable {
 	}
 
 	/* ===== Rounds ===== */
-	startRound(): void {
+	public startRound(): void {
 		this.cardCzar++;
 		this.winnerSelected = false;
 		if (this.cardCzar >= this.players.length) {
@@ -475,7 +475,7 @@ export class Game implements ITickable {
 		});
 	}
 
-	startVotingPhase(): void {
+	public startVotingPhase(): void {
 		this.gamePhase = GamePhase.VOTING;
 		this.timeLeft = this.settings.maxRoundTime * 10;
 		this.winnerSelected = false;
@@ -548,17 +548,17 @@ export class Game implements ITickable {
 	}
 
 	/* ===== Networking ===== */
-	broadcastMessage(message: string, type: MessageType): void {
+	public broadcastMessage(message: string, type: MessageType): void {
 		this.players.forEach((player) => {
 			player.getUser().sendMessage(message, type);
 		});
 	}
 
-	sendGameListUpdateUpdate(): void {
+	public sendGameListUpdateUpdate(): void {
 		this._server.broadcastGameList();
 	}
 
-	sendStateUpdate(includeUser: User = null): void {
+	public sendStateUpdate(includeUser: User = null): void {
 		let target: User[] = [];
 
 		this.players.forEach((p) => {
@@ -574,13 +574,13 @@ export class Game implements ITickable {
 		});
 	}
 
-	sendFullUpdate(includeUser: User = null): void {
+	public sendFullUpdate(includeUser: User = null): void {
 		this.sendStateUpdate(includeUser);
 		this.sendGameListUpdateUpdate();
 	}
 
 	/* ===== Starting and ending game ===== */
-	startGame(): GameStartResponse {
+	public startGame(): GameStartResponse {
 		if (this.gameState == GameState.INGAME) {
 			return GameStartResponse.ALREADY_RUNNING;
 		}
@@ -616,7 +616,7 @@ export class Game implements ITickable {
 		return GameStartResponse.SUCCESS;
 	}
 
-	endGame(reason: GameEndReason): void {
+	public endGame(reason: GameEndReason): void {
 		if (this.gameState == GameState.INGAME) {
 			this.gameState = GameState.WAITING;
 
@@ -649,7 +649,7 @@ export class Game implements ITickable {
 	}
 
 	/* ===== Player game interactions ===== */
-	onPlayerSelectCards(player: Player): void {
+	public onPlayerSelectCards(player: Player): void {
 		if (this.gamePhase != GamePhase.PICKING) {
 			return;
 		}
@@ -664,7 +664,7 @@ export class Game implements ITickable {
 		}
 	}
 
-	selectWinner(hash: string): SelectWinnerResponse {
+	public selectWinner(hash: string): SelectWinnerResponse {
 		if (this.gameState != GameState.INGAME || this.gamePhase != GamePhase.VOTING) {
 			console.warn("Tried to select winner while not in the ingame voting state");
 			return { success: false };
@@ -726,7 +726,7 @@ export class Game implements ITickable {
 	}
 
 	/* ===== Game loop ===== */
-	tick(): void {
+	public tick(): void {
 		//console.debug(this.cardCzar);
 
 		if (this.gameState == GameState.INGAME) {

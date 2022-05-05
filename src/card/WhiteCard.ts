@@ -10,11 +10,11 @@ export class WhiteCard implements ICard {
 		this.text = text;
 	}
 
-	getDeck(): Deck {
+	public getDeck(): Deck {
 		return this.deck;
 	}
 
-	getText(): string {
+	public getText(): string {
 		return this.text;
 	}
 }

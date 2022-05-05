@@ -19,48 +19,48 @@ export class Player {
 		this.trowawayUsed = false;
 	}
 
-	getHand(): WhiteCard[] {
+	public getHand(): WhiteCard[] {
 		return this.hand;
 	}
 
-	clearHand(): void {
+	public clearHand(): void {
 		this.hand = [];
 	}
 
-	getScore(): number {
+	public getScore(): number {
 		return this.score;
 	}
 
-	setScore(score: number) {
+	public setScore(score: number) {
 		this.score = score;
 	}
 
-	getUser(): User {
+	public getUser(): User {
 		return this.user;
 	}
 
-	getUUID(): string {
+	public getUUID(): string {
 		return this.user.getUUID();
 	}
 
-	clearSelectedCards(): void {
+	public clearSelectedCards(): void {
 		this.selectedCards = [];
 	}
 
-	getSelectedCards(): string[] {
+	public getSelectedCards(): string[] {
 		return this.selectedCards;
 	}
 
-	setSelectedCards(selected: string[]): void {
+	public setSelectedCards(selected: string[]): void {
 		this.selectedCards = selected;
 		this._game.onPlayerSelectCards(this);
 	}
 
-	isThrowawayUsed(): boolean {
+	public isThrowawayUsed(): boolean {
 		return this.trowawayUsed;
 	}
 
-	setThrowawayUsed(used: boolean) {
+	public setThrowawayUsed(used: boolean) {
 		this.trowawayUsed = used;
 	}
 }

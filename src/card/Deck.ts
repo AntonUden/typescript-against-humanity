@@ -17,28 +17,28 @@ export class Deck {
 		this.whiteCards = [];
 	}
 
-	setContent(blackCards: BlackCard[], whiteCards: WhiteCard[]) {
+	public setContent(blackCards: BlackCard[], whiteCards: WhiteCard[]) {
 		this.blackCards = blackCards;
 		this.whiteCards = whiteCards;
 	}
 
-	getName(): string {
+	public getName(): string {
 		return this.name;
 	}
 
-	getDisplayName(): string {
+	public getDisplayName(): string {
 		return this.displayName;
 	}
 
-	getOrder(): number {
+	public getOrder(): number {
 		return this.order;
 	}
 
-	getBlackCards(): BlackCard[] {
+	public getBlackCards(): BlackCard[] {
 		return this.blackCards;
 	}
 
-	getWhiteCards(): WhiteCard[] {
+	public getWhiteCards(): WhiteCard[] {
 		return this.whiteCards;
 	}
 }

@@ -12,15 +12,15 @@ export class BlackCard implements ICard {
 		this.pick = pick;
 	}
 
-	getDeck(): Deck {
+	public getDeck(): Deck {
 		return this.deck;
 	}
 
-	getText(): string {
+	public getText(): string {
 		return this.text;
 	}
 
-	getPick(): number {
+	public getPick(): number {
 		return this.pick;
 	}
 }
