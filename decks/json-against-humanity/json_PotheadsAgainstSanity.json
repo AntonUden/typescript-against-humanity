@@ -1,0 +1,496 @@
+{
+    "order": 179,
+    "filename": "json_PotheadsAgainstSanity",
+    "name": "Potheads Against Sanity",
+    "white_cards": [
+        "Act surprised when a doctor removes a small kitchen appliance from my anus.",
+        "Ask the mice in my walls to dress me like Cinderella.",
+        "Bake brownies that make everyone hallucinate.",
+        "Bark at the watermelon.",
+        "Bitch-slap a sasy barbershop quartet.",
+        "Build an ark, load two of each animal, and then pass out while a flood comes.",
+        "Castrate a slug.",
+        "Charge a bull for my bar tab.",
+        "Chastise the dog for licking itself.",
+        "Check the neighbor's livestock for stool abnormalities.",
+        "Cherish chewable THC candies.",
+        "Chew on a friend's wart.",
+        "Create a cheese that can only solidify in your crotch.",
+        "Dance with a lamp shade on my privates.",
+        "Dance with an imaginary bong.",
+        "Dare the cat to jump over a piece of pie.",
+        "Do laundry in the dishwasher.",
+        "Doodle on a cheese doodle.",
+        "Drink heavily while riding a unicycle.",
+        "Eat a cucumber suggestively.",
+        "Eat a loaded brownie.",
+        "Eat nothing but condiments for 16 days.",
+        "Floss your teeth with a tampon string.",
+        "Fornicate with a slutty piece of furniture.",
+        "Give the ol' \"brown eye\" an opportunity to wink.",
+        "Grab his left nut to make the right one jealous.",
+        "Hallucinate that I am a cartoon sponge.",
+        "Hump hemp.",
+        "Imagine you are a marigold.",
+        "Juggle barbecue tongs.",
+        "Juggle fetal pigs.",
+        "Knit thermal underwaer for purcupines.",
+        "Lactate.",
+        "Laugh at a dish towel.",
+        "Laugh at the nearest chair.",
+        "Lick a frozen pole until my tongue sticks.",
+        "Lick everything in sight.",
+        "Lick postage stamps professionally.",
+        "Lick the dog's underpants.",
+        "Lisp as if my life depends on it.",
+        "Make chipmunks jealous with how many nuts I can fit in my mouth.",
+        "Make freshly squeezed orange juice with my firm butt cheeks.",
+        "Marinate submarine sandwiches in subway station.",
+        "Menstruate golf balls.",
+        "Mix cement in my underpants.",
+        "Moon a Prime Minister.",
+        "Mow the lawn naked.",
+        "Paint your ass like a clown's face.",
+        "Park my car in a hammock.",
+        "Passionately kiss a manhole cover.",
+        "Perform a lobotomy on a head of lettuce.",
+        "Perform obscene sock puppet shows.",
+        "Perform Pap Smears on my stuffed-animals.",
+        "Pick my best friend's nose with a chopstick.",
+        "Play hide-and-seek with imaginary serial killers.",
+        "Play hockey with Martians.",
+        "Pour flour into an oscillating fan.",
+        "Practice voodoo on a potato.",
+        "Pretend I am Godzilla and stomp on doll houses.",
+        "Pretend that a plate of cupcakes are your childen.",
+        "Pull out my teeth with pliers.",
+        "Pull the fire alarm at a library.",
+        "Re-stain your patio with pig's blood.",
+        "Recite my parent's wedding vows while flogging myself.",
+        "Replace the mistletoe with reefer.",
+        "Ride a walrus to my 10th year high school reunion.",
+        "Roll a joint full of oregano.",
+        "Roll around in a giant crisper drawer.",
+        "Sell high-tops to hippies.",
+        "Sell seashells by the seashore.",
+        "Share a bong at a campfire sing-along.",
+        "Shoot tube socks out of a tuba.",
+        "Sit in porridge that is too hot.",
+        "Ski off a kitchen table.",
+        "Slice and dice an armoire into bark dust.",
+        "Smoke a joint with someone double-jointed.",
+        "Smoke salmon throug a bong.",
+        "Squirt skim milk out of my nose after drinking 2%.",
+        "Suck pudding out of everyone's orifices.",
+        "Suck the blood out used bandages.",
+        "Swim naked in a bathtub full of tapioca pudding.",
+        "Swim the crawl stroke on a waterbed.",
+        "Tattoo a green cross on my forehead.",
+        "Tell someone that \"Around the corner, fudge is made.\"",
+        "Test my stuffed animals for STDs.",
+        "Testify that I am a spoon.",
+        "Tottoo \"THC\" on your forehead.",
+        "Try to run faster than popping corn.",
+        "Twirl batons that are human femur bones.",
+        "Urinate purple.",
+        "Use dirty underwear to perform a puppet show.",
+        "Use salad tongs to pleasure strangers in a soup kitchen.",
+        "Use the drapes as toilet paper.",
+        "Vacuum the drapes.",
+        "Walk a pirate's plank into a gian bowl of gelatin.",
+        "Warn the corn that the carrots are invading the crisper drawer.",
+        "Wear lip gloss on my anus.",
+        "Wear my grandparent's dentures to a wedding.",
+        "Wear nothing but Christmas tree ornaments to a mayor's inauguration ceremony.",
+        "Wear nothing but edible pasties while grocery shopping.",
+        "Whistle at the bacon.",
+        "Write obscenities on everyone's foreheads in caramel.",
+        "Yodel with elderly potheads."
+    ],
+    "black_cards": [
+        {
+            "pick": 1,
+            "text": "After enjoying a little 4:20, I like to _____."
+        },
+        {
+            "pick": 1,
+            "text": "Cover your eyes and count to ten while I _____."
+        },
+        {
+            "pick": 1,
+            "text": "Demand that disgruntled longshoreman _____."
+        },
+        {
+            "pick": 1,
+            "text": "Dick and Jane smoke Mary Jane, and then _____."
+        },
+        {
+            "pick": 1,
+            "text": "Don't grow weed! Instead you should _____."
+        },
+        {
+            "pick": 1,
+            "text": "Don't judge me when I want to _____."
+        },
+        {
+            "pick": 1,
+            "text": "Don't try Purple Haze, unless you want to _____ afterwards."
+        },
+        {
+            "pick": 1,
+            "text": "Dude! Let's _____."
+        },
+        {
+            "pick": 1,
+            "text": "During my last physical, my doctor told me to never again _____."
+        },
+        {
+            "pick": 1,
+            "text": "For my last romantic date night, I scored big points by suggesting we first _____."
+        },
+        {
+            "pick": 1,
+            "text": "Four score and seven years ago, Americans wanted to _____."
+        },
+        {
+            "pick": 1,
+            "text": "Girls just want to _____."
+        },
+        {
+            "pick": 1,
+            "text": "Goldilocks got the three bears high and then wanted to _____."
+        },
+        {
+            "pick": 1,
+            "text": "Hark! The herald angels _____!"
+        },
+        {
+            "pick": 1,
+            "text": "Hemp is nmot only widely used for clothing, it's also popularly used to _____."
+        },
+        {
+            "pick": 1,
+            "text": "I am not the first man on the moon, but I am the first to _____."
+        },
+        {
+            "pick": 1,
+            "text": "I am so talented because I can _____."
+        },
+        {
+            "pick": 1,
+            "text": "I am very paranoid that my friends will _____."
+        },
+        {
+            "pick": 1,
+            "text": "I am woman! Hear me _____."
+        },
+        {
+            "pick": 1,
+            "text": "I can't believe I fell asleep last night while I was trying to _____."
+        },
+        {
+            "pick": 1,
+            "text": "I can't believe that I was arrested just because I had a wild Saturday night and tried to _____."
+        },
+        {
+            "pick": 1,
+            "text": "I can't wait to fall asleep so I can once again dream I will soon _____."
+        },
+        {
+            "pick": 1,
+            "text": "I cringe while watching horror films when stupid teenagers _____."
+        },
+        {
+            "pick": 1,
+            "text": "I don't like it when my friends _____."
+        },
+        {
+            "pick": 1,
+            "text": "I first became an adult when I learned how to _____."
+        },
+        {
+            "pick": 1,
+            "text": "I had to reprimand my dog when he tried to _____."
+        },
+        {
+            "pick": 1,
+            "text": "I know I am alive when I _____ while spanking my butler."
+        },
+        {
+            "pick": 1,
+            "text": "I know I am sexy when I _____ in front of a mirror."
+        },
+        {
+            "pick": 1,
+            "text": "I nominate the person to my left to _____ in political office."
+        },
+        {
+            "pick": 1,
+            "text": "I promised my mother I would _____."
+        },
+        {
+            "pick": 1,
+            "text": "I should earn a Pulitzer Prize for when I was able to successfully _____."
+        },
+        {
+            "pick": 1,
+            "text": "I think somoneone should pay me for how well I can _____."
+        },
+        {
+            "pick": 1,
+            "text": "I used to get detention in high school when I would _____."
+        },
+        {
+            "pick": 1,
+            "text": "I want to spank myself very hard, when I _____!"
+        },
+        {
+            "pick": 1,
+            "text": "I was not distrubed when I saw a ventriloquist _____."
+        },
+        {
+            "pick": 1,
+            "text": "I was recently given money to _____."
+        },
+        {
+            "pick": 1,
+            "text": "I will _____ with my state senators when pot use becomes legal."
+        },
+        {
+            "pick": 1,
+            "text": "I wish I was old enough to _____."
+        },
+        {
+            "pick": 1,
+            "text": "I wish pot were legal so I could _____ without fearing I would be arrested."
+        },
+        {
+            "pick": 1,
+            "text": "I would consider it a miracle if my parents would only just _____."
+        },
+        {
+            "pick": 1,
+            "text": "I would eat my best friend's earlobe if he offered to _____ first."
+        },
+        {
+            "pick": 1,
+            "text": "I'm so stoned I want to _____."
+        },
+        {
+            "pick": 1,
+            "text": "If at first you don't scceeed _____."
+        },
+        {
+            "pick": 1,
+            "text": "If God offered me the afterlife of my choice, I would wrap myself in razor wire and _____."
+        },
+        {
+            "pick": 1,
+            "text": "If I were in hell I would probably have to _____ for all eternity."
+        },
+        {
+            "pick": 1,
+            "text": "If I were you, I would _____ before I do anything else."
+        },
+        {
+            "pick": 1,
+            "text": "If you _____, they will come."
+        },
+        {
+            "pick": 1,
+            "text": "If you decide to ride a polar bear, you should first _____."
+        },
+        {
+            "pick": 1,
+            "text": "If you give me everything in your crisper drawer, I will _____."
+        },
+        {
+            "pick": 1,
+            "text": "If you say \"Bloody Mary\" three times in a row, the ghost of Bob Marley will _____."
+        },
+        {
+            "pick": 1,
+            "text": "If you smoke too much pot, you are likely to _____."
+        },
+        {
+            "pick": 1,
+            "text": "If you wish upon a star, you are likely to then _____."
+        },
+        {
+            "pick": 1,
+            "text": "In high school, I was voted the most likely to _____."
+        },
+        {
+            "pick": 1,
+            "text": "It is bad luck to _____ before rolling a joint."
+        },
+        {
+            "pick": 1,
+            "text": "It is bad luck to _____ on St. Patrick's Day."
+        },
+        {
+            "pick": 1,
+            "text": "It is better to have tried and failed, then to _____."
+        },
+        {
+            "pick": 1,
+            "text": "Last night I smoked so much, I wanted to _____."
+        },
+        {
+            "pick": 1,
+            "text": "Last time I smoked pot, I stupidly decided to _____."
+        },
+        {
+            "pick": 1,
+            "text": "Laugh at the world and the world will _____."
+        },
+        {
+            "pick": 1,
+            "text": "Look before you _____."
+        },
+        {
+            "pick": 1,
+            "text": "Look up at the sky and wish upon a _____."
+        },
+        {
+            "pick": 1,
+            "text": "Look up at the sky and wish upon a _____."
+        },
+        {
+            "pick": 1,
+            "text": "March at our country's capital while I _____."
+        },
+        {
+            "pick": 1,
+            "text": "My best friend is so dumb, he tried to use a vaporizer to _____."
+        },
+        {
+            "pick": 1,
+            "text": "My favorite reality show is about bearded hillbillies who often _____."
+        },
+        {
+            "pick": 1,
+            "text": "My kingdom for someone who is willing to _____!"
+        },
+        {
+            "pick": 1,
+            "text": "My mother told me never to _____ with strangers."
+        },
+        {
+            "pick": 1,
+            "text": "Next Christmas, I will make it really special for my parents when I _____."
+        },
+        {
+            "pick": 1,
+            "text": "Not only do I want to eat everything in the refrigerator, I also want to _____."
+        },
+        {
+            "pick": 1,
+            "text": "Oh my God! I want to take a selfie where we _____."
+        },
+        {
+            "pick": 1,
+            "text": "Once upon a time there was an old lady who had to _____."
+        },
+        {
+            "pick": 1,
+            "text": "Only the one willing to _____, deserves the golden leaf."
+        },
+        {
+            "pick": 1,
+            "text": "Pass me that pipe, so that I can _____."
+        },
+        {
+            "pick": 1,
+            "text": "Pot brownies make me _____."
+        },
+        {
+            "pick": 1,
+            "text": "Pot makes me want to _____."
+        },
+        {
+            "pick": 1,
+            "text": "Star light, star bright, won't you _____?"
+        },
+        {
+            "pick": 1,
+            "text": "The biggest song of the year has us dancing as if we are going to _____."
+        },
+        {
+            "pick": 1,
+            "text": "The last thing I remember last night is when I tried to _____."
+        },
+        {
+            "pick": 1,
+            "text": "The most famous person I know is able to _____ while juggling radishes."
+        },
+        {
+            "pick": 1,
+            "text": "There would be no more world conflict if we all learned to _____."
+        },
+        {
+            "pick": 1,
+            "text": "Vampires _____."
+        },
+        {
+            "pick": 1,
+            "text": "What joint made me _____."
+        },
+        {
+            "pick": 1,
+            "text": "When Hell freezes over I will _____."
+        },
+        {
+            "pick": 1,
+            "text": "When I am alone and know I will not be caught, I _____."
+        },
+        {
+            "pick": 1,
+            "text": "When I am in a daze, I often imagine that I am going to _____."
+        },
+        {
+            "pick": 1,
+            "text": "When I am really angry, I _____."
+        },
+        {
+            "pick": 1,
+            "text": "When I am tripping out, I often _____."
+        },
+        {
+            "pick": 1,
+            "text": "When I put lipstick on a pig, I knew I was ready to _____."
+        },
+        {
+            "pick": 1,
+            "text": "When I was a little girl I always wanted to _____."
+        },
+        {
+            "pick": 1,
+            "text": "When I was last hypnotized, I was told I tried to _____."
+        },
+        {
+            "pick": 1,
+            "text": "When in Rome, _____."
+        },
+        {
+            "pick": 1,
+            "text": "When my lover tries to dance, she looks like she is trying to _____."
+        },
+        {
+            "pick": 1,
+            "text": "While I was on vacation I finally got up the courage to _____."
+        },
+        {
+            "pick": 1,
+            "text": "Who was the last person to _____?"
+        },
+        {
+            "pick": 1,
+            "text": "WTF, why did you _____?"
+        },
+        {
+            "pick": 1,
+            "text": "You know your weed is skank weed if it makes you want to _____."
+        }
+    ]
+}

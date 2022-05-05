@@ -1,0 +1,515 @@
+{
+    "order": 72,
+    "filename": "json_BabiesvsParents",
+    "name": "Babies vs. Parents",
+    "white_cards": [
+        "2.5 kids.",
+        "A baby carrier.",
+        "A baby.",
+        "A big glass of wine.",
+        "A breast pump.",
+        "A bucket of hand sanitizer.",
+        "A car seat.",
+        "A cigar.",
+        "A condom.",
+        "A day at the spa.",
+        "A day in bed.",
+        "A defective stroller.",
+        "A diaper bag.",
+        "A diaper changing strait jacket.",
+        "A doula.",
+        "A far, far away place.",
+        "A fat baby.",
+        "A freezer full of pizza.",
+        "A giant cup of coffee.",
+        "A glow.",
+        "A Greek God.",
+        "A hot doctor.",
+        "A menstraul cup.",
+        "A midwife.",
+        "A mucous plug.",
+        "A nursing bra.",
+        "A paternity test.",
+        "A penis.",
+        "A personal massager.",
+        "A pocket diaper.",
+        "A punch in one's own face.",
+        "A rabid baby-eating raccoon.",
+        "A reality tv host saying, \"You are NOT the father.\"",
+        "A rectal thermometer.",
+        "A red light.",
+        "A shark riding an eagle.",
+        "A small bottle of bourbon.",
+        "A Snocksucker.",
+        "A surrogate.",
+        "A tiny butt.",
+        "A tiny, crying boob-eating monster.",
+        "A turkey baster.",
+        "A used condom.",
+        "A vaginal exam.",
+        "A water birth.",
+        "A wrecking ball.",
+        "An all-in-one.",
+        "An amber necklace.",
+        "An entourage.",
+        "An IUD.",
+        "An OBGYN.",
+        "An ugly baby.",
+        "Anal leakage.",
+        "Ate a diaper.",
+        "Bacon!",
+        "Balloons.",
+        "Balls.",
+        "Being a baby wizard!",
+        "Birth control.",
+        "Boobs.",
+        "Breaking out with bacne.",
+        "Breastfeeding.",
+        "Butt balm.",
+        "Carbucketty.",
+        "Change a diaper.",
+        "Choking the next person that asks what my due date is.",
+        "Co-sleeping.",
+        "Coconut oil.",
+        "Comments on the internet.",
+        "Constipation.",
+        "Crack.",
+        "Crowning.",
+        "Crying.",
+        "Diaper liners.",
+        "Diaper sprayer.",
+        "Diapering.",
+        "Dirty Diaper Laundry.",
+        "Dropping the baby.",
+        "Eating it.",
+        "Eating my placenta.",
+        "Edible diapers.",
+        "Essential oils.",
+        "Estrogen.",
+        "Everything.",
+        "Explosive diarrhea.",
+        "Flowers.",
+        "Fluffy animals.",
+        "Forceps.",
+        "Foreplay.",
+        "Getting a vasectomy.",
+        "Getting peed on.",
+        "Getting throat punched.",
+        "Giving birth in a mountain stream.",
+        "Hemorrhoids.",
+        "Hiding a stash of dark chocolate.",
+        "Humpday.",
+        "Ice cream.",
+        "immaculate manliness",
+        "Infectious disease.",
+        "Jaundice.",
+        "Jerry Springer.",
+        "Jump from the Empire State Building.",
+        "Justin Bieber.",
+        "Labor.",
+        "Lactation.",
+        "Laughing until you pee.",
+        "Leftovers.",
+        "Liver and onions.",
+        "Lots of therapy.",
+        "Making babies.",
+        "Menstraul pads.",
+        "Menstruation.",
+        "Mom jeans.",
+        "Morning sickness.",
+        "morning wood",
+        "Moves like Jagger.",
+        "My best friend.",
+        "My brother.",
+        "My dad.",
+        "My husband.",
+        "My lover.",
+        "My mom.",
+        "My mother-in-law.",
+        "My partner.",
+        "My sister.",
+        "My vagina.",
+        "Nipple butter.",
+        "Nipple stimulation.",
+        "Oprah.",
+        "Painkillers.",
+        "Poop on a stick.",
+        "Poop spray.",
+        "Poop.",
+        "Pooping out of frustration.",
+        "Pregnancy brain.",
+        "Projectile vomit.",
+        "Pubic hair.",
+        "Put breastmilk on it.",
+        "Rabies.",
+        "Rancid breastmilk.",
+        "Rubber pants.",
+        "Sardines.",
+        "Seedy poop.",
+        "Sex with my husband.",
+        "Sex.",
+        "Sleep.",
+        "Sleeping on the couch.",
+        "Slime of questionable origin.",
+        "Slimy poop.",
+        "Small blood clots.",
+        "Smuggling mesh underwear.",
+        "Snoring.",
+        "Soiled diapers.",
+        "Squiritng breast milk across the room.",
+        "Squirting breastmilk.",
+        "Stealing samples from the hospital.",
+        "Stretch marks.",
+        "Swaddle",
+        "Tampons.",
+        "Tape.",
+        "Teething.",
+        "Thank you notes.",
+        "That sticky spot on my jeans.",
+        "The 5 S's.",
+        "The Duggars.",
+        "The heart of a child.",
+        "The longest pee.",
+        "The milk man's baby.",
+        "The most expensive one.",
+        "The Placenta.",
+        "The real father.",
+        "The stork.",
+        "Throw Up.",
+        "Throwing my pie for you.",
+        "Thumb sucking.",
+        "Thunder from down under.",
+        "Tiny terrorists.",
+        "Triplets.",
+        "Twins.",
+        "Vaginal rejuvenation surgery.",
+        "Varicose veins.",
+        "Week old tuna.",
+        "Weird sex dreams.",
+        "Wipes.",
+        "World's okayest Mom.",
+        "Yeast."
+    ],
+    "black_cards": [
+        {
+            "pick": 2,
+            "text": "_____ + _____ = Hipsters"
+        },
+        {
+            "pick": 2,
+            "text": "_____ a day keeps the _____ away."
+        },
+        {
+            "pick": 1,
+            "text": "_____. Awesome!"
+        },
+        {
+            "pick": 1,
+            "text": "_____: The best part of waking up."
+        },
+        {
+            "pick": 1,
+            "text": "After the birth I'm gonna have to _____."
+        },
+        {
+            "pick": 1,
+            "text": "Being pregnant makes me want to _____."
+        },
+        {
+            "pick": 1,
+            "text": "Can we stop by the store? I need to grab _____."
+        },
+        {
+            "pick": 1,
+            "text": "Congratulations! It's a _____!"
+        },
+        {
+            "pick": 1,
+            "text": "Damn it! I forgot the _____."
+        },
+        {
+            "pick": 1,
+            "text": "Did you hear that? I think it was _____."
+        },
+        {
+            "pick": 1,
+            "text": "During delivery, I would like to think about _____."
+        },
+        {
+            "pick": 1,
+            "text": "Go go gadget _____."
+        },
+        {
+            "pick": 1,
+            "text": "Having a kid makes me want to _____."
+        },
+        {
+            "pick": 1,
+            "text": "How my husband would describe me: _____."
+        },
+        {
+            "pick": 1,
+            "text": "I am calmed by the thought of _____."
+        },
+        {
+            "pick": 1,
+            "text": "I am just the absolute best at _____."
+        },
+        {
+            "pick": 1,
+            "text": "I can't believe my husband asked for _____."
+        },
+        {
+            "pick": 1,
+            "text": "I can't believe that came out of my vagina"
+        },
+        {
+            "pick": 2,
+            "text": "I can't believe that someone will be able to pull _____ out of _____."
+        },
+        {
+            "pick": 1,
+            "text": "I can't believe this came out of my (babies') butt!"
+        },
+        {
+            "pick": 1,
+            "text": "I can't forget to bring _____ to the hospital."
+        },
+        {
+            "pick": 1,
+            "text": "I can't wait to _____."
+        },
+        {
+            "pick": 1,
+            "text": "I can't wait to fall asleep so I can once again dream I will soon _____."
+        },
+        {
+            "pick": 1,
+            "text": "I had a nightmare last night. The baby was _____."
+        },
+        {
+            "pick": 1,
+            "text": "I hate _____."
+        },
+        {
+            "pick": 1,
+            "text": "I hope that my baby would describe me as _____."
+        },
+        {
+            "pick": 1,
+            "text": "I hope that my push gift will be _____."
+        },
+        {
+            "pick": 1,
+            "text": "I love _____."
+        },
+        {
+            "pick": 1,
+            "text": "I love it when my husband has _____."
+        },
+        {
+            "pick": 1,
+            "text": "I love my husband but he has a serious addiction to _____."
+        },
+        {
+            "pick": 1,
+            "text": "I love the smell of _____ in the morning"
+        },
+        {
+            "pick": 1,
+            "text": "I love waking up to _____ in bed."
+        },
+        {
+            "pick": 1,
+            "text": "I really hope my baby is _____."
+        },
+        {
+            "pick": 1,
+            "text": "I really think my baby will look like _____."
+        },
+        {
+            "pick": 1,
+            "text": "I think I overheard my friends calling me _____."
+        },
+        {
+            "pick": 1,
+            "text": "I want _____."
+        },
+        {
+            "pick": 1,
+            "text": "I will call my baby _____."
+        },
+        {
+            "pick": 1,
+            "text": "I wish I were _____."
+        },
+        {
+            "pick": 1,
+            "text": "I wish my husband would give me _____."
+        },
+        {
+            "pick": 1,
+            "text": "I'm so glad that before my birth I _____."
+        },
+        {
+            "pick": 1,
+            "text": "I've lost my _____."
+        },
+        {
+            "pick": 1,
+            "text": "If I have to see _____ again I'm gonna go crazy."
+        },
+        {
+            "pick": 1,
+            "text": "It's pretty obvious my kid's first word will be _____."
+        },
+        {
+            "pick": 1,
+            "text": "Mom trick: To calm a colicky baby just _____."
+        },
+        {
+            "pick": 1,
+            "text": "My _____ is getting bigger and bigger by the day."
+        },
+        {
+            "pick": 1,
+            "text": "My baby feels exactly like _____."
+        },
+        {
+            "pick": 1,
+            "text": "My baby has _____."
+        },
+        {
+            "pick": 1,
+            "text": "My baby will grow up to master _____."
+        },
+        {
+            "pick": 1,
+            "text": "My baby's diaper is so full of _____."
+        },
+        {
+            "pick": 1,
+            "text": "My belly is really craving _____."
+        },
+        {
+            "pick": 1,
+            "text": "My doctor told me that I really needed _____."
+        },
+        {
+            "pick": 1,
+            "text": "My favorite baby sound is _____."
+        },
+        {
+            "pick": 1,
+            "text": "My husband definitely thinks I'm _____."
+        },
+        {
+            "pick": 1,
+            "text": "My husband is secretly _____."
+        },
+        {
+            "pick": 1,
+            "text": "My lover's hidden talent is _____."
+        },
+        {
+            "pick": 1,
+            "text": "My mother-in-law looks a lot like _____."
+        },
+        {
+            "pick": 1,
+            "text": "My secret power?"
+        },
+        {
+            "pick": 1,
+            "text": "Oh look, I just found _____."
+        },
+        {
+            "pick": 1,
+            "text": "Oh my dear lord! That smells like _____."
+        },
+        {
+            "pick": 1,
+            "text": "People thought I was bat-shit crazy when I said I was gonna _____."
+        },
+        {
+            "pick": 1,
+            "text": "Pregnant moms are really into _____ these days."
+        },
+        {
+            "pick": 2,
+            "text": "Rumor has it that my doctor really loves _____. Especially when it comes with _____."
+        },
+        {
+            "pick": 2,
+            "text": "Step 1: _____.\nStep 2: _____.\nThe End."
+        },
+        {
+            "pick": 1,
+            "text": "Stop! I really need to _____!"
+        },
+        {
+            "pick": 1,
+            "text": "Studies show that babies are most cloesly related to _____."
+        },
+        {
+            "pick": 1,
+            "text": "Surprise! You just _____."
+        },
+        {
+            "pick": 1,
+            "text": "That smells just like _____."
+        },
+        {
+            "pick": 1,
+            "text": "The best advice I've ever received?"
+        },
+        {
+            "pick": 1,
+            "text": "The hot guy I always think about has _____."
+        },
+        {
+            "pick": 1,
+            "text": "The most important person in the room on the day I give birth is _____."
+        },
+        {
+            "pick": 1,
+            "text": "There is nothing I wouldn't do for 30 minutes alone with _____."
+        },
+        {
+            "pick": 1,
+            "text": "Well crap. I guess _____ is now going to have to deliver the baby."
+        },
+        {
+            "pick": 1,
+            "text": "What do babies smell like?"
+        },
+        {
+            "pick": 1,
+            "text": "What is a parent's best friend?"
+        },
+        {
+            "pick": 1,
+            "text": "What is the worst gift I've received?"
+        },
+        {
+            "pick": 1,
+            "text": "When my husband found out I was pregnant he _____."
+        },
+        {
+            "pick": 1,
+            "text": "Why am giving birth again?"
+        },
+        {
+            "pick": 1,
+            "text": "Why is everybody giving me _____."
+        },
+        {
+            "pick": 1,
+            "text": "Why is mommy crying?"
+        },
+        {
+            "pick": 1,
+            "text": "You won't believe I have _____."
+        }
+    ]
+}

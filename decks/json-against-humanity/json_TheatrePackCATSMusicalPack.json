@@ -1,0 +1,48 @@
+{
+    "order": 65,
+    "filename": "json_TheatrePackCATSMusicalPack",
+    "name": "Theatre Pack - CATS Musical Pack",
+    "white_cards": [
+        "30 grown adults crawling around on all-fours.",
+        "A man who has not heard of a Jellicle cat.",
+        "Becoming Mr. Mistoffelees.",
+        "Bustopher Jones.",
+        "Carbucketty.",
+        "Feline AIDS.",
+        "Garfield.",
+        "Griddlebone.",
+        "Grizabella, the glamour cat.",
+        "Growltiger.",
+        "Grump Cat.",
+        "Gus: the Palsy Cat.",
+        "Heathcliff.",
+        "Jellicle cats.",
+        "Macavity!",
+        "Memory.",
+        "Meow.",
+        "Mungojerrie and Rumpleteazer.",
+        "Munkustrap.",
+        "Old Deuteronomy.",
+        "Peter, Augustus, Alonzo, or James.",
+        "Practical cats,\ndramatical cats,\noratical cats,\nsceptical cats,\nromantical cats,\nparasitical cats,\nstatistical cats,\npolitical cats,\nhypocritical cats,\nclerical cats,\ncynical cats,\nrabbinical cats.",
+        "Rum Tum Tugger.",
+        "Shimbleshanks.",
+        "Sir Andrew Lloyd Webber.",
+        "The mystical divinity of unashamed felinity.",
+        "Winkles and shrimps."
+    ],
+    "black_cards": [
+        {
+            "pick": 1,
+            "text": "_____! All alone in the moonlight!"
+        },
+        {
+            "pick": 1,
+            "text": "Ahhh _____! Toodle pip!"
+        },
+        {
+            "pick": 1,
+            "text": "Jellicle Cats come out tonight, Jellicle Cats come one, come all, the time for _____ is now, Jellicles come to the Jellicle Ball."
+        }
+    ]
+}

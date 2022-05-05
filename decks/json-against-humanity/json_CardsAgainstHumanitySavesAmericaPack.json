@@ -1,0 +1,63 @@
+{
+    "order": 27,
+    "filename": "json_CardsAgainstHumanitySavesAmericaPack",
+    "name": "Cards Against Humanity Saves America Pack",
+    "white_cards": [
+        "A $1,000 check from Cards Against Humanity!",
+        "A baby panda that just can't keep its eyes open.",
+        "A full refund from Cards Against Humanity, paid for by people richer than me.",
+        "A gay Republican somehow.",
+        "A laundry basket full of baby bunnies.",
+        "A really good dog.",
+        "A stack of puppies in a trench coat.",
+        "Getting deported.",
+        "Guacamole.",
+        "How easy it is to climb over a wall with a ladder.",
+        "Lou Gehrig's Disease.",
+        "Mexicans and Muslims.",
+        "My drunk father screaming from the bleachers.",
+        "My money stolen by Cards Against Humanity and redistributed to people poorer than me.",
+        "Our dumb asshole president.",
+        "Slowly shaking my head at a sad statistic.",
+        "Speaking in iambic pentameter.",
+        "Taking a minute to really unpack what Shakespeare is getting at in this scene.",
+        "Teaching my son to love the Red Sox and hate minorities.",
+        "The shocking stupidity of the American public.",
+        "The significance of eyes in King Lear.",
+        "The truth.",
+        "Two baby otters holding hands.",
+        "Two hamsters nibbling on a tiny burrito.",
+        "White people becoming a minority.",
+        "Yelling \"I got it, I got it!\""
+    ],
+    "black_cards": [
+        {
+            "pick": 1,
+            "text": "\"They're bringing drugs. They're bringing crime. They're rapists. And some, I assume, are _____.\""
+        },
+        {
+            "pick": 1,
+            "text": "Cry havoc and let slip _____!"
+        },
+        {
+            "pick": 1,
+            "text": "Now is the winter of our discontent, made glorious summer by _____."
+        },
+        {
+            "pick": 1,
+            "text": "The fault, dear Brutus, is not in our stars, but in _____."
+        },
+        {
+            "pick": 1,
+            "text": "We want a pitcher, not _____!"
+        },
+        {
+            "pick": 1,
+            "text": "When asked about the biggest threat facing the nation, 60% of Americans said _____."
+        },
+        {
+            "pick": 1,
+            "text": "You see, son, baseball is like _____. Don't overthink it."
+        }
+    ]
+}

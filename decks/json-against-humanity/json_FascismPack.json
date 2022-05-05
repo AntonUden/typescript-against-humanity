@@ -1,0 +1,32 @@
+{
+    "order": 32,
+    "filename": "json_FascismPack",
+    "name": "Fascism Pack",
+    "white_cards": [
+        "An orgasm so powerful you travel back in time and jizz in Hitler's face.",
+        "Being open to new perspectives on the Holocaust.",
+        "Breaking news about what Hitler's penis was like.",
+        "Cloning Hitler.",
+        "Disco Mussolini.",
+        "Donald Trump's personal copy of Mein Kampf.",
+        "Electro-Stalin.",
+        "Hitler's sound economic policies.",
+        "How cool Nazi airplanes are.",
+        "Presenting your documents at a checkpoint.",
+        "Ruining an entire genre of moustaches.",
+        "Straight up fucking loving authority.",
+        "The cyanide pill you keep on your person at all times.",
+        "The Yad Vashem World Center for Holocaust Research.",
+        "Whatever brave hero killed Hitler."
+    ],
+    "black_cards": [
+        {
+            "pick": 1,
+            "text": "Before swallowing his pride and a cyanide pill, Adolf whispered to Eva, \"Sorry about _____\"."
+        },
+        {
+            "pick": 1,
+            "text": "Leni Riefenstahl's last movie was called Triumph of _____."
+        }
+    ]
+}

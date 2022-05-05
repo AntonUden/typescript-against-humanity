@@ -1,0 +1,28 @@
+{
+    "order": 18,
+    "filename": "json_CAHHiddenGemsBundleAFewNewCardsWeCrammedIntoThisBundlePackAmazonExclusive",
+    "name": "CAH: Hidden Gems Bundle: A Few New Cards We Crammed Into This Bundle Pack (Amazon Exclusive)",
+    "white_cards": [
+        "A juicy lil' booty going poot-poot-pooty.",
+        "Aborted boat babies going overboard.",
+        "Dumping Mountain Dew Baja Blas all over my gorgeous natural titties.",
+        "Getting radicalized on YouTube.",
+        "Getting spit on by one hundred women.",
+        "Sitting atop a pile of tuna like some kind of tuna queen.",
+        "Watching the show Frasier\" and feeling the emotion \"pleasure.\""
+    ],
+    "black_cards": [
+        {
+            "pick": 1,
+            "text": "HELP WANTED: Need assistance with _____. No experience necessary."
+        },
+        {
+            "pick": 1,
+            "text": "Oh, whoops! These are not the right pants for _____."
+        },
+        {
+            "pick": 3,
+            "text": "You want _____? You can't handle _____[SAME CARD AGAIN]_____!"
+        }
+    ]
+}

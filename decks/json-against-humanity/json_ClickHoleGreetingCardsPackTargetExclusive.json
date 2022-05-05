@@ -1,0 +1,39 @@
+{
+    "order": 28,
+    "filename": "json_ClickHoleGreetingCardsPackTargetExclusive",
+    "name": "ClickHole Greeting Cards Pack (Target Exclusive)",
+    "white_cards": [
+        "A one-star Uber driver named \"Wife of Tarantula.\"",
+        "An explosion of glitter.",
+        "Eating my children.",
+        "Emerging from my mother's vagina.",
+        "Give me kiss.",
+        "Looking like shit.",
+        "Luring my husband to the bedroom with a trail of ferret teeth and appearing on the bed in a ferret costume.",
+        "Mom's special birthday rimjob.",
+        "My five dead husbands.",
+        "Turning 70 and still being fuckable."
+    ],
+    "black_cards": [
+        {
+            "pick": 1,
+            "text": "Hallmark has invented a new holiday. It's called \"_____ Day.\""
+        },
+        {
+            "pick": 1,
+            "text": "Happy Birthday! I love you. Here's _____."
+        },
+        {
+            "pick": 1,
+            "text": "Honey, it's gonna take more than a shitty greeting card to make up for ten years of _____."
+        },
+        {
+            "pick": 1,
+            "text": "I cannot stop smiling about _____."
+        },
+        {
+            "pick": 1,
+            "text": "Roses are red. Violets are blue. I am _____ and so are you."
+        }
+    ]
+}

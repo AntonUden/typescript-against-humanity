@@ -1,0 +1,34 @@
+{
+    "order": 48,
+    "filename": "json_PAXPrime2014PanelCards",
+    "name": "PAX Prime 2014 - Panel Cards",
+    "white_cards": [
+        "A neck beard that is 10% cheese.",
+        "No survivors.",
+        "penetrable stuff",
+        "Pooping as quietly as possible.",
+        "The beautiful sport of Turkish oil wrestling."
+    ],
+    "black_cards": [
+        {
+            "pick": 1,
+            "text": "Bob Ross's little-known first show was called \"The Joy of _____.\""
+        },
+        {
+            "pick": 2,
+            "text": "Buzzfeed presents: 10 pictures of _____ that look like _____."
+        },
+        {
+            "pick": 1,
+            "text": "During my first game of D&D, I accidentally summoned _____."
+        },
+        {
+            "pick": 1,
+            "text": "Like _____, State Farm is there."
+        },
+        {
+            "pick": 1,
+            "text": "The Discovery Channel presents: _____ week."
+        }
+    ]
+}

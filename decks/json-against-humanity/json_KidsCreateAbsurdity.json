@@ -1,0 +1,759 @@
+{
+    "order": 159,
+    "filename": "json_KidsCreateAbsurdity",
+    "name": "Kids Create Absurdity",
+    "white_cards": [
+        "A barf smoothie",
+        "A bowl of worm soup",
+        "A giant octopus",
+        "A giant pile of dirty socks",
+        "A giant turd",
+        "A grumpy unicorn",
+        "A half eaten candy bar",
+        "A haunted house",
+        "A lemur",
+        "A realy awful haircut",
+        "A snart (sneezing and farting at the same time)",
+        "A squirrel fight",
+        "A t-rex with really long arms",
+        "A talking scarecrow",
+        "A wet and muddy, smelly dog",
+        "A wet, dirty sponge",
+        "A whatchamacallit",
+        "Accidentally throwing the remote through the TV",
+        "Angry elves",
+        "Angry teenagers",
+        "Annoying laughter",
+        "Archery",
+        "Armpit fart noises",
+        "Awesome possum",
+        "Awesome stuff.",
+        "Awful, loud music",
+        "Awkward moment",
+        "Baby pacifiers",
+        "Back hair",
+        "Bacon",
+        "Barfing at the dinner table",
+        "Barfing on an airplane",
+        "Basketball",
+        "Being goofy",
+        "Being told to \"grow up\"",
+        "Belly dancers.",
+        "Blah blah blah",
+        "Blazing bonfires",
+        "Blood sucking vampires",
+        "Blubber",
+        "Boring babysitters",
+        "Bouncey house",
+        "Bouncing on a pogo stick.",
+        "Brain farts",
+        "Broken sunglasses",
+        "Building a tree fort",
+        "Bumbling blabbermouths",
+        "Burping really loud",
+        "Butt crust",
+        "Cabbages",
+        "Cake",
+        "Cancelled play dates",
+        "Candy canes",
+        "Candy corn",
+        "Car sickness",
+        "Cartwheels",
+        "Catching your friend picking their nose",
+        "Chapped lips",
+        "Cheerleading",
+        "Chewed gum stuck undfer the table",
+        "Chicken carcass",
+        "Chicken nuggets",
+        "Chocolate cupcakes",
+        "Chunks of food in my teeth",
+        "Chunky chickens",
+        "Circus freaks",
+        "Cleaning up my room",
+        "Climbing Mount Everest",
+        "Clogging the toilet with a large poop",
+        "Cobwebs",
+        "Cockroaches",
+        "Coloring on the walls",
+        "Cooties",
+        "Couch  potatoes",
+        "Cow udders",
+        "Cowabunga dudes",
+        "Crazy hair day",
+        "Crazy raccoons",
+        "Creaky stairs",
+        "Creepy crawlers",
+        "Crusty toothbrush",
+        "Cry baby",
+        "Cutting the cheese",
+        "Daddy long legs",
+        "Dance",
+        "Dancing like you just don't care",
+        "Dead cellphone batteries",
+        "Dead fish heads",
+        "Diaper rash",
+        "Diarrhea",
+        "Dirty fingernails",
+        "Dog slobber",
+        "Dogs",
+        "Doll heads",
+        "Dolphins",
+        "Donuts",
+        "Dragons",
+        "Dressing up for Halloween",
+        "Drinking soda",
+        "Dripping food all over your clean white t-shirt",
+        "Drooling all over your favorite pillow",
+        "Dropping the mic and walking away",
+        "Dull scissors",
+        "Earrings",
+        "Eating a dessert before dinner",
+        "Eating all of your vegetables",
+        "Eating lots and lots of sugar",
+        "Eating raw cookie dough",
+        "Eating worms",
+        "Elephant dung",
+        "Epic fail",
+        "Evil kittens",
+        "Exploding watermelons",
+        "Eye boogies",
+        "Fake tattoos",
+        "Falling and scraping your knee",
+        "Falling off the monkey bars",
+        "Fart face",
+        "Farting during a test",
+        "Farting in public",
+        "Fierce dinosaurs",
+        "Finding a bug in your food",
+        "Finding hair in your soup",
+        "Finding money between the couch cushions",
+        "Fingernail clippings",
+        "Finishing your homework two minutes before it is due",
+        "Flat tires on a brand new bike",
+        "Flip flops",
+        "Football",
+        "French fries",
+        "Fried eggs",
+        "Frozen bananas",
+        "Funky monkeys",
+        "Gargoyles",
+        "Getting a bloody nose that won't stop",
+        "Getting a prize in your cereal box",
+        "Getting a shot",
+        "Getting egged",
+        "Getting locked inside a museum",
+        "Getting sent to the principals office",
+        "Getting sent to your room",
+        "Getting struck by lightening",
+        "Getting stung by a bee",
+        "Giant rats",
+        "Giants",
+        "Glitter",
+        "Gnomes",
+        "Goblins",
+        "Goggles",
+        "Going to school everyday for the rest of your life",
+        "Going to summer camp",
+        "Goosebumps",
+        "Gummy worms",
+        "Hair stuck in the drain",
+        "Hair ties",
+        "Hairballs",
+        "Having a snowball fight",
+        "Having dinner with the president",
+        "Having to stay inside for recess",
+        "Hiding behind the furniture, waiting to jump out and scare someone",
+        "Hockey",
+        "Horror movies",
+        "Hours and hours of homework",
+        "Ice cream sundaes",
+        "Internet cat videos",
+        "Interrupting an adult while they are on an important phone call",
+        "Jumping on the bed",
+        "Karate",
+        "Kissing a hamster on the lips",
+        "Kissing crickets",
+        "Knotted hair",
+        "Lacrosse",
+        "Laughing hyenas",
+        "Laughing hysterically",
+        "Leaping lizards",
+        "Leggings",
+        "Leprechaun gold",
+        "Licking a frozen pole",
+        "Long, thick toenails",
+        "Losing a tooth without even realizing it",
+        "Mac & Cheese",
+        "Magical fairies",
+        "Makeup",
+        "Making fun of your teacher",
+        "Mean people",
+        "Meros tacos.",
+        "Mexican jumping beans",
+        "Minions",
+        "Moldy bread",
+        "Moldy cheese",
+        "Monkey brains",
+        "Monkey butt",
+        "Monsters under your bed",
+        "Moose droppings",
+        "Mosquitoes",
+        "Mud puddles",
+        "Mustard and ketchup",
+        "My brothers smelly underwear",
+        "My dogs smelly farts",
+        "Nincompoops",
+        "Non-stop giggling",
+        "Nose hair",
+        "Not covering your mouth when you sneeze",
+        "Not remembering your lines in the school play",
+        "Not taking a bath for two weeks",
+        "Nuns",
+        "Old people smell",
+        "Ooey, gooey, glue",
+        "Oompa Loompas",
+        "Peanut butter & jelly",
+        "Pee",
+        "Peeing your pants",
+        "Peeling scabby skin",
+        "Picking your nose in front of the whole school",
+        "Pigglewink",
+        "Pigs feet",
+        "Piles of chewed up chicken fingers",
+        "Pizza with anchovies",
+        "Platypus",
+        "Playgrounds",
+        "Playing bingo",
+        "Polka dot underwear",
+        "Poop",
+        "Pooping your pants",
+        "Poopy head",
+        "Popcorn kernals",
+        "Potatoes",
+        "Power outages",
+        "Pranking your teacher",
+        "Pretending to be a pirate",
+        "Pretending to be asleep",
+        "Pretending to be sick to stahy home from school",
+        "Prickly porcupines",
+        "Pulling out grandmas fake teeth",
+        "Putting on nail polish",
+        "Racing your friends",
+        "Rainy birthdays",
+        "Really bad breath",
+        "Repeating everything an adult says until they go crazy",
+        "Riding a donkey off into the sunset",
+        "Riding a unicorn over the rainbow",
+        "Rolling around in the mud",
+        "Rolling down a hill",
+        "Rough, anonymous sex.",
+        "Rubber bands",
+        "Running away from a herd of elephants",
+        "Running away with the circus",
+        "Sand stuck in your baithing suit",
+        "Sandy feet",
+        "Scaredy cat",
+        "Scary Spice",
+        "School lunches",
+        "Screaming at the top of your lungs in the library",
+        "Scrumpdidlyumptious farts",
+        "Sell high-tops to hippies.",
+        "Setting all of the zoo animals free",
+        "Sewer rats",
+        "Shoving everything into your closet when you're supposed to be cleaning your room",
+        "Silent but deadly farts",
+        "Silly string",
+        "Singing in the shower",
+        "Sitting in the back of the school bus",
+        "Skeletons",
+        "Skidmarks on my underwear",
+        "Skunk smell",
+        "Sledding down the hill",
+        "Sleep walking",
+        "Sleepovers",
+        "Slime",
+        "Slimy centipedes",
+        "Slithering snakes",
+        "Sloths",
+        "Smelling your own feet",
+        "Smelly farts",
+        "Smelly grandpa",
+        "Smelly seaweed",
+        "Smelly toe jam",
+        "Sneaking cookies into the cart while grocery shopping",
+        "Sneaking the dog food underneath the table",
+        "Snot rockets",
+        "Soccer",
+        "Sour lemons",
+        "Sour milk with chunks in it",
+        "Spending endless hours watching silly internet vidoes",
+        "Spicy chimichangas",
+        "Spiders crawling up your back",
+        "Spilling milk all over the counter",
+        "Spinning around in a revolving door",
+        "Splinters",
+        "Spooky ghosts",
+        "Spying on the neighbors",
+        "Squirming worms",
+        "Star gazing",
+        "Staying up until midnight",
+        "Stepping in a big pile of doggy doo",
+        "Stepping in gum",
+        "Sticky cotton candy",
+        "Sticky ear wax",
+        "Sticky maple syrup",
+        "Stinky armpits",
+        "Stinky flowers",
+        "Stubbing your toe in the middle of the night",
+        "Stuffed animals",
+        "Summer school",
+        "Swag",
+        "Sweaty feet",
+        "Swimming with dolphins",
+        "Talking back to an adult",
+        "Talking to myself",
+        "Tattletales",
+        "Teachers pet",
+        "Texting your best friend",
+        "The flu",
+        "The heebie jeebies",
+        "The ice cream man",
+        "The internet crashing",
+        "The logistics of planning a family holiday",
+        "The stench of a never cleaned litter box",
+        "The toy store",
+        "Throw up",
+        "Throwing up at school",
+        "Thunderstorms",
+        "Tickling your feet",
+        "Toasting marshmallows",
+        "Toilet paper stuck in my butt crack",
+        "Toilet water",
+        "Toy boxes filled with worms",
+        "Trampolines",
+        "Turkeys",
+        "Turtles",
+        "Vampire fangs",
+        "Volcanoes",
+        "Vultures",
+        "Wackadoodle",
+        "Walking on egg shells with bare feet",
+        "Walking to the front of the classroom while trying to conceal a throbbing erection.",
+        "Walrus",
+        "Warts",
+        "Wasabi peas",
+        "Wearing a disguise",
+        "Wedgies",
+        "Werewolves",
+        "Wet willies",
+        "Wet, runny boogers",
+        "Wet, soggy socks",
+        "Wi-fi",
+        "Winning a spelling bee",
+        "Yellow teeth",
+        "Zits",
+        "Zombie brains"
+    ],
+    "black_cards": [
+        {
+            "pick": 1,
+            "text": "*RANDOM*\nHand this card to another player and have them: MAKE A LOUD FART NOISE"
+        },
+        {
+            "pick": 1,
+            "text": "*RANDOM*\nHand this card to another player and have them: MAKE SILLY FACES FOR THIRTY SECONDS"
+        },
+        {
+            "pick": 1,
+            "text": "*RANDOM*\nHand this card to another player and have them: SING A SONG"
+        },
+        {
+            "pick": 1,
+            "text": "*RANDOM*\nHand this card to another player and have them: TELL A FUNNY STORY"
+        },
+        {
+            "pick": 1,
+            "text": "*RANDOM*\nHand this card to another player and have them: TELL A JOKE"
+        },
+        {
+            "pick": 1,
+            "text": "Did you hear about the new boy band? They are called _____ on the Block."
+        },
+        {
+            "pick": 1,
+            "text": "Eating _____ makes me stronger."
+        },
+        {
+            "pick": 1,
+            "text": "Eenie, meenie, miney, mo. Catch a tiger by _____."
+        },
+        {
+            "pick": 1,
+            "text": "Every time I sneeze, _____ comes out of my nose."
+        },
+        {
+            "pick": 1,
+            "text": "Follow the _____ brick road."
+        },
+        {
+            "pick": 1,
+            "text": "Frog legs don't taste like chicken, the taste like _____."
+        },
+        {
+            "pick": 1,
+            "text": "Go _____ in a bucket and smell it."
+        },
+        {
+            "pick": 1,
+            "text": "Got any _____? I'll trade you for it."
+        },
+        {
+            "pick": 1,
+            "text": "How did these _____ get broken?"
+        },
+        {
+            "pick": 1,
+            "text": "I accidentally downloaded _____ onto my iPhone."
+        },
+        {
+            "pick": 1,
+            "text": "I always put bacon on my _____ for breakfast."
+        },
+        {
+            "pick": 1,
+            "text": "I am always embarrassed when I _____."
+        },
+        {
+            "pick": 1,
+            "text": "I am going to name my new dog _____."
+        },
+        {
+            "pick": 1,
+            "text": "I am going to try out for my schools _____ team."
+        },
+        {
+            "pick": 1,
+            "text": "I am going to wear a _____ to prom."
+        },
+        {
+            "pick": 1,
+            "text": "I am not allowed to use my computer unless I _____ first."
+        },
+        {
+            "pick": 1,
+            "text": "I am totally awesome at _____."
+        },
+        {
+            "pick": 1,
+            "text": "I can't believe I accidentally _____ in front of everyone at the school play."
+        },
+        {
+            "pick": 1,
+            "text": "I can't believe my teacher gave me _____ to do over school vacation."
+        },
+        {
+            "pick": 1,
+            "text": "I can't wait to go to Camp _____ this summer!"
+        },
+        {
+            "pick": 1,
+            "text": "I dropped my cellphone in the _____ and now it won't work anymore."
+        },
+        {
+            "pick": 1,
+            "text": "I found a _____ in my school lunch, but I ate it anyway."
+        },
+        {
+            "pick": 1,
+            "text": "I hope I don't _____ on the roller coaster."
+        },
+        {
+            "pick": 1,
+            "text": "I jumped into the ocean and found _____."
+        },
+        {
+            "pick": 1,
+            "text": "I just got some _____ stuck in my braces."
+        },
+        {
+            "pick": 1,
+            "text": "I like spaghetti and _____."
+        },
+        {
+            "pick": 1,
+            "text": "I like to dip my french fries in _____ and eat them."
+        },
+        {
+            "pick": 1,
+            "text": "I like to fill my water ballons up with _____."
+        },
+        {
+            "pick": 1,
+            "text": "I like to take pictures of _____ on my phone."
+        },
+        {
+            "pick": 1,
+            "text": "I love my babysitter! She always brings us _____ when she comes over."
+        },
+        {
+            "pick": 1,
+            "text": "I love the beach and the feeling of _____ between my toes."
+        },
+        {
+            "pick": 1,
+            "text": "I made it halfway through _____ before falling asleep"
+        },
+        {
+            "pick": 1,
+            "text": "I think hot dogs taste like _____."
+        },
+        {
+            "pick": 1,
+            "text": "I took a selfie with _____ on the bus."
+        },
+        {
+            "pick": 1,
+            "text": "I use _____ as bait when I go fishing."
+        },
+        {
+            "pick": 1,
+            "text": "I was late to class and forgot my _____."
+        },
+        {
+            "pick": 1,
+            "text": "I was on a hayride and _____ jumped out and scared me."
+        },
+        {
+            "pick": 1,
+            "text": "I was sent to the principals office for _____."
+        },
+        {
+            "pick": 1,
+            "text": "I went fishing and caught _____."
+        },
+        {
+            "pick": 1,
+            "text": "I wished for _____ on my birthday last year"
+        },
+        {
+            "pick": 1,
+            "text": "I'm rubber and you're glue. Whatever bounces off of me, sticks to _____."
+        },
+        {
+            "pick": 1,
+            "text": "I'm the only one of my friends without _____."
+        },
+        {
+            "pick": 1,
+            "text": "If Bigfoot came to your house, what would you feed him for dinner?"
+        },
+        {
+            "pick": 1,
+            "text": "If I were a superhero, I would be Super _____."
+        },
+        {
+            "pick": 1,
+            "text": "If you forgot your lunch money, how would you pay for lunch?"
+        },
+        {
+            "pick": 1,
+            "text": "In class today, we learned how to say _____ in Spanish."
+        },
+        {
+            "pick": 1,
+            "text": "Instant oatmeal. Just add _____."
+        },
+        {
+            "pick": 1,
+            "text": "Instead of turkey this year, my family is going to eat _____ for Thanksgiving."
+        },
+        {
+            "pick": 1,
+            "text": "It's raining cats and _____."
+        },
+        {
+            "pick": 1,
+            "text": "Kids Create Absurdity makes me want to _____."
+        },
+        {
+            "pick": 1,
+            "text": "Knock, knock.\nWho's there?"
+        },
+        {
+            "pick": 1,
+            "text": "Last night I dreamt about _____."
+        },
+        {
+            "pick": 1,
+            "text": "Look up at the sky and wish upon a _____."
+        },
+        {
+            "pick": 1,
+            "text": "My babysitter says I can't have a snack until I clean up all of my _____."
+        },
+        {
+            "pick": 1,
+            "text": "My best friends always pick their _____ in class."
+        },
+        {
+            "pick": 1,
+            "text": "My birthday party is going to be epic because _____ is coming."
+        },
+        {
+            "pick": 1,
+            "text": "My dentist always yells at me for not brushing my _____."
+        },
+        {
+            "pick": 1,
+            "text": "My dogs breath smells like _____."
+        },
+        {
+            "pick": 1,
+            "text": "My favorite book is about _____."
+        },
+        {
+            "pick": 1,
+            "text": "My friends and I like to play hide and go _____."
+        },
+        {
+            "pick": 1,
+            "text": "My imaginary friend likes to _____ when we hang out."
+        },
+        {
+            "pick": 1,
+            "text": "My school bus driver smells like _____."
+        },
+        {
+            "pick": 1,
+            "text": "My two favorite pizza toppings are olives and _____."
+        },
+        {
+            "pick": 1,
+            "text": "Rock, paper, scissors, _____!"
+        },
+        {
+            "pick": 1,
+            "text": "Snug as a bug in a _____."
+        },
+        {
+            "pick": 1,
+            "text": "The back to school list had _____ on it."
+        },
+        {
+            "pick": 1,
+            "text": "The monkeys at the zoo always throw _____ at me when I walk by."
+        },
+        {
+            "pick": 1,
+            "text": "The new iPhone is called iPhone _____."
+        },
+        {
+            "pick": 1,
+            "text": "The new national holiday is called _____ Day."
+        },
+        {
+            "pick": 1,
+            "text": "The secret password is: _____."
+        },
+        {
+            "pick": 1,
+            "text": "The story of my life is _____."
+        },
+        {
+            "pick": 1,
+            "text": "There's a new _____ in town."
+        },
+        {
+            "pick": 1,
+            "text": "They opened up a Disney called _____."
+        },
+        {
+            "pick": 1,
+            "text": "They wrote an article about me in the paper because I grew the worlds longest _____."
+        },
+        {
+            "pick": 1,
+            "text": "This Halloween I am going to dress up as _____."
+        },
+        {
+            "pick": 1,
+            "text": "We go together like apples and _____."
+        },
+        {
+            "pick": 1,
+            "text": "We played baseball with _____."
+        },
+        {
+            "pick": 1,
+            "text": "What do you get when you mix a pig and a cow?"
+        },
+        {
+            "pick": 1,
+            "text": "What is the one thing you don't want your parents to find in your backpack?"
+        },
+        {
+            "pick": 1,
+            "text": "What perfume are you wearing?"
+        },
+        {
+            "pick": 1,
+            "text": "What was that gross thing you found in your school lunch?"
+        },
+        {
+            "pick": 1,
+            "text": "What would you do for one hundred dollars?"
+        },
+        {
+            "pick": 1,
+            "text": "What would you give the president for a birthday gift?"
+        },
+        {
+            "pick": 1,
+            "text": "What's for dinner?"
+        },
+        {
+            "pick": 1,
+            "text": "What's that on your face?"
+        },
+        {
+            "pick": 1,
+            "text": "When I am alone, I like to think about _____."
+        },
+        {
+            "pick": 1,
+            "text": "When I get home from school, my favorite TV show to watch is _____ and Friends."
+        },
+        {
+            "pick": 1,
+            "text": "When I go to college I am going to study _____."
+        },
+        {
+            "pick": 1,
+            "text": "When it snows I like to build _____."
+        },
+        {
+            "pick": 1,
+            "text": "When you're mad or feeling sad, just go _____."
+        },
+        {
+            "pick": 1,
+            "text": "Who do you think you are?"
+        },
+        {
+            "pick": 1,
+            "text": "Who will be the next President?"
+        },
+        {
+            "pick": 1,
+            "text": "Why did the fusion exchanges end?"
+        },
+        {
+            "pick": 1,
+            "text": "Why didn't you pass your homework in on time?"
+        },
+        {
+            "pick": 1,
+            "text": "Why does my breath smell so bad?"
+        }
+    ]
+}

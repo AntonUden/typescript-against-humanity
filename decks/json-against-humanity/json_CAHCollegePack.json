@@ -1,0 +1,57 @@
+{
+    "order": 12,
+    "filename": "json_CAHCollegePack",
+    "name": "CAH: College Pack",
+    "white_cards": [
+        "A bachelor's degeree in communications.",
+        "A girl who is so interesting that she has blue hair.",
+        "A Yale man.",
+        "An emergency all-floor meeting on inclusion.",
+        "Calling mom because it's just really hard and I miss her and I don't know anyone here.",
+        "Falling in love with poetry.",
+        "Five morons signing a lease together.",
+        "Fucking the beat boxer from the a cappella group.",
+        "Going to college and becoming a new person, who has sex.",
+        "Googling how to eat pussy.",
+        "How many Asians there are.",
+        "My high school boyfriend.",
+        "Performative wokeness.",
+        "Pretending to have done the reading.",
+        "Rocking a 1.5 GPA.",
+        "Sucking a flaccid penis for 20 minutes.",
+        "The sound of my roommate masturbating.",
+        "Throw up.",
+        "Uggs, leggings, and a North Face.",
+        "Underage drinking.",
+        "Valuable leadership experience.",
+        "Wandering the streets in search of a party.",
+        "Whichever one of you took a shit in the shower.",
+        "Young Republicans."
+    ],
+    "black_cards": [
+        {
+            "pick": 1,
+            "text": "All classes today are cancelled due to _____."
+        },
+        {
+            "pick": 1,
+            "text": "Did you know? Our college was recently named the #1 school for _____!"
+        },
+        {
+            "pick": 1,
+            "text": "In this paper, I will explore _____ from a feminist perspective."
+        },
+        {
+            "pick": 1,
+            "text": "My memory of last night is pretty hazy. I remember _____ and that's pretty much it."
+        },
+        {
+            "pick": 1,
+            "text": "Pledges! Time to prove you're Delta Phi material. Chug this beer, take off your shirts, and get ready for _____."
+        },
+        {
+            "pick": 1,
+            "text": "The Department of Psychology is looking for paid research volunteers. Are you 18-25 and suffering from _____."
+        }
+    ]
+}
