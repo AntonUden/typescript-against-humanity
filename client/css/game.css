@@ -14,15 +14,15 @@ body {
 	min-height: 150px;
 }
 
-.player-hand-card:hover {
+.player-hand-card .card:hover {
 	background-color: #EEEEEE;
 }
 
-.selected-white-card {
+.selected-white-card .card{
 	background-color: #BBFFBB;
 }
 
-.selected-white-card:hover {
+.selected-white-card .card:hover {
 	background-color: #99FF99 !important;
 }
 
@@ -108,10 +108,10 @@ body {
 	line-height: 1.2;
 }
 
-.throwaway-card-mode {
+.throwaway-card-mode .card {
 	background-color: #FFCCCC;
 }
 
-.throwaway-card-mode:hover {
+.throwaway-card-mode .card:hover {
 	background-color: #FFAAAA !important;
 }

@@ -102,9 +102,22 @@
 			</small>
 		</div>
 
-		<div class="card" id="white_card_template">
-			<div class="card-body">
+		<div id="white_card_template" class="col-sm-12 col-md-2 mt-1 mb-1">
+			<div class="card">
+				<div class="card-body">
 
+					<p class="card-text">
+						<span class="badge bg-primary selected-card-number">0</span>
+						<span class="card-text-content">[TEXT]</span>
+					</p>
+				</div>
+				<div class="card-footer text-muted white-card-footer">
+					<span class="expansion-name">Expansion name</span>
+				</div>
+			</div>
+		</div>
+		<div class="card" id="result_white_card_template">
+			<div class="card-body">
 				<p class="card-text">
 					<span class="badge bg-primary selected-card-number">0</span>
 					<span class="card-text-content">[TEXT]</span>
@@ -225,7 +238,7 @@
 						<h1 id="wait_for_card_czar" class="player-message">Wait for the Card Czar to pick the winner
 						</h1>
 					</div>
-					<div class="card-group" id="player_hand"></div>
+					<div class="card-group row" id="player_hand"></div>
 				</div>
 			</div>
 		</div>

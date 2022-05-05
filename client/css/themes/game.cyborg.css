@@ -7,22 +7,22 @@
 	border: 1px solid #FFFFFF;
 }
 
-.throwaway-card-mode {
+.throwaway-card-mode .card {
 	background-color: #301e1e;
 }
 
-.throwaway-card-mode:hover {
+.throwaway-card-mode .card:hover {
 	background-color: #ff1818 !important;
 }
 
-.selected-white-card {
+.selected-white-card .card {
 	background-color: #166916 !important;
 }
 
-.selected-white-card:hover {
+.selected-white-card .card:hover {
 	background-color: #00b300 !important;
 }
 
-.player-hand-card:hover {
+.player-hand-card .card:hover {
 	background-color: #4e4e4e;
 }

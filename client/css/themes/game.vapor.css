@@ -14,22 +14,22 @@ body {
 	border: 1px solid #FFFFFF;
 }
 
-.throwaway-card-mode {
+.throwaway-card-mode .card {
 	background-color: #411a1a;
 }
 
-.throwaway-card-mode:hover {
+.throwaway-card-mode .card:hover {
 	background-color: #ff1818 !important;
 }
 
-.selected-white-card {
+.selected-white-card .card {
 	background-color: #691649 !important;
 }
 
-.selected-white-card:hover {
+.selected-white-card .card:hover {
 	background-color: #b300a4 !important;
 }
 
-.player-hand-card:hover {
+.player-hand-card .card:hover {
 	background-color: #40004d;
 }

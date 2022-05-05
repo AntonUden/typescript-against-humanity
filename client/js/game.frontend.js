@@ -318,14 +318,14 @@ function handleVotingStart(data) {
 		}
 
 		set.selected.forEach(card => {
-			let cardHtml = $("#white_card_template").clone();
+			let cardHtml = $("#result_white_card_template").clone();
 
 			cardHtml.removeAttr("id");
 			cardHtml.find(".selected-card-number").remove(); // Remove badge that we dont need here
 			cardHtml.find(".card-text-content").html(card.text);
 			cardHtml.addClass("played-white-card");
 
-			if(activeGame.settings.showCardPack) {
+			if (activeGame.settings.showCardPack) {
 				cardHtml.attr("title", "This card is from " + card.deck_name);
 				cardHtml.find(".expansion-name").text(card.deck_name);
 			} else {
@@ -457,7 +457,7 @@ function handleGameState(data) {
 				$("#black_card_pick").text("pick " + blackCard.pick);
 				$("#black_card_text").html(blackCard.text);
 
-				if(activeGame.settings.showCardPack) {
+				if (activeGame.settings.showCardPack) {
 					console.debug("Black card is from " + activeGame.black_card.deck_name);
 					$("#black_card_expansion_name").text(activeGame.black_card.deck_name);
 					$("#black_card_footer").removeClass("hidden");
@@ -626,7 +626,7 @@ function handleGameState(data) {
 					newHtml.find(".selected-card-number").hide();
 					newHtml.find(".card-text-content").html(card.text);
 
-					if(activeGame.settings.showCardPack) {
+					if (activeGame.settings.showCardPack) {
 						newHtml.attr("title", "This card is from " + card.deck_name);
 						newHtml.find(".expansion-name").text(card.deck_name);
 					} else {
@@ -734,7 +734,18 @@ $(function () {
 	});
 
 	$(".btn_leaveGame").on("click", function () {
-		socket.send("leave_game", {});
+		$.confirm({
+			title: 'Confirm!',
+			content: 'Do you really want to leave the game?',
+			theme: (activeTheme.is_dark ? "dark" : "light"),
+			buttons: {
+				confirm: function () {
+					socket.send("leave_game", {});
+				},
+				cancel: function () { }
+			}
+		});
+
 	});
 
 	$("#btn_select_expansions").on("click", function () {
