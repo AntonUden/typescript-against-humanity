@@ -745,7 +745,6 @@ $(function () {
 				cancel: function () { }
 			}
 		});
-
 	});
 
 	$("#btn_select_expansions").on("click", function () {
