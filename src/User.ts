@@ -580,7 +580,7 @@ export class User implements ITickable {
 
 			let activeBlackCard: BlackCardDTO | null = null;
 
-			if(game.getActiveBlackCard() != null) {
+			if (game.getActiveBlackCard() != null) {
 				activeBlackCard = new BlackCardDTO(game.getActiveBlackCard())
 			}
 
