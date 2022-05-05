@@ -30,10 +30,6 @@ socket.on("message", function (message, content) {
 			handleGameState(content);
 			break;
 
-		case "game_list":
-			handleGameList(content);
-			break;
-
 		case "round_start":
 			handleRoundStart(content);
 			break;
@@ -47,6 +43,7 @@ socket.on("message", function (message, content) {
 			setupExpansions();
 			setupGameSettingsLimits();
 			loadStoredName();
+			updateGameList();
 			break;
 
 		case "cards_selected_success":
@@ -196,7 +193,7 @@ function joinPasswordProtected(uuid) {
 	});
 }
 
-function handleGameList(data) {
+function handleGameList(games) {
 	if (!ready) {
 		console.log("ignoring handleGameList() since we are not ready");
 		return;
@@ -211,8 +208,8 @@ function handleGameList(data) {
 		foundGames.push(uuid);
 	});
 
-	for (let i = 0; i < data.games.length; i++) {
-		let game = data.games[i];
+	for (let i = 0; i < games.length; i++) {
+		let game = games[i];
 
 		if (foundGames.includes(game.uuid)) {
 			foundGames.remove(game.uuid);
@@ -261,8 +258,8 @@ function handleGameList(data) {
 	});
 
 	/* ===== Update rows ===== */
-	for (let i = 0; i < data.games.length; i++) {
-		let game = data.games[i];
+	for (let i = 0; i < games.length; i++) {
+		let game = games[i];
 
 		$(".game-tr").each(function () {
 			let uuid = $(this).data("game-id");
@@ -806,7 +803,19 @@ $(function () {
 	});
 
 	$(".hide-until-loaded").removeClass(".hide-until-loaded");
+
+	setInterval(() => {
+		if(activeGame == null) {
+			updateGameList();
+		}
+	}, 2000);
 });
+
+function updateGameList() {
+	$.getJSON("/api/game_list", function(data) {
+		handleGameList(data);
+	});
+}
 
 /* ----- Expansions ----- */
 function useAllExpansions() {

@@ -1,4 +1,5 @@
-import * as express from "express";
+import HTTP from "http";
+import Express from "express";
 import * as socketio from "socket.io";
 import * as path from "path";
 import { v4 as uuidv4 } from 'uuid';
@@ -16,8 +17,8 @@ import { GameSettings } from "./interfaces/GameSettings";
 export class Server implements ITickable {
 	public settings: Settings;
 
-	public app;
-	public http;
+	public app: Express.Express;
+	public http: HTTP.Server;
 	public io;
 
 	public users: User[] = [];
@@ -52,14 +53,43 @@ export class Server implements ITickable {
 		console.log(totalWhite + " white cards loaded");
 		console.log(totalBlack + " black cards loaded");
 
-		this.app = express();
+		this.app = Express();
 		this.app.set("port", settings.port);
 
 		this.http = require("http").Server(this.app);
 
 		this.io = require("socket.io")(this.http);
 
-		this.app.use('/', express.static(__dirname + '/../client'));
+		this.app.use('/', Express.static(__dirname + '/../client'));
+
+		this.app.get("/api/game_list", async (req: any, res: any) => {
+			let gameList: any[] = [];
+
+			for (let i: number = 0; i < this.getGames().length; i++) {
+				let game: Game = this.getGames()[i];
+
+				let decks: string[] = [];
+
+				game.getDecks().forEach((deck) => {
+					decks.push(deck.getName());
+				});
+
+				let gameObject: any = {
+					uuid: game.getUUID(),
+					name: game.getName(),
+					state: game.getGameState(),
+					decks: decks,
+					player_count: game.getPlayers().length,
+					password_protected: game.hasPassword(),
+					custom_settings_string: game.getCustomSettingsString()
+				};
+
+				gameList.push(gameObject);
+			}
+
+			res.header("Content-Type", 'application/json');
+			res.send(JSON.stringify(gameList, null, 4));
+		});
 
 		this.http.listen(settings.port, function () {
 			console.log("Listening on port " + settings.port);
@@ -73,8 +103,6 @@ export class Server implements ITickable {
 			console.log("[User] New user connected with uuid " + user.getUUID() + " (User count: " + this.users.length + ")");
 
 			user.sendMessage("Connected!", MessageType.SUCCESS);
-
-			user.sendGameList();
 		});
 
 		setInterval(() => {
@@ -94,7 +122,6 @@ export class Server implements ITickable {
 				this.games.splice(i, 1);
 			}
 		}
-		this.broadcastGameList();
 	}
 
 	public createGame(owner: User, name: string, password: string | null = null): Game {
@@ -115,12 +142,6 @@ export class Server implements ITickable {
 			}
 		}
 		console.log("[User] User " + user.getUUID() + " disconnected (User count: " + this.users.length + ")");
-	}
-
-	public broadcastGameList(): void {
-		for (let i = 0; i < this.users.length; i++) {
-			this.users[i].sendGameList();
-		}
 	}
 
 	public getDeck(name: string): Deck | null {

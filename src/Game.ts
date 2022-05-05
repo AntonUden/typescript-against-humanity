@@ -468,7 +468,6 @@ export class Game implements ITickable {
 		this.activeBlackCard = this.getBlackCard();
 
 		this.sendStateUpdate();
-		this.sendGameListUpdateUpdate();
 
 		this.players.forEach((player) => {
 			player.getUser().getSocket().send("round_start", {});
@@ -554,10 +553,6 @@ export class Game implements ITickable {
 		});
 	}
 
-	public sendGameListUpdateUpdate(): void {
-		this._server.broadcastGameList();
-	}
-
 	public sendStateUpdate(includeUser: User = null): void {
 		let target: User[] = [];
 
@@ -576,7 +571,6 @@ export class Game implements ITickable {
 
 	public sendFullUpdate(includeUser: User = null): void {
 		this.sendStateUpdate(includeUser);
-		this.sendGameListUpdateUpdate();
 	}
 
 	/* ===== Starting and ending game ===== */

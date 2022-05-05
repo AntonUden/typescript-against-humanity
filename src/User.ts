@@ -442,8 +442,6 @@ export class User implements ITickable {
 							//}
 						}
 					}
-
-
 					break;
 
 				default:
@@ -537,49 +535,6 @@ export class User implements ITickable {
 		if (this.isInGame()) {
 			this.getGame().leaveGame(this);
 		}
-	}
-
-	public sendGameList() {
-		let gameList: any[] = [];
-
-		for (let i: number = 0; i < this._server.getGames().length; i++) {
-			let game: Game = this._server.getGames()[i];
-
-			/*let players: any[] = [];
-			for (let j: number = 0; j < game.getPlayers().length; j++) {
-				let player: Player = game.getPlayers()[j];
-
-				players.push({
-					uuid: player.getUUID(),
-					username: player.getUser().getUsername(),
-					score: player.getScore()
-				});
-			}*/
-
-			let decks: string[] = [];
-
-			game.getDecks().forEach((deck) => {
-				decks.push(deck.getName());
-			});
-
-			let gameObject: any = {
-				uuid: game.getUUID(),
-				name: game.getName(),
-				state: game.getGameState(),
-				decks: decks,
-				player_count: game.getPlayers().length,
-				password_protected: game.hasPassword(),
-				custom_settings_string: game.getCustomSettingsString()
-			};
-
-			gameList.push(gameObject);
-		}
-
-		let state = {
-			games: gameList
-		}
-
-		this.socket.send("game_list", state);
 	}
 
 	public sendActiveGameState(): void {
