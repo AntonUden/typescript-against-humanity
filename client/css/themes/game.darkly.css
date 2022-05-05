@@ -7,6 +7,14 @@
 	border: 1px solid #FFFFFF;
 }
 
+#black_card .card-header {
+	background-color: #000000 !important;
+}
+
+#black_card .card-footer {
+	background-color: #000000 !important;
+}
+
 .throwaway-card-mode {
 	background-color: #301e1e;
 }

@@ -1,3 +1,7 @@
+body {
+	background-attachment: fixed;
+}
+
 #black_card {
 	max-width: 18rem;
 	min-height: 200px;

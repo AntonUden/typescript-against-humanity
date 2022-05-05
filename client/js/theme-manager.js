@@ -1,5 +1,7 @@
 var activeTheme = {};
 
+const DEFAULT_THEME = "darkly";
+
 $(function () {
 	$(".select-theme-button").on("click", function () {
 		console.log("Showing theme selector");
@@ -23,7 +25,7 @@ $(function () {
 		$("#theme-selector").val(theme);
 		applyThemeByName(theme);
 	} else {
-		applyThemeByName("quartz");
+		applyThemeByName(DEFAULT_THEME);
 	}
 
 	console.debug("Theme manager loaded");
