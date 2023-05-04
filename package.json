@@ -11,7 +11,7 @@
     "console-stamp": "^3.0.3",
     "express": "^4.17.3",
     "nodemon": "^2.0.20",
-    "socket.io": "^4.5.3",
+    "socket.io": "^4.6.1",
     "typescript": "^4.4.3",
     "uuid": "^8.3.2",
     "uuidv4": "^6.2.12"
