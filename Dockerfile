@@ -1,4 +1,4 @@
-FROM node:18
+FROM node:20-alpine
 
 RUN npm install --global typescript
 
