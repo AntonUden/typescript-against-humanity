@@ -1,0 +1,22 @@
+{
+    "order": 40,
+    "name": "Nerd Bundle: A Few More Cards For You Nerds (Target Exclusive)",
+    "filename": "Nerd_Bundle_A_Few_More_Cards_For_You_Nerds_(Target_Exclusive)",
+    "black_cards": [
+        {
+            "text": "Did not enjoy _. One star.",
+            "pick": 1
+        }
+    ],
+    "white_cards": [
+        "A hit new fantasy show called \"Penis Man.\"",
+        "A magnificent chrome sphere that roams the streets evaporating criminals.",
+        "Eating up whatever slop Marvel throws out there.",
+        "Hot dog, the game you can eat, but only once.",
+        "Not exercising.",
+        "Running afoul of the sultan's Janissaries.",
+        "Scrimshaw, the art of bone carving.",
+        "The illusion of linear time.",
+        "The last season of Game of Thrones."
+    ]
+}

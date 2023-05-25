@@ -1,0 +1,674 @@
+{
+    "order": 136,
+    "name": "Disgruntled Decks: Army Edition",
+    "filename": "Disgruntled_Decks_Army_Edition",
+    "black_cards": [
+        {
+            "text": "_: about as useful as a one-legged man in an ass kicking contest.",
+            "pick": 1
+        },
+        {
+            "text": "A drill sergeant impressed your mom with a story about _ and now he's getting a hand job on Family Day.",
+            "pick": 1
+        },
+        {
+            "text": "A new MOS created. It's being described as a cross between _ and _.",
+            "pick": 2
+        },
+        {
+            "text": "A SHARP™ complaint was filed against you for _.",
+            "pick": 1
+        },
+        {
+            "text": "A Soldeir-inspired musical, you say? What's the theme?",
+            "pick": 1
+        },
+        {
+            "text": "A thoughtful present for a deaf,blind and downs syndrome baby is _",
+            "pick": 1
+        },
+        {
+            "text": "According to your permanent profile, you can no longer be in the vicinity of _.",
+            "pick": 1
+        },
+        {
+            "text": "After a night of drunken debauchery, the guys at Digruntled Vets were arrested for _.",
+            "pick": 1
+        },
+        {
+            "text": "After stomping Nazi dick into the dirt, Audie Murphy celebrated his killing sprees with _.",
+            "pick": 1
+        },
+        {
+            "text": "Although _ is authorized, it is strongly discouraged.",
+            "pick": 1
+        },
+        {
+            "text": "April is \"The Month of the Military Child.\" What are you doing to celebrate?",
+            "pick": 1
+        },
+        {
+            "text": "AR 670-1 has been updated and it specifically bans _ in uniform.",
+            "pick": 1
+        },
+        {
+            "text": "Are you still shit-faced from a night of heavy drinking and need to sober up before PT? Try reading up on _!",
+            "pick": 1
+        },
+        {
+            "text": "As the new unit morale, wellness, and recreation officer, your primary duties involve _.",
+            "pick": 1
+        },
+        {
+            "text": "Besides sticky napalm, what else is detrimental to kids in a war zone?",
+            "pick": 1
+        },
+        {
+            "text": "By pooling their funds, the E-4 Mafia was able to buy _ for mandatory fun day.",
+            "pick": 1
+        },
+        {
+            "text": "CIF is now issuing rucksacks full of _ to Soldiers going down range.",
+            "pick": 1
+        },
+        {
+            "text": "Class, pay close attention. I will now demonstrate the physics of _.",
+            "pick": 1
+        },
+        {
+            "text": "Congress declared Marshall law because of _ & _.",
+            "pick": 2
+        },
+        {
+            "text": "Create your new unit motto: _ and _!",
+            "pick": 2
+        },
+        {
+            "text": "Describe your military career with one card.",
+            "pick": 1
+        },
+        {
+            "text": "Everyone gets a Combat Action Badge! Just be within 50 meters of _ and you qualify.",
+            "pick": 1
+        },
+        {
+            "text": "Firers, assume a good kneeling position and commence _.",
+            "pick": 1
+        },
+        {
+            "text": "Fort Hood is known as \"The Great Place\" because it provides Soldiers with an endless supply of _.",
+            "pick": 1
+        },
+        {
+            "text": "Friday's safety brief identified _ as the greatest threat to Soldiers.",
+            "pick": 1
+        },
+        {
+            "text": "Friendly fire or _; I don't know what's worse.",
+            "pick": 1
+        },
+        {
+            "text": "Holding back laughter, the warrant officer suggested you add _ to your CONOP.",
+            "pick": 1
+        },
+        {
+            "text": "Honor those lost at sea. Seriously, pause the game and raise your glasses for those who unknowingly made their final voyage.",
+            "pick": 1
+        },
+        {
+            "text": "How can I explain deployment? Well, I guess it's mostly _ and _.",
+            "pick": 2
+        },
+        {
+            "text": "I always knew my cousin was disturbed, then we found his rambling manifesto on _.",
+            "pick": 1
+        },
+        {
+            "text": "I always maintain my arms, my equipment, and my _.",
+            "pick": 1
+        },
+        {
+            "text": "I kept falling asleep on guard duty, but I managed to stay awake by thinking about _.",
+            "pick": 1
+        },
+        {
+            "text": "If Captain Planet™ battles against ecoterrorism, then what does Lieutenant Planet fight?",
+            "pick": 1
+        },
+        {
+            "text": "If my deployment was made into a porno, it would be full of _ and _.",
+            "pick": 2
+        },
+        {
+            "text": "If NCOs are the backbone, what is the rectum of the Army?",
+            "pick": 1
+        },
+        {
+            "text": "If there's a separate Heaven for command sergeants major of the Oregon National Guard, it is certainly full of _ and neatly trimmed grass.",
+            "pick": 1
+        },
+        {
+            "text": "If you thought veggie omelet was bad, just wait until you try the newest MRE flavor. It tastes like _!",
+            "pick": 1
+        },
+        {
+            "text": "In a shocking turn of events, AR 670-1 now authorizes Soldiers to wear _ while on duty.",
+            "pick": 1
+        },
+        {
+            "text": "In place of corective training, what are leaders now encouraged to use as punishment?",
+            "pick": 1
+        },
+        {
+            "text": "In the newest Tom Hanks war porn, an infantry platoon must overcome _ to accomplish their mission.",
+            "pick": 1
+        },
+        {
+            "text": "It may have taken 11 years to process the paperwork, but you were finally awarded the Medal of Honor for _.",
+            "pick": 1
+        },
+        {
+            "text": "Loyalty, Duty, Respect, Selfless, Service, Honor, Integrity, Personal Courage, and _: the newest Army Value.",
+            "pick": 1
+        },
+        {
+            "text": "Ma'am, why are you sweating and breathing so heavily?",
+            "pick": 1
+        },
+        {
+            "text": "No one is more professional than I. I am _, a leader of Soldiers.",
+            "pick": 1
+        },
+        {
+            "text": "No shit, there I was, knee-deep in _.",
+            "pick": 1
+        },
+        {
+            "text": "ROTC taught me many things, but it didn't teach me how to handle _.",
+            "pick": 1
+        },
+        {
+            "text": "Second lieutenant + _ = massive amounts of failure.",
+            "pick": 1
+        },
+        {
+            "text": "Sing: \"First to fight for the right, and to build the Nation's _.\"",
+            "pick": 1
+        },
+        {
+            "text": "Sing: \"They say that in the Army _ is mighty fine!\"",
+            "pick": 1
+        },
+        {
+            "text": "Sing: \"When my granny was 95, she did _ just to stay alive!\"",
+            "pick": 1
+        },
+        {
+            "text": "Sir, why are you crying?",
+            "pick": 1
+        },
+        {
+            "text": "Soldiers have created a new religion, where _ is held sacred above all else.",
+            "pick": 1
+        },
+        {
+            "text": "Step 1: Deploy.\nStep 2: _\nStep 3: Receive Bronze Star.",
+            "pick": 1
+        },
+        {
+            "text": "The Army is using virtual reality to prepare for combat, which forces Soldiers to endure hours of _.",
+            "pick": 1
+        },
+        {
+            "text": "The curious lieutenant found _ on the other side of the latrine gloryhole.",
+            "pick": 1
+        },
+        {
+            "text": "The final event of the Best Ranger Competition involves the competitors paying homage to _.",
+            "pick": 1
+        },
+        {
+            "text": "The military is set apart from other professions because Soldiers must be prepared to use _.",
+            "pick": 1
+        },
+        {
+            "text": "The new petting zoo inside the Pentagon features pony rides, baby goat feeding, and _.",
+            "pick": 1
+        },
+        {
+            "text": "The newest Army Regulation extensively covers _, for the new Chief of Staff.",
+            "pick": 1
+        },
+        {
+            "text": "The only thing recruiters love more than groping high school girls is lying about _.",
+            "pick": 1
+        },
+        {
+            "text": "The only thing standing between you and your next promotion is _.",
+            "pick": 1
+        },
+        {
+            "text": "The sergeant major must be a wizard because he can instantly transform into _ and _.",
+            "pick": 2
+        },
+        {
+            "text": "The U.S. Army provides _ to impoverished people all over the world.",
+            "pick": 1
+        },
+        {
+            "text": "The upcoming 4-day affords you the opportunity to do what you're passionate about: _.",
+            "pick": 1
+        },
+        {
+            "text": "The Warrant Officer Mafia holds secret meetings where they discuss the intricacies of _.",
+            "pick": 1
+        },
+        {
+            "text": "Today at a special court-martial, you were convicted by a military judge, pursuant to your pleas, of 5 specifications of _.",
+            "pick": 1
+        },
+        {
+            "text": "West Point Cadets are known for their tenacious veracity, superb physical fitness, and _.",
+            "pick": 1
+        },
+        {
+            "text": "What does the Sergeant Major of the Army dream about most nights?",
+            "pick": 1
+        },
+        {
+            "text": "What drove your commander to chug and gouge out his eyes with a Skilcraft® pen.",
+            "pick": 1
+        },
+        {
+            "text": "What is the key to happiness?",
+            "pick": 1
+        },
+        {
+            "text": "What is the new unofficial mascot of the infantry?",
+            "pick": 1
+        },
+        {
+            "text": "What is the SecDef thinking at the moment?",
+            "pick": 1
+        },
+        {
+            "text": "What made your date leave the unit ball screaming and covered in blood?",
+            "pick": 1
+        },
+        {
+            "text": "What makes drill sergeants seethe with rage?",
+            "pick": 1
+        },
+        {
+            "text": "What puts the \"Strong\" in Army Strong?",
+            "pick": 1
+        },
+        {
+            "text": "What really killed Patton?",
+            "pick": 1
+        },
+        {
+            "text": "What reoccurring night terror keeps the Joint Chiefs up at night?",
+            "pick": 1
+        },
+        {
+            "text": "What topic you always cover in your initial counseling sessions?",
+            "pick": 1
+        },
+        {
+            "text": "What's causing that awful smell in the barracks?",
+            "pick": 1
+        },
+        {
+            "text": "What's your first sergeant's guilty pleasure?",
+            "pick": 1
+        },
+        {
+            "text": "When diplomacy fails and North Korea attacks, Kim Jon Un will unleash _, his secret weapon.",
+            "pick": 1
+        },
+        {
+            "text": "When the American public hears \"United States Army,\" they can't help but think of _.",
+            "pick": 1
+        },
+        {
+            "text": "When your crying mother asks why you were kicked out of the Army, you'll shamefully explain it was because of _.",
+            "pick": 1
+        },
+        {
+            "text": "When your primary weapon jams in an ass-puckering firefight, use _ as your backup.",
+            "pick": 1
+        },
+        {
+            "text": "While stuffing your fat face at the chow hall, you suddenly think of _ and immediately lose your appetite.",
+            "pick": 1
+        },
+        {
+            "text": "Why haven't your subordinates completed their mandatory online training?",
+            "pick": 1
+        },
+        {
+            "text": "Young Veterans Brewing Co.™ has brewed a new Army-inspired beer called G.I. Pilsner™, which probably tastes like _ and _.",
+            "pick": 2
+        },
+        {
+            "text": "Your commander was immediately relieved for unethical and immoral behavior because of her involvement with _.",
+            "pick": 1
+        },
+        {
+            "text": "Your commander's call sign is \"_ SIX.\"",
+            "pick": 1
+        },
+        {
+            "text": "Your security clearance has been suspended beause of your shameful past involving _.",
+            "pick": 1
+        }
+    ],
+    "white_cards": [
+        "3d Cavalry Regiment's drivers training program.",
+        "A .50 cal round tearing through 3 torsos, 2 heads, and a hotdog cart.",
+        "A \"high speed\" specialist saving the 237th Sapper Co. from a disastrous mixture of live rounds and blanks.",
+        "A $2,000 enlistment bonus that definitely wasn't worth it.",
+        "A 15-6 investigating the pathetic, plodding death of your career.",
+        "A 48-year-old specialist who enlisted under mysterious circumstances.",
+        "A 70-year-old gut truck driver exchanging snacks for hand jobs.",
+        "A 9 ft tall sergeant major with titanium robot legs.",
+        "A badass maroon beret that gets all the pussy. How much pussy, bro?!? ALL the pussy!",
+        "A balding sergeant first class with a terrible comb over.",
+        "A ball-clinching Swiss seat.",
+        "A barracks room covered in layers of black mold.",
+        "A bloated corpse with a great tan.",
+        "A BOLO list identifying 45 white Toyota® pickup trucks.",
+        "A Bradley Fighting Vehicle slowly crushing a donkey cart.",
+        "A camel spider wearing several pairs of tiny shoes.",
+        "A cement truck filled with 20,000 lbs. of HME.",
+        "A Chelsea Manning tuck job.",
+        "A cock-strong formation of 1-505 PIR Paratroopers howling \"Go limp and take it!\"",
+        "A college student asking if you've ever killed someone.",
+        "A combat lifesaver bag full of ping pong balls and speculums.",
+        "A company commander pinning his dick pics to the SHARP™ bulletin board.",
+        "A crusty sock that oddly smells like mashed potatoes.",
+        "A DA Civilian on a mobility scooter.",
+        "A depressing re-enlistment attended by only your mother and overweight commander.",
+        "A desolate outpost somewhere in Afghanistan.",
+        "A dog and pony show featuring actual dogs and ponies.",
+        "A fobbit telling war stories.",
+        "A general officer shooting lightning bolts from the tip of his OD green penis.",
+        "A Guantanamo Bay torture sesion involving Nickelback, a power drill, and Hillary Clinton's pubic wig.",
+        "A Heat Cat-5 porta-shitter jerk session.",
+        "A Kevlar® helmet filled with baby raccoons.",
+        "A kinder, gentler Army.",
+        "A Midshipman witnessing a West Point pillow fight and immediately feeling better about themselves.",
+        "A mild traumatic brain injury.",
+        "A monkey fucking a football.",
+        "A morbidly obese staff officer.",
+        "A negligent discharge entering through your thigh, but exiting out your asshole.",
+        "A new female tanker christening her Abrams with a jar of clotted period blood.",
+        "A Pentecostal, snake-handling chaplain in the Kentucky National Guard.",
+        "A plump Iraqi child begging for candy then giving you the finger.",
+        "A recruiting video starring Caitlyn Jenner queefing plastic army men from her crudely-assembled vagina.",
+        "A roadside bomb.",
+        "A Seaman filled with semen.",
+        "A sensitive items inventory gone terribly wrong.",
+        "A sexually suggestive S.P.O.R.T.S. demonstration.",
+        "A smirking famale Ranger.",
+        "A staff officer referencing Clausewitz.",
+        "A steaming fart sack.",
+        "A Stetson and set of spurs.",
+        "A supply sergeant who is basically a drug dealer.",
+        "A Taliban insurgent wildly firing an AK-47 from the hip.",
+        "A threesome with your battle buddy and a musty Fleshlight®.",
+        "A toe-curling combatives orgasm.",
+        "A vodka IV drip courtesy of Doc.",
+        "A warrant offier vanishing in a puff of smoke.",
+        "A West Point pillow fight.",
+        "A wily supply specialist who cums FLIPLs and poops hand receipts.",
+        "Abandoning your post to join the Taliban.",
+        "Accurate sniper fire.",
+        "Accurately describing your chain of command as a less efficient Human Centipede.",
+        "Acting out a flashback during your daughter's ballet recital.",
+        "Afghan farm animals and the men who love them.",
+        "AFRICOM.",
+        "An A-10 liquefying Taliban insurgents with its 30mm autocannon.",
+        "An AFN movie marathon.",
+        "An ammo can filled with old Kevin Costner movies.",
+        "An automated head chopper offer machine developed by ISIS.",
+        "An endearing old woman saying \"Thank you for your service.\"",
+        "An enraged, 300 lb. dependa bellowing \"I serve too!\"",
+        "An entire infantry platoon infected with drug-resistant gonorrhea.",
+        "An EO violation.",
+        "An excessively thorough UA meat gazer.",
+        "An expedient field vagina made from a latex glove, surgical lube, and a tightly-rolled brown towel.",
+        "An FRG meeting that ends in a dependa battle royal.",
+        "An IED hidden inside a dead dog.",
+        "An Infantryman repeatedly saying \"FUCK!\"",
+        "An intel analyst who clearly has autism.",
+        "An intel sergeant disappearing into the desert to pleasure himself under the beautiful stars.",
+        "An Iraqui child lobbing a hand grenade.",
+        "An irate drill sergeant screaming \"I will fuck your fucking soul\" in the middle of a BCT graduation.",
+        "An ISIS brothel filled with smokin' hot pieces of goat ass.",
+        "An LT on LT slap fight.",
+        "An M1 Abrams Main Battle Tank jumping 14 buses like mother fucking Evel Knievel!",
+        "An M18 Claymore mine fastened to a stray dog.",
+        "An officer's cape.",
+        "Androgynous Ranger candidates.",
+        "Applying winged eyeliner with a camo stick.",
+        "Army Regulations.",
+        "Awkward mandatory training taught by an EO rep wearing blackface.",
+        "Bald eagle cum.",
+        "Base housing prostitutes.",
+        "Basic trainees.",
+        "Becoming visibly upset at the inaccuracies in The Hurt Locker.",
+        "Being operator as fuck.",
+        "Being outranked by Jody.",
+        "Being the shit bag the Army deserves, but not the one it needs right now.",
+        "Believing Air Assault School matters.",
+        "Bieng about as useful as a football bat.",
+        "Bieng told not to rape everyone and then being told not to rape everyone.",
+        "Bin Laden's severed head.",
+        "Blessing an Afghan wedding with a misplaced Hellfire missile.",
+        "Block leave DUIs.",
+        "Breastfeeding.",
+        "Burn pit headaches and rock-hard freedom boners.",
+        "Cadets.",
+        "Calling a ceasefire by wildly flailing your spaghetti arms.",
+        "Calling in a bomb threat to an FRG meeting.",
+        "Centuries of tribal disputes and sectarian violence.",
+        "Channeling your inner shitbag.",
+        "Chris Kyle's magic necklace made from shell casings and dried Iraqi foreskins.",
+        "Church-sponsored care packages filled with tube socks and disappointment.",
+        "Cleaning your ass with objects not intended for wiping.",
+        "Combat smells.",
+        "Command Maintenance.",
+        "Commissary baggers of the Orient.",
+        "Committing suicide at the Old Country Buffet.",
+        "Confirmed kills.",
+        "Coping mechanisms that don't involve fucking, fighting, or drinking.",
+        "Counterinsurgency the old fashioned way.",
+        "Cutting the liner out of your PT shorts, but only for nefarious reasons.",
+        "Cyber warriors.",
+        "D-list celebrities visiting your FOB.",
+        "Death by PowerPoint®.",
+        "Death from above.",
+        "Deflecting fuckery with your D 214.",
+        "Deliberate Risk Assessment Worksheets.",
+        "Deploying to Kuwait. War is Hell.",
+        "Deployment gains.",
+        "Devouring 4 scoops of pre-workout before a PT test.",
+        "Discovering the rotting corpse of an elderly range worker while policing the firing line.",
+        "Discovering your battalion commander is really 3 midgets in a pair of ACUs.",
+        "Doctors Without Borders without heads.",
+        "Doing explosions.",
+        "Doing war good.",
+        "Dying of dysentery.",
+        "Edward Snowden's crooked, warty baby dick.",
+        "Elizabeth Laird: The Patron Saint of Hugs.",
+        "Endless mission creep.",
+        "Entering the Korean noreabang with only 17.2 minutes until curfew.",
+        "Expedient baby wipe baths.",
+        "Experimental MREs.",
+        "Failing to find a problem down range that can't be solved with gratuitous violence.",
+        "Falling out of a battalion run, you piece of shit!",
+        "Female facial hair standards.",
+        "Finding a used condom in your company's amnesty box.",
+        "Flowing man dresses.",
+        "Foreplay involving CLP, an MRE heater, and a green wool sock.",
+        "Fort Bliss super meth.",
+        "Full battle rattle.",
+        "Gary Sinise's unrelenting hard-on for all things military.",
+        "Gender reassignment surgery paid for by the American taxpayer.",
+        "Geneva Suggestions.",
+        "Getting rodded off the range.",
+        "Getting vigorously fingered in the back of a Humvee.",
+        "GIZ",
+        "Going to sick call for being legitimately retarded.",
+        "Grandpa's collection of cool Nazi stuff.",
+        "Herpagonasyphilaids.",
+        "Horse calvary.",
+        "How you look before deployment vs. how you look after deployment.",
+        "Huffing air duster and seeing God.",
+        "Hurry up and wait.",
+        "Indiscriminate carpet bombing.",
+        "Intelligence Preparation of the Battlefield.",
+        "Intense sex involving goats.",
+        "Iron majors.",
+        "Juice boxes? Naw bitch, milk boxes!",
+        "Land navigation.",
+        "Lieutenants.",
+        "Lisitng PSYOPS under \"interests\" on your eHarmony® profile.",
+        "Listing a pedophile on your Family Care Plan.",
+        "Low crawling with yo' booty up.",
+        "Making a sorority girl duck face in your DA photo like a fucking idiot.",
+        "Making friends with Jody.",
+        "Making tape because of your fat horse neck.",
+        "Making the grass grow.",
+        "Man love Thursdays.",
+        "Marrying the juicy girl of your dreams.",
+        "Mechanized infantry.",
+        "Military Operations on Urban Terrain.",
+        "Military working dogs.",
+        "Missing the drop zone.",
+        "Mississippi Guardsmen attending a KKK rally and requesting that it count for drill.",
+        "Mortuary Affairs.",
+        "Motor pool sleepovers.",
+        "MRE-induced constipation.",
+        "Multiple amputations.",
+        "Muscly EOD techs wearing dog collars and \"Legalize Gay\" t-shirts.",
+        "Muttering \"I fucking hate civilians\" in every one of your college courses.",
+        "National Guard enlistment fraud.",
+        "NATO troops.",
+        "Nicotine and caffeine and nicotine and caffeine and nicotine and...",
+        "Non-consensual sex.",
+        "Nut-to-butt",
+        "Old Russian landmines.",
+        "Oozing HOOOOOAH from all your body holes.",
+        "Patiently waiting for things to explode.",
+        "PCCs and PCIs.",
+        "PEW PEW sounds.",
+        "Playing hide and seek with Bowe Bergdahl.",
+        "Pregnancy PT combatives.",
+        "Pregnant Hispanic Soldiers.",
+        "Pretending not to hear your barracks buddy ferociously masturbating.",
+        "PT belts.",
+        "Pulling CQ.",
+        "Punching a Retention NCO right in his fucking face.",
+        "Purchasing a pinup calendar from first sergeant and discovering the voluptuous tits of your battalion commander's wife hiding inside.",
+        "Raking dirt.",
+        "Re-enlisting for Hawaii, but getting Fort Polk'ed.",
+        "Re-enlisting in a whore house.",
+        "Realizing that John Wayne was full of shit this whole time.",
+        "Receiving indirect fire when all you wanted to do was masturbate in the shower trailer.",
+        "Reminding legs that being Airborne makes you better than them.",
+        "Requesting a chaplain to perform an invocation at your court-martial.",
+        "Rip its®.",
+        "Rollerskating through the Pentagon wearing only Ranger panties and a PT belt.",
+        "Rolling a Humvee.",
+        "Route clearance.",
+        "Running for your life multiple times in one day.",
+        "Running out of fucks.",
+        "Saluting officer's wives.",
+        "Saying \"Back when I was in the Army\" like a condescending prick.",
+        "Seeing a dead body for the first time.",
+        "Sergeant major's gentle neck kisses.",
+        "Shady government contractors.",
+        "SHARP™ training.",
+        "Shooting the majestic wildlife scampering across the range.",
+        "Shoplifting from the PX.",
+        "Shower drill nudity.",
+        "Shut the fuck up, Carl!",
+        "Side straddle hops.",
+        "Sometimes shit just blows up.",
+        "Special Forces beards.",
+        "Speed pitching a dog turd into a Black Hawk's spinning tail rotor.",
+        "Spending an entire AER loan at the titty bar.",
+        "Spotting your commander at BronyCon.",
+        "Staying off the fucking grass!",
+        "Stolen valor.",
+        "Strapping a stuffed pig dick to the seat of Nidal Hasan's wheelchair.",
+        "Streaking the Army-Navy game while wearing \"Free Chelsea Manning\" body paint.",
+        "Taking 800mg of Motrin® followed by 800mg of Motrin®.",
+        "Taking a bullet for your country.",
+        "Ten Infantryman watching porn on a single laptop screen.",
+        "That unique smell Soldiers emit after spending a week in the field.",
+        "The 101st \"Airborne\" Division.",
+        "The Air Force: where \"Death by PowerPoint\" is a service-connected disability rating.",
+        "The Air Force: where \"Death by PowerPoint\" is a service-connected disability rating.",
+        "The Army Band: brought to you by Cheetos® and no-running profiles.",
+        "The Army Substance Abuse Program.",
+        "The Bend and Reach Around.",
+        "The blind workers of Skilcraft®.",
+        "The chow hall's felon employment program.",
+        "The Decisive Action Training Environment.",
+        "The E-4 Mafia.",
+        "The good kid",
+        "The gory aftermath of a detonated VBIED.",
+        "The incoming alarm causing a thousand assholes to simultaneously pucker.",
+        "The insider threat.",
+        "The kissable lips of an Afghan chai boy.",
+        "The Military Decision Making Process.",
+        "The moment you realize that intelligence units are equally incompetent across all services.",
+        "The National Training Center.",
+        "The new transsexual army.",
+        "The only white guy with a shaving profile.",
+        "The physical embodiment of the Blue Falcon taking an enormous shit on your day.",
+        "The pulsating and unbearable girthiness of the Green Weenie.",
+        "The Second Amendment meets fourth grade maturity.",
+        "The Soldier's Creed.",
+        "The undeniably high standards of the National Guard.",
+        "The unforgettable smell of wolf pussy in the morning.",
+        "The United States Army.",
+        "The unmistakable CRACK of a round whizzing by your fat, lucky head.",
+        "The unshakable desire to burn CIF to the ground.",
+        "The wild and wonderful sands of Iraq.",
+        "Toby Kieth exploding during a USO show.",
+        "TOC-roaches.",
+        "Top secret emails.",
+        "Troop Leading Procedures.",
+        "Two lieutenants gleefully riding a tandem bicycle.",
+        "Unified Land Operations.",
+        "Using public masturbation as a tool to demonstrate a flaw in a command decision. (Thanks, Skippy!)",
+        "Using the Afghan National Police to disarm pressure plate IEDs.",
+        "Using your GI Bill for the sole purpose of creeping on college freshmen.",
+        "VA-facilitated opiate addiction.",
+        "Viet Cong ding dong.",
+        "Viewing Friday's safety brief as a personal challenge.",
+        "War crimes just for funsies.",
+        "WARNOing the FRAGO that FRAGOed the WARNO.",
+        "Wasting your clothing allowance on another camo change.",
+        "Weaponizing Cav Scout semen in the fight against ISIS.",
+        "West Point.",
+        "Winning a Soldier of the Month board by default.",
+        "Winning hearts and minds.",
+        "Wishing you were still deployed.",
+        "Witnessing people violently die.",
+        "Women in the infantry.",
+        "Woobie tickles.",
+        "X's nad O's from your XO.",
+        "Your company commander.",
+        "Your first sergeant's secret stash of twerk videos and booty porn.",
+        "Your platoon leader's adorable little lisp.",
+        "Your recruiter's unbridled lust for vulnerable high school girls.",
+        "Your squad leader, the scumbag.",
+        "Zombie Patton."
+    ]
+}

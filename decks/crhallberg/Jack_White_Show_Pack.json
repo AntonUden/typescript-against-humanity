@@ -1,0 +1,19 @@
+{
+    "order": 37,
+    "name": "Jack White Show Pack",
+    "filename": "Jack_White_Show_Pack",
+    "black_cards": [
+        {
+            "text": "When Jack White performed at the Aragon Ballroom in Chicago on Nov. 19, 2018, he surprised fans with _.",
+            "pick": 1
+        }
+    ],
+    "white_cards": [
+        "A bizarre partnership with Cards Against Humanity.",
+        "A quiet, poignant acoustic guitar ballad.",
+        "Jack White.",
+        "Jack White's collection of taxidermied animal heads.",
+        "Jack White's mom coming on stage and dancing.",
+        "Jack White's testosterone-fueled dementia."
+    ]
+}

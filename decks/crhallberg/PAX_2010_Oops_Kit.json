@@ -1,0 +1,38 @@
+{
+    "order": 41,
+    "name": "PAX 2010 \"Oops\" Kit",
+    "filename": "PAX_2010_Oops_Kit",
+    "black_cards": [
+        {
+            "text": "_: Has science gone too far?",
+            "pick": 1
+        },
+        {
+            "text": "Daddy, why is Mommy crying?",
+            "pick": 1
+        },
+        {
+            "text": "Dear Agony Aunt, I'm having some trouble with _ and I need your advice.",
+            "pick": 1
+        },
+        {
+            "text": "I dropped my cellphone in the _ and now it won't work anymore.",
+            "pick": 1
+        },
+        {
+            "text": "Who ate my _ again?",
+            "pick": 1
+        }
+    ],
+    "white_cards": [
+        "A Bitch Slap.",
+        "Chunks of food in my teeth",
+        "Extremely tight trousers.",
+        "One unforgettable night of passion.",
+        "Strafing an Afghan shepherd and his sad, sickly goats.",
+        "The boy who sucks the farts our of my sweatpants.",
+        "The entire Mormon Tabernacle Chior.",
+        "The few shreds of tinsel still clinging to my asshole.",
+        "Throwing another pidgey in the wood chipper."
+    ]
+}

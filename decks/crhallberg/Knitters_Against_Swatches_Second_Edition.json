@@ -1,0 +1,69 @@
+{
+    "order": 168,
+    "name": "Knitters Against Swatches Second Edition",
+    "filename": "Knitters_Against_Swatches_Second_Edition",
+    "black_cards": [
+        {
+            "text": "_ + _ = Hot new knitting trend.",
+            "pick": 2
+        },
+        {
+            "text": "_ got kicked out of the local Stitch and Bitch group for _.",
+            "pick": 2
+        },
+        {
+            "text": "_, I can yarn bomb that.",
+            "pick": 1
+        },
+        {
+            "text": "_, it's what Elizabeth Zimmerman would do.",
+            "pick": 1
+        },
+        {
+            "text": "I skipped the guage swatch and now my _ looks more like _.",
+            "pick": 2
+        },
+        {
+            "text": "I started knitting so I would stop _.",
+            "pick": 1
+        },
+        {
+            "text": "Indie-dyed yarns can have some crazy color names. Last week I bought a colorway called _.",
+            "pick": 1
+        },
+        {
+            "text": "Why don't you just buy socks?",
+            "pick": 1
+        }
+    ],
+    "white_cards": [
+        "[Washing instructions graphic]",
+        "A dropped stitch.",
+        "A hand knitted Bernie Sanders doll.",
+        "A knitted condom.",
+        "A missing stitch marker.",
+        "A skein of yarn knitting with a ball of people.",
+        "An alpaca.",
+        "An Ambien-induced online yarn purchase.",
+        "An intense game of yarn chicken.",
+        "Breaking up with someone to get out of holiday knitting.",
+        "Curing cancer with hand knit hats.",
+        "Cutting a steek.",
+        "Explaining virgin wool to a group of 12 year old boys.",
+        "HAND WASH ONLY!!!",
+        "Hiding a yak in your apartment.",
+        "Knitting at stoplights.",
+        "Knitting two left mittens.",
+        "Knots.",
+        "Procraftinating.",
+        "Shark sugar",
+        "Souvenir yarn.",
+        "The paralyzing fear of a tiny moth.",
+        "Thrift store yarn.",
+        "Well-intentioned crocheters.",
+        "WIPs, HOs,and FOs.",
+        "Yarn diets.",
+        "Yarn that smells like sheep.",
+        "Yarn vomit."
+    ]
+}

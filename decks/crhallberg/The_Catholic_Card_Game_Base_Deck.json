@@ -1,0 +1,733 @@
+{
+    "order": 185,
+    "name": "The Catholic Card Game: Base Deck",
+    "filename": "The_Catholic_Card_Game_Base_Deck",
+    "black_cards": [
+        {
+            "text": "_ helps Parish priests relax.",
+            "pick": 1
+        },
+        {
+            "text": "_ keeps me from prayer.",
+            "pick": 1
+        },
+        {
+            "text": "_ led me to _.",
+            "pick": 2
+        },
+        {
+            "text": "_, a near occasion of sin.",
+            "pick": 1
+        },
+        {
+            "text": "_, the number one reason for staying chaste.",
+            "pick": 1
+        },
+        {
+            "text": "_: the hit Catholic musical.",
+            "pick": 1
+        },
+        {
+            "text": "A Catholic's secret guilty pleasure.",
+            "pick": 1
+        },
+        {
+            "text": "A denied Gospel spoke about _.",
+            "pick": 1
+        },
+        {
+            "text": "A lesser-known Bible story is about _.",
+            "pick": 1
+        },
+        {
+            "text": "A nun's favorite thing about her order is _.",
+            "pick": 1
+        },
+        {
+            "text": "Ain't no party like a Catholic party because a Catholic party has _.",
+            "pick": 1
+        },
+        {
+            "text": "An EWTN Original Series: _.",
+            "pick": 1
+        },
+        {
+            "text": "And they'll know we are Christians by our _.",
+            "pick": 1
+        },
+        {
+            "text": "Another reason Saul was knocked off his horse on his way to Damascus.",
+            "pick": 1
+        },
+        {
+            "text": "Being Catholic is the best because of _.",
+            "pick": 1
+        },
+        {
+            "text": "Catechsism #2866 talks about _.",
+            "pick": 1
+        },
+        {
+            "text": "Catholic millenials are known for _.",
+            "pick": 1
+        },
+        {
+            "text": "Catholics are tired of talking about _ with non-Catholics.",
+            "pick": 1
+        },
+        {
+            "text": "Contemplating _ takes up a lot of my prayer time.",
+            "pick": 1
+        },
+        {
+            "text": "David's secret weapon to defeat Goliath was _.",
+            "pick": 1
+        },
+        {
+            "text": "Doubting Thomas wished he was known for _.",
+            "pick": 1
+        },
+        {
+            "text": "Every Catholic girl's dream.",
+            "pick": 1
+        },
+        {
+            "text": "I am guilty of _.",
+            "pick": 1
+        },
+        {
+            "text": "I got seven deadly sins but _ ain't one.",
+            "pick": 1
+        },
+        {
+            "text": "I hope my tithe goes to providing _ to the Church.",
+            "pick": 1
+        },
+        {
+            "text": "I saw visions of _ after _.",
+            "pick": 2
+        },
+        {
+            "text": "I will be canonized for _.",
+            "pick": 1
+        },
+        {
+            "text": "I would be the Patron Saint of _.",
+            "pick": 1
+        },
+        {
+            "text": "I would like _ for Christmas.",
+            "pick": 1
+        },
+        {
+            "text": "I'm a bad Catholic because of _.",
+            "pick": 1
+        },
+        {
+            "text": "If I started an order, it would focus on _.",
+            "pick": 1
+        },
+        {
+            "text": "In his youth, St. Augustine struggled with _.",
+            "pick": 1
+        },
+        {
+            "text": "Jesus performed the miracle of _ but it was never recorded.",
+            "pick": 1
+        },
+        {
+            "text": "Jesus specialized in _ before his public ministry.",
+            "pick": 1
+        },
+        {
+            "text": "Jesus would never be caught _.",
+            "pick": 1
+        },
+        {
+            "text": "Lord, give me purity, just not _.",
+            "pick": 1
+        },
+        {
+            "text": "Lord, I need _.",
+            "pick": 1
+        },
+        {
+            "text": "Love is patient, love is kind, love is _.",
+            "pick": 1
+        },
+        {
+            "text": "Martin Luther just couldn't wrap his head around _.",
+            "pick": 1
+        },
+        {
+            "text": "Mea Culpa, Father, I couldn't make it Mass because of _.",
+            "pick": 1
+        },
+        {
+            "text": "Mel Gibson's newest movie is titled: \"_\".",
+            "pick": 1
+        },
+        {
+            "text": "Michelangelo's newest painting is titled _.",
+            "pick": 1
+        },
+        {
+            "text": "My old, Catholic grandma is known for _.",
+            "pick": 1
+        },
+        {
+            "text": "NET Ministries uses _ to liven up their retreats.",
+            "pick": 1
+        },
+        {
+            "text": "Next, on Catholic radio, we will be talking about _.",
+            "pick": 1
+        },
+        {
+            "text": "On the 8th day, God created _.",
+            "pick": 1
+        },
+        {
+            "text": "Other things Abraham could have sacrificed.",
+            "pick": 1
+        },
+        {
+            "text": "Priests think about _ in their free time.",
+            "pick": 1
+        },
+        {
+            "text": "Records of _ are found in the Secret Vatican Archives.",
+            "pick": 1
+        },
+        {
+            "text": "Saints pray for people who struggle with _.",
+            "pick": 1
+        },
+        {
+            "text": "Seminarins talk about _ after class.",
+            "pick": 1
+        },
+        {
+            "text": "St. Nicholas brought _ to kids for Christmas for the first time.",
+            "pick": 1
+        },
+        {
+            "text": "St. Patrick didn't just drive the snakes out of Ireland, he also drove out _.",
+            "pick": 1
+        },
+        {
+            "text": "The 11th commandment is about _.",
+            "pick": 1
+        },
+        {
+            "text": "The 1th plague: _.",
+            "pick": 1
+        },
+        {
+            "text": "The best pilgrimages offer _ to its pilgrims.",
+            "pick": 1
+        },
+        {
+            "text": "The Easter Vigil Mass is so long because of _.",
+            "pick": 1
+        },
+        {
+            "text": "The hills are alive, with the sound of _!",
+            "pick": 1
+        },
+        {
+            "text": "The New Evangelizatiopn's greatest tool is _.",
+            "pick": 1
+        },
+        {
+            "text": "The newest Catholic podcast talks entirely about _.",
+            "pick": 1
+        },
+        {
+            "text": "The newest hit hymn to hit the Church is called _.",
+            "pick": 1
+        },
+        {
+            "text": "The next Council will be in response to _.",
+            "pick": 1
+        },
+        {
+            "text": "The next shrine will be built for _.",
+            "pick": 1
+        },
+        {
+            "text": "The pope is writing about _ right now.",
+            "pick": 1
+        },
+        {
+            "text": "The real reason for the Orthodox schism.",
+            "pick": 1
+        },
+        {
+            "text": "The stained glass window in the back of church is about _.",
+            "pick": 1
+        },
+        {
+            "text": "The topic of the next Paypal Encyclical.",
+            "pick": 1
+        },
+        {
+            "text": "The Youth Minister has a tattoo of _.",
+            "pick": 1
+        },
+        {
+            "text": "There will be _ in eternity.",
+            "pick": 1
+        },
+        {
+            "text": "Thing Jesus never spoke about.",
+            "pick": 1
+        },
+        {
+            "text": "We were taught about _ in Religious Ed as kids.",
+            "pick": 1
+        },
+        {
+            "text": "What Catholics are most known for to non-Catholics.",
+            "pick": 1
+        },
+        {
+            "text": "What did I bring back from Rome?",
+            "pick": 1
+        },
+        {
+            "text": "What is CS Lewis' next book about?",
+            "pick": 1
+        },
+        {
+            "text": "What is talked about at the pub?",
+            "pick": 1
+        },
+        {
+            "text": "What priests really want to talk about in the homilies.",
+            "pick": 1
+        },
+        {
+            "text": "What should I give up for Lent?",
+            "pick": 1
+        },
+        {
+            "text": "When Jesus comes again, he will talk about _ first.",
+            "pick": 1
+        },
+        {
+            "text": "You know you're Catholic when you love talking about _.",
+            "pick": 1
+        },
+        {
+            "text": "You'll find this in Heaven.",
+            "pick": 1
+        },
+        {
+            "text": "Youth Ministers love talking about _.",
+            "pick": 1
+        }
+    ],
+    "white_cards": [
+        "A baby dressed as the Pope,",
+        "A blinged out consecration bracelet.",
+        "A camel trying to fit through the eye of the needle.",
+        "A chatty cloistered nun.",
+        "A Christian fish tattoo.",
+        "A Church coordinator that rules with an iron fist.",
+        "A church with a broken air conditioner.",
+        "A dating fast.",
+        "A fig tree.",
+        "A friend who only prays in Latin.",
+        "A glow in the dark Rosary.",
+        "A grumpy spiritual director.",
+        "A homeschool conference.",
+        "A homily that goes on forever.",
+        "A humongous scapu;ar.",
+        "A lazy sacristan.",
+        "A Mama's boy.",
+        "A Mass themed tie for Dad.",
+        "A mom who prays to St. Jude for her child.",
+        "A nun who gives massages.",
+        "A poorly made Christian movie.",
+        "A prayer bouquet.",
+        "A private audience with the Pope.",
+        "A rich Franciscan.",
+        "A semester in Rome.",
+        "A short penance.",
+        "A silent retreat.",
+        "A spiffy new cardigan.",
+        "A super mode3st wedding dress.",
+        "A technicolor coat.",
+        "A thumbs up from St. Catherine of Siena.",
+        "A vow of poverty.",
+        "A walking Rosary.",
+        "Abrahams facial reaction learning he has to circumcies himself.",
+        "ABU fabric purses that are equal parts shame and embarrassment.",
+        "Accidentally doing the Sign of the Cross before a meeting at work.",
+        "Accidentally licking the priest's thumb.",
+        "Adam and Eve's wardrobe.",
+        "Adding a new icon to the collection.",
+        "Adventures in Odyssey.",
+        "An American saint.",
+        "An ATM at the back of the church.",
+        "An energetic church band.",
+        "An extra long confession.",
+        "An incorruptable pinky toe.",
+        "An overcrowded Chapel.",
+        "Anthony Hopkins.",
+        "Arguing about when the 12 days of Christmas actually occur.",
+        "Avoiding eye contact with the person with the collection basket.",
+        "Avoiding the sick during the sign of peace.",
+        "Baby Moses floating down the Nile.",
+        "Beautiful European churches.",
+        "Being a fish during the parting of the Red Sea.",
+        "Being afraid of snakes.",
+        "Being allergic to incense.",
+        "Being devoured by lions.",
+        "Being first in line to board Noah's Ark.",
+        "Being holier than thou.",
+        "Being in 6 weddings in one year.",
+        "Being in the state of Grace.",
+        "Being jealous of those that know more Bible verses.",
+        "Being married with 11 kids.",
+        "Being named John Paul along with every other boy in the class.",
+        "Being obsessed with babies.",
+        "Being one flesh.",
+        "Being the oldest of 9.",
+        "Being the only person in the choir under 65.",
+        "Being too of the world.",
+        "Bishop Robert Barron.",
+        "Blaming Eve.",
+        "Blaring trumpets.",
+        "Blessed is She brunch.",
+        "Bob the tomato.",
+        "Braided hair.",
+        "Breathing on my friends.",
+        "Bringing  a sword to the earth.",
+        "Canonization.",
+        "Carpentry.",
+        "Casually having a wall of crucifixes as decoration.",
+        "Catholic memes.",
+        "Catholic school uniforms.",
+        "Catholic School.",
+        "CatholicMatch®",
+        "Causing scandal to pious ears.",
+        "Chalice chippers.",
+        "Chanting during Mass.",
+        "Chewing gum before Mass.",
+        "Christian rap.",
+        "Christmas and Easter Catholics.",
+        "Circumcisior.",
+        "Cold baptismal water.",
+        "Confirmation season.",
+        "Constantly being pregnant.",
+        "Consummation.",
+        "Craving Church wine.",
+        "Credit scores above 700.",
+        "Crushing on the Youth Minister.",
+        "Crying kids in Church.",
+        "Cutting of the guard's ear.",
+        "Daily Mass at 6:30 am.",
+        "Daniel in the lion's den.",
+        "Denial.",
+        "Descartes.",
+        "Deus Vult!",
+        "Dipping out after Communion.",
+        "Donut Sunday.",
+        "Drinking beer.",
+        "Driving a Fiat.",
+        "Dropping out of seminary.",
+        "Dropping the Host.",
+        "Dying but miraculously getting brought back to life.",
+        "Eating a slice of humble pie after reading the life of any saint.",
+        "Eating bacon.",
+        "Ending emails with a Latin sign-off.",
+        "Ephesians 5.",
+        "Exorcism.",
+        "Falling asleep in the Chapel.",
+        "Fasting.",
+        "Fearing the Jews.",
+        "Feeling holy with a Bible app on my phone.",
+        "Finding the perfect first communion gown.",
+        "Fish fries in the basement.",
+        "Fishers of men.",
+        "Flipping tables.",
+        "Flirting in Catechism class.",
+        "Floating during prayer.",
+        "FOCUS missionaries.",
+        "Forgetting about the Novena on day 4.",
+        "Forgetting it's Friday right after the first bite of the burger.",
+        "Forgetting the words to the Apostle's Creed.",
+        "Fr. Mike Schmitz.",
+        "Friar Tuck.",
+        "Gandalf's perfectly shaped eyebrows.",
+        "Genuflecting at the movie theater.",
+        "George Bailey's wonderful life.",
+        "Getting a new Bible.",
+        "Getting food poisoning after a seder meal.",
+        "Getting married at 21.",
+        "Getting my foot caught under the kneeler.",
+        "Getting my MRS degree.",
+        "Getting slain by the Spirit.",
+        "Getting that \"ring by spring.\"",
+        "Getting to the tomb first.",
+        "Giving up chocolate for Lent.",
+        "Glooooooooooooooooooooria.",
+        "Gluten free Communion.",
+        "Going on a mission trip.",
+        "Gregorian Chant.",
+        "Gregory Peck.",
+        "Haivng the goal of martyrdom.",
+        "Having 147 prayer cards that I just can't throw away.",
+        "Having a day as bad as Tobit's.",
+        "Having a minor in Catholic Studies.",
+        "Having no one to shake hands with at the sign of peace.",
+        "Having too many Nativity sets.",
+        "Having visions.",
+        "Henry the Eighth's wives.",
+        "HERESY!",
+        "High water pants.",
+        "Holding hands with my crush during the Lord's prayer.",
+        "Holy tax collectors.",
+        "Hunting for a wife.",
+        "Identifying too closely to young St. Augustine.",
+        "Inappropriate applause during Mass.",
+        "Invoking St. Anthony Every morning to find the keys.",
+        "Invoking St. Joseph of Cupertino rather than studying.",
+        "Isaac bargaining with Abraham to scrifice other things.",
+        "Jason and Crystalina Evert.",
+        "Jean skirts.",
+        "Jesuits.",
+        "Jesus taking the wheel.",
+        "Jim Caviezel.",
+        "John 3:16.",
+        "John Paul the Great Catholic University.",
+        "Josephite marriage.",
+        "Kneeling to receive communion making everyone else feel interior.",
+        "Knowing all the lines of The Lord of the Rings movies.",
+        "Knowing all the words of Silly Songs with Larry.",
+        "Knowing the newlyweds are no longer virgins.",
+        "Knowing the sign language of Jesus Loves Me.",
+        "Lazarus.",
+        "Leaving Mass early to watch the football game.",
+        "Leaving my mother and father and clinging to my wife.",
+        "Leaving room for the Holy Spirit.",
+        "Life Teen.",
+        "Listening to Matt Maher.",
+        "Literally having a log in my eye.",
+        "Little Cathiolic bookstores.",
+        "Liturgical dancing.",
+        "Liturgy of the hours.",
+        "Living at my parent's house until marriage.",
+        "Living by the motto \"modset is bottest.\"",
+        "Living in Community.",
+        "Living on a missionary budget.",
+        "Living under a rock.",
+        "Looking like an old baseball mitt.",
+        "Losing a WWJD bracelet and knowing that Jesus wouldn't have done that.",
+        "Losing count on my decade of the Rosary.",
+        "Loudly dropping the pew.",
+        "Making $5/hr as a babysitter.",
+        "Making a public confession.",
+        "Making cord Rosaries.",
+        "Making sure everyone knows about the Cross I bear.",
+        "Marian consecration.",
+        "Mark Wahlberg.",
+        "Mass lasting longer than an hour.",
+        "Mean people",
+        "Meeting the mother of the woman of my dreams.",
+        "Minivan envy.",
+        "Mistakenly asking a seminarians for confession.",
+        "Mom groups.",
+        "Mortification.",
+        "Mother Angelica.",
+        "Mother's Day.",
+        "Mr. Tumnus.",
+        "My creepy Godfather.",
+        "Naming kids after obscure saints no one's ever heard of.",
+        "Naming my grill St. Lawrence.",
+        "Naming twins Cain and Abel and wondering how it will turn out.",
+        "Natural Family Planning.",
+        "Needing a bigger cell phone family plan.",
+        "Neing trapped in the belly of a whale.",
+        "No intervisitation in college dorms.",
+        "Not being able to hear the Sermon on the Mount.",
+        "Not being allowed to go Trick-or-Treating.",
+        "Not being an animal person at the parish pet blessing.",
+        "Not dating within the youth group.",
+        "Not drinking the wine because of germs.",
+        "Not focusing during a Rosary.",
+        "Not getting exactly what I pray for.",
+        "Not having extra cash for the second collection.",
+        "Not knowing if I should hug during the sign of peace.",
+        "Not knowing the words of Praise and Worship songs.",
+        "Not wanting to be a lamb around Passover.",
+        "Offering it up.",
+        "Pagans.",
+        "Pancake breakfasts.",
+        "Passover.",
+        "Paul Ryan.",
+        "Peach fuzz.",
+        "People who pray two words ahead of everyone else.",
+        "Perpetual adoration.",
+        "Philip Rivers.",
+        "Plucking my eye out.",
+        "Pope Emeritus Benedict XVI.",
+        "Pope Francis.",
+        "Pope memorabilia.",
+        "Pope Peter's pinnacle papacy.",
+        "Praying for a future spouse.",
+        "Praying for an ex.",
+        "Praying in tongues.",
+        "Praying the Chaplet because it's shorter than a Rosary.",
+        "Praying the wrong Glory Be.",
+        "Praying to the saints.",
+        "Preparing for the flood.",
+        "Pronouncing names wrong in the Prayers of the Faithful.",
+        "Providing and protecting.",
+        "Punching heretics.",
+        "Purgatory shortening engagements.",
+        "Purity rings.",
+        "Putting blood on the door because I am an Original Israelite.",
+        "Raking in cash for Confirmation.",
+        "Rameses.",
+        "Reading the Song of Solomon with my parents.",
+        "Realizing I left the Savior behind in the Temple.",
+        "Receiving Last Rites multiple times.",
+        "Referencing the Catechism",
+        "Refusing to scrifice to pagan gods.",
+        "Relationship milestones in the Adoration chapel.",
+        "Ripping the technicolor coat.",
+        "Rose scented Rosaries.",
+        "Sacrilege.",
+        "Salt of the earth.",
+        "Saying hi to Jesus for a friend.",
+        "Saying yes to the habit.",
+        "Scott Hahn.",
+        "Scouting the Church before I sit.",
+        "Secretly loving trashy TV.",
+        "Seeing a dove in Rome.",
+        "Seeing a saint statue in the neighbor's yard.",
+        "Seeing Adam naked for the first time.",
+        "Seeing the Transfigured Jesus and deciding to build a tent.",
+        "Seeing the white smoke.",
+        "Selling my youngest sibling for a profit.",
+        "Shaking the dust off my feet.",
+        "Sheep locators for all those lost sheep.",
+        "Showing off my new prayer journal.",
+        "Showing up to Mass after the first reading.",
+        "Sitting for the \"few\" announcements.",
+        "Sitting in the back of the Church.",
+        "Skiing with JPII.",
+        "Skillet.",
+        "Smoking a pipe with G. K. Chesterton.",
+        "Socks with Birkenstocksd.",
+        "Speaking in a Scottish accent after watching Braveheart.",
+        "Sports jerseys at Mass.",
+        "St. Valentine's bitter attitude towards Hallmark.",
+        "Standing during the Palm Sunday Gospel reading.",
+        "Starting a blog.",
+        "Stay at home dads.",
+        "Stealing Grandma's Magnificat.",
+        "Still saying \"and also with you.\"",
+        "Striving for holiness.",
+        "Striving to convert the Protestant evangelists at the door.",
+        "Suffocating from the incense.",
+        "Sunday School.",
+        "Superhero movies.",
+        "Sweaty hands at the Sign of Peace.",
+        "Taking full advantage of Fat Tuesday.",
+        "Taking the Bible literally.",
+        "Tellig personal Jesus stories.",
+        "The \"Friend Zone.\"",
+        "The altar boy who can't stay awake.",
+        "The attractive seminarian.",
+        "The Big Bang Theory.",
+        "The Book of James.",
+        "The Boondock Saints.",
+        "The Burning Bush.",
+        "The Byzantine Rite.",
+        "The Cardinal who is yearning to be Pope.",
+        "The catacombs.",
+        "The Charismatic Renewal.",
+        "The choir director who loves the sound of their own voice.",
+        "The Church being represesnted accurately in the news.",
+        "The crown of creation.",
+        "The Crusades.",
+        "The cry room at Church.",
+        "The donkey wondering what on earth is happening in his manger.",
+        "The extraordinary form of Mass.",
+        "The fast dinner blessing.",
+        "The Filet O'Fish™.",
+        "The first Lord's day dinner with future in-laws.",
+        "The flirt to convert movement.",
+        "The golden calf.",
+        "The Good Samaritan.",
+        "The indistinguishable Ash Wednesday cross.",
+        "The infectious Rosary yawn.",
+        "The kid that stares at me in Mass.",
+        "The King James Bible.",
+        "The Last Supper.",
+        "The March for Life.",
+        "The narrow path.",
+        "The one whom Jesus loved.",
+        "The Passion of Christ.",
+        "The passive-aggressive Church lady.",
+        "The Popemobile.",
+        "The Prince of Egypt.",
+        "The Protestant Reformation.",
+        "The real father.",
+        "The Resurrection.",
+        "The Rock of the Church.",
+        "The sacrifical giving talk during a homily.",
+        "The Scarlet and the Black.",
+        "The Second Vatican Council.",
+        "The Sex Talk.",
+        "The sin of Simony.",
+        "The statue of David.",
+        "The Summa Theologica.",
+        "The three wise men getting into a scuffle.",
+        "The tomb of St. Peter.",
+        "The Tower of Babel.",
+        "The visiting priest that barely speaks English.",
+        "The walls of Jericho.",
+        "The woman who sings loudly out of key.",
+        "The worm that ate Jonah's plant.",
+        "The youth.",
+        "Theologians with beards.",
+        "Theology on Tap.",
+        "Thinking Brother Sun, Sister Moon was a good movie.",
+        "Thinking Harry Potter is the devil.",
+        "Thomas Aquinas' haircut.",
+        "Tithing less than 10%.",
+        "Too much holy water on my fingers.",
+        "Transubstantiation.",
+        "Tripping while bringing up the gifts.",
+        "Trying not to stare at the Knights of Columbus feather hats.",
+        "Trying to explain the Trinity.",
+        "Trying to stay in the state of grace in the parking lot.",
+        "Ugy Church websites.",
+        "Using a big rock altar on retreat.",
+        "Vacation Bible School.",
+        "Val Kilmer as God.",
+        "Voting got a thrid-party.",
+        "Waiting for the flower after finishing the Novena to St. Therese.",
+        "Waking up at 5 am to pray.",
+        "Walking on water.",
+        "Walking the Camino.",
+        "Wandering in the desert.",
+        "Wanting more descendants than stars in the sky.",
+        "Wanting the birthright of the firstborn.",
+        "Wanting the stigmata, but not really.",
+        "Washing feet with toe fungus.",
+        "Watching the Exorcist while babysitting.",
+        "Weak Church coffee.",
+        "Wearing so many miraculous medals it causes a headache.",
+        "Whispering \"sinner\" at people on the street.",
+        "Winning a goldfish at the church festival.",
+        "Wondering where dinosaurs fit in with the Creation story.",
+        "Zacchaeus.",
+        "Zmoses' pet quail."
+    ]
+}

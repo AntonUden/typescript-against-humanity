@@ -1,0 +1,983 @@
+{
+    "order": 180,
+    "name": "Rotten Apples: The Tasteless Adult Party Game",
+    "filename": "Rotten_Apples_The_Tasteless_Adult_Party_Game",
+    "black_cards": [
+        {
+            "text": "_ and _ = heaven on Earth",
+            "pick": 2
+        },
+        {
+            "text": "_ and _: may they never meet.",
+            "pick": 2
+        },
+        {
+            "text": "_ and loneliness are a dangerous combination.",
+            "pick": 1
+        },
+        {
+            "text": "_ can be too much of a good thing.",
+            "pick": 1
+        },
+        {
+            "text": "_ is a well-known sign of virility.",
+            "pick": 1
+        },
+        {
+            "text": "_ makes me feel like the most desirable person in the world.",
+            "pick": 1
+        },
+        {
+            "text": "_ should be grounds for a national holiday.",
+            "pick": 1
+        },
+        {
+            "text": "_ will be the downfall of Western Civilization.",
+            "pick": 1
+        },
+        {
+            "text": "_ will make anyone seem more attractive.",
+            "pick": 1
+        },
+        {
+            "text": "_: Best when a little bit sweaty.",
+            "pick": 1
+        },
+        {
+            "text": "_? Even I wouldn't go there.",
+            "pick": 1
+        },
+        {
+            "text": "_? That's a dealbreaker.",
+            "pick": 1
+        },
+        {
+            "text": "_? Totally overrated.",
+            "pick": 1
+        },
+        {
+            "text": "According to my doctor, I have a problem with _.",
+            "pick": 1
+        },
+        {
+            "text": "After a long day, don't you just want _.",
+            "pick": 1
+        },
+        {
+            "text": "All you need is _.",
+            "pick": 1
+        },
+        {
+            "text": "Am I the only one to admit that I hate _?",
+            "pick": 1
+        },
+        {
+            "text": "Any movie can be improved by the presence of _.",
+            "pick": 1
+        },
+        {
+            "text": "Aply liberally three times a day to reduce _.",
+            "pick": 1
+        },
+        {
+            "text": "Beware of Greeks bearing _.",
+            "pick": 1
+        },
+        {
+            "text": "Chocolate, flowers, and _.",
+            "pick": 1
+        },
+        {
+            "text": "Choosey mothers choose _.",
+            "pick": 1
+        },
+        {
+            "text": "Don't hate me because I'm _.",
+            "pick": 1
+        },
+        {
+            "text": "Don't tease me about _. It's a very sensitive subject.",
+            "pick": 1
+        },
+        {
+            "text": "Even if you've only met me one time, you would associate me with _.",
+            "pick": 1
+        },
+        {
+            "text": "Everyone thinks I'm all about _, and for the most part they're right.",
+            "pick": 1
+        },
+        {
+            "text": "Eww! Gross! _!",
+            "pick": 1
+        },
+        {
+            "text": "I admit it, I'm jealous of _.",
+            "pick": 1
+        },
+        {
+            "text": "I can never choose between _ and _.",
+            "pick": 2
+        },
+        {
+            "text": "I can't be friends with people who are interested in _.",
+            "pick": 1
+        },
+        {
+            "text": "I can't believe I ate _.",
+            "pick": 1
+        },
+        {
+            "text": "I got my current job through _.",
+            "pick": 1
+        },
+        {
+            "text": "I had a terrible nightmare about _ and _.",
+            "pick": 2
+        },
+        {
+            "text": "I had the time of my life and I owe it all to _.",
+            "pick": 1
+        },
+        {
+            "text": "I have a complicated history with _.",
+            "pick": 1
+        },
+        {
+            "text": "I have a secret talent. All I can say is that it has to do with _.",
+            "pick": 1
+        },
+        {
+            "text": "I just don't want my obituary to include the phrase _.",
+            "pick": 1
+        },
+        {
+            "text": "I knew it would be a legendary night once _ showed up.",
+            "pick": 1
+        },
+        {
+            "text": "I love the smell of _ in the morning.",
+            "pick": 1
+        },
+        {
+            "text": "I may forget a name, I may forget a face, but I never forget _.",
+            "pick": 1
+        },
+        {
+            "text": "I use to _ in a way that would make you blush.",
+            "pick": 1
+        },
+        {
+            "text": "I used to get in trouble for playing with _.",
+            "pick": 1
+        },
+        {
+            "text": "I wish _ didn't remind me of _.",
+            "pick": 2
+        },
+        {
+            "text": "I wish I could give _ to _.",
+            "pick": 2
+        },
+        {
+            "text": "I would do anything for love but I won't do _.",
+            "pick": 1
+        },
+        {
+            "text": "I would never admit this in public, but I've never experienced _.",
+            "pick": 1
+        },
+        {
+            "text": "I'd love to celebrate hump day with _.",
+            "pick": 1
+        },
+        {
+            "text": "I'll admit it. I'm turned on by _.",
+            "pick": 1
+        },
+        {
+            "text": "I'm lucky you can't read my mind, because the only thing I'm thinking about right now is _.",
+            "pick": 1
+        },
+        {
+            "text": "I'm not ashamed of _.",
+            "pick": 1
+        },
+        {
+            "text": "I'm sorry, but I don't hate people whose only concern is _.",
+            "pick": 1
+        },
+        {
+            "text": "I'm stressing more about _ than I am about _ right now. It should really be the opposite.",
+            "pick": 2
+        },
+        {
+            "text": "I'm thinking of calling my memoir \"Life, the Universe, and _\".",
+            "pick": 1
+        },
+        {
+            "text": "I've never lost my faith in _.",
+            "pick": 1
+        },
+        {
+            "text": "If I could take something to a dessert island, I'd take _.",
+            "pick": 1
+        },
+        {
+            "text": "If I had just one wish it would be for _.",
+            "pick": 1
+        },
+        {
+            "text": "If I had my way, everybody would be required to learn about _ before graduating the 8th grade.",
+            "pick": 1
+        },
+        {
+            "text": "If I were a mad scientist, I'd try to combine _ and _.",
+            "pick": 2
+        },
+        {
+            "text": "If I won the lottery, first I'd buy _.",
+            "pick": 1
+        },
+        {
+            "text": "If my partner ever dressed up like _, I wouldn't be able to keep my hands off them.",
+            "pick": 1
+        },
+        {
+            "text": "If there's one thing I know about, it's _.",
+            "pick": 1
+        },
+        {
+            "text": "If this were my last night on earth, I'd want to spend it with _.",
+            "pick": 1
+        },
+        {
+            "text": "If you can't handle _, then this job just isn't for you.",
+            "pick": 1
+        },
+        {
+            "text": "If you want someone to leave you alone, just tell them about _.",
+            "pick": 1
+        },
+        {
+            "text": "If you've got _ flaunt it.",
+            "pick": 1
+        },
+        {
+            "text": "In my life, there's always room for more _.",
+            "pick": 1
+        },
+        {
+            "text": "In my school, my unofficial major was _.",
+            "pick": 1
+        },
+        {
+            "text": "In some cultures, _ is considered a good omen.",
+            "pick": 1
+        },
+        {
+            "text": "It might look like _, but it's actually _.",
+            "pick": 2
+        },
+        {
+            "text": "It's like _ in a round hole.",
+            "pick": 1
+        },
+        {
+            "text": "Job interviews: not the best place for _.",
+            "pick": 1
+        },
+        {
+            "text": "Just call me by the nickname I had in high school: \"_\".",
+            "pick": 1
+        },
+        {
+            "text": "Just say no to _.",
+            "pick": 1
+        },
+        {
+            "text": "Know what I saw when I peeked at my neighbors? _.",
+            "pick": 1
+        },
+        {
+            "text": "Make some room in your life for _. It'll be worth it.",
+            "pick": 1
+        },
+        {
+            "text": "Man cannot live on _ alone.",
+            "pick": 1
+        },
+        {
+            "text": "May _ be with you.",
+            "pick": 1
+        },
+        {
+            "text": "Me Tarzan. You _.",
+            "pick": 1
+        },
+        {
+            "text": "My ex broke up with me because of my fondness for _.",
+            "pick": 1
+        },
+        {
+            "text": "My favorite thing to eat? _.",
+            "pick": 1
+        },
+        {
+            "text": "My guidance counselor told me I should focus on _ as a carrer choice.",
+            "pick": 1
+        },
+        {
+            "text": "My guilty pleasure? _",
+            "pick": 1
+        },
+        {
+            "text": "My ideal first date would definitely include _.",
+            "pick": 1
+        },
+        {
+            "text": "My most embarrassing memory has to do with _.",
+            "pick": 1
+        },
+        {
+            "text": "My partner's \"fantasy night\" included _. It was amazing.",
+            "pick": 1
+        },
+        {
+            "text": "My therapist told me to avoid _.",
+            "pick": 1
+        },
+        {
+            "text": "New franchise idea: _vs. _",
+            "pick": 2
+        },
+        {
+            "text": "No one can resist _.",
+            "pick": 1
+        },
+        {
+            "text": "Nothing brings me more joy than _.",
+            "pick": 1
+        },
+        {
+            "text": "Nothing is certain except _ and _.",
+            "pick": 2
+        },
+        {
+            "text": "Nothing sexier with _.",
+            "pick": 1
+        },
+        {
+            "text": "Nothing spells trouble like _.",
+            "pick": 1
+        },
+        {
+            "text": "Playing hard and fast with _.",
+            "pick": 1
+        },
+        {
+            "text": "Siri, I really wish you were good at _.",
+            "pick": 1
+        },
+        {
+            "text": "Strangely, I've developed a taste for _.",
+            "pick": 1
+        },
+        {
+            "text": "Studies show the average man thinks about _ every seven seconds.",
+            "pick": 1
+        },
+        {
+            "text": "The best advice my parents ever gave me was about dealing with _.",
+            "pick": 1
+        },
+        {
+            "text": "The Eskimos may have fifty words for \"snow\" but they don't have one for _.",
+            "pick": 1
+        },
+        {
+            "text": "The Four Horsemen of the Apocalypse: Pestilence, War, Famine, and _.",
+            "pick": 1
+        },
+        {
+            "text": "The name of the winner for Best Picture? \"_\".",
+            "pick": 1
+        },
+        {
+            "text": "The new Quentin Tarantino movie takes an unusual look at _.",
+            "pick": 1
+        },
+        {
+            "text": "The only thing that makes me feel validated as a human being is _.",
+            "pick": 1
+        },
+        {
+            "text": "The only thing that makes me think this sick, sad world can get any better is _.",
+            "pick": 1
+        },
+        {
+            "text": "The root of all evil? _.",
+            "pick": 1
+        },
+        {
+            "text": "The worst night of my life was the night I spent with _.",
+            "pick": 1
+        },
+        {
+            "text": "There are times I think I would kill for _.",
+            "pick": 1
+        },
+        {
+            "text": "There's a very fine line between _ and _.",
+            "pick": 2
+        },
+        {
+            "text": "There's nothing that can't be cured by _.",
+            "pick": 1
+        },
+        {
+            "text": "They told me it aws inappropriate to talk about _ at my kid's parent-teacher conference.",
+            "pick": 1
+        },
+        {
+            "text": "This place smells like _.",
+            "pick": 1
+        },
+        {
+            "text": "Three wishes: _, _, and more wishes.",
+            "pick": 2
+        },
+        {
+            "text": "We go together like _ and _.",
+            "pick": 2
+        },
+        {
+            "text": "We have nothing to fear but _.",
+            "pick": 1
+        },
+        {
+            "text": "We'll start with _ and end with _.",
+            "pick": 2
+        },
+        {
+            "text": "What do I really believe in? _.",
+            "pick": 1
+        },
+        {
+            "text": "What do I rub for good luck? _.",
+            "pick": 1
+        },
+        {
+            "text": "What do I search for on the internet? _.",
+            "pick": 1
+        },
+        {
+            "text": "What do I want for my birthday? My birthday suit and _.",
+            "pick": 1
+        },
+        {
+            "text": "What I did on my holiday? Lots and lots of _.",
+            "pick": 1
+        },
+        {
+            "text": "What makes me cry? _.",
+            "pick": 1
+        },
+        {
+            "text": "When I drink I can't keep myself from _.",
+            "pick": 1
+        },
+        {
+            "text": "When I role-play, I like to pretend I'm _.",
+            "pick": 1
+        },
+        {
+            "text": "When I think \"classy\", I think _.",
+            "pick": 1
+        },
+        {
+            "text": "When I was little, I used to dream about _.",
+            "pick": 1
+        },
+        {
+            "text": "When I'm alone, I like _.",
+            "pick": 1
+        },
+        {
+            "text": "Whenever I'm down, the thing that cheers me up the most is _.",
+            "pick": 1
+        },
+        {
+            "text": "Why is the Dalai Lama always smiling? Because he knows _.",
+            "pick": 1
+        },
+        {
+            "text": "You can make any experience better by adding _ to the mix.",
+            "pick": 1
+        },
+        {
+            "text": "You know what annoys me? _",
+            "pick": 1
+        },
+        {
+            "text": "You scratch _ and I'll scratch _.",
+            "pick": 2
+        }
+    ],
+    "white_cards": [
+        "(Sleeping Beauty's curse) A magical prick",
+        "A babe in the woods",
+        "A backside grind",
+        "A beer bottle",
+        "A black hole",
+        "A blind lip reader",
+        "A bombshell",
+        "A booty call",
+        "A bun in the oven",
+        "A burning sensation in an awkward place",
+        "A cavity",
+        "A celebrity sex tape",
+        "A climax",
+        "A coming out party",
+        "A contortionist",
+        "A court-appointed psychiatrist",
+        "A cracker",
+        "A cute little pussy",
+        "A disgraced  politician",
+        "A disturbance in the Force",
+        "A dominatrix",
+        "A fairy",
+        "A festering wound",
+        "A fire in the hole",
+        "A foot fetish",
+        "A frisky televangelist",
+        "A gigolo",
+        "A girls' night out",
+        "A good bottle of scotch",
+        "A groin pull",
+        "A handyman",
+        "A hangover",
+        "A happy ending",
+        "A hard of hearing ex body builder masseuse",
+        "A hole in one",
+        "A horny toad",
+        "A hot rod",
+        "A hotel room that just doesn't smell right",
+        "A jar of Vaseline",
+        "A Kardashian",
+        "A Ken doll",
+        "A little \"alone time\"",
+        "A little camel toe",
+        "A little crack",
+        "A little squirt",
+        "A little tongue in cheek",
+        "A load of BS",
+        "A long range missile",
+        "A long shaft",
+        "A long Slip 'n' Slide",
+        "A lovely bunch of coconuts",
+        "A member of the Village People",
+        "A mountain of credit card debt",
+        "A naughty girl",
+        "A nice big cucumber",
+        "A nice little drone strike",
+        "A night without Lindsey Lohan",
+        "A no longer dormant volcano",
+        "A noted aphrodisiac",
+        "A nymphomaniac",
+        "A pearl necklace",
+        "A peeping Tom",
+        "A porn star",
+        "A priest",
+        "A racist family member",
+        "A real boob",
+        "A sack full of grapes",
+        "A selfie",
+        "A sex machine",
+        "A sexually transmitted disease",
+        "A shotgun weding",
+        "A six pack",
+        "A slave",
+        "A slip of the tongue",
+        "A smelly dump",
+        "A spanking",
+        "A stiff upper lip",
+        "A stimulus package",
+        "A strip club",
+        "A stripper",
+        "A stud",
+        "A swallow",
+        "A swimsuit model",
+        "A sword swallower",
+        "A thick carpet of black hair",
+        "A tree hugger",
+        "A virgin",
+        "A white hot something or other",
+        "A whole lot of love",
+        "Acid flashbacks",
+        "Affirmative Action",
+        "Afternoon delight",
+        "Airing dirty laundry",
+        "America's sweetheart",
+        "An anatomically correct snowman",
+        "An excessive \"man crush\"",
+        "An experiment gone horribly wrong",
+        "An identity crisis",
+        "An orifice",
+        "An over enthusiastic proctologist",
+        "An over-used port-a-potty",
+        "Androids",
+        "Angel wing tattoos",
+        "Animal magnetism",
+        "Another unnecessary Die Hard sequel",
+        "Artificial insemination",
+        "Asking your doctor is you're healthy enough for sexual activity",
+        "Backsliding",
+        "Bacon panties to stop rape in the Middle East.",
+        "Badly-botched botox",
+        "Banging away",
+        "Beating a dead horse",
+        "Beavers",
+        "Becoming comfortably numb",
+        "Beer, glorious beer",
+        "Being a sore loser",
+        "Being blown away",
+        "Being butt naked",
+        "Being debriefed",
+        "Being inflamed",
+        "Being on top",
+        "Being sent to the penalty box",
+        "Being titillated",
+        "Bieng handy",
+        "Bieng up and coming",
+        "Big balls",
+        "Big bosoms",
+        "Big feet",
+        "Big hair",
+        "Big lips",
+        "Bill Clinton's favorite: good sax",
+        "Binge drinking",
+        "Black magic",
+        "Blackmail",
+        "Blowing it",
+        "Body language",
+        "Body painting",
+        "Bonding with my Roomba.",
+        "Bottoms",
+        "Boy bands",
+        "Bradley Cooper",
+        "Breaking wind",
+        "Breast-feeding",
+        "Bromance",
+        "Bruised bananas",
+        "Bull riding",
+        "Bunny costumes",
+        "Bush",
+        "Butting in",
+        "Catwoman",
+        "Ceiling mirrors",
+        "Changing positions",
+        "Cheesy pickup lines",
+        "Chemical dependency",
+        "Chick flicks with ridiculous endings",
+        "Chicks",
+        "Cleavage",
+        "Clothing that leaves little to the imagination",
+        "Cold hard cash",
+        "Come again",
+        "Coming first",
+        "Coming soon",
+        "Coming together",
+        "Conjugal visits",
+        "Contributing to the delinquency of a minor",
+        "Cougars",
+        "Crabs Adjust Humidity.",
+        "Dark chocolate",
+        "Dating outside my race",
+        "Death by chocolate",
+        "Deciding to become a professional wrestler",
+        "Diving on the grenade",
+        "Dogs in little sweaters",
+        "Doing it by hand",
+        "Doing it the hard way",
+        "Domestic intelligence gathering",
+        "Donald Trump's hair",
+        "Downward dog",
+        "Driving a hard bargain",
+        "Eating out",
+        "Ecstasy",
+        "Evil clowns",
+        "Evil laughter",
+        "Eye candy",
+        "Faking it",
+        "Fast food chain restaurant",
+        "Faux leopard print",
+        "Feeling a little prick",
+        "Feeling the earth move",
+        "Fifty Shades of Grey",
+        "Fingering the bad guy",
+        "Fishnets",
+        "Flatulent hippos",
+        "Flogging",
+        "Fox news anchors.",
+        "Fruits",
+        "Funny cat videos",
+        "George Clooney",
+        "Getting a facial",
+        "Getting a hot tip",
+        "Getting a little behind",
+        "Getting a swelled head",
+        "Getting aroused by mannequins",
+        "Getting caught with your fingers in the pie",
+        "Getting in touch with my feminine side",
+        "Getting into a rhythm",
+        "Getting jerked around",
+        "Getting off",
+        "Getting on top",
+        "Getting over the hump",
+        "Getting probed by aliens",
+        "Getting really hot",
+        "Getting sloppy drunk",
+        "Getting sweaty",
+        "Getting tested for an STD",
+        "Getting the juices flowing",
+        "Getting tied up",
+        "Getting wet",
+        "Girls with glasses",
+        "Girly drinks",
+        "Giving lip service",
+        "Giving someone the shaft",
+        "Global warming.",
+        "Going ballistic",
+        "Going down",
+        "Going in head first",
+        "Going in the back door",
+        "Going on a blind date with someone who is described as \"really nice\"",
+        "Going to great lengths",
+        "Good vibrations",
+        "Grinning and bearing it",
+        "Handcuffs",
+        "Hanky-Panky",
+        "Having a couple of stiff ones",
+        "Having a hot dream about a co-worker",
+        "Having someone push in your stool for you",
+        "Having to go really bad",
+        "Heavy breathing",
+        "Helping yourself",
+        "Hillary Clinton attending Donald Trump's wedding.",
+        "Hitting the sack",
+        "Hookers",
+        "Hot cross buns",
+        "Hot Sauce",
+        "Hottubbing",
+        "Human shields",
+        "Hump day",
+        "Jailbait.",
+        "James Bond",
+        "Jazz hands",
+        "Jell-O shots",
+        "Jennifer Lawrence",
+        "Juicy round melons",
+        "Just a little bit inside",
+        "Just haning out",
+        "Justin Timberlake",
+        "Karma",
+        "Keeping it up",
+        "Kim Jong-un",
+        "Kinky porn",
+        "Knowing that some stereotypes are true",
+        "Ladyfingers",
+        "Landing strips",
+        "Large jugs",
+        "Lattes",
+        "Lawyers",
+        "Laying something bare",
+        "Leather",
+        "Leprechauns",
+        "Lesbians Confessions",
+        "Licking a popsicle",
+        "Licking my lips",
+        "Lifting and separating",
+        "Lingerie",
+        "Liquor",
+        "Little people",
+        "Little yappy dogs",
+        "Long John Silver",
+        "Loose lips",
+        "Loud banging",
+        "Love bites",
+        "Low impact aerobics",
+        "Low-grade narcolepsy",
+        "Low-hanging fruit",
+        "Lumberjacks",
+        "Magic fingers",
+        "Make-up sex",
+        "Making it harder than it needs to be",
+        "Male enhancement pills",
+        "Manhood",
+        "Medical marijuana clincs",
+        "Men in uniform",
+        "Miley Cyrus at 55.",
+        "Missionary",
+        "Motorboating",
+        "Mr. Spock",
+        "My \"ex\"",
+        "My boyfriend's stupid penis.",
+        "My experiences with underage drinking",
+        "My finger on the button",
+        "My fingers",
+        "My fist",
+        "My former BFF",
+        "My hot neighbor",
+        "My incredibly flexible yoga instructor",
+        "My junk",
+        "My magic awand",
+        "My mouth",
+        "My partner",
+        "My secret identity",
+        "My tongue",
+        "My virginity",
+        "My worst enemy",
+        "Nelson Mandela",
+        "Nice knockers",
+        "Night moves",
+        "None of your business",
+        "Not knowing when you're licked",
+        "Not lasting long enough",
+        "Nuts",
+        "Obamacare.",
+        "Oddly-shaped feet",
+        "One of those trashy reality TV shows about catty women.",
+        "Orphans",
+        "Partying with Charlie Sheen",
+        "Passion fruit",
+        "Pickup artist",
+        "Playing fast and loose",
+        "Playing for the other team",
+        "Playing the organ",
+        "Playing the race card.",
+        "Poking a hole",
+        "Prescription drugs",
+        "Prom night",
+        "Prostitution",
+        "Public nudity",
+        "Pulling an all-nighter",
+        "Reaching out and touching someone",
+        "Really long fingernails",
+        "Really screwing somebody",
+        "Releasing gas in a crowd",
+        "Riding bareback",
+        "road rage",
+        "Robert Mugabe",
+        "Romantic candlelight",
+        "Running out of toilet paper in an airline lavatory",
+        "S & M",
+        "Same sex marriage",
+        "Santa Claus teabagging a sleeping child, taking a picture and leaving it in the child's stocking.",
+        "Sarah Palin at Toastmasters™.",
+        "Sausage fests",
+        "Scissoring, if that's a thing.",
+        "Scratching an itch",
+        "Searching for a black box",
+        "Selling hot dogs",
+        "Sending a strippergram to the wrong address",
+        "Shrinkage",
+        "Sir Lancelot",
+        "Sitting on the throne",
+        "Skinny dipping The inevitable zombie apocalypse",
+        "Skinny jeans",
+        "Sliding in head first",
+        "Snap-on tools",
+        "Sofia Vergara",
+        "Some coconut-scented body lotion",
+        "Something fishy",
+        "Something frilly",
+        "Something furry",
+        "Something pink",
+        "Something really hard",
+        "Something smellier than a high schooler's gym shorts on Friday",
+        "Something stiff",
+        "Spouting off",
+        "Squishy things",
+        "Standing at attention",
+        "Stilettos",
+        "Sucking at something",
+        "Suppositories",
+        "Swearing in sign language",
+        "Sweating it out",
+        "Sweet nectar of the Gods",
+        "Taking a hint",
+        "Taking it the wrong way",
+        "Taking things into your own hands",
+        "Talking dirty",
+        "Teeny tiny teddies",
+        "Tequila",
+        "Terrorists.",
+        "That time of the month",
+        "The 1% of the 1%",
+        "The aftertaste of a burp",
+        "The Batmobile",
+        "The best Congress that money can buy",
+        "The biggest one I've ever seen",
+        "The birds and the bees",
+        "The conservative agenda",
+        "The crack of dawn",
+        "The death penalty",
+        "The Devil's Work",
+        "The easter bunny attacking you in your sleep.",
+        "The feeble minded",
+        "The fragile male ego",
+        "The full monty",
+        "The gates of Heaven",
+        "The hardest one",
+        "The homeless",
+        "The Karma Sutra",
+        "The Koch brothers",
+        "The liberal media machine.",
+        "The Love Canal",
+        "The magic bullet",
+        "The meaning of life",
+        "The monster under your bed",
+        "The perfect little black dress",
+        "The poor",
+        "The Pope.",
+        "The root of all evil",
+        "The runs",
+        "The sack of Rome",
+        "The seven deadly sins",
+        "The seven dwarfs",
+        "The Tea Party",
+        "The unspoken language of love",
+        "The Vikings",
+        "The whole shebang",
+        "Thigh-high boots",
+        "Things that are slippery when wet",
+        "Thongs",
+        "Those people",
+        "Tickling your fancy",
+        "Tooting your own horn",
+        "Toys",
+        "Tropical cream",
+        "Tulips on my organ",
+        "Twerking in a MOPP suit.",
+        "Two words: on sale",
+        "Undulating",
+        "Unnecessary roughness",
+        "Uranus",
+        "Using more racial slurs than a Quentin Tarantino movie",
+        "Victoria's Secret",
+        "Vladimir Putin",
+        "Waxing",
+        "Weapons of Mass Destruction",
+        "Wearing clown makeup",
+        "When something is up",
+        "When the pleasure is all mine",
+        "Whipped cream",
+        "Whips",
+        "White people singing rap lyrics",
+        "World religions",
+        "Yoga pants as formal wear",
+        "Your hands",
+        "Your sweet cheeks"
+    ]
+}

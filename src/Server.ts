@@ -14,7 +14,7 @@ import { Utils } from "./Utils";
 import { ITickable } from "./interfaces/ITickable";
 import { GameSettings } from "./interfaces/GameSettings";
 
-export class Server implements ITickable {
+export default class Server implements ITickable {
 	public settings: Settings;
 
 	public app: Express.Express;

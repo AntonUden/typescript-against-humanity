@@ -1,0 +1,60 @@
+{
+    "order": 1,
+    "name": "2012 Holiday Pack",
+    "filename": "2012_Holiday_Pack",
+    "black_cards": [
+        {
+            "text": "After blacking out during New Year's Eve, I was awoken by _.",
+            "pick": 1
+        },
+        {
+            "text": "Every Christmas, my uncle gets drunk and tells the story about _.",
+            "pick": 1
+        },
+        {
+            "text": "Jesus is _.",
+            "pick": 1
+        },
+        {
+            "text": "On the third day of Christmas, my true love gave to me: three French hens, two turtle doves, and _.",
+            "pick": 1
+        },
+        {
+            "text": "This is a little embarrassing but I was wondering if you could recommend a doctor who specializes in _.",
+            "pick": 1
+        },
+        {
+            "text": "Wake up, America. Christmas is under attack by secular liberals and their _.",
+            "pick": 1
+        },
+        {
+            "text": "What keeps me warm during the cold, cold winter?",
+            "pick": 1
+        }
+    ],
+    "white_cards": [
+        "A Christmas stocking full of coleslaw.",
+        "A Hungry-Man™ Frozen Christmas Dinner for One.",
+        "A toxic family environment.",
+        "A visually arresting turtleneck.",
+        "Another shitty year.",
+        "Clearing a bloody path through Walmart with a scimitar.",
+        "Eating an entire snowman.",
+        "Elf cum.",
+        "Fucking up \"Silent Night\" in front of 300 parents.",
+        "Gift-wrapping a live hamster.",
+        "Immaculate conception.",
+        "Krampus, the Austrian Christmas monster.",
+        "Mall Santa.",
+        "My hot cousin.",
+        "Pretending to be happy.",
+        "Santa's heavy sack.",
+        "Several intertwining love stories featuring Hugh Grant.",
+        "Socks.",
+        "Space Jam on VHS.",
+        "Taking down Santa with a surface-to-air missile.",
+        "The Star Wars Holiday Special.",
+        "The tiny, calloused hands of the Chinese children that made this card.",
+        "Whatever Kwanzaa is supposed to be about."
+    ]
+}

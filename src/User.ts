@@ -13,8 +13,8 @@ import { ClientSettings } from "./interfaces/ClientSettings";
 import { GameSettings } from "./interfaces/GameSettings";
 import { ITickable } from "./interfaces/ITickable";
 import { Player } from "./Player";
-import { Server } from "./Server";
 import { Utils } from "./Utils";
+import Server from "./Server";
 
 export class User implements ITickable {
 	private socket: Socket;

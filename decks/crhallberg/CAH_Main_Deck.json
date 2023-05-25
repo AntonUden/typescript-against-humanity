@@ -1,0 +1,63 @@
+{
+    "order": 20,
+    "name": "CAH: Main Deck",
+    "filename": "CAH_Main_Deck",
+    "black_cards": [
+        {
+            "text": "Channel 4 presents \"_: the Story of _.\"",
+            "pick": 2
+        },
+        {
+            "text": "Dear Agony Aunt, I'm having some trouble with _ and would like your advice.",
+            "pick": 1
+        },
+        {
+            "text": "Hey guys, welcome to TGI Fridays! Would you like to start the night off right with _?",
+            "pick": 1
+        },
+        {
+            "text": "Mate, do not go in that toilet. There's _ in there.",
+            "pick": 1
+        },
+        {
+            "text": "This season at the Old Vic, Samuel Beckett's classic existential play: Waiting for _.",
+            "pick": 1
+        }
+    ],
+    "white_cards": [
+        "A comprehensive understanding of the Irish backstop.",
+        "A deep-rooted fear of the working class.",
+        "A general lack of purpose.",
+        "A Ginsters pasty and three cans of Monsters Energy.",
+        "A meat raffle!",
+        "A slightly salty toad in the hole.",
+        "Ainsley Harriott.",
+        "All my gentleman suitors.",
+        "Barely making £15,000 a year.",
+        "Being a witch.",
+        "Being fucking stupid.",
+        "Blood, sweat, and tears.",
+        "Brutal austerity.",
+        "cunninglus",
+        "Danny Dyer.",
+        "Discovering he's a Tory.",
+        "Flat out not giving a shit.",
+        "Getting the same Boots Meal Deal every day for six years.",
+        "James fucking Cordon.",
+        "Licking the Queen.",
+        "Martin Lewis, Money Saving Expert.",
+        "My Uber driver, Ajay.",
+        "Nicki Minaj.",
+        "Ryanair.",
+        "Scottish independence.",
+        "Sitting in a jar of vinegar all night because I am gherkin.",
+        "Slapping your knees to signal your imminent departure.",
+        "The bastard seagull who stole my chips.",
+        "The Hair Plug Club",
+        "The petty troubles of the aristrocracy.",
+        "The Smell of a Primark.",
+        "The Strictly Come Dancing final.",
+        "The Welsh.",
+        "Waking up half-naked in a Wetherspoons car park."
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "order": 58,
+    "name": "Retail Mini Pack",
+    "filename": "Retail_Mini_Pack",
+    "black_cards": [
+        {
+            "text": "How are the writers of Cards Against Humanity spending your $25?",
+            "pick": 1
+        },
+        {
+            "text": "Looking to earn big bucks? Learn how to make _ work for you!",
+            "pick": 1
+        }
+    ],
+    "white_cards": [
+        "A teenage boy gunning for a handjob.",
+        "Feeding a man a pie made of his own children.",
+        "Ironically buying a trucker hat and then ironically being a trucker for 38 years."
+    ]
+}

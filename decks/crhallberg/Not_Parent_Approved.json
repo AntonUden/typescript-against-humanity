@@ -1,0 +1,749 @@
+{
+    "order": 169,
+    "name": "Not Parent Approved",
+    "filename": "Not_Parent_Approved",
+    "black_cards": [
+        {
+            "text": "_ gives me the chills.",
+            "pick": 1
+        },
+        {
+            "text": "_ improves over time.",
+            "pick": 1
+        },
+        {
+            "text": "_ is better than summer vacation.",
+            "pick": 1
+        },
+        {
+            "text": "_ is my fave emoticon.",
+            "pick": 1
+        },
+        {
+            "text": "_ is my secret favorite thing to do when no one is looking.",
+            "pick": 1
+        },
+        {
+            "text": "_ is so awkward at a sleepover.",
+            "pick": 1
+        },
+        {
+            "text": "_ is the secret to world peace.",
+            "pick": 1
+        },
+        {
+            "text": "_ killed my pet goldfish.",
+            "pick": 1
+        },
+        {
+            "text": "_ makes me have nightmares.",
+            "pick": 1
+        },
+        {
+            "text": "_ would really make the world a better place.",
+            "pick": 1
+        },
+        {
+            "text": "_-flavored ice cream.",
+            "pick": 1
+        },
+        {
+            "text": "_. Never again!",
+            "pick": 1
+        },
+        {
+            "text": "A Martian just landed on our planet. After seeing you _, he thinks that's the way to say, \"Hello.\"",
+            "pick": 1
+        },
+        {
+            "text": "A school play starring _.",
+            "pick": 1
+        },
+        {
+            "text": "After the school bell rings, _ is the one thing I want to do.",
+            "pick": 1
+        },
+        {
+            "text": "Boys are so good at _.",
+            "pick": 1
+        },
+        {
+            "text": "Boys remind me of _.",
+            "pick": 1
+        },
+        {
+            "text": "Chocolate cake with _ would be epic!",
+            "pick": 1
+        },
+        {
+            "text": "Dear Donald Trump, you are so great at _.",
+            "pick": 1
+        },
+        {
+            "text": "Dear Substitute Teacher, could you please stop _?",
+            "pick": 1
+        },
+        {
+            "text": "Dear Teacher, instead of giving us a math test, can we spend the time _?",
+            "pick": 1
+        },
+        {
+            "text": "During a math test, I like to think about _.",
+            "pick": 1
+        },
+        {
+            "text": "For the Science Fair, I made _.",
+            "pick": 1
+        },
+        {
+            "text": "Grandma believes that _ is the source of all goodness.",
+            "pick": 1
+        },
+        {
+            "text": "Hope my friends don't find _ in the closet.",
+            "pick": 1
+        },
+        {
+            "text": "I am a master at _.",
+            "pick": 1
+        },
+        {
+            "text": "I can't believe my camp counselor just admitted to _.",
+            "pick": 1
+        },
+        {
+            "text": "I could easily become famous for _.",
+            "pick": 1
+        },
+        {
+            "text": "I dare you to tell your Dad about _.",
+            "pick": 1
+        },
+        {
+            "text": "I did not expect to see the popular kid spending most of the time _ at the school dance.",
+            "pick": 1
+        },
+        {
+            "text": "I feel bad for people who can't stop _.",
+            "pick": 1
+        },
+        {
+            "text": "I got my frenemy _ for a Christmas present.",
+            "pick": 1
+        },
+        {
+            "text": "I liked what I got for my birthday, but I would've LOVED _.",
+            "pick": 1
+        },
+        {
+            "text": "I never thought _ would feel so good.",
+            "pick": 1
+        },
+        {
+            "text": "I never thought there would be a Social Studies chapter about _.",
+            "pick": 1
+        },
+        {
+            "text": "I never want to take a bath after my brother. He leaves _ in the tub.",
+            "pick": 1
+        },
+        {
+            "text": "I popped a zit and _ came out.",
+            "pick": 1
+        },
+        {
+            "text": "I secretly love _.",
+            "pick": 1
+        },
+        {
+            "text": "I spy with my little eye _.",
+            "pick": 1
+        },
+        {
+            "text": "I thought she was cool until she showed me _.",
+            "pick": 1
+        },
+        {
+            "text": "I was shocked when my crush gave me _.",
+            "pick": 1
+        },
+        {
+            "text": "I would watch a four-hour movie about _.",
+            "pick": 1
+        },
+        {
+            "text": "I'm so grateful for _.",
+            "pick": 1
+        },
+        {
+            "text": "I'm starting a club for people who believe in _.",
+            "pick": 1
+        },
+        {
+            "text": "If I could get rid of one thing from the world, it would be _.",
+            "pick": 1
+        },
+        {
+            "text": "If I could make up my own subject at school, it would definitely be _.",
+            "pick": 1
+        },
+        {
+            "text": "If I ever met Dracula, I would give him _.",
+            "pick": 1
+        },
+        {
+            "text": "If it were up to my, my homework assignment would be _.",
+            "pick": 1
+        },
+        {
+            "text": "If you could pick one thing to take to sleep-away camp, what would it be?",
+            "pick": 1
+        },
+        {
+            "text": "In my dream there were zombies _.",
+            "pick": 1
+        },
+        {
+            "text": "In some families, _ is a bad word!",
+            "pick": 1
+        },
+        {
+            "text": "Is that _ stuck in your braces?",
+            "pick": 1
+        },
+        {
+            "text": "It's annoying that parents are so obsessed with _.",
+            "pick": 1
+        },
+        {
+            "text": "It's finally summer! Time to start _.",
+            "pick": 1
+        },
+        {
+            "text": "Last night I had a nightmare about _.",
+            "pick": 1
+        },
+        {
+            "text": "Moms will never understand _.",
+            "pick": 1
+        },
+        {
+            "text": "My allowance this week is going to _.",
+            "pick": 1
+        },
+        {
+            "text": "My babysitter's worst fear is _.",
+            "pick": 1
+        },
+        {
+            "text": "My BFF and I have a secret joke about _.",
+            "pick": 1
+        },
+        {
+            "text": "My biggest source of embarrassment is _.",
+            "pick": 1
+        },
+        {
+            "text": "My brother must be going through puberty, because he spends most of his time _.",
+            "pick": 1
+        },
+        {
+            "text": "My Dad's worst habit is _.",
+            "pick": 1
+        },
+        {
+            "text": "My favorite recipe for after-school snacks includes _.",
+            "pick": 1
+        },
+        {
+            "text": "My favorite YouTube™ star is famous for _.",
+            "pick": 1
+        },
+        {
+            "text": "My Grandpa burped and it smelled like _.",
+            "pick": 1
+        },
+        {
+            "text": "My horoscope predicted _ would happen!",
+            "pick": 1
+        },
+        {
+            "text": "My Mom read my diary and found out that I really like _.",
+            "pick": 1
+        },
+        {
+            "text": "My New Year's resolution is to give up _.",
+            "pick": 1
+        },
+        {
+            "text": "My next birthday pinata will be in the shape of _.",
+            "pick": 1
+        },
+        {
+            "text": "My parents get really mad when they see me _.",
+            "pick": 1
+        },
+        {
+            "text": "My school bag is filled with my lunch, my books, and _.",
+            "pick": 1
+        },
+        {
+            "text": "My sister is most annoying when she is _.",
+            "pick": 1
+        },
+        {
+            "text": "One day I'm going to write a book about _.",
+            "pick": 1
+        },
+        {
+            "text": "One time after trick or treating, I found _ in my bag.",
+            "pick": 1
+        },
+        {
+            "text": "School principals dream of _.",
+            "pick": 1
+        },
+        {
+            "text": "Some day I'm going to get a job _.",
+            "pick": 1
+        },
+        {
+            "text": "Songs about _ are perfect for a rainy Saturday.",
+            "pick": 1
+        },
+        {
+            "text": "The awesomest party is never complete without _.",
+            "pick": 1
+        },
+        {
+            "text": "The Best Day Ever includes _.",
+            "pick": 1
+        },
+        {
+            "text": "The best Facebook® posts always have _.",
+            "pick": 1
+        },
+        {
+            "text": "The best thing to watch on a big screen TV would be _.",
+            "pick": 1
+        },
+        {
+            "text": "The cafeteria is serving _ today.",
+            "pick": 1
+        },
+        {
+            "text": "The difference between winning and losing is _.",
+            "pick": 1
+        },
+        {
+            "text": "The doctor asked my sister to say \"Aaaaah,\" and ran screaming from the room when he saw _.",
+            "pick": 1
+        },
+        {
+            "text": "The doctor looked up my borther's nose and found _.",
+            "pick": 1
+        },
+        {
+            "text": "The incredible awesomeness of _.",
+            "pick": 1
+        },
+        {
+            "text": "The next best superhero will have _ as a special power.",
+            "pick": 1
+        },
+        {
+            "text": "The next popular TV show will feature _.",
+            "pick": 1
+        },
+        {
+            "text": "The teacher bent over and saw _.",
+            "pick": 1
+        },
+        {
+            "text": "The worst day ever always includes _.",
+            "pick": 1
+        },
+        {
+            "text": "There'll be _ at my frenemy's backyard BBQ.",
+            "pick": 1
+        },
+        {
+            "text": "This mean girl in my class always brags about _.",
+            "pick": 1
+        },
+        {
+            "text": "We'll have _ at my BFF's birthday party.",
+            "pick": 1
+        },
+        {
+            "text": "What trend should make a comeback?",
+            "pick": 1
+        },
+        {
+            "text": "When I close my eyes at the dentist's office, I see _.",
+            "pick": 1
+        },
+        {
+            "text": "When I grow up, I want to spend my weekends _.",
+            "pick": 1
+        },
+        {
+            "text": "When I'm feeling bad, _ makes it all better.",
+            "pick": 1
+        },
+        {
+            "text": "Whoever invented _ is a genius.",
+            "pick": 1
+        },
+        {
+            "text": "Will my Mom ever stop gossiping about _?",
+            "pick": 1
+        },
+        {
+            "text": "You think my poop stinks? Yours smells like _.",
+            "pick": 1
+        }
+    ],
+    "white_cards": [
+        "A bad hair day.",
+        "A bad report card.",
+        "A big, red wet-looking zit on your nose.",
+        "A broken Xbox®.",
+        "A cage filled with hairless guinea pigs.",
+        "A carpool full of kids with bad body odor.",
+        "A casual sprinkle of pee on the toilet seat.",
+        "A collection of haunted action figures that come to life at night.",
+        "A doctor with a gigantic needle.",
+        "A fear of hieghts when climbing a rock wall.",
+        "A head swarming with lice.",
+        "A hockey puck to the face.",
+        "A house of mirrors filled with creepy clowns.",
+        "A lap full of vomit.",
+        "A laser light show.",
+        "A leg cast in summer.",
+        "A mad, bad duck in a petting zoo.",
+        "A million Likes on Facebook®.",
+        "A misplaced backpack.",
+        "A missing hamster.",
+        "A mouth full of sea water.",
+        "A school solo with zero applause.",
+        "A soccer ball to the crotch.",
+        "A specially trained robot that tortures annoying family members.",
+        "A star on the Hollywood Walk of Fame.",
+        "A Star Wars® backpack with matching lunch box and undies.",
+        "A Superman™ cape.",
+        "A talking dog.",
+        "A week of nonstop cartoon marathons.",
+        "A whole lotta nothing.",
+        "Abduction by aliens.",
+        "Accidentally dropping an iPhone® in the toilet.",
+        "Allergies that cause your face to swell up like a balloon.",
+        "Always losing at Hangman.",
+        "An amateur fireworks show that ends badly.",
+        "An army of Barbie® dolls chasing you in the night.",
+        "An epic lack of artistic talent.",
+        "An epic tantrum full of swear words.",
+        "An itchy butt during a spelling bee.",
+        "Answering my parents with a grunt.",
+        "Apps that cost too much.",
+        "Arcade games.",
+        "Awkward family photos posted online.",
+        "Barack Obama's birth certificate.",
+        "Beat It by Michael Jackson.",
+        "Becoming a Kung Fu master.",
+        "Becoming a YouTube™ star.",
+        "Becoming famous.",
+        "Being a know-it-all.",
+        "Being angry all the time.",
+        "Being forced to take a nap.",
+        "Being forced to watch Food Network® all night with your parents.",
+        "Being ignored.",
+        "Being really unprepared for Picture Day.",
+        "Beyonce's Superbowl performance.",
+        "Biting your toenails.",
+        "Boogers that slide down your throat when you sniff.",
+        "Boogie® Boards.",
+        "Book reports.",
+        "Bowling.",
+        "Break dancing.",
+        "Breaking out in hives.",
+        "Breaking out in song (loudly).",
+        "Bringing sword duels back.",
+        "Burping a whole sentence.",
+        "Burping ballerinas dancing in your dreams.",
+        "Butt acne.",
+        "Canned tuna with extra dolphin.",
+        "Cartoon Network®.",
+        "Cat hair in my quesadilla.",
+        "Chocolate chip pancakes with happy faces in whipped cream.",
+        "Chuck E. Cheese's®.",
+        "Cleaning my room for the first time all year.",
+        "Climbing a tree.",
+        "Coaches in short shorts.",
+        "Cold, hard cash.",
+        "Copying homework.",
+        "Coughing up green phlegm.",
+        "Cranky, sleep-deprived school principals.",
+        "Craving popularity.",
+        "Crazy monster masks.",
+        "Crumbs from the dessert I snuck into my room last year.",
+        "Crushing on a lunch lady.",
+        "Crying until your eyes turn red and everyone notices.",
+        "Cupcakes that taste like dog biscuits.",
+        "Curse words.",
+        "Daydreaming.",
+        "Dirty, long fingernails.",
+        "Disney® TV stars.",
+        "Dissecting frogs.",
+        "Doing the \"Wop, Wop, Gangnam Style\" dance in public.",
+        "Doing the Funky Chicken Dance.",
+        "Dreaming I left the house without my underwear on.",
+        "Drool on a pillow.",
+        "Ear hair.",
+        "Eating boogers.",
+        "Eating Lucky Charms® daily.",
+        "Emoticons.",
+        "Endless car rides.",
+        "Endless roller coaster lines.",
+        "Epic explosions in inappropriate places.",
+        "Everyone finding out that your secret wish is to be a Viking.",
+        "Extremely tight gym shorts.",
+        "Facebook®.",
+        "Failing to get rid of bad karma",
+        "Faking a fever.",
+        "Faking good manners.",
+        "Family vacations.",
+        "Farting, moving away, and acting casual.",
+        "Farts that smell like your last meal.",
+        "Farts that stay in your pants.",
+        "Fashion models falling on their faces on the runway.",
+        "Fast food mystery meat.",
+        "Feeling too old for a bouncy house, but jumping anyway.",
+        "Finding a worm in your food.",
+        "Finding an ancient banana under the front seat.",
+        "Finding nasty stuff at the bottom of a borrowed sleeping bag.",
+        "Finding out your babysitter really is a vampire.",
+        "Finding six cavitites in one dentist visit.",
+        "Fingernails on a chalkboard.",
+        "Forgetting your parent's iTunes® password.",
+        "Friends who snore as loud as your Grandpa.",
+        "Funky armpits.",
+        "Gassy unicorns.",
+        "Getting a time-out at age 15.",
+        "Getting banned from screen time for three weeks.",
+        "Getting busted for passing notes in class.",
+        "Getting busted telling a lie.",
+        "Getting caught with your zipper open in front of your biggest crush.",
+        "Getting grounded until you're 25.",
+        "Getting laughing gas at the dentist's office.",
+        "Getting picked last for a sports team (again).",
+        "Getting stuck sitting next to THE MOST annoyingly chatty kid on the class field trip.",
+        "Getting tickled until you fart.",
+        "Getting your iPod® confiscated.",
+        "Giving Grandma rabbit ears in the family photo.",
+        "Giving yourself a haircut.",
+        "Going camping without bug spray.",
+        "Going on tour as a Guitar Hero® champ.",
+        "Google.",
+        "Grandma's not-so-great cooking.",
+        "Grandpa's bald spot.",
+        "Greasy hair.",
+        "Green smoothies that look and taste like diahrrea.",
+        "Growing a mole with one black hair on your chin.",
+        "Grownups.",
+        "Gymnastic leotards that slide up your butt.",
+        "Hacking my parent's password.",
+        "Hairy armpits.",
+        "Happily ever after endings.",
+        "Haunted houses.",
+        "Having only five minutes left of computer time.",
+        "Having your embarrassing moments posted on YouTube™.",
+        "Hawaii.",
+        "Horseback riding while wearing a tutu.",
+        "Hot Cheetos®.",
+        "Hot Girls.",
+        "Hot guys.",
+        "Hugging it out.",
+        "Hugs from parents on the schoolyard.",
+        "Hysterical laughter fueled by a massive sugar high.",
+        "Ice.",
+        "Inappropriate rap lyrics.",
+        "Infected private parts.",
+        "Inhaling helium ballons and singing, \"Twinkle, Twinkle Little Star.\"",
+        "Itchy mosquito bites where the sun don't shine.",
+        "Japanese erasers.",
+        "Jerks.",
+        "Kids that eat glue after kindergarten.",
+        "Kissing the teacher's butt to get a better grade.",
+        "Laser Tag.",
+        "Laughing until you pee in your pants.",
+        "Lemon-yellow teeth.",
+        "Lights out (bedtime).",
+        "Littering.",
+        "Locking eyes with a nose picker at a stoplight.",
+        "Losing privileges.",
+        "Lots of zits.",
+        "Loving the smell of your own farts and thinking everyone else should too.",
+        "Maggots.",
+        "Magicians with boring tricks.",
+        "Making \"bubbles\" in the jacuzzi.",
+        "Making the world a better place.",
+        "Mean teachers.",
+        "Minivans with TVs.",
+        "Misplacing homework.",
+        "Moans coming from the attic.",
+        "Moldy Friday lunch found on Monday.",
+        "Morning eye boogers.",
+        "Mouth-breathers.",
+        "Multivitamin gummy bears.",
+        "My best friend's crush.",
+        "My evil dentist.",
+        "My Fairy Godmother.",
+        "My parents reading my texts.",
+        "My psycho math teacher.",
+        "Neat freaks.",
+        "Needing privacy.",
+        "Netflix®.",
+        "Never finding your stuff in the Lost and Found.",
+        "Never-ending bloody noses.",
+        "Not caring. At all.",
+        "Not knowing when to shut up.",
+        "Not making a single photo in the yearbook.",
+        "Not showering for three days.",
+        "Notes from your Mom pinned to your T-shirt.",
+        "Overly huggy aunts.",
+        "Peeing in an empty water bottle.",
+        "Peeing in bed after eating too much watermelon.",
+        "Piano teachers who spit when they talk.",
+        "Pigeon poop in your hair.",
+        "Playing Dunk the Principal.",
+        "Playing piano with your toes.",
+        "Playing the role of a tree in the school play.",
+        "Poor hygiene.",
+        "Pretending to like museums.",
+        "Pubes held together in a little ponytail holder.",
+        "Public humiliation.",
+        "Puking on my teacher's shoes.",
+        "Putting a booger in your pocket.",
+        "Rainbow snowcones.",
+        "Raising money to cure diseases.",
+        "Regularly making very bad choices.",
+        "Riding a unicycle while juggling bananas.",
+        "Roach-infested sleep-away camp.",
+        "Roadkill.",
+        "Roasting marshmallows.",
+        "Running out of underwear at sleep-away camp.",
+        "Salami sandwiches.",
+        "Sand in your butt.",
+        "Santa cumming down your chimney.",
+        "School suspension for a crime you didn't commit.",
+        "Scooping dog poop and realizing the bag is ripped after it's too late.",
+        "Secret admirers.",
+        "Secretly peeing in a pool.",
+        "Seeing fresh puke and picking up the big pieces.",
+        "Shirley Temples.",
+        "Shopping with Mom.",
+        "Silent but deadly farts.",
+        "Siri®.",
+        "Sitting on a juice box.",
+        "Six-pack abs.",
+        "Sixty-two boxes of unsold Girl Scout Cookies®.",
+        "Skateboard road rash.",
+        "Sleepovers with my friend's bratty brother who won't leave us alone.",
+        "Slip 'n Slides®.",
+        "Slow-dancing with your sibling.",
+        "Smelly preschool bathrooms.",
+        "Sneaking tech time.",
+        "Snorting when you laugh.",
+        "Sparkly fairy wings.",
+        "Spewing vomit chunks.",
+        "Spiders creeping up my legs.",
+        "Spilling something that makes it look like you peed your pants.",
+        "Stepping on a random Lego®.",
+        "Sticky finger fungus.",
+        "Stinky toe cheese.",
+        "Sugar, sugar, sugar!",
+        "Super snoozy school assemblies.",
+        "Sweaty shin guards.",
+        "Sweaty socks.",
+        "Sweet dreams.",
+        "Sword fights gone wrong.",
+        "Tater Tots®.",
+        "Taylor Swift.",
+        "Teachers in holiday-themed sweaters.",
+        "Teachers who obviously hate kids.",
+        "Texting my best friend all day.",
+        "That friend who can't sing, but doesn't know it.",
+        "That kid who always smells like waffles.",
+        "The 3-second rule.",
+        "The birds and the bees.",
+        "The Boogie Man.",
+        "The class genius who doesn't shower for weeks.",
+        "The class pet I accidentally murdered.",
+        "The Easter Bunny.",
+        "The first day of school.",
+        "The Girl Scouts®.",
+        "The indentation on my butt after sitting on the toilet to take a huge dump.",
+        "The itchy, hand-knit sweater from Grandma your mom makes you wear every time she visits.",
+        "The non-existent private parts of a Ken® doll.",
+        "The outfit your mother made you wear on the first day of school.",
+        "The pimply pizza delivery guy.",
+        "The scent of sneakers after a week at summer camp.",
+        "The school mascot.",
+        "The science teacher's sweaty potbelly.",
+        "The secret satisfaction of scratching your butt and sniffing it.",
+        "The socks you wore five days in a row.",
+        "The spectacular feeling of farting until you just can't fart anymore!",
+        "The sweet sound of snot right before a cup of hot chocolate.",
+        "The Tooth Fairy.",
+        "The unmistakeable aroma of stinky underwear.",
+        "The weird kid down the block.",
+        "The word \"balls.\"",
+        "The word \"NO.\"",
+        "The world's longest list of chores.",
+        "The world's most epic wedgie.",
+        "Thinking Nationwide® is really on your side.",
+        "Thirty minutes of reading every night.",
+        "Thumb-wrestling wars.",
+        "Timed math drills.",
+        "Toenail trimmings on the table.",
+        "Torn pop-up books.",
+        "Trail mix.",
+        "Training bras.",
+        "Traveling into outer space.",
+        "Trying but hating yoga.",
+        "Trying on my Mom's high-heel shoes.",
+        "Trying to smell your belly button.",
+        "Turning 16.",
+        "Turning beet red from embarrassment.",
+        "Tweezing long nose hairs.",
+        "Unbuckling on the way to the bathroom.",
+        "Underwear skidmarks.",
+        "Unidentifiable cafeteria food.",
+        "Uranus.",
+        "Valentine's Day.",
+        "Vampire bunnies.",
+        "Vegas.",
+        "Waiting for summer.",
+        "Waking up feeling like a mucous membrane.",
+        "Warts grow in places you can't hide.",
+        "Wearing sunglasses all day.",
+        "Weird stares from my frenemy.",
+        "Whining until you get your way.",
+        "Whoopie Cushions.",
+        "Wiping out on a skateboard.",
+        "Wiping out on your bike and taking out a crowd.",
+        "Yellow teeth",
+        "Yesterday's oatmeal.",
+        "Yogurt that turned furry in the fridge.",
+        "Your bathing suit slipping too low at the water slide park.",
+        "Your coach's bad breath.",
+        "Your cousin's R-rated movie collection.",
+        "Your Dad's stinky feet.",
+        "Your Mom and her multiple personalities.",
+        "Your parents kissing.",
+        "Your secret crush.",
+        "YouTube™.",
+        "Ziplining."
+    ]
+}

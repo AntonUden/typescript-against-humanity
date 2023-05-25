@@ -319,7 +319,7 @@ function handleVotingStart(data) {
 
 			cardHtml.removeAttr("id");
 			cardHtml.find(".selected-card-number").remove(); // Remove badge that we dont need here
-			cardHtml.find(".card-text-content").html(card.text);
+			cardHtml.find(".card-text-content").html(card.text.replace(/\n/g, "<br>"));
 			cardHtml.addClass("played-white-card");
 
 			if (activeGame.settings.showCardPack) {
@@ -452,7 +452,7 @@ function handleGameState(data) {
 				let blackCard = activeGame.black_card;
 
 				$("#black_card_pick").text("pick " + blackCard.pick);
-				$("#black_card_text").html(blackCard.text);
+				$("#black_card_text").html(blackCard.text.replace(/\n/g, "<br>"));
 
 				if (activeGame.settings.showCardPack) {
 					console.debug("Black card is from " + activeGame.black_card.deck_name);
@@ -621,7 +621,7 @@ function handleGameState(data) {
 					newHtml.addClass("player-hand-card");
 
 					newHtml.find(".selected-card-number").hide();
-					newHtml.find(".card-text-content").html(card.text);
+					newHtml.find(".card-text-content").html(card.text.replace(/\n/g, "<br>"));
 
 					if (activeGame.settings.showCardPack) {
 						newHtml.attr("title", "This card is from " + card.deck_name);

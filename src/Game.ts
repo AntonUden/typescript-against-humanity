@@ -10,12 +10,12 @@ import { MessageType } from "./enum/MessageType";
 import { GameSettings } from "./interfaces/GameSettings";
 import { ITickable } from "./interfaces/ITickable";
 import { Player } from "./Player";
-import { Server } from "./Server";
 import { User } from "./User";
 import { Utils } from "./Utils";
 import { v4 as uuidv4 } from 'uuid';
 import { SelectWinnerResponse } from "./enum/SelectWinnerResponse";
 import { WhiteCardDTO } from "./card/WhiteCardDTO";
+import Server from "./Server";
 
 export class Game implements ITickable {
 	private uuid: string;
