@@ -1,0 +1,69 @@
+{
+  "order": 67,
+  "displayName": "Vote For Hillary Pack",
+  "name": "Vote_For_Hillary_Pack",
+  "whiteCards": [
+    {
+      "text": "As repartations for slavery, all African Americans will receive _.",
+      "pick": 1
+    },
+    {
+      "text": "Senator, I trust you enjoyed _ last night.  Now, can I count on your vote?",
+      "pick": 1
+    },
+    {
+      "text": "When you go to the polls on Tuesday, remember:  a vote for me is a vote for _.",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "A beautiful, ever-expanding circle of inclusivity that will never include Republicans.",
+      "renderHtml": false
+    },
+    {
+      "text": "Black lives mattering.",
+      "renderHtml": false
+    },
+    {
+      "text": "Donald Trump holding his nose while he eats pussy.",
+      "renderHtml": false
+    },
+    {
+      "text": "Eating the president's pussy.",
+      "renderHtml": false
+    },
+    {
+      "text": "Increasing economic and political polarization.",
+      "renderHtml": false
+    },
+    {
+      "text": "Keeping the government out of my vagina.",
+      "renderHtml": false
+    },
+    {
+      "text": "Kicking the middle class in the balls with a regressive tax code.",
+      "renderHtml": false
+    },
+    {
+      "text": "Letting Bernie Sanders rest his world-weary head on your lap.",
+      "renderHtml": false
+    },
+    {
+      "text": "Slapping Ted Cruz over and over.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Bernie Sanders revolution.",
+      "renderHtml": false
+    },
+    {
+      "text": "The fact that Hillary Clinton is a woman.",
+      "renderHtml": false
+    },
+    {
+      "text": "The systematic disenfranchisement of black voters.",
+      "renderHtml": false
+    }
+  ]
+}

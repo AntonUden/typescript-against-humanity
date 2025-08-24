@@ -1,0 +1,421 @@
+{
+  "order": 14,
+  "displayName": "CAH: Fifth Expansion",
+  "name": "CAH_Fifth_Expansion",
+  "whiteCards": [
+    {
+      "text": "And what did you bring for show and tell?",
+      "pick": 1
+    },
+    {
+      "text": "Art isn't just a painting in a stuffy museum. Art is alive. Art is _.",
+      "pick": 1
+    },
+    {
+      "text": "Do the Mahi, get _.",
+      "pick": 1
+    },
+    {
+      "text": "Do you lack energy? Does it sometimes feel like the whole world is _? Zoloft.",
+      "pick": 1
+    },
+    {
+      "text": "Don't get me wrong I think what Hitler did and stood for is horrible but you have to admit he was was spot on about _.",
+      "pick": 1
+    },
+    {
+      "text": "Get rich or die _.",
+      "pick": 1
+    },
+    {
+      "text": "Having tired of poetry and music, the immortal elves now fill their days with _.",
+      "pick": 1
+    },
+    {
+      "text": "Hell hath no fury like _.",
+      "pick": 1
+    },
+    {
+      "text": "HELP WANTED: Need assistance with _. No experience necessary.",
+      "pick": 1
+    },
+    {
+      "text": "Here is the church\nHere is the steeple\nOpen the doors\nAnd there is _.",
+      "pick": 1
+    },
+    {
+      "text": "Hi, this is Jim from accounting. We noticed a $1,200 charge labeled \"_.\" Can you explain?",
+      "pick": 1
+    },
+    {
+      "text": "Hidden behing the Mona Lisa, scientists recently found Da Vinci's original subject: _.",
+      "pick": 1
+    },
+    {
+      "text": "I don't need to hold onto my youth, I just love _.",
+      "pick": 1
+    },
+    {
+      "text": "In his final interview, Robin Williams discussed his private battle with _.",
+      "pick": 1
+    },
+    {
+      "text": "In his new book, author David Sedaris details his life-long love affair with _.",
+      "pick": 1
+    },
+    {
+      "text": "Lifetime® presents _ - the story of _.",
+      "pick": 2
+    },
+    {
+      "text": "Now in bookstores: Nancy Drew and the Mystery of _.",
+      "pick": 1
+    },
+    {
+      "text": "Patient presents with _ . Likely a result of _.",
+      "pick": 2
+    },
+    {
+      "text": "Well if you'll excuse me, gentlemen, I have a date with _.",
+      "pick": 1
+    },
+    {
+      "text": "Well, look at what we have here! A big fancy man walkin' like he's _.",
+      "pick": 1
+    },
+    {
+      "text": "What killed Old Jim?",
+      "pick": 1
+    },
+    {
+      "text": "What's Mom's best friend?",
+      "pick": 1
+    },
+    {
+      "text": "Whos afraid of the big bad _.",
+      "pick": 1
+    },
+    {
+      "text": "Why am I in jail?",
+      "pick": 1
+    },
+    {
+      "text": "Yorkville's latest fad diet is called _",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "400 years of colonial atrocities.",
+      "renderHtml": false
+    },
+    {
+      "text": "A Chinese cyber attack on Pornhub that cripples morale across the force.",
+      "renderHtml": false
+    },
+    {
+      "text": "a creampie",
+      "renderHtml": false
+    },
+    {
+      "text": "A disappointing season of Tabletop that's just about tables.",
+      "renderHtml": false
+    },
+    {
+      "text": "a face full of period blood",
+      "renderHtml": false
+    },
+    {
+      "text": "A giant squid in a wedding gown.",
+      "renderHtml": false
+    },
+    {
+      "text": "A mouthful of soup",
+      "renderHtml": false
+    },
+    {
+      "text": "A one-way ticket to Mars.",
+      "renderHtml": false
+    },
+    {
+      "text": "A powered exoskeleton.",
+      "renderHtml": false
+    },
+    {
+      "text": "A recall of hotdogs",
+      "renderHtml": false
+    },
+    {
+      "text": "A teaspoon full of toenail clippings",
+      "renderHtml": false
+    },
+    {
+      "text": "a whole school of tongues in this belly of mine",
+      "renderHtml": false
+    },
+    {
+      "text": "A zesty breakfast burrito.",
+      "renderHtml": false
+    },
+    {
+      "text": "AIDS.",
+      "renderHtml": false
+    },
+    {
+      "text": "All things divine",
+      "renderHtml": false
+    },
+    {
+      "text": "An inability to take a joke.",
+      "renderHtml": false
+    },
+    {
+      "text": "An unfulfilling handjob.",
+      "renderHtml": false
+    },
+    {
+      "text": "An unmanned center podium.",
+      "renderHtml": false
+    },
+    {
+      "text": "Anal Fisting",
+      "renderHtml": false
+    },
+    {
+      "text": "ancient porn",
+      "renderHtml": false
+    },
+    {
+      "text": "Backwards recordings",
+      "renderHtml": false
+    },
+    {
+      "text": "Being obessed with board games.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being passively-aggressive on social media.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being worth many sparrows.",
+      "renderHtml": false
+    },
+    {
+      "text": "Blacking out and causing some serious fucking damage.",
+      "renderHtml": false
+    },
+    {
+      "text": "Blown Out O-Ring",
+      "renderHtml": false
+    },
+    {
+      "text": "Boring weekends in Amish Country.",
+      "renderHtml": false
+    },
+    {
+      "text": "Butt surgery.",
+      "renderHtml": false
+    },
+    {
+      "text": "Changing both your last names to \"Danger.\"",
+      "renderHtml": false
+    },
+    {
+      "text": "Child-borne IEDs.",
+      "renderHtml": false
+    },
+    {
+      "text": "Cutting off your genitalia and mailing it to your celebrity crush.",
+      "renderHtml": false
+    },
+    {
+      "text": "Daddy's Grindr account",
+      "renderHtml": false
+    },
+    {
+      "text": "Defeating a gorilla in single combat.",
+      "renderHtml": false
+    },
+    {
+      "text": "Denzel.",
+      "renderHtml": false
+    },
+    {
+      "text": "Doing the right thing.",
+      "renderHtml": false
+    },
+    {
+      "text": "ejaculating on your partner's face, letting it dry, and then peeling it off in one piece",
+      "renderHtml": false
+    },
+    {
+      "text": "enormous drums",
+      "renderHtml": false
+    },
+    {
+      "text": "Figuring out how to keep a woman with really small, flexible hands restrained in bondage cuffs.",
+      "renderHtml": false
+    },
+    {
+      "text": "Free introductory seminars at Trump University Community College.",
+      "renderHtml": false
+    },
+    {
+      "text": "Genital piercings.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting caught masturbating to hentai porn.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting drugs off the street and into my body.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting eaten alive by puppies.",
+      "renderHtml": false
+    },
+    {
+      "text": "Giant Strap-ons",
+      "renderHtml": false
+    },
+    {
+      "text": "Going to a strip club to vent your problems to a complete stranger.",
+      "renderHtml": false
+    },
+    {
+      "text": "Having big dreams but no realistic way to achieve them.",
+      "renderHtml": false
+    },
+    {
+      "text": "Mom's new haircut.",
+      "renderHtml": false
+    },
+    {
+      "text": "My bright pink fuckhole.",
+      "renderHtml": false
+    },
+    {
+      "text": "My dick in your mouth.",
+      "renderHtml": false
+    },
+    {
+      "text": "My fist",
+      "renderHtml": false
+    },
+    {
+      "text": "Not caring. At all.",
+      "renderHtml": false
+    },
+    {
+      "text": "Oiled up bodybuilders wearing only a thong.",
+      "renderHtml": false
+    },
+    {
+      "text": "Outdated gender norms.",
+      "renderHtml": false
+    },
+    {
+      "text": "P.F. Chang's fusion of casual and formal cuisine.",
+      "renderHtml": false
+    },
+    {
+      "text": "RussianBrides.com",
+      "renderHtml": false
+    },
+    {
+      "text": "Seeing Suzy Cato in a completely new light",
+      "renderHtml": false
+    },
+    {
+      "text": "Seeing what happens when you lock people in a room with hungry seagulls.",
+      "renderHtml": false
+    },
+    {
+      "text": "September 11th.",
+      "renderHtml": false
+    },
+    {
+      "text": "Slowly evaporating.",
+      "renderHtml": false
+    },
+    {
+      "text": "Social media evangelization.",
+      "renderHtml": false
+    },
+    {
+      "text": "Some sort of Asian.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sub drop.*",
+      "renderHtml": false
+    },
+    {
+      "text": "The ability known as \"retardation.\"",
+      "renderHtml": false
+    },
+    {
+      "text": "The bastard seagull who stole my chips.",
+      "renderHtml": false
+    },
+    {
+      "text": "The black lung.",
+      "renderHtml": false
+    },
+    {
+      "text": "The eighth graders.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Girl Next Door",
+      "renderHtml": false
+    },
+    {
+      "text": "The inability to grow facial hair",
+      "renderHtml": false
+    },
+    {
+      "text": "The Passion of Christ.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Sword of Damocles",
+      "renderHtml": false
+    },
+    {
+      "text": "The time I figured out that \"Twinkle, Twinkle\" and the \"Alphabet Song\" had the same tune",
+      "renderHtml": false
+    },
+    {
+      "text": "the undeniable dark side of mankind",
+      "renderHtml": false
+    },
+    {
+      "text": "The White House Coal Garden.",
+      "renderHtml": false
+    },
+    {
+      "text": "Too much edibles.",
+      "renderHtml": false
+    },
+    {
+      "text": "unrequited love",
+      "renderHtml": false
+    },
+    {
+      "text": "Vegetarians or humanitarians, whichever",
+      "renderHtml": false
+    },
+    {
+      "text": "Wearing glasses to look as if you are smart.",
+      "renderHtml": false
+    },
+    {
+      "text": "Westies",
+      "renderHtml": false
+    }
+  ]
+}

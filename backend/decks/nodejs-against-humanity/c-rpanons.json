@@ -1,0 +1,938 @@
+{
+  "source": 0,
+  "order": 50,
+  "displayName": "[C] RPAnons",
+  "name": "c-rpanons",
+  "whiteCards": [
+    {
+      "text": "_ doesn't need to be judged right now.",
+      "pick": 1
+    },
+    {
+      "text": "_ is a terrible thing to do to the _!",
+      "pick": 2
+    },
+    {
+      "text": "/_ delicately from the butt.",
+      "pick": 1
+    },
+    {
+      "text": "/slides hand up your _.",
+      "pick": 1
+    },
+    {
+      "text": "_ &amp; _: Worst mods ever.",
+      "pick": 2
+    },
+    {
+      "text": "/_ all over this post.",
+      "pick": 1
+    },
+    {
+      "text": "_ was better before the anon meme.",
+      "pick": 1
+    },
+    {
+      "text": "We'd love to have you at _ Island!",
+      "pick": 1
+    },
+    {
+      "text": "_ is not an island.",
+      "pick": 1
+    },
+    {
+      "text": "_ runs into the forest, screaming.",
+      "pick": 1
+    },
+    {
+      "text": "But what are your thoughts on _?",
+      "pick": 1
+    },
+    {
+      "text": "Bad news guys, my parents found that thread involving _.",
+      "pick": 1
+    },
+    {
+      "text": "Cute, fun and _.",
+      "pick": 1
+    },
+    {
+      "text": "Chaos ensued when Wankgate banned _.",
+      "pick": 1
+    },
+    {
+      "text": "Excuse me, but I identify as _.",
+      "pick": 1
+    },
+    {
+      "text": "Does anyone _? I feel like the only one.",
+      "pick": 1
+    },
+    {
+      "text": "How can there be a group of people more _ than us?",
+      "pick": 1
+    },
+    {
+      "text": "Great, another _ event.",
+      "pick": 1
+    },
+    {
+      "text": "I can only _ if I feel a deep emotional connection.",
+      "pick": 1
+    },
+    {
+      "text": "How's my driving?",
+      "pick": 1
+    },
+    {
+      "text": "I have a PHD in _.",
+      "pick": 1
+    },
+    {
+      "text": "I can't believe we just spent a whole page wanking about _.",
+      "pick": 1
+    },
+    {
+      "text": "I need deets on _, stat.",
+      "pick": 1
+    },
+    {
+      "text": "I just benchpressed, like, 14 _.",
+      "pick": 1
+    },
+    {
+      "text": "I randomly began to _ and _ came galloping up the stairs.",
+      "pick": 2
+    },
+    {
+      "text": "I predict _ will close by the end of the year.",
+      "pick": 1
+    },
+    {
+      "text": "I see Wankgate's bitching about _ again.",
+      "pick": 1
+    },
+    {
+      "text": "I'm literally shaking and _ right now.",
+      "pick": 1
+    },
+    {
+      "text": "I'm married to _ on the astral plane.",
+      "pick": 1
+    },
+    {
+      "text": "I'm really into _, so please don't kinkshame.",
+      "pick": 1
+    },
+    {
+      "text": "I'm sad we lost _ in the exodus from LJ to DW.",
+      "pick": 1
+    },
+    {
+      "text": "I'm starting a game where the characters are stuck in _.",
+      "pick": 1
+    },
+    {
+      "text": "I'm taking commissions for _!",
+      "pick": 1
+    },
+    {
+      "text": "How dare you not warn for _! Don't you know how triggering that is?",
+      "pick": 1
+    },
+    {
+      "text": "In this world, sexual roles are divided into three categories: the _, the _, and the _",
+      "pick": 3
+    },
+    {
+      "text": "It's _ o'clock.",
+      "pick": 1
+    },
+    {
+      "text": "ITT: _.",
+      "pick": 1
+    },
+    {
+      "text": "Join my new game about _!",
+      "pick": 1
+    },
+    {
+      "text": "Keep fucking that _.",
+      "pick": 1
+    },
+    {
+      "text": "Let me tell you about _.",
+      "pick": 1
+    },
+    {
+      "text": "Log in and _.",
+      "pick": 1
+    },
+    {
+      "text": "My favorite thread is the one where _ has kinky sex with _.",
+      "pick": 2
+    },
+    {
+      "text": "RPAnons made me _.",
+      "pick": 1
+    },
+    {
+      "text": "Raising money for _! Please replurk!",
+      "pick": 1
+    },
+    {
+      "text": "Only _ would play from _.",
+      "pick": 2
+    },
+    {
+      "text": "OMG you guys I have so many feels about _!",
+      "pick": 1
+    },
+    {
+      "text": "no actually i don't care at all, i don't even _. :))))",
+      "pick": 1
+    },
+    {
+      "text": "New game idea! You're kidnapped by _ and forced into _.",
+      "pick": 2
+    },
+    {
+      "text": "My OTP: _ x _.",
+      "pick": 2
+    },
+    {
+      "text": "My headcanon is that _ is _.",
+      "pick": 2
+    },
+    {
+      "text": "The perfect username for my next character: _.",
+      "pick": 1
+    },
+    {
+      "text": "The _ is happy.",
+      "pick": 1
+    },
+    {
+      "text": "That _. You know, *that* one.",
+      "pick": 1
+    },
+    {
+      "text": "Someone left a _ out in the rain.",
+      "pick": 1
+    },
+    {
+      "text": "Someone just stuck their head out of the window and screamed \"_'s UP!\"",
+      "pick": 1
+    },
+    {
+      "text": "Since _ is on hiatus, fans have migrated to _.",
+      "pick": 2
+    },
+    {
+      "text": "Signal boosting for _!",
+      "pick": 1
+    },
+    {
+      "text": "SHUT UP ABOUT YOUR _.",
+      "pick": 1
+    },
+    {
+      "text": "Why was I banned?",
+      "pick": 1
+    },
+    {
+      "text": "Who apps _ to a sex game?",
+      "pick": 1
+    },
+    {
+      "text": "We need a new post. This one smells like _.",
+      "pick": 1
+    },
+    {
+      "text": "Why was I asked for app revisions?",
+      "pick": 1
+    },
+    {
+      "text": "There are too many memes about _.",
+      "pick": 1
+    },
+    {
+      "text": "There is no _ in Holly Heights.",
+      "pick": 1
+    },
+    {
+      "text": "The thing I hate most about RP is _.",
+      "pick": 1
+    },
+    {
+      "text": "Their _ are of age.",
+      "pick": 1
+    },
+    {
+      "text": "You sound _, tbh.",
+      "pick": 1
+    },
+    {
+      "text": "Who should I play next?",
+      "pick": 1
+    },
+    {
+      "text": "You can't fist _.",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "Rule 63.",
+      "renderHtml": false
+    },
+    {
+      "text": "(unsure).",
+      "renderHtml": false
+    },
+    {
+      "text": "(I glances.)",
+      "renderHtml": false
+    },
+    {
+      "text": "\"The\" Hateboner.",
+      "renderHtml": false
+    },
+    {
+      "text": "A bouquet of dicks.",
+      "renderHtml": false
+    },
+    {
+      "text": "A 5-page-long kink list.",
+      "renderHtml": false
+    },
+    {
+      "text": "A 'shopped vendetta.",
+      "renderHtml": false
+    },
+    {
+      "text": "Too rad to be cis.",
+      "renderHtml": false
+    },
+    {
+      "text": "A creepy Corruption of Champions OC.",
+      "renderHtml": false
+    },
+    {
+      "text": "A funny name for Benedict Cumberbatch.",
+      "renderHtml": false
+    },
+    {
+      "text": "A genderswapped vampire AU Cloud Strife.",
+      "renderHtml": false
+    },
+    {
+      "text": "A glopping noise.",
+      "renderHtml": false
+    },
+    {
+      "text": "A misfire.",
+      "renderHtml": false
+    },
+    {
+      "text": "A paid account full of nothing but terrible fanart icons.",
+      "renderHtml": false
+    },
+    {
+      "text": "A penis approximately the size and shape of a Guinness can.",
+      "renderHtml": false
+    },
+    {
+      "text": "A shitty urban fantasy OC.",
+      "renderHtml": false
+    },
+    {
+      "text": "A spooky jamjar.",
+      "renderHtml": false
+    },
+    {
+      "text": "A tag so boring it makes you want to delete all of your journals.",
+      "renderHtml": false
+    },
+    {
+      "text": "A tragic Christmas hang-gliding accident.",
+      "renderHtml": false
+    },
+    {
+      "text": "Accidental video posts.",
+      "renderHtml": false
+    },
+    {
+      "text": "Alpha/Beta/Omega.",
+      "renderHtml": false
+    },
+    {
+      "text": "Amatomnes.",
+      "renderHtml": false
+    },
+    {
+      "text": "An awful fandom OC who's married to the main character.",
+      "renderHtml": false
+    },
+    {
+      "text": "Anonfailing.",
+      "renderHtml": false
+    },
+    {
+      "text": "Another fucking TFLN meme.",
+      "renderHtml": false
+    },
+    {
+      "text": "Another boring wank about f/f.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ataraxion.",
+      "renderHtml": false
+    },
+    {
+      "text": "App revisions.",
+      "renderHtml": false
+    },
+    {
+      "text": "Baby penis.",
+      "renderHtml": false
+    },
+    {
+      "text": "Autistic gypsies.",
+      "renderHtml": false
+    },
+    {
+      "text": "Begging for asspats.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bakerstreet.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being soulbonded to a Homestuck character.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being really passive-aggressive because you \"don't wanna hurt anyone's feelings\".",
+      "renderHtml": false
+    },
+    {
+      "text": "Butthurt.",
+      "renderHtml": false
+    },
+    {
+      "text": "Broccoli trees.",
+      "renderHtml": false
+    },
+    {
+      "text": "Cape and Cowl.",
+      "renderHtml": false
+    },
+    {
+      "text": "Calling long-distance to demand tags from your RP partner.",
+      "renderHtml": false
+    },
+    {
+      "text": "Chronic Lyme disease.",
+      "renderHtml": false
+    },
+    {
+      "text": "Changed.",
+      "renderHtml": false
+    },
+    {
+      "text": "Exit Void.",
+      "renderHtml": false
+    },
+    {
+      "text": "Everyone turning into ponies.",
+      "renderHtml": false
+    },
+    {
+      "text": "Entranceway.",
+      "renderHtml": false
+    },
+    {
+      "text": "An incest ship.",
+      "renderHtml": false
+    },
+    {
+      "text": "ECATS? CAT DESK? WE SCAT?",
+      "renderHtml": false
+    },
+    {
+      "text": "Dropping the thread after two tags because it sucks.",
+      "renderHtml": false
+    },
+    {
+      "text": "Drama Drama Duck.",
+      "renderHtml": false
+    },
+    {
+      "text": "Discedo.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dear Mun.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dean/Goku.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dangan Ronpa's crazy fandom.",
+      "renderHtml": false
+    },
+    {
+      "text": "Constructive criticism.",
+      "renderHtml": false
+    },
+    {
+      "text": "Cockhopping.",
+      "renderHtml": false
+    },
+    {
+      "text": "Cloud being eaten by a chocobo.",
+      "renderHtml": false
+    },
+    {
+      "text": "City of Ariel.",
+      "renderHtml": false
+    },
+    {
+      "text": "Circlejerking.",
+      "renderHtml": false
+    },
+    {
+      "text": "Holly Heights.",
+      "renderHtml": false
+    },
+    {
+      "text": "Homestuck's insane fandom.",
+      "renderHtml": false
+    },
+    {
+      "text": "Highlandering.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hitting the cervix with your dick.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hetalia's annoying fandom.",
+      "renderHtml": false
+    },
+    {
+      "text": "High Seas.",
+      "renderHtml": false
+    },
+    {
+      "text": "Haven.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hellion.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fucking that chicken.",
+      "renderHtml": false
+    },
+    {
+      "text": "Generic white male actor PBs.",
+      "renderHtml": false
+    },
+    {
+      "text": "Feeling like the only one.",
+      "renderHtml": false
+    },
+    {
+      "text": "Flouncing. The more dramatic, the better.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fad fandoms.",
+      "renderHtml": false
+    },
+    {
+      "text": "Falling in love with your RP partner.",
+      "renderHtml": false
+    },
+    {
+      "text": "Exsilium.",
+      "renderHtml": false
+    },
+    {
+      "text": "FACT IT!",
+      "renderHtml": false
+    },
+    {
+      "text": "Nymphomanic werewolf Rei Ayanami. On rollerskates.",
+      "renderHtml": false
+    },
+    {
+      "text": "Not posting deets.",
+      "renderHtml": false
+    },
+    {
+      "text": "One-word replies.",
+      "renderHtml": false
+    },
+    {
+      "text": "One-pixel borders.",
+      "renderHtml": false
+    },
+    {
+      "text": "Musedumping.",
+      "renderHtml": false
+    },
+    {
+      "text": "Mpreg.",
+      "renderHtml": false
+    },
+    {
+      "text": "Needing to lei down.",
+      "renderHtml": false
+    },
+    {
+      "text": "Neckbeards.",
+      "renderHtml": false
+    },
+    {
+      "text": "lol so randumb!!!!111 XD",
+      "renderHtml": false
+    },
+    {
+      "text": "Literally shaking and crying.",
+      "renderHtml": false
+    },
+    {
+      "text": "Luceti.",
+      "renderHtml": false
+    },
+    {
+      "text": "Lovingly describing your character's throbbing cock.",
+      "renderHtml": false
+    },
+    {
+      "text": "Icons that aren't 100x100.",
+      "renderHtml": false
+    },
+    {
+      "text": "Icon elitism.",
+      "renderHtml": false
+    },
+    {
+      "text": "Legbeards.",
+      "renderHtml": false
+    },
+    {
+      "text": "Kink shaming.",
+      "renderHtml": false
+    },
+    {
+      "text": "Replying to everyone on ATP because you're just that desperate.",
+      "renderHtml": false
+    },
+    {
+      "text": "Reserving a popular character and never apping.",
+      "renderHtml": false
+    },
+    {
+      "text": "Roleplaying One Direction slash.",
+      "renderHtml": false
+    },
+    {
+      "text": "Route 29.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pretentious, illegible formatting.",
+      "renderHtml": false
+    },
+    {
+      "text": "Queefing on someone's dick.",
+      "renderHtml": false
+    },
+    {
+      "text": "Rebutle.",
+      "renderHtml": false
+    },
+    {
+      "text": "Renne.",
+      "renderHtml": false
+    },
+    {
+      "text": "Only playing for ships.",
+      "renderHtml": false
+    },
+    {
+      "text": "Polychromatic.",
+      "renderHtml": false
+    },
+    {
+      "text": "Posting to Wankgate logged in.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pregnancy plots.",
+      "renderHtml": false
+    },
+    {
+      "text": "Paradisa.",
+      "renderHtml": false
+    },
+    {
+      "text": "Passive-aggressive editing.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pigeon superpowers.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pillow queens.",
+      "renderHtml": false
+    },
+    {
+      "text": "Signal boosting an obvious hoax.",
+      "renderHtml": false
+    },
+    {
+      "text": "Shounen retards.",
+      "renderHtml": false
+    },
+    {
+      "text": "Scrambling to pass AC at the last minute.",
+      "renderHtml": false
+    },
+    {
+      "text": "Scathing anonymous criticism.",
+      "renderHtml": false
+    },
+    {
+      "text": "Springing rape scenarios on people without asking.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sora and Emperor Palpatine in an awkward, skeezy relationship.",
+      "renderHtml": false
+    },
+    {
+      "text": "Social justice warriors.",
+      "renderHtml": false
+    },
+    {
+      "text": "Slacktivism.",
+      "renderHtml": false
+    },
+    {
+      "text": "Rushing to dear_mun to post about the latest global tragedy in-character.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ruby City.",
+      "renderHtml": false
+    },
+    {
+      "text": "RPAnons.",
+      "renderHtml": false
+    },
+    {
+      "text": "Roxanne Ritchie's vagina.",
+      "renderHtml": false
+    },
+    {
+      "text": "Save The Earth.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sample prompts.",
+      "renderHtml": false
+    },
+    {
+      "text": "Obviously sameanoning.",
+      "renderHtml": false
+    },
+    {
+      "text": "St-stuttered t-typing.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Love Hotel.",
+      "renderHtml": false
+    },
+    {
+      "text": "The medium divide.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Box.",
+      "renderHtml": false
+    },
+    {
+      "text": "The dominate one.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Royal Baby.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Salkia Island award.",
+      "renderHtml": false
+    },
+    {
+      "text": "The myriad of songs you associate with your OTP.",
+      "renderHtml": false
+    },
+    {
+      "text": "The paid account fairy.",
+      "renderHtml": false
+    },
+    {
+      "text": "Surprise futa.",
+      "renderHtml": false
+    },
+    {
+      "text": "Tag nirvana.",
+      "renderHtml": false
+    },
+    {
+      "text": "Stormy's latest alias.",
+      "renderHtml": false
+    },
+    {
+      "text": "Superwholockvengers.",
+      "renderHtml": false
+    },
+    {
+      "text": "That Kronk.",
+      "renderHtml": false
+    },
+    {
+      "text": "That Patchouli.",
+      "renderHtml": false
+    },
+    {
+      "text": "Tentabulge headcanons.",
+      "renderHtml": false
+    },
+    {
+      "text": "Terminal Tokyo.",
+      "renderHtml": false
+    },
+    {
+      "text": "Two years' worth of semen.",
+      "renderHtml": false
+    },
+    {
+      "text": "Two lonely neckbeards playing out futa together because nobody else will.",
+      "renderHtml": false
+    },
+    {
+      "text": "Unironically using the word \"kawaii\".",
+      "renderHtml": false
+    },
+    {
+      "text": "tYPING LIKE THIS???????? oH MY GKFOODODD??????",
+      "renderHtml": false
+    },
+    {
+      "text": "Username squatting.",
+      "renderHtml": false
+    },
+    {
+      "text": "Username elitism.",
+      "renderHtml": false
+    },
+    {
+      "text": "Viewing anoncomms in flat-view like a heathen.",
+      "renderHtml": false
+    },
+    {
+      "text": "Vatheon.",
+      "renderHtml": false
+    },
+    {
+      "text": "TL;DR.",
+      "renderHtml": false
+    },
+    {
+      "text": "The whole game jumping on the villain before they have a chance to be villainous.",
+      "renderHtml": false
+    },
+    {
+      "text": "Touhou lesbians nobody wants to play with.",
+      "renderHtml": false
+    },
+    {
+      "text": "TMI public plurks.",
+      "renderHtml": false
+    },
+    {
+      "text": "Tryhards.",
+      "renderHtml": false
+    },
+    {
+      "text": "Tower of Animus.",
+      "renderHtml": false
+    },
+    {
+      "text": "Tumblrinas.",
+      "renderHtml": false
+    },
+    {
+      "text": "Tittybabies.",
+      "renderHtml": false
+    },
+    {
+      "text": "Wrapping your hands around a penis and twisting in opposite directions.",
+      "renderHtml": false
+    },
+    {
+      "text": "Yaoi.",
+      "renderHtml": false
+    },
+    {
+      "text": "Zodion.",
+      "renderHtml": false
+    },
+    {
+      "text": "Visualosities.",
+      "renderHtml": false
+    },
+    {
+      "text": "Wank terriers.",
+      "renderHtml": false
+    },
+    {
+      "text": "Wankgate.",
+      "renderHtml": false
+    },
+    {
+      "text": "Wanking about games you aren't in.",
+      "renderHtml": false
+    },
+    {
+      "text": "Wanking about a private musebox.",
+      "renderHtml": false
+    },
+    {
+      "text": "wgar.",
+      "renderHtml": false
+    },
+    {
+      "text": "Whiteknighting.",
+      "renderHtml": false
+    },
+    {
+      "text": "Whoremongers.",
+      "renderHtml": false
+    }
+  ]
+}

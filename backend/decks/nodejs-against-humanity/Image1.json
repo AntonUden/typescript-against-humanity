@@ -1,0 +1,210 @@
+{
+  "source": 0,
+  "order": 38,
+  "displayName": "[C] Joey Image 1",
+  "name": "Image1",
+  "whiteCards": [
+    {
+      "text": "I just met you and this is crazy, but here's _, so _ maybe",
+      "pick": 2
+    },
+    {
+      "text": "It's only _ if you get caught!",
+      "pick": 1
+    },
+    {
+      "text": "_: The Next Generation",
+      "pick": 1
+    },
+    {
+      "text": "Terminator 4: _",
+      "pick": 1
+    },
+    {
+      "text": "Disney presents _ on ice!",
+      "pick": 1
+    },
+    {
+      "text": "_. The other white meat.",
+      "pick": 1
+    },
+    {
+      "text": "A _ a day keeps the _ away.",
+      "pick": 2
+    },
+    {
+      "text": "I'm sweating like a _ at a _.",
+      "pick": 2
+    },
+    {
+      "text": "I love the smell of _ in the morning.",
+      "pick": 1
+    },
+    {
+      "text": "You're not gonna believe this, but _.",
+      "pick": 1
+    },
+    {
+      "text": "_. All the cool kids are doing it.",
+      "pick": 1
+    },
+    {
+      "text": "So I was _ in my cubicle at work, and suddenly _!",
+      "pick": 2
+    },
+    {
+      "text": "Baskin Robbins just added a 32nd flavor: _!",
+      "pick": 1
+    },
+    {
+      "text": "I can drive and _ at the same time.",
+      "pick": 1
+    },
+    {
+      "text": "_ ain't nothin' to fuck wit'!",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "A freshly-filled diaper",
+      "renderHtml": false
+    },
+    {
+      "text": "Glue",
+      "renderHtml": false
+    },
+    {
+      "text": "An unusually-attractive transvestite",
+      "renderHtml": false
+    },
+    {
+      "text": "Hand-me-down adult diapers",
+      "renderHtml": false
+    },
+    {
+      "text": "A stillborn fetus",
+      "renderHtml": false
+    },
+    {
+      "text": "A disgraced pelican",
+      "renderHtml": false
+    },
+    {
+      "text": "Three buckets of urine, free for 2 nights, with no late fee",
+      "renderHtml": false
+    },
+    {
+      "text": "My testicles",
+      "renderHtml": false
+    },
+    {
+      "text": "A black woman's vagina",
+      "renderHtml": false
+    },
+    {
+      "text": "My asshole",
+      "renderHtml": false
+    },
+    {
+      "text": "A whale's blowhole",
+      "renderHtml": false
+    },
+    {
+      "text": "2 Girls 1 Cup",
+      "renderHtml": false
+    },
+    {
+      "text": "The Big Bang Theory (TV)",
+      "renderHtml": false
+    },
+    {
+      "text": "Teen pregnancy",
+      "renderHtml": false
+    },
+    {
+      "text": "Ass hair",
+      "renderHtml": false
+    },
+    {
+      "text": "Vaginal warts",
+      "renderHtml": false
+    },
+    {
+      "text": "Ellen Degeneres",
+      "renderHtml": false
+    },
+    {
+      "text": "Jews Against Humanity",
+      "renderHtml": false
+    },
+    {
+      "text": "Indy wrestling",
+      "renderHtml": false
+    },
+    {
+      "text": "Cunt",
+      "renderHtml": false
+    },
+    {
+      "text": "Beating a crowd of delightful parents to death with a steel dildo",
+      "renderHtml": false
+    },
+    {
+      "text": "Beating a crowd of delightful parents to death with a steel dildo while dressed as Ru Paul's brother, Ron.",
+      "renderHtml": false
+    },
+    {
+      "text": "A roll in the hay",
+      "renderHtml": false
+    },
+    {
+      "text": "\"Get 'em, Steve-Dave!\"",
+      "renderHtml": false
+    },
+    {
+      "text": "God Hates You",
+      "renderHtml": false
+    },
+    {
+      "text": "Manboobs.",
+      "renderHtml": false
+    },
+    {
+      "text": "Daniel Benoit",
+      "renderHtml": false
+    },
+    {
+      "text": "Vomiting in the shower",
+      "renderHtml": false
+    },
+    {
+      "text": "An intellectually superior overlord",
+      "renderHtml": false
+    },
+    {
+      "text": "Dwight Schrute",
+      "renderHtml": false
+    },
+    {
+      "text": "Casey Anthony",
+      "renderHtml": false
+    },
+    {
+      "text": "Clubbin seals",
+      "renderHtml": false
+    },
+    {
+      "text": "Stunt cock",
+      "renderHtml": false
+    },
+    {
+      "text": "Anal lice",
+      "renderHtml": false
+    },
+    {
+      "text": "Lightsaber Dildos",
+      "renderHtml": false
+    }
+  ]
+}

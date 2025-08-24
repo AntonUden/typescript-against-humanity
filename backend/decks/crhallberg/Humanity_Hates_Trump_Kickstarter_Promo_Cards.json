@@ -1,0 +1,28 @@
+{
+  "order": 154,
+  "displayName": "Humanity Hates Trump: Kickstarter Promo Cards",
+  "name": "Humanity_Hates_Trump_Kickstarter_Promo_Cards",
+  "whiteCards": [],
+  "blackCards": [
+    {
+      "text": "Accidentally referring to \"the gays\".",
+      "renderHtml": false
+    },
+    {
+      "text": "Hillary's private email server filled with \"Government Classified Animal Porn\".",
+      "renderHtml": false
+    },
+    {
+      "text": "Not NOT supporting the KKK.",
+      "renderHtml": false
+    },
+    {
+      "text": "Trumps fatherly love for his daughters \"bangin' body.",
+      "renderHtml": false
+    },
+    {
+      "text": "Vladimir Putin making love to a Siberian tiger.",
+      "renderHtml": false
+    }
+  ]
+}

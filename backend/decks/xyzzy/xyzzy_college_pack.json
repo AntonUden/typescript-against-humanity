@@ -1,0 +1,129 @@
+{
+  "order": 14,
+  "displayName": "College Pack",
+  "name": "xyzzy_college_pack",
+  "whiteCards": [
+    {
+      "text": "All classes today are canceled due to ____.",
+      "pick": 1
+    },
+    {
+      "text": "Did you know? Our college was recently named the #1 school for ____!",
+      "pick": 1
+    },
+    {
+      "text": "The Department of Psychology is looking for paid research volunteers. Are you 18-25 and suffering from ____?",
+      "pick": 1
+    },
+    {
+      "text": "In this paper, I will explore ____ from a feminist perspective.",
+      "pick": 1
+    },
+    {
+      "text": "My memory of last night is pretty hazy. I remember ____ and that's pretty much it.",
+      "pick": 1
+    },
+    {
+      "text": "Pledges! Time to prove you're Delta Phi material. Chug this beer, take off your shirts, and get ready for ____.",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "Performative wokeness.",
+      "renderHtml": false
+    },
+    {
+      "text": "The sound of my roommate masturbating.",
+      "renderHtml": false
+    },
+    {
+      "text": "Rocking a 1.5 GPA.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pretending to have done the reading.",
+      "renderHtml": false
+    },
+    {
+      "text": "Throw up.",
+      "renderHtml": false
+    },
+    {
+      "text": "Uggs, leggings, and a North Face.",
+      "renderHtml": false
+    },
+    {
+      "text": "Valuable leadership experience.",
+      "renderHtml": false
+    },
+    {
+      "text": "Whichever one of you took a shit in the shower.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fucking the beat boxer from the a cappella group.",
+      "renderHtml": false
+    },
+    {
+      "text": "Five morons signing a lease together.",
+      "renderHtml": false
+    },
+    {
+      "text": "Googling how to eat pussy.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sucking a flaccid penis for 20 minutes.",
+      "renderHtml": false
+    },
+    {
+      "text": "My high school boyfriend.",
+      "renderHtml": false
+    },
+    {
+      "text": "A bachelor's degree in communications.",
+      "renderHtml": false
+    },
+    {
+      "text": "Calling mom because it's just really hard and I miss her and I don't know anyone here.",
+      "renderHtml": false
+    },
+    {
+      "text": "Wandering the streets in search of a party.",
+      "renderHtml": false
+    },
+    {
+      "text": "Underage drinking.",
+      "renderHtml": false
+    },
+    {
+      "text": "Young Republicans.",
+      "renderHtml": false
+    },
+    {
+      "text": "A Yale man.",
+      "renderHtml": false
+    },
+    {
+      "text": "An emergency all-floor meeting of inclusion.",
+      "renderHtml": false
+    },
+    {
+      "text": "Going to college and becoming a new person, who has sex.",
+      "renderHtml": false
+    },
+    {
+      "text": "How many Asians there are.",
+      "renderHtml": false
+    },
+    {
+      "text": "A girl who is so interesting that she has blue hair.",
+      "renderHtml": false
+    },
+    {
+      "text": "Falling in love with poetry.",
+      "renderHtml": false
+    }
+  ]
+}

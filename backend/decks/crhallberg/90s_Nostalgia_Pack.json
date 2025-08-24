@@ -1,0 +1,137 @@
+{
+  "order": 4,
+  "displayName": "90s Nostalgia Pack",
+  "name": "90s_Nostalgia_Pack",
+  "whiteCards": [
+    {
+      "text": "Believe it or not Jim Carrey can do a dead-on impression of _.",
+      "pick": 1
+    },
+    {
+      "text": "How did Stella get her groove back?",
+      "pick": 1
+    },
+    {
+      "text": "I'm a bitch, I'm a lover, I'm a child, I'm _.",
+      "pick": 1
+    },
+    {
+      "text": "It's Morphin' Time! Mastodon! Pterodactyl! Triceratops! Sabertooth Tiger! _!",
+      "pick": 1
+    },
+    {
+      "text": "Siskel and Ebert have panned _ as \"poorly conceived\" and \"sloppily executed.\"",
+      "pick": 1
+    },
+    {
+      "text": "Tonight on SNICK: \"Are You Afriad of _?",
+      "pick": 1
+    },
+    {
+      "text": "Up next on Nickelodeon: \"Clarissa Explains _.\"",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "A bus that will explode if it goes under 50 miles per hour.",
+      "renderHtml": false
+    },
+    {
+      "text": "A mulatto, an albino, a mosquito, and my libido.",
+      "renderHtml": false
+    },
+    {
+      "text": "A threesome with 1996 Denise Richards and 1999 Denise Richards.",
+      "renderHtml": false
+    },
+    {
+      "text": "Angels interfering in an otherwise fair baseball game.",
+      "renderHtml": false
+    },
+    {
+      "text": "Cool 90s up-in-the-front hair.",
+      "renderHtml": false
+    },
+    {
+      "text": "Deregulating the mortgage market.",
+      "renderHtml": false
+    },
+    {
+      "text": "Freeing Willy.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting caught up in the CROSSFIRE™.",
+      "renderHtml": false
+    },
+    {
+      "text": "Jerking off to a 10-second RealMedia clip.",
+      "renderHtml": false
+    },
+    {
+      "text": "Kurt Cobain's death.",
+      "renderHtml": false
+    },
+    {
+      "text": "Liking big butts and not being able to lie about it.",
+      "renderHtml": false
+    },
+    {
+      "text": "Log™.",
+      "renderHtml": false
+    },
+    {
+      "text": "Painting with all the colors of the wind.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pamela Anderson's boobs running in slow motion.",
+      "renderHtml": false
+    },
+    {
+      "text": "Patti Mayonnaise.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pizza in the morning, pizza in the evening, pizza at supper time.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pure Moods, Vol. 1.",
+      "renderHtml": false
+    },
+    {
+      "text": "Several Michael Keatons",
+      "renderHtml": false
+    },
+    {
+      "text": "Stabbing the shit out of a Capri Sun.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sucking the president's dick.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sunny D! Alright!",
+      "renderHtml": false
+    },
+    {
+      "text": "The Great Cornholio.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Y2K bug.",
+      "renderHtml": false
+    },
+    {
+      "text": "Wearing Nicolas Cage's face.",
+      "renderHtml": false
+    },
+    {
+      "text": "Yelling \"girl power!\" and doing a high kick.",
+      "renderHtml": false
+    }
+  ]
+}

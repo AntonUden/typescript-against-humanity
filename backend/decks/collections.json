@@ -1,0 +1,27 @@
+[
+  {
+    "name": "xyzzy",
+    "displayName": "Pretend You're Xyzzy",
+    "description": "These packs where taken from here <a href=\"https://pretendyoure.xyz/zy/\">https://pretendyoure.xyz/zy/</a>"
+  },
+  {
+    "name": "nodejs-against-humanity",
+    "displayName": "NodeJS Against humanity",
+    "description": "These packs where taken from here <a href=\"https://github.com/amirrajan/nodejs-against-humanity\">https://github.com/amirrajan/nodejs-against-humanity</a>"
+  },
+  {
+    "name": "crhallberg",
+    "displayName": "crhallberg",
+    "description": "These packs where taken from here <a href=\"https://crhallberg.com/cah/\">https://crhallberg.com/cah/</a>"
+  },
+  {
+    "name": "misc",
+    "displayName": "Other",
+    "description": "Miscellaneous expansions"
+  },
+  {
+    "name": "custom",
+    "displayName": "Custom",
+    "description": "Custom expansions added by the server host"
+  }
+]

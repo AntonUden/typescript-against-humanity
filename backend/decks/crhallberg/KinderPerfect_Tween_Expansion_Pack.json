@@ -1,0 +1,405 @@
+{
+  "order": 164,
+  "displayName": "KinderPerfect: Tween Expansion Pack",
+  "name": "KinderPerfect_Tween_Expansion_Pack",
+  "whiteCards": [
+    {
+      "text": "_ is the moment my kid lost their innocence.",
+      "pick": 1
+    },
+    {
+      "text": "_ is why I have gray hair now.",
+      "pick": 1
+    },
+    {
+      "text": "_ is why I'm not a chaperon.",
+      "pick": 1
+    },
+    {
+      "text": "_ is worse than _.",
+      "pick": 2
+    },
+    {
+      "text": "Before they were teenagers, my biggest worry was _, but now I fear _.",
+      "pick": 2
+    },
+    {
+      "text": "For such a \"know-it-all\" tween, they were not ready for _.",
+      "pick": 1
+    },
+    {
+      "text": "Graduation should put an end to _.",
+      "pick": 1
+    },
+    {
+      "text": "How you found out you're no longer the cool parent.",
+      "pick": 1
+    },
+    {
+      "text": "I can't wait for my kids to outgrow _.",
+      "pick": 1
+    },
+    {
+      "text": "I told myself I'd be the cool parent and accept _, but I was wrong.",
+      "pick": 1
+    },
+    {
+      "text": "I'm afraid to talk to my kids about _.",
+      "pick": 1
+    },
+    {
+      "text": "No one warned me about tweens and _.",
+      "pick": 1
+    },
+    {
+      "text": "Other parents worry about _ but I stress over _.",
+      "pick": 2
+    },
+    {
+      "text": "Parenting is all fun and games until _.",
+      "pick": 1
+    },
+    {
+      "text": "The best part of having a teenager is _.",
+      "pick": 1
+    },
+    {
+      "text": "The fastest route to parental PTSD.",
+      "pick": 1
+    },
+    {
+      "text": "The fastest way to embarrass your kids is to tell their friends about _.",
+      "pick": 1
+    },
+    {
+      "text": "The real reason they don't want to go to school today.",
+      "pick": 1
+    },
+    {
+      "text": "The school counselor wants to talk to us about _.",
+      "pick": 1
+    },
+    {
+      "text": "Today's annoying attitude is brought to you by _.",
+      "pick": 1
+    },
+    {
+      "text": "Why I don't snoop in their room anymore.",
+      "pick": 1
+    },
+    {
+      "text": "Why our kid is slamming doors today.",
+      "pick": 1
+    },
+    {
+      "text": "Why our kids cannot have co-ed sleepovers.",
+      "pick": 1
+    },
+    {
+      "text": "Why we are the meanest parents on earth.",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "A call from the police",
+      "renderHtml": false
+    },
+    {
+      "text": "A mysteriously deleted browser history",
+      "renderHtml": false
+    },
+    {
+      "text": "A postiive STD test",
+      "renderHtml": false
+    },
+    {
+      "text": "A skirt too short",
+      "renderHtml": false
+    },
+    {
+      "text": "Acne",
+      "renderHtml": false
+    },
+    {
+      "text": "An encyclopedic knowledge of pop music but no clue about algebra",
+      "renderHtml": false
+    },
+    {
+      "text": "An uncontrollable erection",
+      "renderHtml": false
+    },
+    {
+      "text": "Annoying Snapchat filters",
+      "renderHtml": false
+    },
+    {
+      "text": "Arguing about their hygiene",
+      "renderHtml": false
+    },
+    {
+      "text": "Awkward gym showers",
+      "renderHtml": false
+    },
+    {
+      "text": "Awkward sex conversations",
+      "renderHtml": false
+    },
+    {
+      "text": "AXE deodorant spray clouds",
+      "renderHtml": false
+    },
+    {
+      "text": "Being the \"hangout house\"",
+      "renderHtml": false
+    },
+    {
+      "text": "Being too cool for mom",
+      "renderHtml": false
+    },
+    {
+      "text": "Catching them shoplifting from the 7-11",
+      "renderHtml": false
+    },
+    {
+      "text": "Choosing a high school for its sports team",
+      "renderHtml": false
+    },
+    {
+      "text": "Code phrases to signify menstrual periods",
+      "renderHtml": false
+    },
+    {
+      "text": "Counting the days until they move out",
+      "renderHtml": false
+    },
+    {
+      "text": "Crushing birth control pills into her breakfast every morning",
+      "renderHtml": false
+    },
+    {
+      "text": "Debating your closely held beliefs with a skeptical tween",
+      "renderHtml": false
+    },
+    {
+      "text": "Demanding an end to video game addiction",
+      "renderHtml": false
+    },
+    {
+      "text": "Expecting abstinence",
+      "renderHtml": false
+    },
+    {
+      "text": "Explaining the news to a smart-ass teen",
+      "renderHtml": false
+    },
+    {
+      "text": "Finding out your son is a peeping tom",
+      "renderHtml": false
+    },
+    {
+      "text": "Finding their profile on Tinder",
+      "renderHtml": false
+    },
+    {
+      "text": "Finding their secret social media profile",
+      "renderHtml": false
+    },
+    {
+      "text": "Finding your teen at the local strip club",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting high with your teen",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting revenge by changing the Wi-Fi password",
+      "renderHtml": false
+    },
+    {
+      "text": "Giving them \"the talk\"",
+      "renderHtml": false
+    },
+    {
+      "text": "Halloween costumes that cross the line",
+      "renderHtml": false
+    },
+    {
+      "text": "Her first time wearing makeup",
+      "renderHtml": false
+    },
+    {
+      "text": "Hiding the phone chargers to get them to do their homework",
+      "renderHtml": false
+    },
+    {
+      "text": "His first attempt at a mustache",
+      "renderHtml": false
+    },
+    {
+      "text": "His first box of condoms",
+      "renderHtml": false
+    },
+    {
+      "text": "Junior high drama",
+      "renderHtml": false
+    },
+    {
+      "text": "Learning how to twerk from your teen",
+      "renderHtml": false
+    },
+    {
+      "text": "Maxing out the credit card in one weekend",
+      "renderHtml": false
+    },
+    {
+      "text": "Middle school flashbacks",
+      "renderHtml": false
+    },
+    {
+      "text": "Oversharing on social media",
+      "renderHtml": false
+    },
+    {
+      "text": "Passing the driver's license test",
+      "renderHtml": false
+    },
+    {
+      "text": "Peach fuzz pubes",
+      "renderHtml": false
+    },
+    {
+      "text": "Pretending to enjoy their school concerts",
+      "renderHtml": false
+    },
+    {
+      "text": "Puberty",
+      "renderHtml": false
+    },
+    {
+      "text": "Realizing they are growing up to be just like you",
+      "renderHtml": false
+    },
+    {
+      "text": "Relearning algebra to help them with homework",
+      "renderHtml": false
+    },
+    {
+      "text": "School friends' uneducated views on sex",
+      "renderHtml": false
+    },
+    {
+      "text": "Slamming doors",
+      "renderHtml": false
+    },
+    {
+      "text": "Stealing your kid's weed",
+      "renderHtml": false
+    },
+    {
+      "text": "Taking pride in their acceptance by the cool kids",
+      "renderHtml": false
+    },
+    {
+      "text": "Teaching them how to properly stab their best friend in the back",
+      "renderHtml": false
+    },
+    {
+      "text": "That time they got caught smoking in the school bathroom",
+      "renderHtml": false
+    },
+    {
+      "text": "The ability to embarrass a teen anytime, anywhere",
+      "renderHtml": false
+    },
+    {
+      "text": "The constant narration of imaginary YouTube videos",
+      "renderHtml": false
+    },
+    {
+      "text": "The drama of being chosen last at gym",
+      "renderHtml": false
+    },
+    {
+      "text": "The first time they say \"because you're, like, old\"",
+      "renderHtml": false
+    },
+    {
+      "text": "The groping teen",
+      "renderHtml": false
+    },
+    {
+      "text": "The horror of a bad selfie",
+      "renderHtml": false
+    },
+    {
+      "text": "The horrors of middle school band",
+      "renderHtml": false
+    },
+    {
+      "text": "The life-changing drama of today's breakup",
+      "renderHtml": false
+    },
+    {
+      "text": "The Parents' Homework Hotline",
+      "renderHtml": false
+    },
+    {
+      "text": "The squeaky voice of puberty",
+      "renderHtml": false
+    },
+    {
+      "text": "The sudden interest in the opposite sex",
+      "renderHtml": false
+    },
+    {
+      "text": "The unrelenting attitude that crushes any sanity you have left",
+      "renderHtml": false
+    },
+    {
+      "text": "Their diet of cereal, ramen, pizza, and a gallon of milk every day",
+      "renderHtml": false
+    },
+    {
+      "text": "Their sh*tty taste in music",
+      "renderHtml": false
+    },
+    {
+      "text": "Their sudden recognition of dirty jokes",
+      "renderHtml": false
+    },
+    {
+      "text": "Their taste in teen movies",
+      "renderHtml": false
+    },
+    {
+      "text": "True love! For the third time this week",
+      "renderHtml": false
+    },
+    {
+      "text": "Two hour showers",
+      "renderHtml": false
+    },
+    {
+      "text": "Watching their eyes glaze over when you start talking",
+      "renderHtml": false
+    },
+    {
+      "text": "Wearing ear plugs to the tween pop concert",
+      "renderHtml": false
+    },
+    {
+      "text": "Wishing they'd waste weekends playing Dungeons and Dragons like you did",
+      "renderHtml": false
+    },
+    {
+      "text": "Wondering how your parents ever survived your teen years",
+      "renderHtml": false
+    },
+    {
+      "text": "Wondering whose thing is in the wash",
+      "renderHtml": false
+    }
+  ]
+}

@@ -1,0 +1,2345 @@
+{
+  "order": 180,
+  "displayName": "Rotten Apples: The Tasteless Adult Party Game",
+  "name": "Rotten_Apples_The_Tasteless_Adult_Party_Game",
+  "whiteCards": [
+    {
+      "text": "_ and _ = heaven on Earth",
+      "pick": 2
+    },
+    {
+      "text": "_ and _: may they never meet.",
+      "pick": 2
+    },
+    {
+      "text": "_ and loneliness are a dangerous combination.",
+      "pick": 1
+    },
+    {
+      "text": "_ can be too much of a good thing.",
+      "pick": 1
+    },
+    {
+      "text": "_ is a well-known sign of virility.",
+      "pick": 1
+    },
+    {
+      "text": "_ makes me feel like the most desirable person in the world.",
+      "pick": 1
+    },
+    {
+      "text": "_ should be grounds for a national holiday.",
+      "pick": 1
+    },
+    {
+      "text": "_ will be the downfall of Western Civilization.",
+      "pick": 1
+    },
+    {
+      "text": "_ will make anyone seem more attractive.",
+      "pick": 1
+    },
+    {
+      "text": "_: Best when a little bit sweaty.",
+      "pick": 1
+    },
+    {
+      "text": "_? Even I wouldn't go there.",
+      "pick": 1
+    },
+    {
+      "text": "_? That's a dealbreaker.",
+      "pick": 1
+    },
+    {
+      "text": "_? Totally overrated.",
+      "pick": 1
+    },
+    {
+      "text": "According to my doctor, I have a problem with _.",
+      "pick": 1
+    },
+    {
+      "text": "After a long day, don't you just want _.",
+      "pick": 1
+    },
+    {
+      "text": "All you need is _.",
+      "pick": 1
+    },
+    {
+      "text": "Am I the only one to admit that I hate _?",
+      "pick": 1
+    },
+    {
+      "text": "Any movie can be improved by the presence of _.",
+      "pick": 1
+    },
+    {
+      "text": "Aply liberally three times a day to reduce _.",
+      "pick": 1
+    },
+    {
+      "text": "Beware of Greeks bearing _.",
+      "pick": 1
+    },
+    {
+      "text": "Chocolate, flowers, and _.",
+      "pick": 1
+    },
+    {
+      "text": "Choosey mothers choose _.",
+      "pick": 1
+    },
+    {
+      "text": "Don't hate me because I'm _.",
+      "pick": 1
+    },
+    {
+      "text": "Don't tease me about _. It's a very sensitive subject.",
+      "pick": 1
+    },
+    {
+      "text": "Even if you've only met me one time, you would associate me with _.",
+      "pick": 1
+    },
+    {
+      "text": "Everyone thinks I'm all about _, and for the most part they're right.",
+      "pick": 1
+    },
+    {
+      "text": "Eww! Gross! _!",
+      "pick": 1
+    },
+    {
+      "text": "I admit it, I'm jealous of _.",
+      "pick": 1
+    },
+    {
+      "text": "I can never choose between _ and _.",
+      "pick": 2
+    },
+    {
+      "text": "I can't be friends with people who are interested in _.",
+      "pick": 1
+    },
+    {
+      "text": "I can't believe I ate _.",
+      "pick": 1
+    },
+    {
+      "text": "I got my current job through _.",
+      "pick": 1
+    },
+    {
+      "text": "I had a terrible nightmare about _ and _.",
+      "pick": 2
+    },
+    {
+      "text": "I had the time of my life and I owe it all to _.",
+      "pick": 1
+    },
+    {
+      "text": "I have a complicated history with _.",
+      "pick": 1
+    },
+    {
+      "text": "I have a secret talent. All I can say is that it has to do with _.",
+      "pick": 1
+    },
+    {
+      "text": "I just don't want my obituary to include the phrase _.",
+      "pick": 1
+    },
+    {
+      "text": "I knew it would be a legendary night once _ showed up.",
+      "pick": 1
+    },
+    {
+      "text": "I love the smell of _ in the morning.",
+      "pick": 1
+    },
+    {
+      "text": "I may forget a name, I may forget a face, but I never forget _.",
+      "pick": 1
+    },
+    {
+      "text": "I use to _ in a way that would make you blush.",
+      "pick": 1
+    },
+    {
+      "text": "I used to get in trouble for playing with _.",
+      "pick": 1
+    },
+    {
+      "text": "I wish _ didn't remind me of _.",
+      "pick": 2
+    },
+    {
+      "text": "I wish I could give _ to _.",
+      "pick": 2
+    },
+    {
+      "text": "I would do anything for love but I won't do _.",
+      "pick": 1
+    },
+    {
+      "text": "I would never admit this in public, but I've never experienced _.",
+      "pick": 1
+    },
+    {
+      "text": "I'd love to celebrate hump day with _.",
+      "pick": 1
+    },
+    {
+      "text": "I'll admit it. I'm turned on by _.",
+      "pick": 1
+    },
+    {
+      "text": "I'm lucky you can't read my mind, because the only thing I'm thinking about right now is _.",
+      "pick": 1
+    },
+    {
+      "text": "I'm not ashamed of _.",
+      "pick": 1
+    },
+    {
+      "text": "I'm sorry, but I don't hate people whose only concern is _.",
+      "pick": 1
+    },
+    {
+      "text": "I'm stressing more about _ than I am about _ right now. It should really be the opposite.",
+      "pick": 2
+    },
+    {
+      "text": "I'm thinking of calling my memoir \"Life, the Universe, and _\".",
+      "pick": 1
+    },
+    {
+      "text": "I've never lost my faith in _.",
+      "pick": 1
+    },
+    {
+      "text": "If I could take something to a dessert island, I'd take _.",
+      "pick": 1
+    },
+    {
+      "text": "If I had just one wish it would be for _.",
+      "pick": 1
+    },
+    {
+      "text": "If I had my way, everybody would be required to learn about _ before graduating the 8th grade.",
+      "pick": 1
+    },
+    {
+      "text": "If I were a mad scientist, I'd try to combine _ and _.",
+      "pick": 2
+    },
+    {
+      "text": "If I won the lottery, first I'd buy _.",
+      "pick": 1
+    },
+    {
+      "text": "If my partner ever dressed up like _, I wouldn't be able to keep my hands off them.",
+      "pick": 1
+    },
+    {
+      "text": "If there's one thing I know about, it's _.",
+      "pick": 1
+    },
+    {
+      "text": "If this were my last night on earth, I'd want to spend it with _.",
+      "pick": 1
+    },
+    {
+      "text": "If you can't handle _, then this job just isn't for you.",
+      "pick": 1
+    },
+    {
+      "text": "If you want someone to leave you alone, just tell them about _.",
+      "pick": 1
+    },
+    {
+      "text": "If you've got _ flaunt it.",
+      "pick": 1
+    },
+    {
+      "text": "In my life, there's always room for more _.",
+      "pick": 1
+    },
+    {
+      "text": "In my school, my unofficial major was _.",
+      "pick": 1
+    },
+    {
+      "text": "In some cultures, _ is considered a good omen.",
+      "pick": 1
+    },
+    {
+      "text": "It might look like _, but it's actually _.",
+      "pick": 2
+    },
+    {
+      "text": "It's like _ in a round hole.",
+      "pick": 1
+    },
+    {
+      "text": "Job interviews: not the best place for _.",
+      "pick": 1
+    },
+    {
+      "text": "Just call me by the nickname I had in high school: \"_\".",
+      "pick": 1
+    },
+    {
+      "text": "Just say no to _.",
+      "pick": 1
+    },
+    {
+      "text": "Know what I saw when I peeked at my neighbors? _.",
+      "pick": 1
+    },
+    {
+      "text": "Make some room in your life for _. It'll be worth it.",
+      "pick": 1
+    },
+    {
+      "text": "Man cannot live on _ alone.",
+      "pick": 1
+    },
+    {
+      "text": "May _ be with you.",
+      "pick": 1
+    },
+    {
+      "text": "Me Tarzan. You _.",
+      "pick": 1
+    },
+    {
+      "text": "My ex broke up with me because of my fondness for _.",
+      "pick": 1
+    },
+    {
+      "text": "My favorite thing to eat? _.",
+      "pick": 1
+    },
+    {
+      "text": "My guidance counselor told me I should focus on _ as a carrer choice.",
+      "pick": 1
+    },
+    {
+      "text": "My guilty pleasure? _",
+      "pick": 1
+    },
+    {
+      "text": "My ideal first date would definitely include _.",
+      "pick": 1
+    },
+    {
+      "text": "My most embarrassing memory has to do with _.",
+      "pick": 1
+    },
+    {
+      "text": "My partner's \"fantasy night\" included _. It was amazing.",
+      "pick": 1
+    },
+    {
+      "text": "My therapist told me to avoid _.",
+      "pick": 1
+    },
+    {
+      "text": "New franchise idea: _vs. _",
+      "pick": 2
+    },
+    {
+      "text": "No one can resist _.",
+      "pick": 1
+    },
+    {
+      "text": "Nothing brings me more joy than _.",
+      "pick": 1
+    },
+    {
+      "text": "Nothing is certain except _ and _.",
+      "pick": 2
+    },
+    {
+      "text": "Nothing sexier with _.",
+      "pick": 1
+    },
+    {
+      "text": "Nothing spells trouble like _.",
+      "pick": 1
+    },
+    {
+      "text": "Playing hard and fast with _.",
+      "pick": 1
+    },
+    {
+      "text": "Siri, I really wish you were good at _.",
+      "pick": 1
+    },
+    {
+      "text": "Strangely, I've developed a taste for _.",
+      "pick": 1
+    },
+    {
+      "text": "Studies show the average man thinks about _ every seven seconds.",
+      "pick": 1
+    },
+    {
+      "text": "The best advice my parents ever gave me was about dealing with _.",
+      "pick": 1
+    },
+    {
+      "text": "The Eskimos may have fifty words for \"snow\" but they don't have one for _.",
+      "pick": 1
+    },
+    {
+      "text": "The Four Horsemen of the Apocalypse: Pestilence, War, Famine, and _.",
+      "pick": 1
+    },
+    {
+      "text": "The name of the winner for Best Picture? \"_\".",
+      "pick": 1
+    },
+    {
+      "text": "The new Quentin Tarantino movie takes an unusual look at _.",
+      "pick": 1
+    },
+    {
+      "text": "The only thing that makes me feel validated as a human being is _.",
+      "pick": 1
+    },
+    {
+      "text": "The only thing that makes me think this sick, sad world can get any better is _.",
+      "pick": 1
+    },
+    {
+      "text": "The root of all evil? _.",
+      "pick": 1
+    },
+    {
+      "text": "The worst night of my life was the night I spent with _.",
+      "pick": 1
+    },
+    {
+      "text": "There are times I think I would kill for _.",
+      "pick": 1
+    },
+    {
+      "text": "There's a very fine line between _ and _.",
+      "pick": 2
+    },
+    {
+      "text": "There's nothing that can't be cured by _.",
+      "pick": 1
+    },
+    {
+      "text": "They told me it aws inappropriate to talk about _ at my kid's parent-teacher conference.",
+      "pick": 1
+    },
+    {
+      "text": "This place smells like _.",
+      "pick": 1
+    },
+    {
+      "text": "Three wishes: _, _, and more wishes.",
+      "pick": 2
+    },
+    {
+      "text": "We go together like _ and _.",
+      "pick": 2
+    },
+    {
+      "text": "We have nothing to fear but _.",
+      "pick": 1
+    },
+    {
+      "text": "We'll start with _ and end with _.",
+      "pick": 2
+    },
+    {
+      "text": "What do I really believe in? _.",
+      "pick": 1
+    },
+    {
+      "text": "What do I rub for good luck? _.",
+      "pick": 1
+    },
+    {
+      "text": "What do I search for on the internet? _.",
+      "pick": 1
+    },
+    {
+      "text": "What do I want for my birthday? My birthday suit and _.",
+      "pick": 1
+    },
+    {
+      "text": "What I did on my holiday? Lots and lots of _.",
+      "pick": 1
+    },
+    {
+      "text": "What makes me cry? _.",
+      "pick": 1
+    },
+    {
+      "text": "When I drink I can't keep myself from _.",
+      "pick": 1
+    },
+    {
+      "text": "When I role-play, I like to pretend I'm _.",
+      "pick": 1
+    },
+    {
+      "text": "When I think \"classy\", I think _.",
+      "pick": 1
+    },
+    {
+      "text": "When I was little, I used to dream about _.",
+      "pick": 1
+    },
+    {
+      "text": "When I'm alone, I like _.",
+      "pick": 1
+    },
+    {
+      "text": "Whenever I'm down, the thing that cheers me up the most is _.",
+      "pick": 1
+    },
+    {
+      "text": "Why is the Dalai Lama always smiling? Because he knows _.",
+      "pick": 1
+    },
+    {
+      "text": "You can make any experience better by adding _ to the mix.",
+      "pick": 1
+    },
+    {
+      "text": "You know what annoys me? _",
+      "pick": 1
+    },
+    {
+      "text": "You scratch _ and I'll scratch _.",
+      "pick": 2
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "(Sleeping Beauty's curse) A magical prick",
+      "renderHtml": false
+    },
+    {
+      "text": "A babe in the woods",
+      "renderHtml": false
+    },
+    {
+      "text": "A backside grind",
+      "renderHtml": false
+    },
+    {
+      "text": "A beer bottle",
+      "renderHtml": false
+    },
+    {
+      "text": "A black hole",
+      "renderHtml": false
+    },
+    {
+      "text": "A blind lip reader",
+      "renderHtml": false
+    },
+    {
+      "text": "A bombshell",
+      "renderHtml": false
+    },
+    {
+      "text": "A booty call",
+      "renderHtml": false
+    },
+    {
+      "text": "A bun in the oven",
+      "renderHtml": false
+    },
+    {
+      "text": "A burning sensation in an awkward place",
+      "renderHtml": false
+    },
+    {
+      "text": "A cavity",
+      "renderHtml": false
+    },
+    {
+      "text": "A celebrity sex tape",
+      "renderHtml": false
+    },
+    {
+      "text": "A climax",
+      "renderHtml": false
+    },
+    {
+      "text": "A coming out party",
+      "renderHtml": false
+    },
+    {
+      "text": "A contortionist",
+      "renderHtml": false
+    },
+    {
+      "text": "A court-appointed psychiatrist",
+      "renderHtml": false
+    },
+    {
+      "text": "A cracker",
+      "renderHtml": false
+    },
+    {
+      "text": "A cute little pussy",
+      "renderHtml": false
+    },
+    {
+      "text": "A disgraced  politician",
+      "renderHtml": false
+    },
+    {
+      "text": "A disturbance in the Force",
+      "renderHtml": false
+    },
+    {
+      "text": "A dominatrix",
+      "renderHtml": false
+    },
+    {
+      "text": "A fairy",
+      "renderHtml": false
+    },
+    {
+      "text": "A festering wound",
+      "renderHtml": false
+    },
+    {
+      "text": "A fire in the hole",
+      "renderHtml": false
+    },
+    {
+      "text": "A foot fetish",
+      "renderHtml": false
+    },
+    {
+      "text": "A frisky televangelist",
+      "renderHtml": false
+    },
+    {
+      "text": "A gigolo",
+      "renderHtml": false
+    },
+    {
+      "text": "A girls' night out",
+      "renderHtml": false
+    },
+    {
+      "text": "A good bottle of scotch",
+      "renderHtml": false
+    },
+    {
+      "text": "A groin pull",
+      "renderHtml": false
+    },
+    {
+      "text": "A handyman",
+      "renderHtml": false
+    },
+    {
+      "text": "A hangover",
+      "renderHtml": false
+    },
+    {
+      "text": "A happy ending",
+      "renderHtml": false
+    },
+    {
+      "text": "A hard of hearing ex body builder masseuse",
+      "renderHtml": false
+    },
+    {
+      "text": "A hole in one",
+      "renderHtml": false
+    },
+    {
+      "text": "A horny toad",
+      "renderHtml": false
+    },
+    {
+      "text": "A hot rod",
+      "renderHtml": false
+    },
+    {
+      "text": "A hotel room that just doesn't smell right",
+      "renderHtml": false
+    },
+    {
+      "text": "A jar of Vaseline",
+      "renderHtml": false
+    },
+    {
+      "text": "A Kardashian",
+      "renderHtml": false
+    },
+    {
+      "text": "A Ken doll",
+      "renderHtml": false
+    },
+    {
+      "text": "A little \"alone time\"",
+      "renderHtml": false
+    },
+    {
+      "text": "A little camel toe",
+      "renderHtml": false
+    },
+    {
+      "text": "A little crack",
+      "renderHtml": false
+    },
+    {
+      "text": "A little squirt",
+      "renderHtml": false
+    },
+    {
+      "text": "A little tongue in cheek",
+      "renderHtml": false
+    },
+    {
+      "text": "A load of BS",
+      "renderHtml": false
+    },
+    {
+      "text": "A long range missile",
+      "renderHtml": false
+    },
+    {
+      "text": "A long shaft",
+      "renderHtml": false
+    },
+    {
+      "text": "A long Slip 'n' Slide",
+      "renderHtml": false
+    },
+    {
+      "text": "A lovely bunch of coconuts",
+      "renderHtml": false
+    },
+    {
+      "text": "A member of the Village People",
+      "renderHtml": false
+    },
+    {
+      "text": "A mountain of credit card debt",
+      "renderHtml": false
+    },
+    {
+      "text": "A naughty girl",
+      "renderHtml": false
+    },
+    {
+      "text": "A nice big cucumber",
+      "renderHtml": false
+    },
+    {
+      "text": "A nice little drone strike",
+      "renderHtml": false
+    },
+    {
+      "text": "A night without Lindsey Lohan",
+      "renderHtml": false
+    },
+    {
+      "text": "A no longer dormant volcano",
+      "renderHtml": false
+    },
+    {
+      "text": "A noted aphrodisiac",
+      "renderHtml": false
+    },
+    {
+      "text": "A nymphomaniac",
+      "renderHtml": false
+    },
+    {
+      "text": "A pearl necklace",
+      "renderHtml": false
+    },
+    {
+      "text": "A peeping Tom",
+      "renderHtml": false
+    },
+    {
+      "text": "A porn star",
+      "renderHtml": false
+    },
+    {
+      "text": "A priest",
+      "renderHtml": false
+    },
+    {
+      "text": "A racist family member",
+      "renderHtml": false
+    },
+    {
+      "text": "A real boob",
+      "renderHtml": false
+    },
+    {
+      "text": "A sack full of grapes",
+      "renderHtml": false
+    },
+    {
+      "text": "A selfie",
+      "renderHtml": false
+    },
+    {
+      "text": "A sex machine",
+      "renderHtml": false
+    },
+    {
+      "text": "A sexually transmitted disease",
+      "renderHtml": false
+    },
+    {
+      "text": "A shotgun weding",
+      "renderHtml": false
+    },
+    {
+      "text": "A six pack",
+      "renderHtml": false
+    },
+    {
+      "text": "A slave",
+      "renderHtml": false
+    },
+    {
+      "text": "A slip of the tongue",
+      "renderHtml": false
+    },
+    {
+      "text": "A smelly dump",
+      "renderHtml": false
+    },
+    {
+      "text": "A spanking",
+      "renderHtml": false
+    },
+    {
+      "text": "A stiff upper lip",
+      "renderHtml": false
+    },
+    {
+      "text": "A stimulus package",
+      "renderHtml": false
+    },
+    {
+      "text": "A strip club",
+      "renderHtml": false
+    },
+    {
+      "text": "A stripper",
+      "renderHtml": false
+    },
+    {
+      "text": "A stud",
+      "renderHtml": false
+    },
+    {
+      "text": "A swallow",
+      "renderHtml": false
+    },
+    {
+      "text": "A swimsuit model",
+      "renderHtml": false
+    },
+    {
+      "text": "A sword swallower",
+      "renderHtml": false
+    },
+    {
+      "text": "A thick carpet of black hair",
+      "renderHtml": false
+    },
+    {
+      "text": "A tree hugger",
+      "renderHtml": false
+    },
+    {
+      "text": "A virgin",
+      "renderHtml": false
+    },
+    {
+      "text": "A white hot something or other",
+      "renderHtml": false
+    },
+    {
+      "text": "A whole lot of love",
+      "renderHtml": false
+    },
+    {
+      "text": "Acid flashbacks",
+      "renderHtml": false
+    },
+    {
+      "text": "Affirmative Action",
+      "renderHtml": false
+    },
+    {
+      "text": "Afternoon delight",
+      "renderHtml": false
+    },
+    {
+      "text": "Airing dirty laundry",
+      "renderHtml": false
+    },
+    {
+      "text": "America's sweetheart",
+      "renderHtml": false
+    },
+    {
+      "text": "An anatomically correct snowman",
+      "renderHtml": false
+    },
+    {
+      "text": "An excessive \"man crush\"",
+      "renderHtml": false
+    },
+    {
+      "text": "An experiment gone horribly wrong",
+      "renderHtml": false
+    },
+    {
+      "text": "An identity crisis",
+      "renderHtml": false
+    },
+    {
+      "text": "An orifice",
+      "renderHtml": false
+    },
+    {
+      "text": "An over enthusiastic proctologist",
+      "renderHtml": false
+    },
+    {
+      "text": "An over-used port-a-potty",
+      "renderHtml": false
+    },
+    {
+      "text": "Androids",
+      "renderHtml": false
+    },
+    {
+      "text": "Angel wing tattoos",
+      "renderHtml": false
+    },
+    {
+      "text": "Animal magnetism",
+      "renderHtml": false
+    },
+    {
+      "text": "Another unnecessary Die Hard sequel",
+      "renderHtml": false
+    },
+    {
+      "text": "Artificial insemination",
+      "renderHtml": false
+    },
+    {
+      "text": "Asking your doctor is you're healthy enough for sexual activity",
+      "renderHtml": false
+    },
+    {
+      "text": "Backsliding",
+      "renderHtml": false
+    },
+    {
+      "text": "Bacon panties to stop rape in the Middle East.",
+      "renderHtml": false
+    },
+    {
+      "text": "Badly-botched botox",
+      "renderHtml": false
+    },
+    {
+      "text": "Banging away",
+      "renderHtml": false
+    },
+    {
+      "text": "Beating a dead horse",
+      "renderHtml": false
+    },
+    {
+      "text": "Beavers",
+      "renderHtml": false
+    },
+    {
+      "text": "Becoming comfortably numb",
+      "renderHtml": false
+    },
+    {
+      "text": "Beer, glorious beer",
+      "renderHtml": false
+    },
+    {
+      "text": "Being a sore loser",
+      "renderHtml": false
+    },
+    {
+      "text": "Being blown away",
+      "renderHtml": false
+    },
+    {
+      "text": "Being butt naked",
+      "renderHtml": false
+    },
+    {
+      "text": "Being debriefed",
+      "renderHtml": false
+    },
+    {
+      "text": "Being inflamed",
+      "renderHtml": false
+    },
+    {
+      "text": "Being on top",
+      "renderHtml": false
+    },
+    {
+      "text": "Being sent to the penalty box",
+      "renderHtml": false
+    },
+    {
+      "text": "Being titillated",
+      "renderHtml": false
+    },
+    {
+      "text": "Bieng handy",
+      "renderHtml": false
+    },
+    {
+      "text": "Bieng up and coming",
+      "renderHtml": false
+    },
+    {
+      "text": "Big balls",
+      "renderHtml": false
+    },
+    {
+      "text": "Big bosoms",
+      "renderHtml": false
+    },
+    {
+      "text": "Big feet",
+      "renderHtml": false
+    },
+    {
+      "text": "Big hair",
+      "renderHtml": false
+    },
+    {
+      "text": "Big lips",
+      "renderHtml": false
+    },
+    {
+      "text": "Bill Clinton's favorite: good sax",
+      "renderHtml": false
+    },
+    {
+      "text": "Binge drinking",
+      "renderHtml": false
+    },
+    {
+      "text": "Black magic",
+      "renderHtml": false
+    },
+    {
+      "text": "Blackmail",
+      "renderHtml": false
+    },
+    {
+      "text": "Blowing it",
+      "renderHtml": false
+    },
+    {
+      "text": "Body language",
+      "renderHtml": false
+    },
+    {
+      "text": "Body painting",
+      "renderHtml": false
+    },
+    {
+      "text": "Bonding with my Roomba.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bottoms",
+      "renderHtml": false
+    },
+    {
+      "text": "Boy bands",
+      "renderHtml": false
+    },
+    {
+      "text": "Bradley Cooper",
+      "renderHtml": false
+    },
+    {
+      "text": "Breaking wind",
+      "renderHtml": false
+    },
+    {
+      "text": "Breast-feeding",
+      "renderHtml": false
+    },
+    {
+      "text": "Bromance",
+      "renderHtml": false
+    },
+    {
+      "text": "Bruised bananas",
+      "renderHtml": false
+    },
+    {
+      "text": "Bull riding",
+      "renderHtml": false
+    },
+    {
+      "text": "Bunny costumes",
+      "renderHtml": false
+    },
+    {
+      "text": "Bush",
+      "renderHtml": false
+    },
+    {
+      "text": "Butting in",
+      "renderHtml": false
+    },
+    {
+      "text": "Catwoman",
+      "renderHtml": false
+    },
+    {
+      "text": "Ceiling mirrors",
+      "renderHtml": false
+    },
+    {
+      "text": "Changing positions",
+      "renderHtml": false
+    },
+    {
+      "text": "Cheesy pickup lines",
+      "renderHtml": false
+    },
+    {
+      "text": "Chemical dependency",
+      "renderHtml": false
+    },
+    {
+      "text": "Chick flicks with ridiculous endings",
+      "renderHtml": false
+    },
+    {
+      "text": "Chicks",
+      "renderHtml": false
+    },
+    {
+      "text": "Cleavage",
+      "renderHtml": false
+    },
+    {
+      "text": "Clothing that leaves little to the imagination",
+      "renderHtml": false
+    },
+    {
+      "text": "Cold hard cash",
+      "renderHtml": false
+    },
+    {
+      "text": "Come again",
+      "renderHtml": false
+    },
+    {
+      "text": "Coming first",
+      "renderHtml": false
+    },
+    {
+      "text": "Coming soon",
+      "renderHtml": false
+    },
+    {
+      "text": "Coming together",
+      "renderHtml": false
+    },
+    {
+      "text": "Conjugal visits",
+      "renderHtml": false
+    },
+    {
+      "text": "Contributing to the delinquency of a minor",
+      "renderHtml": false
+    },
+    {
+      "text": "Cougars",
+      "renderHtml": false
+    },
+    {
+      "text": "Crabs Adjust Humidity.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dark chocolate",
+      "renderHtml": false
+    },
+    {
+      "text": "Dating outside my race",
+      "renderHtml": false
+    },
+    {
+      "text": "Death by chocolate",
+      "renderHtml": false
+    },
+    {
+      "text": "Deciding to become a professional wrestler",
+      "renderHtml": false
+    },
+    {
+      "text": "Diving on the grenade",
+      "renderHtml": false
+    },
+    {
+      "text": "Dogs in little sweaters",
+      "renderHtml": false
+    },
+    {
+      "text": "Doing it by hand",
+      "renderHtml": false
+    },
+    {
+      "text": "Doing it the hard way",
+      "renderHtml": false
+    },
+    {
+      "text": "Domestic intelligence gathering",
+      "renderHtml": false
+    },
+    {
+      "text": "Donald Trump's hair",
+      "renderHtml": false
+    },
+    {
+      "text": "Downward dog",
+      "renderHtml": false
+    },
+    {
+      "text": "Driving a hard bargain",
+      "renderHtml": false
+    },
+    {
+      "text": "Eating out",
+      "renderHtml": false
+    },
+    {
+      "text": "Ecstasy",
+      "renderHtml": false
+    },
+    {
+      "text": "Evil clowns",
+      "renderHtml": false
+    },
+    {
+      "text": "Evil laughter",
+      "renderHtml": false
+    },
+    {
+      "text": "Eye candy",
+      "renderHtml": false
+    },
+    {
+      "text": "Faking it",
+      "renderHtml": false
+    },
+    {
+      "text": "Fast food chain restaurant",
+      "renderHtml": false
+    },
+    {
+      "text": "Faux leopard print",
+      "renderHtml": false
+    },
+    {
+      "text": "Feeling a little prick",
+      "renderHtml": false
+    },
+    {
+      "text": "Feeling the earth move",
+      "renderHtml": false
+    },
+    {
+      "text": "Fifty Shades of Grey",
+      "renderHtml": false
+    },
+    {
+      "text": "Fingering the bad guy",
+      "renderHtml": false
+    },
+    {
+      "text": "Fishnets",
+      "renderHtml": false
+    },
+    {
+      "text": "Flatulent hippos",
+      "renderHtml": false
+    },
+    {
+      "text": "Flogging",
+      "renderHtml": false
+    },
+    {
+      "text": "Fox news anchors.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fruits",
+      "renderHtml": false
+    },
+    {
+      "text": "Funny cat videos",
+      "renderHtml": false
+    },
+    {
+      "text": "George Clooney",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting a facial",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting a hot tip",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting a little behind",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting a swelled head",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting aroused by mannequins",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting caught with your fingers in the pie",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting in touch with my feminine side",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting into a rhythm",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting jerked around",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting off",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting on top",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting over the hump",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting probed by aliens",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting really hot",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting sloppy drunk",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting sweaty",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting tested for an STD",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting the juices flowing",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting tied up",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting wet",
+      "renderHtml": false
+    },
+    {
+      "text": "Girls with glasses",
+      "renderHtml": false
+    },
+    {
+      "text": "Girly drinks",
+      "renderHtml": false
+    },
+    {
+      "text": "Giving lip service",
+      "renderHtml": false
+    },
+    {
+      "text": "Giving someone the shaft",
+      "renderHtml": false
+    },
+    {
+      "text": "Global warming.",
+      "renderHtml": false
+    },
+    {
+      "text": "Going ballistic",
+      "renderHtml": false
+    },
+    {
+      "text": "Going down",
+      "renderHtml": false
+    },
+    {
+      "text": "Going in head first",
+      "renderHtml": false
+    },
+    {
+      "text": "Going in the back door",
+      "renderHtml": false
+    },
+    {
+      "text": "Going on a blind date with someone who is described as \"really nice\"",
+      "renderHtml": false
+    },
+    {
+      "text": "Going to great lengths",
+      "renderHtml": false
+    },
+    {
+      "text": "Good vibrations",
+      "renderHtml": false
+    },
+    {
+      "text": "Grinning and bearing it",
+      "renderHtml": false
+    },
+    {
+      "text": "Handcuffs",
+      "renderHtml": false
+    },
+    {
+      "text": "Hanky-Panky",
+      "renderHtml": false
+    },
+    {
+      "text": "Having a couple of stiff ones",
+      "renderHtml": false
+    },
+    {
+      "text": "Having a hot dream about a co-worker",
+      "renderHtml": false
+    },
+    {
+      "text": "Having someone push in your stool for you",
+      "renderHtml": false
+    },
+    {
+      "text": "Having to go really bad",
+      "renderHtml": false
+    },
+    {
+      "text": "Heavy breathing",
+      "renderHtml": false
+    },
+    {
+      "text": "Helping yourself",
+      "renderHtml": false
+    },
+    {
+      "text": "Hillary Clinton attending Donald Trump's wedding.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hitting the sack",
+      "renderHtml": false
+    },
+    {
+      "text": "Hookers",
+      "renderHtml": false
+    },
+    {
+      "text": "Hot cross buns",
+      "renderHtml": false
+    },
+    {
+      "text": "Hot Sauce",
+      "renderHtml": false
+    },
+    {
+      "text": "Hottubbing",
+      "renderHtml": false
+    },
+    {
+      "text": "Human shields",
+      "renderHtml": false
+    },
+    {
+      "text": "Hump day",
+      "renderHtml": false
+    },
+    {
+      "text": "Jailbait.",
+      "renderHtml": false
+    },
+    {
+      "text": "James Bond",
+      "renderHtml": false
+    },
+    {
+      "text": "Jazz hands",
+      "renderHtml": false
+    },
+    {
+      "text": "Jell-O shots",
+      "renderHtml": false
+    },
+    {
+      "text": "Jennifer Lawrence",
+      "renderHtml": false
+    },
+    {
+      "text": "Juicy round melons",
+      "renderHtml": false
+    },
+    {
+      "text": "Just a little bit inside",
+      "renderHtml": false
+    },
+    {
+      "text": "Just haning out",
+      "renderHtml": false
+    },
+    {
+      "text": "Justin Timberlake",
+      "renderHtml": false
+    },
+    {
+      "text": "Karma",
+      "renderHtml": false
+    },
+    {
+      "text": "Keeping it up",
+      "renderHtml": false
+    },
+    {
+      "text": "Kim Jong-un",
+      "renderHtml": false
+    },
+    {
+      "text": "Kinky porn",
+      "renderHtml": false
+    },
+    {
+      "text": "Knowing that some stereotypes are true",
+      "renderHtml": false
+    },
+    {
+      "text": "Ladyfingers",
+      "renderHtml": false
+    },
+    {
+      "text": "Landing strips",
+      "renderHtml": false
+    },
+    {
+      "text": "Large jugs",
+      "renderHtml": false
+    },
+    {
+      "text": "Lattes",
+      "renderHtml": false
+    },
+    {
+      "text": "Lawyers",
+      "renderHtml": false
+    },
+    {
+      "text": "Laying something bare",
+      "renderHtml": false
+    },
+    {
+      "text": "Leather",
+      "renderHtml": false
+    },
+    {
+      "text": "Leprechauns",
+      "renderHtml": false
+    },
+    {
+      "text": "Lesbians Confessions",
+      "renderHtml": false
+    },
+    {
+      "text": "Licking a popsicle",
+      "renderHtml": false
+    },
+    {
+      "text": "Licking my lips",
+      "renderHtml": false
+    },
+    {
+      "text": "Lifting and separating",
+      "renderHtml": false
+    },
+    {
+      "text": "Lingerie",
+      "renderHtml": false
+    },
+    {
+      "text": "Liquor",
+      "renderHtml": false
+    },
+    {
+      "text": "Little people",
+      "renderHtml": false
+    },
+    {
+      "text": "Little yappy dogs",
+      "renderHtml": false
+    },
+    {
+      "text": "Long John Silver",
+      "renderHtml": false
+    },
+    {
+      "text": "Loose lips",
+      "renderHtml": false
+    },
+    {
+      "text": "Loud banging",
+      "renderHtml": false
+    },
+    {
+      "text": "Love bites",
+      "renderHtml": false
+    },
+    {
+      "text": "Low impact aerobics",
+      "renderHtml": false
+    },
+    {
+      "text": "Low-grade narcolepsy",
+      "renderHtml": false
+    },
+    {
+      "text": "Low-hanging fruit",
+      "renderHtml": false
+    },
+    {
+      "text": "Lumberjacks",
+      "renderHtml": false
+    },
+    {
+      "text": "Magic fingers",
+      "renderHtml": false
+    },
+    {
+      "text": "Make-up sex",
+      "renderHtml": false
+    },
+    {
+      "text": "Making it harder than it needs to be",
+      "renderHtml": false
+    },
+    {
+      "text": "Male enhancement pills",
+      "renderHtml": false
+    },
+    {
+      "text": "Manhood",
+      "renderHtml": false
+    },
+    {
+      "text": "Medical marijuana clincs",
+      "renderHtml": false
+    },
+    {
+      "text": "Men in uniform",
+      "renderHtml": false
+    },
+    {
+      "text": "Miley Cyrus at 55.",
+      "renderHtml": false
+    },
+    {
+      "text": "Missionary",
+      "renderHtml": false
+    },
+    {
+      "text": "Motorboating",
+      "renderHtml": false
+    },
+    {
+      "text": "Mr. Spock",
+      "renderHtml": false
+    },
+    {
+      "text": "My \"ex\"",
+      "renderHtml": false
+    },
+    {
+      "text": "My boyfriend's stupid penis.",
+      "renderHtml": false
+    },
+    {
+      "text": "My experiences with underage drinking",
+      "renderHtml": false
+    },
+    {
+      "text": "My finger on the button",
+      "renderHtml": false
+    },
+    {
+      "text": "My fingers",
+      "renderHtml": false
+    },
+    {
+      "text": "My fist",
+      "renderHtml": false
+    },
+    {
+      "text": "My former BFF",
+      "renderHtml": false
+    },
+    {
+      "text": "My hot neighbor",
+      "renderHtml": false
+    },
+    {
+      "text": "My incredibly flexible yoga instructor",
+      "renderHtml": false
+    },
+    {
+      "text": "My junk",
+      "renderHtml": false
+    },
+    {
+      "text": "My magic awand",
+      "renderHtml": false
+    },
+    {
+      "text": "My mouth",
+      "renderHtml": false
+    },
+    {
+      "text": "My partner",
+      "renderHtml": false
+    },
+    {
+      "text": "My secret identity",
+      "renderHtml": false
+    },
+    {
+      "text": "My tongue",
+      "renderHtml": false
+    },
+    {
+      "text": "My virginity",
+      "renderHtml": false
+    },
+    {
+      "text": "My worst enemy",
+      "renderHtml": false
+    },
+    {
+      "text": "Nelson Mandela",
+      "renderHtml": false
+    },
+    {
+      "text": "Nice knockers",
+      "renderHtml": false
+    },
+    {
+      "text": "Night moves",
+      "renderHtml": false
+    },
+    {
+      "text": "None of your business",
+      "renderHtml": false
+    },
+    {
+      "text": "Not knowing when you're licked",
+      "renderHtml": false
+    },
+    {
+      "text": "Not lasting long enough",
+      "renderHtml": false
+    },
+    {
+      "text": "Nuts",
+      "renderHtml": false
+    },
+    {
+      "text": "Obamacare.",
+      "renderHtml": false
+    },
+    {
+      "text": "Oddly-shaped feet",
+      "renderHtml": false
+    },
+    {
+      "text": "One of those trashy reality TV shows about catty women.",
+      "renderHtml": false
+    },
+    {
+      "text": "Orphans",
+      "renderHtml": false
+    },
+    {
+      "text": "Partying with Charlie Sheen",
+      "renderHtml": false
+    },
+    {
+      "text": "Passion fruit",
+      "renderHtml": false
+    },
+    {
+      "text": "Pickup artist",
+      "renderHtml": false
+    },
+    {
+      "text": "Playing fast and loose",
+      "renderHtml": false
+    },
+    {
+      "text": "Playing for the other team",
+      "renderHtml": false
+    },
+    {
+      "text": "Playing the organ",
+      "renderHtml": false
+    },
+    {
+      "text": "Playing the race card.",
+      "renderHtml": false
+    },
+    {
+      "text": "Poking a hole",
+      "renderHtml": false
+    },
+    {
+      "text": "Prescription drugs",
+      "renderHtml": false
+    },
+    {
+      "text": "Prom night",
+      "renderHtml": false
+    },
+    {
+      "text": "Prostitution",
+      "renderHtml": false
+    },
+    {
+      "text": "Public nudity",
+      "renderHtml": false
+    },
+    {
+      "text": "Pulling an all-nighter",
+      "renderHtml": false
+    },
+    {
+      "text": "Reaching out and touching someone",
+      "renderHtml": false
+    },
+    {
+      "text": "Really long fingernails",
+      "renderHtml": false
+    },
+    {
+      "text": "Really screwing somebody",
+      "renderHtml": false
+    },
+    {
+      "text": "Releasing gas in a crowd",
+      "renderHtml": false
+    },
+    {
+      "text": "Riding bareback",
+      "renderHtml": false
+    },
+    {
+      "text": "road rage",
+      "renderHtml": false
+    },
+    {
+      "text": "Robert Mugabe",
+      "renderHtml": false
+    },
+    {
+      "text": "Romantic candlelight",
+      "renderHtml": false
+    },
+    {
+      "text": "Running out of toilet paper in an airline lavatory",
+      "renderHtml": false
+    },
+    {
+      "text": "S & M",
+      "renderHtml": false
+    },
+    {
+      "text": "Same sex marriage",
+      "renderHtml": false
+    },
+    {
+      "text": "Santa Claus teabagging a sleeping child, taking a picture and leaving it in the child's stocking.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sarah Palin at Toastmasters™.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sausage fests",
+      "renderHtml": false
+    },
+    {
+      "text": "Scissoring, if that's a thing.",
+      "renderHtml": false
+    },
+    {
+      "text": "Scratching an itch",
+      "renderHtml": false
+    },
+    {
+      "text": "Searching for a black box",
+      "renderHtml": false
+    },
+    {
+      "text": "Selling hot dogs",
+      "renderHtml": false
+    },
+    {
+      "text": "Sending a strippergram to the wrong address",
+      "renderHtml": false
+    },
+    {
+      "text": "Shrinkage",
+      "renderHtml": false
+    },
+    {
+      "text": "Sir Lancelot",
+      "renderHtml": false
+    },
+    {
+      "text": "Sitting on the throne",
+      "renderHtml": false
+    },
+    {
+      "text": "Skinny dipping The inevitable zombie apocalypse",
+      "renderHtml": false
+    },
+    {
+      "text": "Skinny jeans",
+      "renderHtml": false
+    },
+    {
+      "text": "Sliding in head first",
+      "renderHtml": false
+    },
+    {
+      "text": "Snap-on tools",
+      "renderHtml": false
+    },
+    {
+      "text": "Sofia Vergara",
+      "renderHtml": false
+    },
+    {
+      "text": "Some coconut-scented body lotion",
+      "renderHtml": false
+    },
+    {
+      "text": "Something fishy",
+      "renderHtml": false
+    },
+    {
+      "text": "Something frilly",
+      "renderHtml": false
+    },
+    {
+      "text": "Something furry",
+      "renderHtml": false
+    },
+    {
+      "text": "Something pink",
+      "renderHtml": false
+    },
+    {
+      "text": "Something really hard",
+      "renderHtml": false
+    },
+    {
+      "text": "Something smellier than a high schooler's gym shorts on Friday",
+      "renderHtml": false
+    },
+    {
+      "text": "Something stiff",
+      "renderHtml": false
+    },
+    {
+      "text": "Spouting off",
+      "renderHtml": false
+    },
+    {
+      "text": "Squishy things",
+      "renderHtml": false
+    },
+    {
+      "text": "Standing at attention",
+      "renderHtml": false
+    },
+    {
+      "text": "Stilettos",
+      "renderHtml": false
+    },
+    {
+      "text": "Sucking at something",
+      "renderHtml": false
+    },
+    {
+      "text": "Suppositories",
+      "renderHtml": false
+    },
+    {
+      "text": "Swearing in sign language",
+      "renderHtml": false
+    },
+    {
+      "text": "Sweating it out",
+      "renderHtml": false
+    },
+    {
+      "text": "Sweet nectar of the Gods",
+      "renderHtml": false
+    },
+    {
+      "text": "Taking a hint",
+      "renderHtml": false
+    },
+    {
+      "text": "Taking it the wrong way",
+      "renderHtml": false
+    },
+    {
+      "text": "Taking things into your own hands",
+      "renderHtml": false
+    },
+    {
+      "text": "Talking dirty",
+      "renderHtml": false
+    },
+    {
+      "text": "Teeny tiny teddies",
+      "renderHtml": false
+    },
+    {
+      "text": "Tequila",
+      "renderHtml": false
+    },
+    {
+      "text": "Terrorists.",
+      "renderHtml": false
+    },
+    {
+      "text": "That time of the month",
+      "renderHtml": false
+    },
+    {
+      "text": "The 1% of the 1%",
+      "renderHtml": false
+    },
+    {
+      "text": "The aftertaste of a burp",
+      "renderHtml": false
+    },
+    {
+      "text": "The Batmobile",
+      "renderHtml": false
+    },
+    {
+      "text": "The best Congress that money can buy",
+      "renderHtml": false
+    },
+    {
+      "text": "The biggest one I've ever seen",
+      "renderHtml": false
+    },
+    {
+      "text": "The birds and the bees",
+      "renderHtml": false
+    },
+    {
+      "text": "The conservative agenda",
+      "renderHtml": false
+    },
+    {
+      "text": "The crack of dawn",
+      "renderHtml": false
+    },
+    {
+      "text": "The death penalty",
+      "renderHtml": false
+    },
+    {
+      "text": "The Devil's Work",
+      "renderHtml": false
+    },
+    {
+      "text": "The easter bunny attacking you in your sleep.",
+      "renderHtml": false
+    },
+    {
+      "text": "The feeble minded",
+      "renderHtml": false
+    },
+    {
+      "text": "The fragile male ego",
+      "renderHtml": false
+    },
+    {
+      "text": "The full monty",
+      "renderHtml": false
+    },
+    {
+      "text": "The gates of Heaven",
+      "renderHtml": false
+    },
+    {
+      "text": "The hardest one",
+      "renderHtml": false
+    },
+    {
+      "text": "The homeless",
+      "renderHtml": false
+    },
+    {
+      "text": "The Karma Sutra",
+      "renderHtml": false
+    },
+    {
+      "text": "The Koch brothers",
+      "renderHtml": false
+    },
+    {
+      "text": "The liberal media machine.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Love Canal",
+      "renderHtml": false
+    },
+    {
+      "text": "The magic bullet",
+      "renderHtml": false
+    },
+    {
+      "text": "The meaning of life",
+      "renderHtml": false
+    },
+    {
+      "text": "The monster under your bed",
+      "renderHtml": false
+    },
+    {
+      "text": "The perfect little black dress",
+      "renderHtml": false
+    },
+    {
+      "text": "The poor",
+      "renderHtml": false
+    },
+    {
+      "text": "The Pope.",
+      "renderHtml": false
+    },
+    {
+      "text": "The root of all evil",
+      "renderHtml": false
+    },
+    {
+      "text": "The runs",
+      "renderHtml": false
+    },
+    {
+      "text": "The sack of Rome",
+      "renderHtml": false
+    },
+    {
+      "text": "The seven deadly sins",
+      "renderHtml": false
+    },
+    {
+      "text": "The seven dwarfs",
+      "renderHtml": false
+    },
+    {
+      "text": "The Tea Party",
+      "renderHtml": false
+    },
+    {
+      "text": "The unspoken language of love",
+      "renderHtml": false
+    },
+    {
+      "text": "The Vikings",
+      "renderHtml": false
+    },
+    {
+      "text": "The whole shebang",
+      "renderHtml": false
+    },
+    {
+      "text": "Thigh-high boots",
+      "renderHtml": false
+    },
+    {
+      "text": "Things that are slippery when wet",
+      "renderHtml": false
+    },
+    {
+      "text": "Thongs",
+      "renderHtml": false
+    },
+    {
+      "text": "Those people",
+      "renderHtml": false
+    },
+    {
+      "text": "Tickling your fancy",
+      "renderHtml": false
+    },
+    {
+      "text": "Tooting your own horn",
+      "renderHtml": false
+    },
+    {
+      "text": "Toys",
+      "renderHtml": false
+    },
+    {
+      "text": "Tropical cream",
+      "renderHtml": false
+    },
+    {
+      "text": "Tulips on my organ",
+      "renderHtml": false
+    },
+    {
+      "text": "Twerking in a MOPP suit.",
+      "renderHtml": false
+    },
+    {
+      "text": "Two words: on sale",
+      "renderHtml": false
+    },
+    {
+      "text": "Undulating",
+      "renderHtml": false
+    },
+    {
+      "text": "Unnecessary roughness",
+      "renderHtml": false
+    },
+    {
+      "text": "Uranus",
+      "renderHtml": false
+    },
+    {
+      "text": "Using more racial slurs than a Quentin Tarantino movie",
+      "renderHtml": false
+    },
+    {
+      "text": "Victoria's Secret",
+      "renderHtml": false
+    },
+    {
+      "text": "Vladimir Putin",
+      "renderHtml": false
+    },
+    {
+      "text": "Waxing",
+      "renderHtml": false
+    },
+    {
+      "text": "Weapons of Mass Destruction",
+      "renderHtml": false
+    },
+    {
+      "text": "Wearing clown makeup",
+      "renderHtml": false
+    },
+    {
+      "text": "When something is up",
+      "renderHtml": false
+    },
+    {
+      "text": "When the pleasure is all mine",
+      "renderHtml": false
+    },
+    {
+      "text": "Whipped cream",
+      "renderHtml": false
+    },
+    {
+      "text": "Whips",
+      "renderHtml": false
+    },
+    {
+      "text": "White people singing rap lyrics",
+      "renderHtml": false
+    },
+    {
+      "text": "World religions",
+      "renderHtml": false
+    },
+    {
+      "text": "Yoga pants as formal wear",
+      "renderHtml": false
+    },
+    {
+      "text": "Your hands",
+      "renderHtml": false
+    },
+    {
+      "text": "Your sweet cheeks",
+      "renderHtml": false
+    }
+  ]
+}

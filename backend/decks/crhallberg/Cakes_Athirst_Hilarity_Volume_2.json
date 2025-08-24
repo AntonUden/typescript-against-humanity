@@ -1,0 +1,449 @@
+{
+  "order": 84,
+  "displayName": "Cakes Athirst Hilarity Volume 2",
+  "name": "Cakes_Athirst_Hilarity_Volume_2",
+  "whiteCards": [
+    {
+      "text": "_ is finger licking good.",
+      "pick": 1
+    },
+    {
+      "text": "_ now Gluten Free!",
+      "pick": 1
+    },
+    {
+      "text": "_ x _ = _",
+      "pick": 3
+    },
+    {
+      "text": "A 450 million year old fossil of _ scientists didn't know existed.",
+      "pick": 1
+    },
+    {
+      "text": "Besides watching animals fornicate, nothing gets me going more than _.",
+      "pick": 1
+    },
+    {
+      "text": "During foreplay, I close my eyes and visualize _.",
+      "pick": 1
+    },
+    {
+      "text": "George, George, George of the jungle, watch out for _!",
+      "pick": 1
+    },
+    {
+      "text": "I decided to become an activist and fight for _.",
+      "pick": 1
+    },
+    {
+      "text": "It makes me sad to think about?",
+      "pick": 1
+    },
+    {
+      "text": "My biggest idol is _.",
+      "pick": 1
+    },
+    {
+      "text": "Right after sex I like to think about _.",
+      "pick": 1
+    },
+    {
+      "text": "The absolute worse thing on this earth is _.",
+      "pick": 1
+    },
+    {
+      "text": "The cause of most divorces is likely a result of _.",
+      "pick": 1
+    },
+    {
+      "text": "The greatest lie ever told was _.",
+      "pick": 1
+    },
+    {
+      "text": "The most gut-wrenching thing known to man is _.",
+      "pick": 1
+    },
+    {
+      "text": "The only thing worse than _ is _.",
+      "pick": 2
+    },
+    {
+      "text": "The reason for my non-existent sex life is _.",
+      "pick": 1
+    },
+    {
+      "text": "The world would be a better place is _ and _ happened.",
+      "pick": 2
+    },
+    {
+      "text": "What did I do that caused my parents to beat me as a child?",
+      "pick": 1
+    },
+    {
+      "text": "What explains me only being able to pee sitting down?",
+      "pick": 1
+    },
+    {
+      "text": "What is my greatest skill?",
+      "pick": 1
+    },
+    {
+      "text": "What is the reason no one likes me?",
+      "pick": 1
+    },
+    {
+      "text": "What keeps me up at night?",
+      "pick": 1
+    },
+    {
+      "text": "What makes me cry myself to sleep every night?",
+      "pick": 1
+    },
+    {
+      "text": "What makes me feel empowered?",
+      "pick": 1
+    },
+    {
+      "text": "What will always make people want to have sex with you?",
+      "pick": 1
+    },
+    {
+      "text": "What will be my first purchase once I become rich and famous?",
+      "pick": 1
+    },
+    {
+      "text": "What works 80% of the time 100% of the time?",
+      "pick": 1
+    },
+    {
+      "text": "Yeah? Well, your MOM is _!",
+      "pick": 1
+    },
+    {
+      "text": "Your friendly neighborhood _.",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "69ing a dirty vagina.",
+      "renderHtml": false
+    },
+    {
+      "text": "9/11.",
+      "renderHtml": false
+    },
+    {
+      "text": "A burning orphanage.",
+      "renderHtml": false
+    },
+    {
+      "text": "A Saint Bernard's Red Rocket.",
+      "renderHtml": false
+    },
+    {
+      "text": "A sandpaper condom.",
+      "renderHtml": false
+    },
+    {
+      "text": "A shaved cat.",
+      "renderHtml": false
+    },
+    {
+      "text": "Almost having sex on the dance floor.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being offended at people being offended.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being the big spoon.",
+      "renderHtml": false
+    },
+    {
+      "text": "Betrayal.",
+      "renderHtml": false
+    },
+    {
+      "text": "Billy Crystal.",
+      "renderHtml": false
+    },
+    {
+      "text": "Blacking out at the wedding rehearsal.",
+      "renderHtml": false
+    },
+    {
+      "text": "Blowing weed smoke into the family's dog ear.",
+      "renderHtml": false
+    },
+    {
+      "text": "Boning the maid of honor.",
+      "renderHtml": false
+    },
+    {
+      "text": "Clits.",
+      "renderHtml": false
+    },
+    {
+      "text": "Cocaine.",
+      "renderHtml": false
+    },
+    {
+      "text": "Columbine.",
+      "renderHtml": false
+    },
+    {
+      "text": "Coming out of the closet.",
+      "renderHtml": false
+    },
+    {
+      "text": "Crashing a funeral.",
+      "renderHtml": false
+    },
+    {
+      "text": "Cremating the family pet.",
+      "renderHtml": false
+    },
+    {
+      "text": "Cutting in line on black Friday.",
+      "renderHtml": false
+    },
+    {
+      "text": "Drop kicking a crying baby on a long distance flight.",
+      "renderHtml": false
+    },
+    {
+      "text": "Eloping to a Himalayan mountaintop.",
+      "renderHtml": false
+    },
+    {
+      "text": "Eskimo Brothers.",
+      "renderHtml": false
+    },
+    {
+      "text": "Extreme Jihadists.",
+      "renderHtml": false
+    },
+    {
+      "text": "Faking a heart attack to get out of paying the bill.",
+      "renderHtml": false
+    },
+    {
+      "text": "Faking an orgasm.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fat people.",
+      "renderHtml": false
+    },
+    {
+      "text": "Finding out your ex is now gay.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fist fighting the bouncer.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fucking a retard.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting a blumpkin.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ghost busters.",
+      "renderHtml": false
+    },
+    {
+      "text": "Having sex in the neighbors hot tub.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hoes in different area codes.",
+      "renderHtml": false
+    },
+    {
+      "text": "Jehovah Witnesses.",
+      "renderHtml": false
+    },
+    {
+      "text": "Jerry Sandusky.",
+      "renderHtml": false
+    },
+    {
+      "text": "Joe Camel Toe.",
+      "renderHtml": false
+    },
+    {
+      "text": "Judging elves by the color of their skin and not by the content of their character.",
+      "renderHtml": false
+    },
+    {
+      "text": "Karate chopping the blind.",
+      "renderHtml": false
+    },
+    {
+      "text": "Keeping the pimp hand strong.",
+      "renderHtml": false
+    },
+    {
+      "text": "Killing your own parents to become batman.",
+      "renderHtml": false
+    },
+    {
+      "text": "Lady Gaga's boyfriend.",
+      "renderHtml": false
+    },
+    {
+      "text": "Laughing at a funeral.",
+      "renderHtml": false
+    },
+    {
+      "text": "Leaving the toilet seat up.",
+      "renderHtml": false
+    },
+    {
+      "text": "LeBron James's Hairline.",
+      "renderHtml": false
+    },
+    {
+      "text": "Marilyn Manson.",
+      "renderHtml": false
+    },
+    {
+      "text": "MDMA.",
+      "renderHtml": false
+    },
+    {
+      "text": "Mitt Rommey.",
+      "renderHtml": false
+    },
+    {
+      "text": "Money problems.",
+      "renderHtml": false
+    },
+    {
+      "text": "my sex life.",
+      "renderHtml": false
+    },
+    {
+      "text": "Not picking up dog shit.",
+      "renderHtml": false
+    },
+    {
+      "text": "Paying taxes.",
+      "renderHtml": false
+    },
+    {
+      "text": "Peeing on a hobo.",
+      "renderHtml": false
+    },
+    {
+      "text": "Penis shaped objects.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pistol-whipping a parking officer.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pretentious Prius Drivers.",
+      "renderHtml": false
+    },
+    {
+      "text": "Raping an alter boy.",
+      "renderHtml": false
+    },
+    {
+      "text": "Robbing the poor.",
+      "renderHtml": false
+    },
+    {
+      "text": "Rubbing feces on tombstones.",
+      "renderHtml": false
+    },
+    {
+      "text": "Running over a herd of prostitutes.",
+      "renderHtml": false
+    },
+    {
+      "text": "Selling weed to elementary school students.",
+      "renderHtml": false
+    },
+    {
+      "text": "Skull fucking the neighbor's cat.",
+      "renderHtml": false
+    },
+    {
+      "text": "Slave owners.",
+      "renderHtml": false
+    },
+    {
+      "text": "Smelly Arabs.",
+      "renderHtml": false
+    },
+    {
+      "text": "Spike Lee.",
+      "renderHtml": false
+    },
+    {
+      "text": "Spitting on Santa Claus imposters.",
+      "renderHtml": false
+    },
+    {
+      "text": "Squirting porn.",
+      "renderHtml": false
+    },
+    {
+      "text": "Stealing all the drinking water at EDM Raves.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sweatshop workers.",
+      "renderHtml": false
+    },
+    {
+      "text": "Telling small children the truth about the Easter bunny.",
+      "renderHtml": false
+    },
+    {
+      "text": "The book of Mormon.",
+      "renderHtml": false
+    },
+    {
+      "text": "The confusing sounds of WRFL.",
+      "renderHtml": false
+    },
+    {
+      "text": "The gentle caress of Uncle's scrotum on your ear.",
+      "renderHtml": false
+    },
+    {
+      "text": "The middle class.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Ninja Turtles",
+      "renderHtml": false
+    },
+    {
+      "text": "Time traveling on psychedelics.",
+      "renderHtml": false
+    },
+    {
+      "text": "Towelheads.",
+      "renderHtml": false
+    },
+    {
+      "text": "Urinating on a public water fountain.",
+      "renderHtml": false
+    },
+    {
+      "text": "Walking into the wrong delivery room.",
+      "renderHtml": false
+    }
+  ]
+}

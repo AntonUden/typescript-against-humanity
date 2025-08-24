@@ -1,0 +1,129 @@
+{
+  "order": 29,
+  "displayName": "Dad Pack",
+  "name": "Dad_Pack",
+  "whiteCards": [
+    {
+      "text": "Coming up on Turner Classic Movies:\nSean Connery and Alec Baldwin star in \"The Hunt for _.\"",
+      "pick": 1
+    },
+    {
+      "text": "FW: re:\nFBI WARNING!!! VIOLENT GANGS USING _ TO RECRUIT CHILDREN!",
+      "pick": 1
+    },
+    {
+      "text": "Hey, kids.\nI'm Connor's dad, but you can call me Mr. _.",
+      "pick": 1
+    },
+    {
+      "text": "So apparently Dad was searching Pornhub for \"hot milf _.\"",
+      "pick": 1
+    },
+    {
+      "text": "Whaddya think, money grows on trees? I'm not paying for _!",
+      "pick": 1
+    },
+    {
+      "text": "Young lady, you better knock it off with _ or you're grounded!",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "A positive male role model.",
+      "renderHtml": false
+    },
+    {
+      "text": "Coaching the 7th grade girls basketball team.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dad coming home drunk.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dad's big sex night.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dad's famous chili.",
+      "renderHtml": false
+    },
+    {
+      "text": "Divorce.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dolby® Digital Surround Sound.",
+      "renderHtml": false
+    },
+    {
+      "text": "Emotional unavailability.",
+      "renderHtml": false
+    },
+    {
+      "text": "Finding a place to sit down.",
+      "renderHtml": false
+    },
+    {
+      "text": "Flirting with the ladies at the bank.",
+      "renderHtml": false
+    },
+    {
+      "text": "Forty-two years of repressed homosexuality.",
+      "renderHtml": false
+    },
+    {
+      "text": "Going bald.",
+      "renderHtml": false
+    },
+    {
+      "text": "Having a bunch of kids by accident.",
+      "renderHtml": false
+    },
+    {
+      "text": "Having a heart attack.",
+      "renderHtml": false
+    },
+    {
+      "text": "Kidnapping Liam Neeson's daughter.",
+      "renderHtml": false
+    },
+    {
+      "text": "Making the printer work.",
+      "renderHtml": false
+    },
+    {
+      "text": "Puns.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sitting on the toilet for 45 minutes.",
+      "renderHtml": false
+    },
+    {
+      "text": "Standing in the middle of the living room holding two remote controls.",
+      "renderHtml": false
+    },
+    {
+      "text": "Stealing a child's nose and keeping it forever.",
+      "renderHtml": false
+    },
+    {
+      "text": "The nipples of a man.",
+      "renderHtml": false
+    },
+    {
+      "text": "The son of a bitch who knocked up my daughter.",
+      "renderHtml": false
+    },
+    {
+      "text": "Tripping on an object and becoming angry.",
+      "renderHtml": false
+    },
+    {
+      "text": "What Dad has to say about Muslims.",
+      "renderHtml": false
+    }
+  ]
+}

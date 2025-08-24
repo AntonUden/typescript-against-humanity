@@ -1,0 +1,509 @@
+{
+  "order": 174,
+  "displayName": "Personally Incorrect - Expansion 2 [Yellow Box]",
+  "name": "Personally_Incorrect_-_Expansion_2_[Yellow_Box]",
+  "whiteCards": [
+    {
+      "text": "_ always reminds \"Insert Name\" of fun times with his/her grandma.",
+      "pick": 1
+    },
+    {
+      "text": "\"Insert Name's\" bar serves a world famous drink called _ on the beach.",
+      "pick": 1
+    },
+    {
+      "text": "\"Insert Name's\" family moonshine recipe combines sugar with _, to make it go down smooth.",
+      "pick": 1
+    },
+    {
+      "text": "\"Insert Name's\" partner always had lame excuses not to try _ in the sack.",
+      "pick": 1
+    },
+    {
+      "text": "\"Insert Name's\" wedding photographer was shocked that she has to take pictures of _.",
+      "pick": 1
+    },
+    {
+      "text": "\"Insert Name\" admitted he/she has a weakness for nail polish and _.",
+      "pick": 1
+    },
+    {
+      "text": "\"Insert Name\" believes that _ guarantees fertility.",
+      "pick": 1
+    },
+    {
+      "text": "\"Insert Name\" expects there will be _ in his/her bed when he/she gets home from game night.",
+      "pick": 1
+    },
+    {
+      "text": "\"Insert Name\" has always found that _ works better than sex enhancing drugs.",
+      "pick": 1
+    },
+    {
+      "text": "\"Insert Name\" has been spending all his/her money at the local fetish bar that specializes in _.",
+      "pick": 1
+    },
+    {
+      "text": "\"Insert Name\" knocked his/her date out cold with a _.",
+      "pick": 1
+    },
+    {
+      "text": "\"Insert Name\" saw _ in the movies and thought he/she would give it a whirl, turns out he/she loves it.",
+      "pick": 1
+    },
+    {
+      "text": "\"Insert Name\" thought _ was better than any internet cat videos.",
+      "pick": 1
+    },
+    {
+      "text": "\"Insert Name\" thought he/she was a _ vampire.",
+      "pick": 1
+    },
+    {
+      "text": "\"Insert Name\" thought you could prevent hair loss by avoiding _ like the plague.",
+      "pick": 1
+    },
+    {
+      "text": "\"Insert Name\" was aspiring to become a doctor, but ended up as a _ junkie.",
+      "pick": 1
+    },
+    {
+      "text": "\"Insert Name\" was caught at the county fair with _ and the prize winning bull.",
+      "pick": 1
+    },
+    {
+      "text": "\"Insert Name\" was enjoying _ with his/her intern when the office door opened and his/her boss came in.",
+      "pick": 1
+    },
+    {
+      "text": "\"Insert Name\" wishes his/her never ate beans before heading out for a night of _.",
+      "pick": 1
+    },
+    {
+      "text": "\"Insert Name\" woke up with _ on his/her face.",
+      "pick": 1
+    },
+    {
+      "text": "During the 'sex talk' \"Insert Name's\" mother never warned him/her about _.",
+      "pick": 1
+    },
+    {
+      "text": "During the first aid training \"Insert Name\" learned to use _ to save lives.",
+      "pick": 1
+    },
+    {
+      "text": "Everyone wonders if \"Insert Name's\" mom was ever involved with _ when she was in her prime.",
+      "pick": 1
+    },
+    {
+      "text": "In the last election \"Insert Name\" voted for the only woman candidate because of her love for _.",
+      "pick": 1
+    },
+    {
+      "text": "Mom said \"Insert Name\" can have all the _ he/she wants, just don't get any on the carpet.",
+      "pick": 1
+    },
+    {
+      "text": "On his/her new job application \"Insert Name\" lied and claimed to have 6 years experience with _.",
+      "pick": 1
+    },
+    {
+      "text": "On the first date \"Insert Name\" thought it was normal to bring _.",
+      "pick": 1
+    },
+    {
+      "text": "The biggest motivator to help \"Insert Name\" quit smoking was _.",
+      "pick": 1
+    },
+    {
+      "text": "The last time \"Insert Name\" was stuck in an elevator he/she survived by eating _.",
+      "pick": 1
+    },
+    {
+      "text": "The Somali pirates let \"Insert Name\" go free after they found his/her valuable stash of _.",
+      "pick": 1
+    },
+    {
+      "text": "The story of \"Insert Name\" lost his/her virginity involves that back seat of a car, a security guard, a flashlight, and _.",
+      "pick": 1
+    },
+    {
+      "text": "When \"Insert Name's\" skin feels rough he/she uses _to get it silky smooth.",
+      "pick": 1
+    },
+    {
+      "text": "When \"Insert Name\" knocks on heaven's door, he/she hopes St. Peter does not know about his/her _.",
+      "pick": 1
+    },
+    {
+      "text": "When \"Insert Name\" watches his/her cousin folding underwear, he/she thinks about _.",
+      "pick": 1
+    },
+    {
+      "text": "While going for a run through the city park \"Insert Name\" found two ducks fighting over _.",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "A Bitchplosion",
+      "renderHtml": false
+    },
+    {
+      "text": "A Classy Face Tattoo",
+      "renderHtml": false
+    },
+    {
+      "text": "A Cock Carousel",
+      "renderHtml": false
+    },
+    {
+      "text": "A Comical Disability",
+      "renderHtml": false
+    },
+    {
+      "text": "A Crack Diet",
+      "renderHtml": false
+    },
+    {
+      "text": "A Craptrap",
+      "renderHtml": false
+    },
+    {
+      "text": "A Drunk Handsy Mall Santa",
+      "renderHtml": false
+    },
+    {
+      "text": "A Failed Marriage Proposal",
+      "renderHtml": false
+    },
+    {
+      "text": "A Human Hair Sweater",
+      "renderHtml": false
+    },
+    {
+      "text": "A Meth Faced Lawyer",
+      "renderHtml": false
+    },
+    {
+      "text": "A Minotaur Cocksmack",
+      "renderHtml": false
+    },
+    {
+      "text": "A Munter Hunter",
+      "renderHtml": false
+    },
+    {
+      "text": "A Nun Threeway",
+      "renderHtml": false
+    },
+    {
+      "text": "A Septic Tank Swimming Pool",
+      "renderHtml": false
+    },
+    {
+      "text": "Abducting Homeless People",
+      "renderHtml": false
+    },
+    {
+      "text": "Afterbirth Sandwich",
+      "renderHtml": false
+    },
+    {
+      "text": "All White Olympic Team",
+      "renderHtml": false
+    },
+    {
+      "text": "Alligator Fuckhouse",
+      "renderHtml": false
+    },
+    {
+      "text": "Amputated Puppy Leg",
+      "renderHtml": false
+    },
+    {
+      "text": "An Ether-Soaked Dating Rag",
+      "renderHtml": false
+    },
+    {
+      "text": "Apocalypse Sex",
+      "renderHtml": false
+    },
+    {
+      "text": "Aquaphilia",
+      "renderHtml": false
+    },
+    {
+      "text": "Babies Last Christmas",
+      "renderHtml": false
+    },
+    {
+      "text": "Bathsalt Zombies",
+      "renderHtml": false
+    },
+    {
+      "text": "Beating The Ugly Child",
+      "renderHtml": false
+    },
+    {
+      "text": "Benzo Nap",
+      "renderHtml": false
+    },
+    {
+      "text": "Black Amish Dude",
+      "renderHtml": false
+    },
+    {
+      "text": "Bloody Vagicle",
+      "renderHtml": false
+    },
+    {
+      "text": "Blowing Stacks at The Kiddy Arcade",
+      "renderHtml": false
+    },
+    {
+      "text": "Cheater's Apps",
+      "renderHtml": false
+    },
+    {
+      "text": "Christ Killer",
+      "renderHtml": false
+    },
+    {
+      "text": "Church of Flying Spaghetti People",
+      "renderHtml": false
+    },
+    {
+      "text": "Cocaine Filled Birthday Loot Bag",
+      "renderHtml": false
+    },
+    {
+      "text": "Cock and Ball Torture",
+      "renderHtml": false
+    },
+    {
+      "text": "Creamy Delicious Pus",
+      "renderHtml": false
+    },
+    {
+      "text": "Crowdfunded Genocide",
+      "renderHtml": false
+    },
+    {
+      "text": "Custom Built Wheelchair",
+      "renderHtml": false
+    },
+    {
+      "text": "Dwarf Dick",
+      "renderHtml": false
+    },
+    {
+      "text": "Extra Thick Diarrhea Milkshake",
+      "renderHtml": false
+    },
+    {
+      "text": "Faking a Mental Disorder",
+      "renderHtml": false
+    },
+    {
+      "text": "Farting During a Rim Job",
+      "renderHtml": false
+    },
+    {
+      "text": "Finger Popping Assholes",
+      "renderHtml": false
+    },
+    {
+      "text": "Firehose Colonic",
+      "renderHtml": false
+    },
+    {
+      "text": "Forgetting to Turn Off the Gas Chamber",
+      "renderHtml": false
+    },
+    {
+      "text": "Free Samples from a Hooker",
+      "renderHtml": false
+    },
+    {
+      "text": "Fuckboys",
+      "renderHtml": false
+    },
+    {
+      "text": "Gay Cruising in a Republian Neighbourhood",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting Fist Fucked by a Boxer",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting Strawberry Shortcaked",
+      "renderHtml": false
+    },
+    {
+      "text": "Gluten Free Bullshit",
+      "renderHtml": false
+    },
+    {
+      "text": "Guzzling Animal Semen",
+      "renderHtml": false
+    },
+    {
+      "text": "Hipster Babies",
+      "renderHtml": false
+    },
+    {
+      "text": "Humanburgers",
+      "renderHtml": false
+    },
+    {
+      "text": "Investment Banger",
+      "renderHtml": false
+    },
+    {
+      "text": "Jewish Christmas",
+      "renderHtml": false
+    },
+    {
+      "text": "Jumping on the Gangbang Wagon",
+      "renderHtml": false
+    },
+    {
+      "text": "K-Holing",
+      "renderHtml": false
+    },
+    {
+      "text": "Kancho",
+      "renderHtml": false
+    },
+    {
+      "text": "Knowingly Hitting on a Tranny",
+      "renderHtml": false
+    },
+    {
+      "text": "Life Changing Acid Trips",
+      "renderHtml": false
+    },
+    {
+      "text": "Masturbating in a Public Urinal",
+      "renderHtml": false
+    },
+    {
+      "text": "Monster Porn",
+      "renderHtml": false
+    },
+    {
+      "text": "Mucous Mayo",
+      "renderHtml": false
+    },
+    {
+      "text": "Murder Suicide",
+      "renderHtml": false
+    },
+    {
+      "text": "Passing Out in Someone Else's Puke",
+      "renderHtml": false
+    },
+    {
+      "text": "Paying to Hunt Endangered Animals",
+      "renderHtml": false
+    },
+    {
+      "text": "Phone Groping",
+      "renderHtml": false
+    },
+    {
+      "text": "Picking Up Unattended Children",
+      "renderHtml": false
+    },
+    {
+      "text": "Pissing in a Ball Crawl",
+      "renderHtml": false
+    },
+    {
+      "text": "Playing Catch The Toddler",
+      "renderHtml": false
+    },
+    {
+      "text": "Poo Scissors",
+      "renderHtml": false
+    },
+    {
+      "text": "Poorly Executed Terrorist Attack",
+      "renderHtml": false
+    },
+    {
+      "text": "Pop Rock Blow Jobs",
+      "renderHtml": false
+    },
+    {
+      "text": "Racist Christmas Present",
+      "renderHtml": false
+    },
+    {
+      "text": "Razorblade Filled Candy",
+      "renderHtml": false
+    },
+    {
+      "text": "Retrograde Ejaculation",
+      "renderHtml": false
+    },
+    {
+      "text": "Shame Fucking",
+      "renderHtml": false
+    },
+    {
+      "text": "Sharing Dirty Needles",
+      "renderHtml": false
+    },
+    {
+      "text": "Social Justice Warriors",
+      "renderHtml": false
+    },
+    {
+      "text": "Sporking",
+      "renderHtml": false
+    },
+    {
+      "text": "Step-Fucker",
+      "renderHtml": false
+    },
+    {
+      "text": "Tasty Butt Squirts",
+      "renderHtml": false
+    },
+    {
+      "text": "Tequila Shots at an AA Meeting",
+      "renderHtml": false
+    },
+    {
+      "text": "The First Gay President of the United States",
+      "renderHtml": false
+    },
+    {
+      "text": "The McShits",
+      "renderHtml": false
+    },
+    {
+      "text": "The Minivan",
+      "renderHtml": false
+    },
+    {
+      "text": "Tongue Punching Your Fart Box",
+      "renderHtml": false
+    },
+    {
+      "text": "Truffle Butter",
+      "renderHtml": false
+    },
+    {
+      "text": "Virtual Reality Mass Murder",
+      "renderHtml": false
+    },
+    {
+      "text": "Y'all Qaeda",
+      "renderHtml": false
+    }
+  ]
+}

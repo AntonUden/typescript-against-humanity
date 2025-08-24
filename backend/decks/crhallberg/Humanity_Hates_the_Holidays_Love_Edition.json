@@ -1,0 +1,449 @@
+{
+  "order": 155,
+  "displayName": "Humanity Hates the Holidays \"Love\" Edition",
+  "name": "Humanity_Hates_the_Holidays_Love_Edition",
+  "whiteCards": [
+    {
+      "text": "_ is the key to recovery.",
+      "pick": 1
+    },
+    {
+      "text": "Believe in the magic of _.",
+      "pick": 1
+    },
+    {
+      "text": "Can you feel the _ tonight?",
+      "pick": 1
+    },
+    {
+      "text": "Cupid is known for this _.",
+      "pick": 1
+    },
+    {
+      "text": "Every kiss begins with _.",
+      "pick": 1
+    },
+    {
+      "text": "Getting drunk on Valentine's Day usually leads to _.",
+      "pick": 1
+    },
+    {
+      "text": "He got harder than a rock afeter he saw _.",
+      "pick": 1
+    },
+    {
+      "text": "I can't believe he proposed to me with _ instead of a ring.",
+      "pick": 1
+    },
+    {
+      "text": "I can't believe my sister wrote in her diary about _.",
+      "pick": 1
+    },
+    {
+      "text": "I found my mom's dildo and traded it for _.",
+      "pick": 1
+    },
+    {
+      "text": "I gave my girlfriend a B- because she didn't use (a/the) _.",
+      "pick": 1
+    },
+    {
+      "text": "I hate Cupid because (of) _.",
+      "pick": 1
+    },
+    {
+      "text": "I love you more than _.",
+      "pick": 1
+    },
+    {
+      "text": "If you thought American Pie was bad, you should have seen what I did with _.",
+      "pick": 1
+    },
+    {
+      "text": "Instead of roses, he gave me _.",
+      "pick": 1
+    },
+    {
+      "text": "My girlfriend gave me chocolate-covered _.",
+      "pick": 1
+    },
+    {
+      "text": "Only you can prevent _.",
+      "pick": 1
+    },
+    {
+      "text": "Our waitress at Hooters™ showed us her _.",
+      "pick": 1
+    },
+    {
+      "text": "Our wedding night consisted of _ and _.",
+      "pick": 2
+    },
+    {
+      "text": "Roses are red,\nViolets are blue,\nI am going to _\nwith you.",
+      "pick": 1
+    },
+    {
+      "text": "Sex: Making _ great again.",
+      "pick": 1
+    },
+    {
+      "text": "She just got a new tramp stamp of _.",
+      "pick": 1
+    },
+    {
+      "text": "St. Valentine: Patron Saint of _.",
+      "pick": 1
+    },
+    {
+      "text": "The Cosmo-sex-act-of-the-month: _. Surprise him with it tonight!",
+      "pick": 1
+    },
+    {
+      "text": "The true meaning of love is _.",
+      "pick": 1
+    },
+    {
+      "text": "To prove he loved me, he gave me _.",
+      "pick": 1
+    },
+    {
+      "text": "What can _ do for you?",
+      "pick": 1
+    },
+    {
+      "text": "What Cinderella really asked of her Fairy Godmother is _.",
+      "pick": 1
+    },
+    {
+      "text": "When you run out of Valentine's Day gift ideas, you should get _.",
+      "pick": 1
+    },
+    {
+      "text": "Why do I like you?",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "(An) eggplant emoji.",
+      "renderHtml": false
+    },
+    {
+      "text": "100% All-Beef Thermometer.",
+      "renderHtml": false
+    },
+    {
+      "text": "8th Grade and Pregnant.",
+      "renderHtml": false
+    },
+    {
+      "text": "A \"Happy Valentine's Day\" Card from AshleyMadison.com.",
+      "renderHtml": false
+    },
+    {
+      "text": "A gas station teddy bear.",
+      "renderHtml": false
+    },
+    {
+      "text": "A peanut butter and KY Jelly sandwich.",
+      "renderHtml": false
+    },
+    {
+      "text": "A sex doll that just wants to be friends.",
+      "renderHtml": false
+    },
+    {
+      "text": "Abortion Baby Shower.",
+      "renderHtml": false
+    },
+    {
+      "text": "Accidentally hitching a ride on the bang bus.",
+      "renderHtml": false
+    },
+    {
+      "text": "Accidentally sexting your mom.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ashley Madison & Chill.",
+      "renderHtml": false
+    },
+    {
+      "text": "Awkwardly confessing your love via text.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bananas, Cucumbers, and Hot Dogs.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being a sidechick on Valentine's Day.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bleeding Dick.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bringing your sidekick to your Valentine's Date.",
+      "renderHtml": false
+    },
+    {
+      "text": "Buying candy and stuffed animals on sale on February 15th.",
+      "renderHtml": false
+    },
+    {
+      "text": "Claiming Russell Stover™ as your Valentine.",
+      "renderHtml": false
+    },
+    {
+      "text": "Clown Fucking.",
+      "renderHtml": false
+    },
+    {
+      "text": "Congratulating someone on the results of their unprotected sex.",
+      "renderHtml": false
+    },
+    {
+      "text": "Convoncing your mom to Google \"Lemon Party\".",
+      "renderHtml": false
+    },
+    {
+      "text": "Dad's used fleshlight.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dating a senior.",
+      "renderHtml": false
+    },
+    {
+      "text": "Designated Ugly Fat Friend.",
+      "renderHtml": false
+    },
+    {
+      "text": "Diaper Fetishes.",
+      "renderHtml": false
+    },
+    {
+      "text": "Downloading Grindr™ on Valentine's Day to \"check it out\".",
+      "renderHtml": false
+    },
+    {
+      "text": "Eating an entire box of chocolates.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fake male orgasms.",
+      "renderHtml": false
+    },
+    {
+      "text": "Finding your mother's special lingerie...on your dad.",
+      "renderHtml": false
+    },
+    {
+      "text": "Giving out Valentine handjobs.",
+      "renderHtml": false
+    },
+    {
+      "text": "Gluten-free edible panties.",
+      "renderHtml": false
+    },
+    {
+      "text": "Grabbing her by the pussy.",
+      "renderHtml": false
+    },
+    {
+      "text": "Haivng sex on the display beds at Sears.",
+      "renderHtml": false
+    },
+    {
+      "text": "Having a surprise baby on November 14th.",
+      "renderHtml": false
+    },
+    {
+      "text": "Having Maury Povich tell you, \"You are not the father\".",
+      "renderHtml": false
+    },
+    {
+      "text": "Hearing your dad offer to give your mom his special cream pie.",
+      "renderHtml": false
+    },
+    {
+      "text": "Heat-Seeking Love Missile.",
+      "renderHtml": false
+    },
+    {
+      "text": "Helping someone move and finding a giant bag of sex toys.",
+      "renderHtml": false
+    },
+    {
+      "text": "Inappropriate Valentine's Day cards in your kid's classroom.",
+      "renderHtml": false
+    },
+    {
+      "text": "Jelly Bean Shits.",
+      "renderHtml": false
+    },
+    {
+      "text": "Jerking off to Fraggle Rock.",
+      "renderHtml": false
+    },
+    {
+      "text": "Leaving a sex partner so dissatisfied that you regain your virginity.",
+      "renderHtml": false
+    },
+    {
+      "text": "Looking at my sister's face under a blacklight.",
+      "renderHtml": false
+    },
+    {
+      "text": "Losing your v-card on V-Day.",
+      "renderHtml": false
+    },
+    {
+      "text": "Love Muscle.",
+      "renderHtml": false
+    },
+    {
+      "text": "Making her squirt farther than a Super Soaker™.",
+      "renderHtml": false
+    },
+    {
+      "text": "Milking the family snake.",
+      "renderHtml": false
+    },
+    {
+      "text": "Moms riding motorcycles.",
+      "renderHtml": false
+    },
+    {
+      "text": "Mr. Happy.",
+      "renderHtml": false
+    },
+    {
+      "text": "My brother's special sock.",
+      "renderHtml": false
+    },
+    {
+      "text": "OkCupid™.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ordering enough Valentine's Day takeout for 2 people to avoid the delivery guy's pity.",
+      "renderHtml": false
+    },
+    {
+      "text": "Overindulging on gummy bears.",
+      "renderHtml": false
+    },
+    {
+      "text": "Panties so moist they could drown a beaver.",
+      "renderHtml": false
+    },
+    {
+      "text": "Placing burning cigarettes in your spouse's purse.",
+      "renderHtml": false
+    },
+    {
+      "text": "Practicing Cosmopolitan's 50 naughty V-Day moves.",
+      "renderHtml": false
+    },
+    {
+      "text": "Proposing to your sidechick accidentally.",
+      "renderHtml": false
+    },
+    {
+      "text": "Re-inventing what it means to \"Doggy-Style\".",
+      "renderHtml": false
+    },
+    {
+      "text": "Ripping out anal beads like you're starting a lawnmower.",
+      "renderHtml": false
+    },
+    {
+      "text": "Semen-flavored truffles.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sending yourself flowers.",
+      "renderHtml": false
+    },
+    {
+      "text": "Seven minutes in heaven.",
+      "renderHtml": false
+    },
+    {
+      "text": "Single's awareness day.",
+      "renderHtml": false
+    },
+    {
+      "text": "Stop & Frisk Role-Playing.",
+      "renderHtml": false
+    },
+    {
+      "text": "Stripper's Clothes.",
+      "renderHtml": false
+    },
+    {
+      "text": "Surprise Anal.",
+      "renderHtml": false
+    },
+    {
+      "text": "Switching out Valentines for dog shit.",
+      "renderHtml": false
+    },
+    {
+      "text": "Tens, Tens, Tens, Twenties on my Twitties.",
+      "renderHtml": false
+    },
+    {
+      "text": "The desparate girl who wanted to be a mom so bad that she robbed a sperm bank.",
+      "renderHtml": false
+    },
+    {
+      "text": "The hospital baby swap.",
+      "renderHtml": false
+    },
+    {
+      "text": "The morning after pill.",
+      "renderHtml": false
+    },
+    {
+      "text": "Throwing rolls of pennies at strippers.",
+      "renderHtml": false
+    },
+    {
+      "text": "Trying to take her bra off with one hand.",
+      "renderHtml": false
+    },
+    {
+      "text": "Turbo thots.",
+      "renderHtml": false
+    },
+    {
+      "text": "Using a suicide hotline for phone sex.",
+      "renderHtml": false
+    },
+    {
+      "text": "Valentine's Day, when delivery guys make more than just tips.",
+      "renderHtml": false
+    },
+    {
+      "text": "Walking in on your sister using your electric toothbrush.",
+      "renderHtml": false
+    },
+    {
+      "text": "Whitening your teeth with Dad's help.",
+      "renderHtml": false
+    },
+    {
+      "text": "Your boyfriend revealing Cupid isn't the only fairy on Valentine's Day.",
+      "renderHtml": false
+    },
+    {
+      "text": "Your father's porn collection.",
+      "renderHtml": false
+    }
+  ]
+}

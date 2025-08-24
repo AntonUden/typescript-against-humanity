@@ -1,0 +1,133 @@
+{
+  "order": 11,
+  "displayName": "CAH: Canadian Conversion Kit",
+  "name": "CAH_Canadian_Conversion_Kit",
+  "whiteCards": [
+    {
+      "text": "Air Force fuckery is getting so bad that the brass are starting to blame _ on the lack of discipline.",
+      "pick": 1
+    },
+    {
+      "text": "CTV presents _, the story of _.",
+      "pick": 2
+    },
+    {
+      "text": "In an attempt to reach a wider audience, the Royal Ontario Museum has opened an interactive exhibit on _.",
+      "pick": 1
+    },
+    {
+      "text": "Next season on Celebrity Apprentice: _.",
+      "pick": 1
+    },
+    {
+      "text": "O say, does _ yet wave\n\no'er the land of the fre and the home of the brave?",
+      "pick": 1
+    },
+    {
+      "text": "The Royal Ontario Museum has just opened an interactive exhibit on _.",
+      "pick": 1
+    },
+    {
+      "text": "What's the crustiest?",
+      "pick": 1
+    },
+    {
+      "text": "When I am Prime Minister of Canada, I will create the Ministry of _.",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "A Molson muscle.",
+      "renderHtml": false
+    },
+    {
+      "text": "A time travel paradox.",
+      "renderHtml": false
+    },
+    {
+      "text": "An identity crisis",
+      "renderHtml": false
+    },
+    {
+      "text": "Being catfished.",
+      "renderHtml": false
+    },
+    {
+      "text": "Burning Flipside.",
+      "renderHtml": false
+    },
+    {
+      "text": "Canada: America's hat.",
+      "renderHtml": false
+    },
+    {
+      "text": "Don Cherrys wardrobe.",
+      "renderHtml": false
+    },
+    {
+      "text": "hermaphroditical Italian pictures",
+      "renderHtml": false
+    },
+    {
+      "text": "Homoerotic ass slapping amongst athletes.",
+      "renderHtml": false
+    },
+    {
+      "text": "Mr. Froto's ring",
+      "renderHtml": false
+    },
+    {
+      "text": "Naked people.",
+      "renderHtml": false
+    },
+    {
+      "text": "Newly incorporated kamikaze tactics.",
+      "renderHtml": false
+    },
+    {
+      "text": "Poverty porn",
+      "renderHtml": false
+    },
+    {
+      "text": "Rob Ford",
+      "renderHtml": false
+    },
+    {
+      "text": "School friends' uneducated views on sex",
+      "renderHtml": false
+    },
+    {
+      "text": "Snow falling gently on the frozen body of an orphan boy.",
+      "renderHtml": false
+    },
+    {
+      "text": "Stephen Hawking",
+      "renderHtml": false
+    },
+    {
+      "text": "Systemic racism.",
+      "renderHtml": false
+    },
+    {
+      "text": "Test driving a used sex toy.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Famous Five.",
+      "renderHtml": false
+    },
+    {
+      "text": "The FLQ",
+      "renderHtml": false
+    },
+    {
+      "text": "The Ohakune Carrot",
+      "renderHtml": false
+    },
+    {
+      "text": "The royal penis.",
+      "renderHtml": false
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "order": 35,
+  "displayName": "Gen Con 2018 Midterm Election Pack",
+  "name": "Gen_Con_2018_Midterm_Election_Pack",
+  "whiteCards": [
+    {
+      "text": "If Mike Pence could dream, he would dream about _.",
+      "pick": 1
+    },
+    {
+      "text": "What will finally make me care?",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "41 million Americans living in poverty.",
+      "renderHtml": false
+    },
+    {
+      "text": "A law that allows factories to dump toxic waste into children's mouths.",
+      "renderHtml": false
+    },
+    {
+      "text": "A living wage and affordable health care.",
+      "renderHtml": false
+    },
+    {
+      "text": "A politician who doesn't blow monkey ass.",
+      "renderHtml": false
+    },
+    {
+      "text": "Crowdfunding my daughter's bone marrow transplant.",
+      "renderHtml": false
+    },
+    {
+      "text": "Donald Trump's latest fucking thing.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fentanyl.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fucking over future generations.",
+      "renderHtml": false
+    },
+    {
+      "text": "ICE.",
+      "renderHtml": false
+    },
+    {
+      "text": "Not thinking about the children in cages.",
+      "renderHtml": false
+    },
+    {
+      "text": "Overturning Roe v. Wade.",
+      "renderHtml": false
+    },
+    {
+      "text": "Propping up Ruth Bader Ginsburg's corpse and moving her jaw up and down.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pseudointellectual centrist bullshit.",
+      "renderHtml": false
+    },
+    {
+      "text": "Rising to power on a wave of ethnic nationalism.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sean Spicer, Reince Priebus, Steve Bannon, Sebastian Gorka, Omarosa, Anthony Scaramucci, James Comey, Mike Flynn, Rex Tillerson, Ty Cobb, Andrew McCabe, K. T. McFarland, H. R. McMaster, Gary Cohn, Hope Hicks, Rob Porter, Scott Pruitt, and Tom Price.",
+      "renderHtml": false
+    },
+    {
+      "text": "Totally ineffective political satire.",
+      "renderHtml": false
+    }
+  ]
+}

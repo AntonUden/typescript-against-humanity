@@ -1,0 +1,129 @@
+{
+  "order": 38,
+  "displayName": "Jew Pack/Chosen People Pack",
+  "name": "Jew_Pack_Chosen_People_Pack",
+  "whiteCards": [
+    {
+      "text": "According to Freud, all children progress through three stages of development: the oral stage, the anal stage, and the _ stage.",
+      "pick": 1
+    },
+    {
+      "text": "Can't you see? The Jews are behind everything-the banks, the media, even _!",
+      "pick": 1
+    },
+    {
+      "text": "Coming to Broadway next season: \"_ on the Roof.\"",
+      "pick": 1
+    },
+    {
+      "text": "Oh, your daughter should meet my son! He gives to charity, he loves _ and did I mention he's a doctor?",
+      "pick": 1
+    },
+    {
+      "text": "What's so important right now that you can't call your mother?",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "A big brain full of facts and sadness.",
+      "renderHtml": false
+    },
+    {
+      "text": "A headache that's definitely cancer.",
+      "renderHtml": false
+    },
+    {
+      "text": "A lifetime of internalized guilt.",
+      "renderHtml": false
+    },
+    {
+      "text": "A little bit of schmutz right there.",
+      "renderHtml": false
+    },
+    {
+      "text": "A three-foot-tall corned beef sandwich.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bags of money.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being chosen by God to win a free iPod Nano.",
+      "renderHtml": false
+    },
+    {
+      "text": "Chopping off a bit of the penis.",
+      "renderHtml": false
+    },
+    {
+      "text": "Demolishing that ass like a Palestinian village.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hiding from the Nazis.",
+      "renderHtml": false
+    },
+    {
+      "text": "Holding up the line at Walgreens by trying to use an expired coupon.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pork products.",
+      "renderHtml": false
+    },
+    {
+      "text": "Resurrecting an army of six million Jews and conquering Germany.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sacrificing Isaac to the Lord.",
+      "renderHtml": false
+    },
+    {
+      "text": "Some kind of concentrated encampment for people.",
+      "renderHtml": false
+    },
+    {
+      "text": "Suddenly remembering that the Holocaust happened.",
+      "renderHtml": false
+    },
+    {
+      "text": "The blood of Christian babies.",
+      "renderHtml": false
+    },
+    {
+      "text": "The ethical implications of enjoying a Woody Allen film in light of the allegations against him.",
+      "renderHtml": false
+    },
+    {
+      "text": "The part of Anne Frank's diary where she talks about her vagina.",
+      "renderHtml": false
+    },
+    {
+      "text": "Thy neighbor's wife.",
+      "renderHtml": false
+    },
+    {
+      "text": "Torturing Jews until they say they're not Jews anymore.",
+      "renderHtml": false
+    },
+    {
+      "text": "Usury.",
+      "renderHtml": false
+    },
+    {
+      "text": "Wandering the desert for 40 years.",
+      "renderHtml": false
+    },
+    {
+      "text": "What it means to be a Jewish woman in contemporary society.",
+      "renderHtml": false
+    },
+    {
+      "text": "Whoopi Goldberg.",
+      "renderHtml": false
+    }
+  ]
+}

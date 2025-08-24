@@ -1,0 +1,69 @@
+{
+  "order": 28,
+  "displayName": "ClickHole Greeting Cards Pack (Target Exclusive)",
+  "name": "ClickHole_Greeting_Cards_Pack_(Target_Exclusive)",
+  "whiteCards": [
+    {
+      "text": "Hallmark has invented a new holiday. It's called \"_ Day.\"",
+      "pick": 1
+    },
+    {
+      "text": "Happy Birthday! I love you. Here's _.",
+      "pick": 1
+    },
+    {
+      "text": "Honey, it's gonna take more than a shitty greeting card to make up for ten years of _.",
+      "pick": 1
+    },
+    {
+      "text": "I cannot stop smiling about _.",
+      "pick": 1
+    },
+    {
+      "text": "Roses are red. Violets are blue. I am _ and so are you.",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "A one-star Uber driver named \"Wife of Tarantula.\"",
+      "renderHtml": false
+    },
+    {
+      "text": "An explosion of glitter.",
+      "renderHtml": false
+    },
+    {
+      "text": "Eating my children.",
+      "renderHtml": false
+    },
+    {
+      "text": "Emerging from my mother's vagina.",
+      "renderHtml": false
+    },
+    {
+      "text": "Give me kiss.",
+      "renderHtml": false
+    },
+    {
+      "text": "Looking like shit.",
+      "renderHtml": false
+    },
+    {
+      "text": "Luring my husband to the bedroom with a trail of ferret teeth and appearing on the bed in a ferret costume.",
+      "renderHtml": false
+    },
+    {
+      "text": "Mom's special birthday rimjob.",
+      "renderHtml": false
+    },
+    {
+      "text": "My five dead husbands.",
+      "renderHtml": false
+    },
+    {
+      "text": "Turning 70 and still being fuckable.",
+      "renderHtml": false
+    }
+  ]
+}

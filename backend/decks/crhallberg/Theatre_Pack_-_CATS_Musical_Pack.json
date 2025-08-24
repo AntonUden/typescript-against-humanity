@@ -1,0 +1,129 @@
+{
+  "order": 65,
+  "displayName": "Theatre Pack - CATS Musical Pack",
+  "name": "Theatre_Pack_-_CATS_Musical_Pack",
+  "whiteCards": [
+    {
+      "text": "_! All alone in the moonlight!",
+      "pick": 1
+    },
+    {
+      "text": "Ahhh _! Toodle pip!",
+      "pick": 1
+    },
+    {
+      "text": "Jellicle Cats come out tonight, Jellicle Cats come one, come all, the time for _ is now, Jellicles come to the Jellicle Ball.",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "30 grown adults crawling around on all-fours.",
+      "renderHtml": false
+    },
+    {
+      "text": "A man who has not heard of a Jellicle cat.",
+      "renderHtml": false
+    },
+    {
+      "text": "Becoming Mr. Mistoffelees.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bustopher Jones.",
+      "renderHtml": false
+    },
+    {
+      "text": "Carbucketty.",
+      "renderHtml": false
+    },
+    {
+      "text": "Feline AIDS.",
+      "renderHtml": false
+    },
+    {
+      "text": "Garfield.",
+      "renderHtml": false
+    },
+    {
+      "text": "Griddlebone.",
+      "renderHtml": false
+    },
+    {
+      "text": "Grizabella, the glamour cat.",
+      "renderHtml": false
+    },
+    {
+      "text": "Growltiger.",
+      "renderHtml": false
+    },
+    {
+      "text": "Grump Cat.",
+      "renderHtml": false
+    },
+    {
+      "text": "Gus: the Palsy Cat.",
+      "renderHtml": false
+    },
+    {
+      "text": "Heathcliff.",
+      "renderHtml": false
+    },
+    {
+      "text": "Jellicle cats.",
+      "renderHtml": false
+    },
+    {
+      "text": "Macavity!",
+      "renderHtml": false
+    },
+    {
+      "text": "Memory.",
+      "renderHtml": false
+    },
+    {
+      "text": "Meow.",
+      "renderHtml": false
+    },
+    {
+      "text": "Mungojerrie and Rumpleteazer.",
+      "renderHtml": false
+    },
+    {
+      "text": "Munkustrap.",
+      "renderHtml": false
+    },
+    {
+      "text": "Old Deuteronomy.",
+      "renderHtml": false
+    },
+    {
+      "text": "Peter, Augustus, Alonzo, or James.",
+      "renderHtml": false
+    },
+    {
+      "text": "Practical cats,\ndramatical cats,\noratical cats,\nsceptical cats,\nromantical cats,\nparasitical cats,\nstatistical cats,\npolitical cats,\nhypocritical cats,\nclerical cats,\ncynical cats,\nrabbinical cats.",
+      "renderHtml": false
+    },
+    {
+      "text": "Rum Tum Tugger.",
+      "renderHtml": false
+    },
+    {
+      "text": "Shimbleshanks.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sir Andrew Lloyd Webber.",
+      "renderHtml": false
+    },
+    {
+      "text": "The mystical divinity of unashamed felinity.",
+      "renderHtml": false
+    },
+    {
+      "text": "Winkles and shrimps.",
+      "renderHtml": false
+    }
+  ]
+}

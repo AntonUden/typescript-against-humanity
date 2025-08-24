@@ -1,0 +1,105 @@
+{
+  "order": 55,
+  "displayName": "Reject Pack",
+  "name": "Reject_Pack",
+  "whiteCards": [
+    {
+      "text": "From WBEZ Chicago, it's This American Life. Today on our program, _. Stay with us.",
+      "pick": 1
+    },
+    {
+      "text": "My name is Inigo Montoya. You killed my father. Prepare for _.",
+      "pick": 1
+    },
+    {
+      "text": "Sir, we found you passed out naked on the side of the road. What's the last thing you remember?",
+      "pick": 1
+    },
+    {
+      "text": "The elders of the Ibo tribe of Nigeria recommend _ as a cure for impotence.",
+      "pick": 1
+    },
+    {
+      "text": "The Westboro Baptist Church is now picketing soldiers' funerals with signs that read 'GOD HATES _!'",
+      "pick": 1
+    },
+    {
+      "text": "What are two cards in your hand that you want to get rid of?",
+      "pick": 1
+    },
+    {
+      "text": "What do you see? [An image of a Rorschach inkblot]",
+      "pick": 1
+    },
+    {
+      "text": "You can't wait forever. It's time to talk to your doctor about _.",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "A giant squid in a wedding gown.",
+      "renderHtml": false
+    },
+    {
+      "text": "A heart that is two sizes too small and that therefore cannot pump an adequate amount of blood.",
+      "renderHtml": false
+    },
+    {
+      "text": "A sexy naked interactive theater thing.",
+      "renderHtml": false
+    },
+    {
+      "text": "Asshole pomegranates that are hard to eat.",
+      "renderHtml": false
+    },
+    {
+      "text": "Becoming so rich that you shed your body and turn to vapor.",
+      "renderHtml": false
+    },
+    {
+      "text": "Carribbean Jesus.",
+      "renderHtml": false
+    },
+    {
+      "text": "Cornhole 101: just drop it in the hole.",
+      "renderHtml": false
+    },
+    {
+      "text": "Crayon-colored vomit",
+      "renderHtml": false
+    },
+    {
+      "text": "Dividing by zero.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ejaculating a pound of tinsel.",
+      "renderHtml": false
+    },
+    {
+      "text": "Faking a Mental Disorder",
+      "renderHtml": false
+    },
+    {
+      "text": "Ladles.",
+      "renderHtml": false
+    },
+    {
+      "text": "My dickhead roomate.",
+      "renderHtml": false
+    },
+    {
+      "text": "Playing an ocarina to summon Ultra-Congress from the sea.",
+      "renderHtml": false
+    },
+    {
+      "text": "Super yoga.",
+      "renderHtml": false
+    },
+    {
+      "text": "The John D. and Catherine T. MacArthur Foundation.",
+      "renderHtml": false
+    }
+  ]
+}

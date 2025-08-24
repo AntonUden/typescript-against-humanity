@@ -1,0 +1,69 @@
+{
+  "order": 68,
+  "displayName": "Vote For Trump Pack",
+  "name": "Vote_For_Trump_Pack",
+  "whiteCards": [
+    {
+      "text": "According to Arizona's stand-your-ground law, you're allowed to shoot someone if they're _.",
+      "pick": 1
+    },
+    {
+      "text": "It's 3AM.  The red phone rings.  It's _.  Who do you want answering?",
+      "pick": 1
+    },
+    {
+      "text": "Trump's great!  Trump's got _.  I love that.",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "A liberal bias.",
+      "renderHtml": false
+    },
+    {
+      "text": "Actually voting for Donald Trump to be President of the actual United States.",
+      "renderHtml": false
+    },
+    {
+      "text": "Conservative talking points.",
+      "renderHtml": false
+    },
+    {
+      "text": "Courageousely going ahead with that racist comment.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dispelling this fiction that Barack Obama doesn't know what he's doing.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fully appreciating naked Morris dancing.",
+      "renderHtml": false
+    },
+    {
+      "text": "Growing up and becoming a Republican.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hating Hilary Clinton.",
+      "renderHtml": false
+    },
+    {
+      "text": "Jeb!",
+      "renderHtml": false
+    },
+    {
+      "text": "Shouting the loudest.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sound fiscal policy.",
+      "renderHtml": false
+    },
+    {
+      "text": "The good, hardworking people of Dubuque, Iowa.",
+      "renderHtml": false
+    }
+  ]
+}

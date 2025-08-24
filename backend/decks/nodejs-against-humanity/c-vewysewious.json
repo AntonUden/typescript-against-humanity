@@ -1,0 +1,698 @@
+{
+  "source": 0,
+  "order": 54,
+  "displayName": "[C] Very Serious",
+  "name": "c-vewysewious",
+  "whiteCards": [
+    {
+      "text": "_ for president!",
+      "pick": 1
+    },
+    {
+      "text": "Have fun, don't be _.",
+      "pick": 1
+    },
+    {
+      "text": "Don't get mad, get _.",
+      "pick": 1
+    },
+    {
+      "text": "After I saw _, I needed _.",
+      "pick": 2
+    },
+    {
+      "text": "I'm an expert on _.",
+      "pick": 1
+    },
+    {
+      "text": "_ is the only thing that matters.",
+      "pick": 1
+    },
+    {
+      "text": "Cunnilungus and psychiatry brought us to _.",
+      "pick": 1
+    },
+    {
+      "text": "We'll always have _.",
+      "pick": 1
+    },
+    {
+      "text": "What mildy annoyed you today?",
+      "pick": 1
+    },
+    {
+      "text": "Let's all rock out to the sounds of _.",
+      "pick": 1
+    },
+    {
+      "text": "_ uses _. It is SUPER EFFECTIVE!",
+      "pick": 2
+    },
+    {
+      "text": "Take _, it will last longer.",
+      "pick": 1
+    },
+    {
+      "text": "_ is my worst habit.",
+      "pick": 1
+    },
+    {
+      "text": "It's the end of _ as we know it.",
+      "pick": 1
+    },
+    {
+      "text": "Everything's better with _.",
+      "pick": 1
+    },
+    {
+      "text": "What have you accomplished today?",
+      "pick": 1
+    },
+    {
+      "text": "What would you taste like?",
+      "pick": 1
+    },
+    {
+      "text": "Why are you frothing with rage?",
+      "pick": 1
+    },
+    {
+      "text": "What made you happy today?",
+      "pick": 1
+    },
+    {
+      "text": "My _ is too big!",
+      "pick": 1
+    },
+    {
+      "text": "Best drink ever: One part _, three parts _, and a splash of _.",
+      "pick": 3
+    },
+    {
+      "text": "_ makes me uncomfortable.",
+      "pick": 1
+    },
+    {
+      "text": "Stop, drop, and _.",
+      "pick": 1
+    },
+    {
+      "text": "Think before you _.",
+      "pick": 1
+    },
+    {
+      "text": "A wild _ appeared! It used _!",
+      "pick": 2
+    },
+    {
+      "text": "There's _ in my soup.",
+      "pick": 1
+    },
+    {
+      "text": "If life gives you _, make _.",
+      "pick": 2
+    },
+    {
+      "text": "Who needs a bidet when you have _?",
+      "pick": 1
+    },
+    {
+      "text": "Kill it with _!",
+      "pick": 1
+    },
+    {
+      "text": "You have my bow. AND MY _.",
+      "pick": 1
+    },
+    {
+      "text": "_? FRY. EYES.",
+      "pick": 1
+    },
+    {
+      "text": "VS: Where the _ happens!",
+      "pick": 1
+    },
+    {
+      "text": "Yaar's mother is _.",
+      "pick": 1
+    },
+    {
+      "text": "The hills are alive with _ of _.",
+      "pick": 2
+    },
+    {
+      "text": "I thought being a _ was the best thing ever, until I became a _.",
+      "pick": 2
+    },
+    {
+      "text": "Live long and _.",
+      "pick": 1
+    },
+    {
+      "text": "I'm under the _.",
+      "pick": 1
+    },
+    {
+      "text": "Dogimo would give up _ to type a six sentence paragraph in a thread.",
+      "pick": 1
+    },
+    {
+      "text": "Simple dog ate and vomited _.",
+      "pick": 1
+    },
+    {
+      "text": "_ ALL THE _.",
+      "pick": 2
+    },
+    {
+      "text": "There were ALOT of _ doing _.",
+      "pick": 2
+    },
+    {
+      "text": "_ Jesus is the Jesus of _.",
+      "pick": 2
+    },
+    {
+      "text": "The forum nearly broke when _ posted _ in The Dead Thread.",
+      "pick": 2
+    },
+    {
+      "text": "A mod war about _ occurred during _.",
+      "pick": 2
+    },
+    {
+      "text": "Clean ALL the _.",
+      "pick": 1
+    },
+    {
+      "text": "The first rule of Jade Club is _.",
+      "pick": 1
+    },
+    {
+      "text": "_ in my pants.",
+      "pick": 1
+    },
+    {
+      "text": "We need to talk about your whole gallon of _.",
+      "pick": 1
+    },
+    {
+      "text": "When I was 25, I won an award for _.",
+      "pick": 1
+    },
+    {
+      "text": "I'm more awesome than a T-rex because of _.",
+      "pick": 1
+    },
+    {
+      "text": "Fuck you, I'm a _.",
+      "pick": 1
+    },
+    {
+      "text": "After Blue posted _ in chat, I never trusted his links again.",
+      "pick": 1
+    },
+    {
+      "text": "Roses and her hammer collection defeated an entire squadron of _.",
+      "pick": 1
+    },
+    {
+      "text": "Domo travelled across _ to win the prize of _.",
+      "pick": 2
+    },
+    {
+      "text": "I did _, like a fucking adult.",
+      "pick": 1
+    },
+    {
+      "text": "_ was banned from tinychat because of _.",
+      "pick": 2
+    },
+    {
+      "text": "No one likes me after I posted _ in the TMI thread.",
+      "pick": 1
+    },
+    {
+      "text": "I want _ in my mouflon RIGHT MEOW.",
+      "pick": 1
+    },
+    {
+      "text": "I CAN _ ACROSS THE _.",
+      "pick": 2
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "Doctor Who.",
+      "renderHtml": false
+    },
+    {
+      "text": "EXTERMINATE.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fuck you, I'm a bear.",
+      "renderHtml": false
+    },
+    {
+      "text": "THE GODDAMN BATMAN.",
+      "renderHtml": false
+    },
+    {
+      "text": "Swinging an axe in the air while cornholing a bear.",
+      "renderHtml": false
+    },
+    {
+      "text": "Just the tip!",
+      "renderHtml": false
+    },
+    {
+      "text": "SCIENCE!!1!",
+      "renderHtml": false
+    },
+    {
+      "text": "Bearshark.",
+      "renderHtml": false
+    },
+    {
+      "text": "Trouser snakes.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Power of Greyskull.",
+      "renderHtml": false
+    },
+    {
+      "text": "Drinking on live TV.",
+      "renderHtml": false
+    },
+    {
+      "text": "Mandatory Sex Party.",
+      "renderHtml": false
+    },
+    {
+      "text": "Games you can play with bricks.",
+      "renderHtml": false
+    },
+    {
+      "text": "Googly eyes on a cock.",
+      "renderHtml": false
+    },
+    {
+      "text": "Typing with your genitals.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pirate hookers.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fancy tampons.",
+      "renderHtml": false
+    },
+    {
+      "text": "Tinychat.",
+      "renderHtml": false
+    },
+    {
+      "text": "Moobs.",
+      "renderHtml": false
+    },
+    {
+      "text": "Boobs.",
+      "renderHtml": false
+    },
+    {
+      "text": "Standing next to short people to use them as armrests.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hookers and blow.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hello Kitty.",
+      "renderHtml": false
+    },
+    {
+      "text": "Tots.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting drunk before noon.",
+      "renderHtml": false
+    },
+    {
+      "text": "Clown strippers.",
+      "renderHtml": false
+    },
+    {
+      "text": "KERMIT FLAIL.",
+      "renderHtml": false
+    },
+    {
+      "text": "Premature ejaculation.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bounty, the Quicker Picker Upper.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bleeding Anuses.",
+      "renderHtml": false
+    },
+    {
+      "text": "A spoon that is too big.",
+      "renderHtml": false
+    },
+    {
+      "text": "Not being pregnant.",
+      "renderHtml": false
+    },
+    {
+      "text": "Show me your tits!",
+      "renderHtml": false
+    },
+    {
+      "text": "Thanking your sex slaves.",
+      "renderHtml": false
+    },
+    {
+      "text": "Chris Gaines.",
+      "renderHtml": false
+    },
+    {
+      "text": "WIIINES.",
+      "renderHtml": false
+    },
+    {
+      "text": "A Wende head tilt.",
+      "renderHtml": false
+    },
+    {
+      "text": "PooooooP!",
+      "renderHtml": false
+    },
+    {
+      "text": "Thundercunt.",
+      "renderHtml": false
+    },
+    {
+      "text": "Daddy foam.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Great Dildo, Thor.",
+      "renderHtml": false
+    },
+    {
+      "text": "Landshark.",
+      "renderHtml": false
+    },
+    {
+      "text": "LYNCH LUPUS.",
+      "renderHtml": false
+    },
+    {
+      "text": "Barfstab.",
+      "renderHtml": false
+    },
+    {
+      "text": "A WHOLE GALLON OF BOOBS.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bevis.",
+      "renderHtml": false
+    },
+    {
+      "text": "Tubemonster.",
+      "renderHtml": false
+    },
+    {
+      "text": "A really good booby weight.",
+      "renderHtml": false
+    },
+    {
+      "text": "Buttpirate Pokemon.",
+      "renderHtml": false
+    },
+    {
+      "text": "Queer Lesbian Jesus.",
+      "renderHtml": false
+    },
+    {
+      "text": "The establishment.",
+      "renderHtml": false
+    },
+    {
+      "text": "The revolution.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ricardo.",
+      "renderHtml": false
+    },
+    {
+      "text": "Skittering ovaries.",
+      "renderHtml": false
+    },
+    {
+      "text": "Shooting heroin into my eyeballs.",
+      "renderHtml": false
+    },
+    {
+      "text": "A WHOLE GALLON.",
+      "renderHtml": false
+    },
+    {
+      "text": "Lewhora.",
+      "renderHtml": false
+    },
+    {
+      "text": "Poopcake.",
+      "renderHtml": false
+    },
+    {
+      "text": "Velociraptor.",
+      "renderHtml": false
+    },
+    {
+      "text": "Thundercunting.",
+      "renderHtml": false
+    },
+    {
+      "text": "Werewolf.",
+      "renderHtml": false
+    },
+    {
+      "text": "Cultist.",
+      "renderHtml": false
+    },
+    {
+      "text": "Very Serious Island.",
+      "renderHtml": false
+    },
+    {
+      "text": "COLLIN.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ferngully.",
+      "renderHtml": false
+    },
+    {
+      "text": "Baby batter.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sweater kittens.",
+      "renderHtml": false
+    },
+    {
+      "text": "Strawberry Shortcake sexing up a Carebear and giving birth to NyanCat.",
+      "renderHtml": false
+    },
+    {
+      "text": "Meat curtains.",
+      "renderHtml": false
+    },
+    {
+      "text": "HODOR.",
+      "renderHtml": false
+    },
+    {
+      "text": "Vejazzled vagina.",
+      "renderHtml": false
+    },
+    {
+      "text": "Butt oranges.",
+      "renderHtml": false
+    },
+    {
+      "text": "Simple dog.",
+      "renderHtml": false
+    },
+    {
+      "text": "LOUD NOISES.",
+      "renderHtml": false
+    },
+    {
+      "text": "Centaur Therapist Jesus.",
+      "renderHtml": false
+    },
+    {
+      "text": "GOATS.",
+      "renderHtml": false
+    },
+    {
+      "text": "Blowjob Jesus.",
+      "renderHtml": false
+    },
+    {
+      "text": "Welcome Taco.",
+      "renderHtml": false
+    },
+    {
+      "text": "Making a random guess in Werewolf that gets you killed later.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dropbears.",
+      "renderHtml": false
+    },
+    {
+      "text": "Shenaniganty.",
+      "renderHtml": false
+    },
+    {
+      "text": "I AM HOW BABIES ARE MADE.",
+      "renderHtml": false
+    },
+    {
+      "text": "INTERNET FOREVER!",
+      "renderHtml": false
+    },
+    {
+      "text": "The jitters you get before a meetup.",
+      "renderHtml": false
+    },
+    {
+      "text": "Droopums.",
+      "renderHtml": false
+    },
+    {
+      "text": "Nonni's mantis.",
+      "renderHtml": false
+    },
+    {
+      "text": "Noble whore.",
+      "renderHtml": false
+    },
+    {
+      "text": "Kangaroo stripper.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ginger baby.",
+      "renderHtml": false
+    },
+    {
+      "text": "Drunk foruming.",
+      "renderHtml": false
+    },
+    {
+      "text": "Readying my torch for burnination.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dickcheese.",
+      "renderHtml": false
+    },
+    {
+      "text": "In a sneaky hate spiral.",
+      "renderHtml": false
+    },
+    {
+      "text": "Certified Breast Maintenance Engineer.",
+      "renderHtml": false
+    },
+    {
+      "text": "A test tube baby.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dancing naked.",
+      "renderHtml": false
+    },
+    {
+      "text": "Moist and Juicy.",
+      "renderHtml": false
+    },
+    {
+      "text": "Orgy.",
+      "renderHtml": false
+    },
+    {
+      "text": "Lotion.",
+      "renderHtml": false
+    },
+    {
+      "text": "Rapey dolphin.",
+      "renderHtml": false
+    },
+    {
+      "text": "Handbra.",
+      "renderHtml": false
+    },
+    {
+      "text": "Werepoo.",
+      "renderHtml": false
+    },
+    {
+      "text": "More bandaids.",
+      "renderHtml": false
+    },
+    {
+      "text": "A moose giving birth in Maggly's yard.",
+      "renderHtml": false
+    },
+    {
+      "text": "Curious hands.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fuckweasel.",
+      "renderHtml": false
+    },
+    {
+      "text": "Tears of manly pain.",
+      "renderHtml": false
+    },
+    {
+      "text": "Spagbag.",
+      "renderHtml": false
+    },
+    {
+      "text": "Surprise penis.",
+      "renderHtml": false
+    },
+    {
+      "text": "Cthulu.",
+      "renderHtml": false
+    },
+    {
+      "text": "Mr. Tinycheeks.",
+      "renderHtml": false
+    },
+    {
+      "text": "SEX.",
+      "renderHtml": false
+    },
+    {
+      "text": "An Olive Ewe.",
+      "renderHtml": false
+    }
+  ]
+}

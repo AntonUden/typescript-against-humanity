@@ -1,0 +1,462 @@
+{
+  "source": 0,
+  "order": 32,
+  "displayName": "[C] FiMFiction.net",
+  "name": "c-fim",
+  "whiteCards": [
+    {
+      "text": "_ _ Divided By _.",
+      "pick": 3
+    },
+    {
+      "text": "_ <br>~Skeeter The Lurker",
+      "pick": 1
+    },
+    {
+      "text": "_ adds a thread in the Anti-_ group, and everybody loses their fucking minds.",
+      "pick": 2
+    },
+    {
+      "text": "_ is the least autistic _ on Fimfiction.",
+      "pick": 2
+    },
+    {
+      "text": "_ is Best Pony.",
+      "pick": 1
+    },
+    {
+      "text": "_ signalled the end of the _ Age of FiMfiction.net.",
+      "pick": 2
+    },
+    {
+      "text": "_ posted that they're not working on fics for a while, because _.",
+      "pick": 2
+    },
+    {
+      "text": "_ was a strong stallion.",
+      "pick": 1
+    },
+    {
+      "text": "_ signalled the end of the Golden Age of FiMfiction.net.",
+      "pick": 1
+    },
+    {
+      "text": "A clopfic about _ with _, and _ is a sexy orphan.",
+      "pick": 3
+    },
+    {
+      "text": "_, _, and _ in a sexy circlejerk.",
+      "pick": 3
+    },
+    {
+      "text": "Fallout Equestria is _ and tends to overdramaticize its _.",
+      "pick": 2
+    },
+    {
+      "text": "An alternate universe where _ is instead _.",
+      "pick": 2
+    },
+    {
+      "text": "I commissioned a picture of _ violating _ with _'s dick.",
+      "pick": 3
+    },
+    {
+      "text": "Hey, let's cross over _ and MLP! Why the fuck not?",
+      "pick": 1
+    },
+    {
+      "text": "I just read a fic where _ was fucking _.",
+      "pick": 2
+    },
+    {
+      "text": "I hope someone writes a fic about _ because I am too fucking lazy to do it myself.",
+      "pick": 1
+    },
+    {
+      "text": "I swear I'm going to quit the fandom if _ happens.",
+      "pick": 1
+    },
+    {
+      "text": "I just started the _verse.",
+      "pick": 1
+    },
+    {
+      "text": "The Incredible _ Of A Winning _.",
+      "pick": 2
+    },
+    {
+      "text": "The cardinal sin of FiMFic noobs: _ without _",
+      "pick": 2
+    },
+    {
+      "text": "The _ Group of _ Excellence.",
+      "pick": 2
+    },
+    {
+      "text": "The _ Bureau.",
+      "pick": 1
+    },
+    {
+      "text": "That fucking idiot _ ragequit the fandom over _.",
+      "pick": 2
+    },
+    {
+      "text": "Someone should write a clopfic of _ fucking _, using _ as lubricant.",
+      "pick": 3
+    },
+    {
+      "text": "Short Skirts and _.",
+      "pick": 1
+    },
+    {
+      "text": "Remember when _ was on every page?",
+      "pick": 1
+    },
+    {
+      "text": "RainbowBob's newest clopfic: _ X _",
+      "pick": 2
+    },
+    {
+      "text": "Oh, look, _ made a fan group for themselves.",
+      "pick": 1
+    },
+    {
+      "text": "Oh, fuck, someone made a group about _.",
+      "pick": 1
+    },
+    {
+      "text": "My OTP is _ and _.",
+      "pick": 2
+    },
+    {
+      "text": "My Little Dashie? How about My Little _?",
+      "pick": 1
+    },
+    {
+      "text": "My _ Pony",
+      "pick": 1
+    },
+    {
+      "text": "knighty's new blogpost is about _",
+      "pick": 1
+    },
+    {
+      "text": "If only people bothered to read Ezn's _ Guide!",
+      "pick": 1
+    },
+    {
+      "text": "There's a crossover fic about _ and _ in the FB.",
+      "pick": 2
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "Skeeter The Lurker.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sick freaks who love foalcon.",
+      "renderHtml": false
+    },
+    {
+      "text": "Short Skirts and Explosions.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sethisto.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Conversion Bureau.",
+      "renderHtml": false
+    },
+    {
+      "text": "That jackass Silent Bob.",
+      "renderHtml": false
+    },
+    {
+      "text": "That jackass Aegis Shield.",
+      "renderHtml": false
+    },
+    {
+      "text": "Stallions with cunts.",
+      "renderHtml": false
+    },
+    {
+      "text": "RBDash47's latest blog post.",
+      "renderHtml": false
+    },
+    {
+      "text": "RainbowBob.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ponycunt.",
+      "renderHtml": false
+    },
+    {
+      "text": "parasprite.",
+      "renderHtml": false
+    },
+    {
+      "text": "Rule 63.",
+      "renderHtml": false
+    },
+    {
+      "text": "Riffing.",
+      "renderHtml": false
+    },
+    {
+      "text": "Regidar.",
+      "renderHtml": false
+    },
+    {
+      "text": "Regidar, again, the little shit.",
+      "renderHtml": false
+    },
+    {
+      "text": "Twilight Sparkle, the ultimate Mary Sue.",
+      "renderHtml": false
+    },
+    {
+      "text": "Twilight Sparkle's massive, throbbing princesshood.",
+      "renderHtml": false
+    },
+    {
+      "text": "Twilacorn Autism.",
+      "renderHtml": false
+    },
+    {
+      "text": "Twilacorn.",
+      "renderHtml": false
+    },
+    {
+      "text": "Xenophilia.",
+      "renderHtml": false
+    },
+    {
+      "text": "Your bullshit OTP.",
+      "renderHtml": false
+    },
+    {
+      "text": "Twilight's Library",
+      "renderHtml": false
+    },
+    {
+      "text": "Wanderer D.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Mature Featured Box.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Noble Jury.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Featured Box.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Great NSFW Purge Of 2013.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Writer's Group.",
+      "renderHtml": false
+    },
+    {
+      "text": "Those doucheslurping Adsense assholes.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Pony Fiction Vault, before it fucked off into the sunset.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Train Wreck Explorers.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fucking 502 errors.",
+      "renderHtml": false
+    },
+    {
+      "text": "Foalcon.",
+      "renderHtml": false
+    },
+    {
+      "text": "Goddamned crossover fics.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fucking Anthro.",
+      "renderHtml": false
+    },
+    {
+      "text": "Horsedick.",
+      "renderHtml": false
+    },
+    {
+      "text": "Goddamned unnecessary futa.",
+      "renderHtml": false
+    },
+    {
+      "text": "Humanized.",
+      "renderHtml": false
+    },
+    {
+      "text": "Humancunt.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dollhouse.",
+      "renderHtml": false
+    },
+    {
+      "text": "darf's corpse, Faust rest his soul.",
+      "renderHtml": false
+    },
+    {
+      "text": "Equestria Daily.",
+      "renderHtml": false
+    },
+    {
+      "text": "Eakin.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fallout: Equestria.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fallout: Equestria: Project Horizons.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fillyfooler.",
+      "renderHtml": false
+    },
+    {
+      "text": "FelixDawn.",
+      "renderHtml": false
+    },
+    {
+      "text": "Mods.",
+      "renderHtml": false
+    },
+    {
+      "text": "More 502 errors, christ.",
+      "renderHtml": false
+    },
+    {
+      "text": "My Little Dashie, even though it's a piece of shit.",
+      "renderHtml": false
+    },
+    {
+      "text": "NSFW blogposts filled with guro and incest.",
+      "renderHtml": false
+    },
+    {
+      "text": "Nyx, the ultimate Mary Sue.",
+      "renderHtml": false
+    },
+    {
+      "text": "Obselescence.",
+      "renderHtml": false
+    },
+    {
+      "text": "On A Cross And An Arrow.",
+      "renderHtml": false
+    },
+    {
+      "text": "para's sweaty nutsack.",
+      "renderHtml": false
+    },
+    {
+      "text": "IJAB.",
+      "renderHtml": false
+    },
+    {
+      "text": "Kaidan.",
+      "renderHtml": false
+    },
+    {
+      "text": "knighty.",
+      "renderHtml": false
+    },
+    {
+      "text": "knighty's dribbling dick.",
+      "renderHtml": false
+    },
+    {
+      "text": "Lacinias.",
+      "renderHtml": false
+    },
+    {
+      "text": "Littlepip.",
+      "renderHtml": false
+    },
+    {
+      "text": "Mares with dicks.",
+      "renderHtml": false
+    },
+    {
+      "text": "Meeester",
+      "renderHtml": false
+    },
+    {
+      "text": "An End of Ponies update.",
+      "renderHtml": false
+    },
+    {
+      "text": "Alicorn OCs.",
+      "renderHtml": false
+    },
+    {
+      "text": "Assholes who hate foalcon.",
+      "renderHtml": false
+    },
+    {
+      "text": "Another ball-greasing 502 error, for fuck's sake! Goddamnit!",
+      "renderHtml": false
+    },
+    {
+      "text": "Columbine. Dear fucking Celestia, Columbine.",
+      "renderHtml": false
+    },
+    {
+      "text": "Cola's ass.",
+      "renderHtml": false
+    },
+    {
+      "text": "darf.",
+      "renderHtml": false
+    },
+    {
+      "text": "Crotchtits.",
+      "renderHtml": false
+    },
+    {
+      "text": "Blackjack.",
+      "renderHtml": false
+    },
+    {
+      "text": "Big Macintosh's gaping, sloppy-wet boycunt.",
+      "renderHtml": false
+    },
+    {
+      "text": "Chuckward, before he was banned.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bronies.",
+      "renderHtml": false
+    },
+    {
+      "text": "Your shitty OC.",
+      "renderHtml": false
+    }
+  ]
+}

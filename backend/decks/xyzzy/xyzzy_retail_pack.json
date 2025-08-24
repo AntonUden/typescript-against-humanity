@@ -1,0 +1,29 @@
+{
+  "order": 32,
+  "displayName": "Retail Pack",
+  "name": "xyzzy_retail_pack",
+  "whiteCards": [
+    {
+      "text": "Looking to earn big bucks? Learn how to make ____ work for you!",
+      "pick": 1
+    },
+    {
+      "text": "How are the writers of Cards Against Humanity spending your $25?",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "Feeding a man a pie made of his own children.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ironically buying a trucker hat and then ironically being a trucker for 38 years.",
+      "renderHtml": false
+    },
+    {
+      "text": "A teenage boy gunning for a handjob.",
+      "renderHtml": false
+    }
+  ]
+}

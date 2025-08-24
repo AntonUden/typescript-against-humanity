@@ -1,0 +1,449 @@
+{
+  "order": 150,
+  "displayName": "Humanity Hates The Holidays",
+  "name": "Humanity_Hates_The_Holidays",
+  "whiteCards": [
+    {
+      "text": "_: A Holiday Tradition",
+      "pick": 1
+    },
+    {
+      "text": "All I want for Christmas is _.",
+      "pick": 1
+    },
+    {
+      "text": "Come on, it's lovely weather for a/an _ together with you.",
+      "pick": 1
+    },
+    {
+      "text": "Deck the halls with boughs of _.",
+      "pick": 1
+    },
+    {
+      "text": "Dreidel, Dreidel, Dreidel, I made it out of _.",
+      "pick": 1
+    },
+    {
+      "text": "During the 1914 Christmas Truce, soldiers of both sides come together to enjoy _.",
+      "pick": 1
+    },
+    {
+      "text": "For a Thanksgiving meal your family will be talking about all year, try stuffing the turkey with _.",
+      "pick": 1
+    },
+    {
+      "text": "How the Grinch stole _.",
+      "pick": 1
+    },
+    {
+      "text": "I did my holiday shopping tooo late, and had to get my daughter a pop-up book titled _.",
+      "pick": 1
+    },
+    {
+      "text": "I saw mommy kissing _.",
+      "pick": 1
+    },
+    {
+      "text": "I'm dreaming of a white _.",
+      "pick": 1
+    },
+    {
+      "text": "I've always imagined Santa's Sleigh was powered by _ rather than reindeer.",
+      "pick": 1
+    },
+    {
+      "text": "Mommy, why is Santa _?",
+      "pick": 1
+    },
+    {
+      "text": "Mrs. Claus needed to deliver the presents this year because Santa was too busy _.",
+      "pick": 1
+    },
+    {
+      "text": "My favorite Christmas cookie is made with a lot of sugar, love, and _.",
+      "pick": 1
+    },
+    {
+      "text": "My favorite thing to replace the carrot nose on a snowman is _.",
+      "pick": 1
+    },
+    {
+      "text": "Rudolph's shiny, red _.",
+      "pick": 1
+    },
+    {
+      "text": "Santa Claus vs. Jesus: The battle for _.",
+      "pick": 1
+    },
+    {
+      "text": "T'was The Night Before _.",
+      "pick": 1
+    },
+    {
+      "text": "The children were nestled all snug in their beds while visions of _ danced in their heads.",
+      "pick": 1
+    },
+    {
+      "text": "The special ingredient of figgy pudding is _.",
+      "pick": 1
+    },
+    {
+      "text": "This year, instead of coal, Santa will be giving naughty children _.",
+      "pick": 1
+    },
+    {
+      "text": "This year, instead of Jesus and Mary in the Nativity scene, we put _ and _.",
+      "pick": 2
+    },
+    {
+      "text": "We wish you a Merry _.",
+      "pick": 1
+    },
+    {
+      "text": "What did Santa see when he stopped at OJ Simpson's house?",
+      "pick": 1
+    },
+    {
+      "text": "What gave Santa diabetes?",
+      "pick": 1
+    },
+    {
+      "text": "What is Santa's favorite Holiday Tradition?",
+      "pick": 1
+    },
+    {
+      "text": "What is the true meaning of Christmas?",
+      "pick": 1
+    },
+    {
+      "text": "What's in my Christmas stocking this year?",
+      "pick": 1
+    },
+    {
+      "text": "With the reindeer on strike, this year Santa's sleigh is fueled by _.",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "#blackfridaymatters",
+      "renderHtml": false
+    },
+    {
+      "text": "A box of nude pictures of your girlfriend, from your best friend.",
+      "renderHtml": false
+    },
+    {
+      "text": "A cotton headed ninny muggins.",
+      "renderHtml": false
+    },
+    {
+      "text": "A fully cooked turkey as a hat.",
+      "renderHtml": false
+    },
+    {
+      "text": "A gingerbread man living in a home made of his own flesh.",
+      "renderHtml": false
+    },
+    {
+      "text": "A Harlem White Christmas.",
+      "renderHtml": false
+    },
+    {
+      "text": "A lactating reindeer.",
+      "renderHtml": false
+    },
+    {
+      "text": "A Macy's Thanksgiving Day wardrobe malfunction.",
+      "renderHtml": false
+    },
+    {
+      "text": "A Muslim in the White House.",
+      "renderHtml": false
+    },
+    {
+      "text": "A transgender Barbie™ doll.",
+      "renderHtml": false
+    },
+    {
+      "text": "Accidentally gifting your wife's lingerie to your mom.",
+      "renderHtml": false
+    },
+    {
+      "text": "Adolf Hitler singing \"O Tannenbaum\" in hell.",
+      "renderHtml": false
+    },
+    {
+      "text": "Allah Akbar Goldstein, the most confused boy in the world.",
+      "renderHtml": false
+    },
+    {
+      "text": "An official Red Ryder Carbine Action Two Hundred Shot Range Model Air Rifle.",
+      "renderHtml": false
+    },
+    {
+      "text": "An uncanny correlation between a family's financial situation and Santa's generosity.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being \"touched\" by an angel.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being a virgin and giving birth on Christmas.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being nice in December so you can be a douche for the rest of the year.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being thankful for your new friends and then giving them the gift of smallpox.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bill Cosby standing by the punch bowl.",
+      "renderHtml": false
+    },
+    {
+      "text": "Calling it 'X-mas' just to annoy people.",
+      "renderHtml": false
+    },
+    {
+      "text": "Celebrating genocide by eating turkey with friends and family.",
+      "renderHtml": false
+    },
+    {
+      "text": "Chinese food and movie theater tickets.",
+      "renderHtml": false
+    },
+    {
+      "text": "Christmahanakwanzika.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ebenezer Splooge.",
+      "renderHtml": false
+    },
+    {
+      "text": "Explaining 'safety in numbers' to 6 million Jews.",
+      "renderHtml": false
+    },
+    {
+      "text": "Feats of strength.",
+      "renderHtml": false
+    },
+    {
+      "text": "Feeding the homeless meat pies made of their fallen brethren.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting groin-tickled by Santa's white beard.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting invited back to Santa's workshop.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting trampled on Black Friday.",
+      "renderHtml": false
+    },
+    {
+      "text": "Giving a homeless person a gingerbread house.",
+      "renderHtml": false
+    },
+    {
+      "text": "Grandma pinching all four of your cheeks.",
+      "renderHtml": false
+    },
+    {
+      "text": "Grandpa's Christmas sausage.",
+      "renderHtml": false
+    },
+    {
+      "text": "Having dyslexia and writing a list to Satan.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hiding hooch around the house.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ho, Ho, Hoes.",
+      "renderHtml": false
+    },
+    {
+      "text": "Jared Leto in a powder blue tuxedo",
+      "renderHtml": false
+    },
+    {
+      "text": "Jesus Juice.",
+      "renderHtml": false
+    },
+    {
+      "text": "Jews for Jesus.",
+      "renderHtml": false
+    },
+    {
+      "text": "Kristmas at the Kardashians'.",
+      "renderHtml": false
+    },
+    {
+      "text": "Kristmas with the Klan.",
+      "renderHtml": false
+    },
+    {
+      "text": "Leaving your child home alone to fend for himself.",
+      "renderHtml": false
+    },
+    {
+      "text": "Mistaking poison oak for mistletoe.",
+      "renderHtml": false
+    },
+    {
+      "text": "Mrs. Claus getting gangbanged by all of the other reindeer.",
+      "renderHtml": false
+    },
+    {
+      "text": "Penis shaped cookies and \"milk.\"",
+      "renderHtml": false
+    },
+    {
+      "text": "People who wear shirts that say female body inspector.",
+      "renderHtml": false
+    },
+    {
+      "text": "Plan B in your Christmas stocking.",
+      "renderHtml": false
+    },
+    {
+      "text": "Playing inappropriate card games with your family.",
+      "renderHtml": false
+    },
+    {
+      "text": "Putting Christ in Christmas.",
+      "renderHtml": false
+    },
+    {
+      "text": "Re-gifted fruitcake.",
+      "renderHtml": false
+    },
+    {
+      "text": "Reaching your hand in the Salvation Army bucket to make it look like you're donating, but really you're stealing that shit.",
+      "renderHtml": false
+    },
+    {
+      "text": "Reindeer semen.",
+      "renderHtml": false
+    },
+    {
+      "text": "Rudolph's pent up sexual frustration.",
+      "renderHtml": false
+    },
+    {
+      "text": "Santa cumming down your chimney.",
+      "renderHtml": false
+    },
+    {
+      "text": "STDs: gotta catch 'em all.",
+      "renderHtml": false
+    },
+    {
+      "text": "Stockings filled with Vaseline®.",
+      "renderHtml": false
+    },
+    {
+      "text": "Telling kids that the Tootsie Rolls® are actually processed reindeer crap.",
+      "renderHtml": false
+    },
+    {
+      "text": "That awkward family who thinks it's \"cybersex Monday.\"",
+      "renderHtml": false
+    },
+    {
+      "text": "That awkward present that vibrates in the box.",
+      "renderHtml": false
+    },
+    {
+      "text": "That moment you realize the elf's workshop is really a Bangladeshi sweatshop.",
+      "renderHtml": false
+    },
+    {
+      "text": "That one funny uncle with a welcoming lap who always dresses as Santa.",
+      "renderHtml": false
+    },
+    {
+      "text": "The \"Little Drummer Boy\" switching to the rusty trombone.",
+      "renderHtml": false
+    },
+    {
+      "text": "The \"North Pole\", if you know what I mean.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Diary of Anne Spank: An XXX Parody.",
+      "renderHtml": false
+    },
+    {
+      "text": "The disappointment of a Jewish child on the 25th.",
+      "renderHtml": false
+    },
+    {
+      "text": "The sense of holiday spirit you feel while buried to the hilt in the cold, uncooked guts of your Thanksgiving Day turkey.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Star Wars prequels",
+      "renderHtml": false
+    },
+    {
+      "text": "The Ultimate Yule Log\nPlay this card and win the round.\nThe gift that keeps on giving.",
+      "renderHtml": false
+    },
+    {
+      "text": "Unwrapping Go-Bots® because you're poor.",
+      "renderHtml": false
+    },
+    {
+      "text": "Unwrapping Justin Timberlake's dick in a box.",
+      "renderHtml": false
+    },
+    {
+      "text": "Using child labor to make toys for the first world.",
+      "renderHtml": false
+    },
+    {
+      "text": "Vibrating stockings.",
+      "renderHtml": false
+    },
+    {
+      "text": "Waking up Christmas morning to find your parents unwrapping each other.",
+      "renderHtml": false
+    },
+    {
+      "text": "Wearing a belt made out of mistletoe.",
+      "renderHtml": false
+    },
+    {
+      "text": "When your SJW cousin calls you insensitive because he thinks your bowl of mixed nuts is a political statement against same-sex interracial couples.",
+      "renderHtml": false
+    },
+    {
+      "text": "Wondering why people celebrate Christmas when Jesus was Jewish.",
+      "renderHtml": false
+    },
+    {
+      "text": "Yellow snow.",
+      "renderHtml": false
+    },
+    {
+      "text": "Your family asking if you are seeing anyone yet.",
+      "renderHtml": false
+    },
+    {
+      "text": "Your uncle's obvious \"fuck me\" eyes.",
+      "renderHtml": false
+    }
+  ]
+}

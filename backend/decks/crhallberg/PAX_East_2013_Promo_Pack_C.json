@@ -1,0 +1,49 @@
+{
+  "order": 44,
+  "displayName": "PAX East 2013 Promo Pack C",
+  "name": "PAX_East_2013_Promo_Pack_C",
+  "whiteCards": [
+    {
+      "text": "I don't know exactly how I got the PAX plague, but I suspect it had something to do with _.",
+      "pick": 1
+    },
+    {
+      "text": "Priests think about _ in their free time.",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "Achieving a gangbang life goal",
+      "renderHtml": false
+    },
+    {
+      "text": "Charisma",
+      "renderHtml": false
+    },
+    {
+      "text": "Forgetting to move the damn Elf on the Shelf",
+      "renderHtml": false
+    },
+    {
+      "text": "Judging elves by the color of their skin and not by the content of their character.",
+      "renderHtml": false
+    },
+    {
+      "text": "Smashing all the pottery in a Pottery Barn in search of rupees.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Klobb.",
+      "renderHtml": false
+    },
+    {
+      "text": "Vespene gas.",
+      "renderHtml": false
+    },
+    {
+      "text": "Wil Wheaton crashing an actual spaceship.",
+      "renderHtml": false
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "order": 70,
+  "displayName": "World Wide Web Pack",
+  "name": "World_Wide_Web_Pack",
+  "whiteCards": [
+    {
+      "text": "Don't worry, Penny! Go Go Gadget _!",
+      "pick": 1
+    },
+    {
+      "text": "I need you like _ needs _.",
+      "pick": 2
+    },
+    {
+      "text": "I'm just gonna stay in tonight. You know, Netflix and _.",
+      "pick": 1
+    },
+    {
+      "text": "Nothing says \"I love you\" like _.",
+      "pick": 1
+    },
+    {
+      "text": "Such _. Very _. Wow.",
+      "pick": 2
+    },
+    {
+      "text": "This app is basically Tinder, but for _.",
+      "pick": 1
+    },
+    {
+      "text": "TRIGGER WARNING: _.",
+      "pick": 1
+    },
+    {
+      "text": "What did I nickname my genitals?",
+      "pick": 1
+    },
+    {
+      "text": "You guys, you can buy _ on the dark web.",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "A complete inability to understand anyone else's perspective.",
+      "renderHtml": false
+    },
+    {
+      "text": "A fun, sexy time at the nude beach.",
+      "renderHtml": false
+    },
+    {
+      "text": "A man from Craigslist.",
+      "renderHtml": false
+    },
+    {
+      "text": "A night of Taco Bell and anal sex.",
+      "renderHtml": false
+    },
+    {
+      "text": "A respectful discussion of race and gender on the Internet.",
+      "renderHtml": false
+    },
+    {
+      "text": "Cat massage.",
+      "renderHtml": false
+    },
+    {
+      "text": "Destroying Dick Cheney's last horcrux.",
+      "renderHtml": false
+    },
+    {
+      "text": "Game of Thrones spoilers.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting teabagged by a fifth grader in Call of Duty.",
+      "renderHtml": false
+    },
+    {
+      "text": "Goats screaming like people.",
+      "renderHtml": false
+    },
+    {
+      "text": "Googling.",
+      "renderHtml": false
+    },
+    {
+      "text": "Internet porn analysis paralysis.",
+      "renderHtml": false
+    },
+    {
+      "text": "Matching with Mom on Tinder.",
+      "renderHtml": false
+    },
+    {
+      "text": "My browser history.",
+      "renderHtml": false
+    },
+    {
+      "text": "My privileged white penis.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pretending to be black.",
+      "renderHtml": false
+    },
+    {
+      "text": "Smash Mouth.",
+      "renderHtml": false
+    },
+    {
+      "text": "Taking a shit while running at full speed.",
+      "renderHtml": false
+    },
+    {
+      "text": "That thing on the Internet everyone's talking about.",
+      "renderHtml": false
+    },
+    {
+      "text": "Three years of semen in a shoebox.",
+      "renderHtml": false
+    },
+    {
+      "text": "Youtube comments.",
+      "renderHtml": false
+    }
+  ]
+}

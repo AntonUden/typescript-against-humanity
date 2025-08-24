@@ -1,0 +1,457 @@
+{
+  "order": 145,
+  "displayName": "Guards Against Insanity, Edition 4",
+  "name": "Guards_Against_Insanity,_Edition_4",
+  "whiteCards": [
+    {
+      "text": "_: Man's final frontier.",
+      "pick": 1
+    },
+    {
+      "text": "_. Is that some kind of euphemism?",
+      "pick": 1
+    },
+    {
+      "text": "_. Just another reason why you can't trust adults.",
+      "pick": 1
+    },
+    {
+      "text": "_. That's an HR incident.",
+      "pick": 1
+    },
+    {
+      "text": "_. The first time is never the best.",
+      "pick": 1
+    },
+    {
+      "text": "_. This is the one thing we didn't want to happen.",
+      "pick": 1
+    },
+    {
+      "text": "A visit to the in-laws is never complete without _.",
+      "pick": 1
+    },
+    {
+      "text": "Call me a patriot if you will, but I believe in Truth, Justice and _.",
+      "pick": 1
+    },
+    {
+      "text": "Don't you just hate it when _ has the consistency of _?",
+      "pick": 2
+    },
+    {
+      "text": "I gave that bitch _. Bitches love _.",
+      "pick": 2
+    },
+    {
+      "text": "I like to look deep into someone's eyes while _.",
+      "pick": 1
+    },
+    {
+      "text": "I lost a shitload of weight simply by replacing _ with _.",
+      "pick": 2
+    },
+    {
+      "text": "I use _ instead of _. Money in the bank.",
+      "pick": 2
+    },
+    {
+      "text": "I'm not proud to admit it, but I once used _ to break up with an ex.",
+      "pick": 1
+    },
+    {
+      "text": "If there's one thing life's taught me, it's never stick your dick in _.",
+      "pick": 1
+    },
+    {
+      "text": "It costs how much for an abortion? I'm sorry, but we're going to have to use the _ method instead.",
+      "pick": 1
+    },
+    {
+      "text": "Never mention on the first date that you're into _.",
+      "pick": 1
+    },
+    {
+      "text": "Nike® has spent millions of dollars on their new tagline: Just _.",
+      "pick": 1
+    },
+    {
+      "text": "The prostitute lied to me. She said that _ was legal in Amsterdam.",
+      "pick": 1
+    },
+    {
+      "text": "The two worst things about Down syndrome are _ and their hair cut.",
+      "pick": 1
+    },
+    {
+      "text": "Trust me, I'm _.",
+      "pick": 1
+    },
+    {
+      "text": "Why am I bleeding?",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "70's bush.",
+      "renderHtml": false
+    },
+    {
+      "text": "A bulging vein in your asshole.",
+      "renderHtml": false
+    },
+    {
+      "text": "A courtesy lick.",
+      "renderHtml": false
+    },
+    {
+      "text": "A curry so hot it leaves your ringpiece looking like a halved blood orange.",
+      "renderHtml": false
+    },
+    {
+      "text": "A fractured pelvis.",
+      "renderHtml": false
+    },
+    {
+      "text": "A girl on the brink of womanhood.",
+      "renderHtml": false
+    },
+    {
+      "text": "A hydraulic dildo machine.",
+      "renderHtml": false
+    },
+    {
+      "text": "A leaky bottom.",
+      "renderHtml": false
+    },
+    {
+      "text": "A mouth so sensitive it can feel the sperm wriggling.",
+      "renderHtml": false
+    },
+    {
+      "text": "A pair of pliers and a blowtorch.",
+      "renderHtml": false
+    },
+    {
+      "text": "A scabby tampon.",
+      "renderHtml": false
+    },
+    {
+      "text": "A strap-on.",
+      "renderHtml": false
+    },
+    {
+      "text": "A training bra.",
+      "renderHtml": false
+    },
+    {
+      "text": "A waste of fucking time.",
+      "renderHtml": false
+    },
+    {
+      "text": "A woman's virginity.",
+      "renderHtml": false
+    },
+    {
+      "text": "Amy Winehouse.",
+      "renderHtml": false
+    },
+    {
+      "text": "An extra chromosome.",
+      "renderHtml": false
+    },
+    {
+      "text": "An inferiority complex.",
+      "renderHtml": false
+    },
+    {
+      "text": "Arranging sleeping children into suggestive positions.",
+      "renderHtml": false
+    },
+    {
+      "text": "Assuming no means yes and yes means anal.",
+      "renderHtml": false
+    },
+    {
+      "text": "Because I run faster horny than you do scared.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being single as fuck.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bludgeoning the flaps.",
+      "renderHtml": false
+    },
+    {
+      "text": "Buddha, the fat little cunt.",
+      "renderHtml": false
+    },
+    {
+      "text": "Butch lesbians.",
+      "renderHtml": false
+    },
+    {
+      "text": "Carpet burns.",
+      "renderHtml": false
+    },
+    {
+      "text": "Chlamydia.",
+      "renderHtml": false
+    },
+    {
+      "text": "Civil rights.",
+      "renderHtml": false
+    },
+    {
+      "text": "Coitus.",
+      "renderHtml": false
+    },
+    {
+      "text": "Congenital birth defects.",
+      "renderHtml": false
+    },
+    {
+      "text": "Corrupting the mind of a child.",
+      "renderHtml": false
+    },
+    {
+      "text": "Crack hoes that'll do pretty much anything.",
+      "renderHtml": false
+    },
+    {
+      "text": "Creamy knickers.",
+      "renderHtml": false
+    },
+    {
+      "text": "Donald Trump's inclusive attitude towards minorities.",
+      "renderHtml": false
+    },
+    {
+      "text": "Drinking, not because you want to, but because you have to.",
+      "renderHtml": false
+    },
+    {
+      "text": "Eating out a cum-filled whore.",
+      "renderHtml": false
+    },
+    {
+      "text": "Falling in love.",
+      "renderHtml": false
+    },
+    {
+      "text": "Finding a crimson crime scene in your girlfriend's white panties.",
+      "renderHtml": false
+    },
+    {
+      "text": "Finishing yourself off.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fresh, dripping cum.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fucking kids.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting fucked in the proverbial ass.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting your dick wet.",
+      "renderHtml": false
+    },
+    {
+      "text": "GILFs.",
+      "renderHtml": false
+    },
+    {
+      "text": "Gingers.",
+      "renderHtml": false
+    },
+    {
+      "text": "Going Greek.",
+      "renderHtml": false
+    },
+    {
+      "text": "Going to the bathroom just to wipe.",
+      "renderHtml": false
+    },
+    {
+      "text": "Grinding.",
+      "renderHtml": false
+    },
+    {
+      "text": "Grindr.",
+      "renderHtml": false
+    },
+    {
+      "text": "Having a baby to save your relationship.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hemorrhaging cash.",
+      "renderHtml": false
+    },
+    {
+      "text": "Honkies.",
+      "renderHtml": false
+    },
+    {
+      "text": "Inappropriate grooming.",
+      "renderHtml": false
+    },
+    {
+      "text": "Jamming a twig up your pee hole.",
+      "renderHtml": false
+    },
+    {
+      "text": "Krazy Glue®.",
+      "renderHtml": false
+    },
+    {
+      "text": "Making bread from a yeast infection.",
+      "renderHtml": false
+    },
+    {
+      "text": "Mom's ability to take a cock.",
+      "renderHtml": false
+    },
+    {
+      "text": "Muff diving.",
+      "renderHtml": false
+    },
+    {
+      "text": "My angry vagina.",
+      "renderHtml": false
+    },
+    {
+      "text": "My father's flaccid penis.",
+      "renderHtml": false
+    },
+    {
+      "text": "My one-eyed monster.",
+      "renderHtml": false
+    },
+    {
+      "text": "My shitty life.",
+      "renderHtml": false
+    },
+    {
+      "text": "My sweaty hole.",
+      "renderHtml": false
+    },
+    {
+      "text": "North Korea.",
+      "renderHtml": false
+    },
+    {
+      "text": "Oscar Pistorius.",
+      "renderHtml": false
+    },
+    {
+      "text": "Paper-cut circumcision.",
+      "renderHtml": false
+    },
+    {
+      "text": "pity-fucking a fat groomsman",
+      "renderHtml": false
+    },
+    {
+      "text": "Playing the race card.",
+      "renderHtml": false
+    },
+    {
+      "text": "Premenstrual tension.",
+      "renderHtml": false
+    },
+    {
+      "text": "Princess Diana.",
+      "renderHtml": false
+    },
+    {
+      "text": "Reeva Steenkamp.",
+      "renderHtml": false
+    },
+    {
+      "text": "Scratchy, uncomfortable sex.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sexual harassment.",
+      "renderHtml": false
+    },
+    {
+      "text": "Shaking hands with pig farmers.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sharon Stone.",
+      "renderHtml": false
+    },
+    {
+      "text": "Slaves.",
+      "renderHtml": false
+    },
+    {
+      "text": "Smothering a severely disabled child with a pillow as an act of kindness.",
+      "renderHtml": false
+    },
+    {
+      "text": "Snapping your banjo string.",
+      "renderHtml": false
+    },
+    {
+      "text": "Stuffin' the muffin like a boss.",
+      "renderHtml": false
+    },
+    {
+      "text": "Teasing your sister with just the tip.",
+      "renderHtml": false
+    },
+    {
+      "text": "The cream of Sum Yung Gai.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Final Solution.",
+      "renderHtml": false
+    },
+    {
+      "text": "The sexy curves of a pregnant stripper.",
+      "renderHtml": false
+    },
+    {
+      "text": "The shame and regret of a prostate-triggered orgasm.",
+      "renderHtml": false
+    },
+    {
+      "text": "The War on Terror.",
+      "renderHtml": false
+    },
+    {
+      "text": "This lump in my trousers.",
+      "renderHtml": false
+    },
+    {
+      "text": "Turning a beached whale into a makeshift Slip 'N Slide®.",
+      "renderHtml": false
+    },
+    {
+      "text": "Underwear off, fanny in the face.",
+      "renderHtml": false
+    },
+    {
+      "text": "Using your mom's old diaphragm as contraception in a pinch.",
+      "renderHtml": false
+    },
+    {
+      "text": "Years of rejection and failure.",
+      "renderHtml": false
+    }
+  ]
+}

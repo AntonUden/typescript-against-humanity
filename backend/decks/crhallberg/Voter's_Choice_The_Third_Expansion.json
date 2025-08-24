@@ -1,0 +1,141 @@
+{
+  "order": 199,
+  "displayName": "Voter's Choice: The Third Expansion",
+  "name": "Voter's_Choice_The_Third_Expansion",
+  "whiteCards": [
+    {
+      "text": "_!? NOT TODAY!",
+      "pick": 1
+    },
+    {
+      "text": "Anything about _ has to be educational.",
+      "pick": 1
+    },
+    {
+      "text": "I know I haven't been the best Christian but, _.",
+      "pick": 1
+    },
+    {
+      "text": "I once discovered a golden _.",
+      "pick": 1
+    },
+    {
+      "text": "I'm glad one of us remembered. That could've been _.",
+      "pick": 1
+    },
+    {
+      "text": "In the year book I was voted most likely to _.",
+      "pick": 1
+    },
+    {
+      "text": "None of us recognized that his subtle interest in _ was really a terrible addiction.",
+      "pick": 1
+    },
+    {
+      "text": "Treat yo self to _.",
+      "pick": 1
+    },
+    {
+      "text": "What is my darkest secret?",
+      "pick": 1
+    },
+    {
+      "text": "What's next after third base?",
+      "pick": 1
+    },
+    {
+      "text": "When a woman loves a man, it doesn't matter if _.",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "100,000 dollars, alcohol, and 4 weeks of vacation.",
+      "renderHtml": false
+    },
+    {
+      "text": "A flock of seagulls that mistakes your penis for a french fry.",
+      "renderHtml": false
+    },
+    {
+      "text": "A naked gay Mexican guy.",
+      "renderHtml": false
+    },
+    {
+      "text": "A shockingly realistic reenactment of the Games of Thrones.",
+      "renderHtml": false
+    },
+    {
+      "text": "Accidentally sexting your mother.",
+      "renderHtml": false
+    },
+    {
+      "text": "Becoming a superhero by killing your parents.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being a two-timing whore.",
+      "renderHtml": false
+    },
+    {
+      "text": "Buying a windowless van and candy to improve your sex life.",
+      "renderHtml": false
+    },
+    {
+      "text": "Deeply inhaling your own farts.",
+      "renderHtml": false
+    },
+    {
+      "text": "I ate those fancy soaps you bought for the bathroom.",
+      "renderHtml": false
+    },
+    {
+      "text": "Making tea with the blood of our enemies.",
+      "renderHtml": false
+    },
+    {
+      "text": "Masturbating to Law and Order: Special Victims Unit.",
+      "renderHtml": false
+    },
+    {
+      "text": "Princess Leia in a threesome with Ewoks.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pulling the plug on Grandma.",
+      "renderHtml": false
+    },
+    {
+      "text": "Searching for African Slaves on Amazon Prime.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Dark Side.",
+      "renderHtml": false
+    },
+    {
+      "text": "The people who jumped on 9/11.",
+      "renderHtml": false
+    },
+    {
+      "text": "Titty fucking Susan G. Komen.",
+      "renderHtml": false
+    },
+    {
+      "text": "Tongue punching your fart box.",
+      "renderHtml": false
+    },
+    {
+      "text": "Yabba Dabba Doin It!: The Bedrocking Memoirs of Fred Flintstone.",
+      "renderHtml": false
+    },
+    {
+      "text": "Your favorite childhood stuffed animal coming to life, but turning out to be a massive racist.",
+      "renderHtml": false
+    },
+    {
+      "text": "Your mom's armpit hair.",
+      "renderHtml": false
+    }
+  ]
+}

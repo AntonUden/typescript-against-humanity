@@ -1,0 +1,36 @@
+{
+  "order": 147,
+  "displayName": "Hanukkah LOL Pack",
+  "name": "Hanukkah_LOL_Pack",
+  "whiteCards": [],
+  "blackCards": [
+    {
+      "text": "A smile or just a nod.",
+      "renderHtml": false
+    },
+    {
+      "text": "All the accumulated culture of a people.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being young and living in New York City.",
+      "renderHtml": false
+    },
+    {
+      "text": "The dark side.",
+      "renderHtml": false
+    },
+    {
+      "text": "The gross inequalities of our society.",
+      "renderHtml": false
+    },
+    {
+      "text": "The wisdom of the crowds.",
+      "renderHtml": false
+    },
+    {
+      "text": "Uninformed knuckle-dragging low information voters.",
+      "renderHtml": false
+    }
+  ]
+}

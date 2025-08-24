@@ -1,0 +1,449 @@
+{
+  "order": 81,
+  "displayName": "Cads About Matrimony: Expansion 1",
+  "name": "Cads_About_Matrimony_Expansion_1",
+  "whiteCards": [
+    {
+      "text": "_ keeps me awake at night.",
+      "pick": 1
+    },
+    {
+      "text": "An enormous statue commemorating _ was erected in front of the Lee Harvey Oswald School of Marksmanship Excellence.",
+      "pick": 1
+    },
+    {
+      "text": "Being accused of _ at a work disciplinary.",
+      "pick": 1
+    },
+    {
+      "text": "Being partners for life means embracing _.",
+      "pick": 1
+    },
+    {
+      "text": "If there's something strange in your neighborhood, who you gonna call?",
+      "pick": 1
+    },
+    {
+      "text": "If you get toys from a Happy Meal, what would you get from a Sad Meal?",
+      "pick": 1
+    },
+    {
+      "text": "In an attempt to appeal to Air Force dependents, Sesame Street has created \"Big Blue,\" a character who teaches the other muppets about _.",
+      "pick": 1
+    },
+    {
+      "text": "Just call me by the nickname I had in high school: \"_\".",
+      "pick": 1
+    },
+    {
+      "text": "Left _ outside the dairy. Nekk minnit _!",
+      "pick": 2
+    },
+    {
+      "text": "Never go to be angry. It will only lead to _.",
+      "pick": 1
+    },
+    {
+      "text": "The Westboro Baptist Church is now picketing soldiers' funerals with signs that read 'GOD HATES _!'",
+      "pick": 1
+    },
+    {
+      "text": "There's a pot of gold at the end of every rainbow, but what's at the end of Cumberland Falls' moonbow?",
+      "pick": 1
+    },
+    {
+      "text": "Today's epic parenting fail.",
+      "pick": 1
+    },
+    {
+      "text": "Treat yo self to _.",
+      "pick": 1
+    },
+    {
+      "text": "What Catholics are most known for to non-Catholics.",
+      "pick": 1
+    },
+    {
+      "text": "What did your doula bring to the birthing suite to calm you down?",
+      "pick": 1
+    },
+    {
+      "text": "What does my German pen pal write to me about?",
+      "pick": 1
+    },
+    {
+      "text": "What is always in the mind of a Bad Hombre?",
+      "pick": 1
+    },
+    {
+      "text": "What made things awkward during the orgy?",
+      "pick": 1
+    },
+    {
+      "text": "What was the reason you last cried?",
+      "pick": 1
+    },
+    {
+      "text": "What will i bring back in time to convince people I am a powerful politician?",
+      "pick": 1
+    },
+    {
+      "text": "What works 80% of the time 100% of the time?",
+      "pick": 1
+    },
+    {
+      "text": "What's the biggest threat facing America?",
+      "pick": 1
+    },
+    {
+      "text": "What's this town's best-kept secret?",
+      "pick": 1
+    },
+    {
+      "text": "What's your favourite thing to do on your days off?",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "A bunch of snot-nosed, know-it-all twentysomethings.",
+      "renderHtml": false
+    },
+    {
+      "text": "A cloud of ash that darkens the Earth for a thousand years.",
+      "renderHtml": false
+    },
+    {
+      "text": "A Cock Carousel",
+      "renderHtml": false
+    },
+    {
+      "text": "A crocodile with a Scouse accent.",
+      "renderHtml": false
+    },
+    {
+      "text": "A dozen roofies",
+      "renderHtml": false
+    },
+    {
+      "text": "A four-hour depression nap.",
+      "renderHtml": false
+    },
+    {
+      "text": "A framed photocopy of an oil painting of Paris, France.",
+      "renderHtml": false
+    },
+    {
+      "text": "A friend who is a total dick in the mud.",
+      "renderHtml": false
+    },
+    {
+      "text": "a gently-used butt-plug",
+      "renderHtml": false
+    },
+    {
+      "text": "A gift basket from The Body Shop.",
+      "renderHtml": false
+    },
+    {
+      "text": "a harmless tupperware container in the fridge full of OH MY GOD WHAT THE FUCK IS THAT",
+      "renderHtml": false
+    },
+    {
+      "text": "A Hongi",
+      "renderHtml": false
+    },
+    {
+      "text": "A monkey smoking a cigar.",
+      "renderHtml": false
+    },
+    {
+      "text": "A party in Michael Barrymore's pool",
+      "renderHtml": false
+    },
+    {
+      "text": "A rusty fishhook",
+      "renderHtml": false
+    },
+    {
+      "text": "A sensitive items inventory gone terribly wrong.",
+      "renderHtml": false
+    },
+    {
+      "text": "A vision board filled with Eric Trump's wisest quotes on hotel management and killing leopards.",
+      "renderHtml": false
+    },
+    {
+      "text": "a whiny bitch",
+      "renderHtml": false
+    },
+    {
+      "text": "Active listening.",
+      "renderHtml": false
+    },
+    {
+      "text": "All the gold in Fort Knox.",
+      "renderHtml": false
+    },
+    {
+      "text": "An uncomfortable silence.",
+      "renderHtml": false
+    },
+    {
+      "text": "anal sex with a dude who has a severe bowel disorder",
+      "renderHtml": false
+    },
+    {
+      "text": "bacon, bacon and more bacon",
+      "renderHtml": false
+    },
+    {
+      "text": "Being a little too big for your britches.",
+      "renderHtml": false
+    },
+    {
+      "text": "being generally very large",
+      "renderHtml": false
+    },
+    {
+      "text": "Blood, sweat, and tears.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bringing chip dip to the party.",
+      "renderHtml": false
+    },
+    {
+      "text": "Burning books.",
+      "renderHtml": false
+    },
+    {
+      "text": "celibacy",
+      "renderHtml": false
+    },
+    {
+      "text": "Coming home from college to find my room was given away to my younger siblings and I've been forgotten",
+      "renderHtml": false
+    },
+    {
+      "text": "Constantly wetting the bed.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dirty Waltz.",
+      "renderHtml": false
+    },
+    {
+      "text": "Eloping with your MTL after their court-martial.",
+      "renderHtml": false
+    },
+    {
+      "text": "Enormous Scandinavian women.",
+      "renderHtml": false
+    },
+    {
+      "text": "Excessive leg hair.",
+      "renderHtml": false
+    },
+    {
+      "text": "Extra meat in burrito bowls.",
+      "renderHtml": false
+    },
+    {
+      "text": "Feeling like you've finally created something worthwhile.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fellatio.",
+      "renderHtml": false
+    },
+    {
+      "text": "Flowers, sunshine and kittens.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting killed and dragged up a tree by a leopard.",
+      "renderHtml": false
+    },
+    {
+      "text": "Giving up any hope of a stable relationship",
+      "renderHtml": false
+    },
+    {
+      "text": "Going to bed at a reasonable hour.",
+      "renderHtml": false
+    },
+    {
+      "text": "Golden Girls re-runs.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hot sex tips from Bill Cosby.",
+      "renderHtml": false
+    },
+    {
+      "text": "Improv comedy.",
+      "renderHtml": false
+    },
+    {
+      "text": "Instant gratification.",
+      "renderHtml": false
+    },
+    {
+      "text": "Keg stands.",
+      "renderHtml": false
+    },
+    {
+      "text": "Losing privileges.",
+      "renderHtml": false
+    },
+    {
+      "text": "Loud banging",
+      "renderHtml": false
+    },
+    {
+      "text": "marrying a punk",
+      "renderHtml": false
+    },
+    {
+      "text": "More dots!",
+      "renderHtml": false
+    },
+    {
+      "text": "Never showering.",
+      "renderHtml": false
+    },
+    {
+      "text": "Original thoughts.",
+      "renderHtml": false
+    },
+    {
+      "text": "Passing raunchy sex notes to your boot camp boo.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pattern baldness",
+      "renderHtml": false
+    },
+    {
+      "text": "Poor taste",
+      "renderHtml": false
+    },
+    {
+      "text": "Poorly educated voters.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pornstars.",
+      "renderHtml": false
+    },
+    {
+      "text": "Punching them in the face with a hammer.",
+      "renderHtml": false
+    },
+    {
+      "text": "Puppies!",
+      "renderHtml": false
+    },
+    {
+      "text": "Random, pretentious reference to Greek Mythology.",
+      "renderHtml": false
+    },
+    {
+      "text": "Religious fanatic psychopaths.",
+      "renderHtml": false
+    },
+    {
+      "text": "Riding a horse. Naked. Like Gumby.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sacrificing Isaac to the Lord.",
+      "renderHtml": false
+    },
+    {
+      "text": "Saying \"Me so horny!\" in a Yoda voice.",
+      "renderHtml": false
+    },
+    {
+      "text": "Schindler's List.",
+      "renderHtml": false
+    },
+    {
+      "text": "semi-intelligent faces",
+      "renderHtml": false
+    },
+    {
+      "text": "Sexual degradation",
+      "renderHtml": false
+    },
+    {
+      "text": "Sexy sport tops.",
+      "renderHtml": false
+    },
+    {
+      "text": "Shooting stuff from a helicopter.",
+      "renderHtml": false
+    },
+    {
+      "text": "Showing that bitch a whole new world.",
+      "renderHtml": false
+    },
+    {
+      "text": "So sue me!",
+      "renderHtml": false
+    },
+    {
+      "text": "Taking a man's eyes and balls out and putting his eyes where his balls go and then his balls in the eye holes.",
+      "renderHtml": false
+    },
+    {
+      "text": "Taking someone to pound town.",
+      "renderHtml": false
+    },
+    {
+      "text": "That crappy ribbon candy your grandma always had",
+      "renderHtml": false
+    },
+    {
+      "text": "The 9,000 children who starred to death today.",
+      "renderHtml": false
+    },
+    {
+      "text": "The divorce.",
+      "renderHtml": false
+    },
+    {
+      "text": "the flower that's like thy face",
+      "renderHtml": false
+    },
+    {
+      "text": "Tracking",
+      "renderHtml": false
+    },
+    {
+      "text": "Twenty bucks.",
+      "renderHtml": false
+    },
+    {
+      "text": "Two shitty kids and a garbage husband.",
+      "renderHtml": false
+    },
+    {
+      "text": "Using the Grindr app as a method to find recruits.",
+      "renderHtml": false
+    },
+    {
+      "text": "Val Kilmer as God.",
+      "renderHtml": false
+    },
+    {
+      "text": "vigorously puffing tobacco-smoke",
+      "renderHtml": false
+    },
+    {
+      "text": "Weeping with joy over the sweet sound of silence",
+      "renderHtml": false
+    }
+  ]
+}

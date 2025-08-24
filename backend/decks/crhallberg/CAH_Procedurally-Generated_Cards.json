@@ -1,0 +1,1160 @@
+{
+  "order": 21,
+  "displayName": "CAH: Procedurally-Generated Cards",
+  "name": "CAH_Procedurally-Generated_Cards",
+  "whiteCards": [],
+  "blackCards": [
+    {
+      "text": "A cranky CEO with the world's biggest dingus.",
+      "renderHtml": false
+    },
+    {
+      "text": "A cranky congressman with an impressive scrotum.",
+      "renderHtml": false
+    },
+    {
+      "text": "A cranky god with a crappy asshole.",
+      "renderHtml": false
+    },
+    {
+      "text": "A cranky god with the world's smallest pecker.",
+      "renderHtml": false
+    },
+    {
+      "text": "A cranky hunk with a perfectly-formed asshole.",
+      "renderHtml": false
+    },
+    {
+      "text": "A cranky nerd with a sopping wet dick.",
+      "renderHtml": false
+    },
+    {
+      "text": "A cranky superhero with a surprisingly large cock.",
+      "renderHtml": false
+    },
+    {
+      "text": "A cranky surgeon with a glorious pussy.",
+      "renderHtml": false
+    },
+    {
+      "text": "A dad with a creamy asshole.",
+      "renderHtml": false
+    },
+    {
+      "text": "A dentist with a sopping wet pecker.",
+      "renderHtml": false
+    },
+    {
+      "text": "A fat Batman with a sopping wet scrotum.",
+      "renderHtml": false
+    },
+    {
+      "text": "A fat cop with a surprisingly large erection.",
+      "renderHtml": false
+    },
+    {
+      "text": "A fat guy with a beautiful scrotum.",
+      "renderHtml": false
+    },
+    {
+      "text": "A fat hipster with a beautiful asshole.",
+      "renderHtml": false
+    },
+    {
+      "text": "A fat horse with a crappy scrotum.",
+      "renderHtml": false
+    },
+    {
+      "text": "A fat horse with a spectacular ballsack.",
+      "renderHtml": false
+    },
+    {
+      "text": "A fat nerd with the world's biggest dingus.",
+      "renderHtml": false
+    },
+    {
+      "text": "A fat nurse with a surprisingly large anus.",
+      "renderHtml": false
+    },
+    {
+      "text": "A fat school teacher with an infinite twat.",
+      "renderHtml": false
+    },
+    {
+      "text": "A fat surgeon with a creamy dingus.",
+      "renderHtml": false
+    },
+    {
+      "text": "A fat wizard with a tremendous vagina.",
+      "renderHtml": false
+    },
+    {
+      "text": "A funny little boss with an epic pair of nipples.",
+      "renderHtml": false
+    },
+    {
+      "text": "A funny little bro with a glorious pair of tits.",
+      "renderHtml": false
+    },
+    {
+      "text": "A gay CEO with a shit-covered dong.",
+      "renderHtml": false
+    },
+    {
+      "text": "A gay cop with a sopping wet asshole.",
+      "renderHtml": false
+    },
+    {
+      "text": "A gay donkey with an infinite dong.",
+      "renderHtml": false
+    },
+    {
+      "text": "A gay fireman with a sopping wet vagina.",
+      "renderHtml": false
+    },
+    {
+      "text": "A gay fireman with an impressive anus.",
+      "renderHtml": false
+    },
+    {
+      "text": "A gay hipster with an impressive taint.",
+      "renderHtml": false
+    },
+    {
+      "text": "A gay nurse with a glorious anus.",
+      "renderHtml": false
+    },
+    {
+      "text": "A gay prince with a crappy butthole.",
+      "renderHtml": false
+    },
+    {
+      "text": "A gay prince with a sopping wet vagina.",
+      "renderHtml": false
+    },
+    {
+      "text": "A gay prince with history's greatest cock.",
+      "renderHtml": false
+    },
+    {
+      "text": "A gay Republican with a beautiful dick.",
+      "renderHtml": false
+    },
+    {
+      "text": "A gay superhero with a creamy vagina.",
+      "renderHtml": false
+    },
+    {
+      "text": "A gay wizard with an inspiring asshole.",
+      "renderHtml": false
+    },
+    {
+      "text": "A gorgeous cop with a sopping wet penis.",
+      "renderHtml": false
+    },
+    {
+      "text": "A gorgeous cop with a surprisingly large pair of nipples.",
+      "renderHtml": false
+    },
+    {
+      "text": "A gorgeous dancer with an impressive erection.",
+      "renderHtml": false
+    },
+    {
+      "text": "A gorgeous dragon with a spectacular twat.",
+      "renderHtml": false
+    },
+    {
+      "text": "A gorgeous garbageman with a perfectly-formed dong.",
+      "renderHtml": false
+    },
+    {
+      "text": "A gorgeous grandfather with history's greatest butthole.",
+      "renderHtml": false
+    },
+    {
+      "text": "A gorgeous mom with a beautiful erection.",
+      "renderHtml": false
+    },
+    {
+      "text": "A gorgeous nurse with an extra pair of tits.",
+      "renderHtml": false
+    },
+    {
+      "text": "A gorgeous plumber with a spectacular taint.",
+      "renderHtml": false
+    },
+    {
+      "text": "A grandfather with a creamy dingus.",
+      "renderHtml": false
+    },
+    {
+      "text": "A happy baseball player with quite a clit.",
+      "renderHtml": false
+    },
+    {
+      "text": "A happy bro with an infinite cock.",
+      "renderHtml": false
+    },
+    {
+      "text": "A happy dancer with an impressive scrotum.",
+      "renderHtml": false
+    },
+    {
+      "text": "A happy god with a wonderful clitoris.",
+      "renderHtml": false
+    },
+    {
+      "text": "A happy grandma with a surprisingly large penis.",
+      "renderHtml": false
+    },
+    {
+      "text": "A happy guy with a chocolate-covered taint.",
+      "renderHtml": false
+    },
+    {
+      "text": "A happy President with a tiny, upsetting dong.",
+      "renderHtml": false
+    },
+    {
+      "text": "A happy priest with a hairy pair of tits.",
+      "renderHtml": false
+    },
+    {
+      "text": "A happy Rabbi with a chocolate-covered ballsack.",
+      "renderHtml": false
+    },
+    {
+      "text": "A happy Rabbi with a tiny, upsetting butthole.",
+      "renderHtml": false
+    },
+    {
+      "text": "A happy Rabbi with an epic erection.",
+      "renderHtml": false
+    },
+    {
+      "text": "A happy Republican with a perfectly-formed butthole.",
+      "renderHtml": false
+    },
+    {
+      "text": "A happy wizard with the world's biggest dick.",
+      "renderHtml": false
+    },
+    {
+      "text": "A happy woman with a beautiful dick.",
+      "renderHtml": false
+    },
+    {
+      "text": "A happy woman with a shit-covered cock.",
+      "renderHtml": false
+    },
+    {
+      "text": "A hard working nerd with a weird scrotum.",
+      "renderHtml": false
+    },
+    {
+      "text": "A hard-working garbageman with a tremendous taint.",
+      "renderHtml": false
+    },
+    {
+      "text": "A hard-working grandfather with a surprisingly large dingus.",
+      "renderHtml": false
+    },
+    {
+      "text": "A hard-working guy with a crappy clitoris.",
+      "renderHtml": false
+    },
+    {
+      "text": "A hard-working hunk with a tremendous vagina.",
+      "renderHtml": false
+    },
+    {
+      "text": "A hard-working milkman with a tremendous cock.",
+      "renderHtml": false
+    },
+    {
+      "text": "A hard-working milkman with an impressive dick.",
+      "renderHtml": false
+    },
+    {
+      "text": "A hard-working milkman with the world's smallest vagina.",
+      "renderHtml": false
+    },
+    {
+      "text": "A hard-working nerd with a weird scrotum.",
+      "renderHtml": false
+    },
+    {
+      "text": "A hard-working superhero with an extra asshole.",
+      "renderHtml": false
+    },
+    {
+      "text": "A hard-working woman with the world's biggest dong.",
+      "renderHtml": false
+    },
+    {
+      "text": "A horny dentist with a tiny, upsetting pair of tits.",
+      "renderHtml": false
+    },
+    {
+      "text": "A horny farmer with a weird cock.",
+      "renderHtml": false
+    },
+    {
+      "text": "A horny garbageman with a chocolate-covered clitoris.",
+      "renderHtml": false
+    },
+    {
+      "text": "A horny grandfather with a glistening erection.",
+      "renderHtml": false
+    },
+    {
+      "text": "A horny grandfather with a smooth dong.",
+      "renderHtml": false
+    },
+    {
+      "text": "A horny guy with a wonderful ballsack.",
+      "renderHtml": false
+    },
+    {
+      "text": "A horny mom with an infinite cock.",
+      "renderHtml": false
+    },
+    {
+      "text": "A horny Republican with an impressive butthole.",
+      "renderHtml": false
+    },
+    {
+      "text": "A horny surgeon with a weird dong.",
+      "renderHtml": false
+    },
+    {
+      "text": "A horny woman with a shit-covered dingus.",
+      "renderHtml": false
+    },
+    {
+      "text": "A horny woman with a surprisingly large penis.",
+      "renderHtml": false
+    },
+    {
+      "text": "A horny woman with a wonderful clitoris.",
+      "renderHtml": false
+    },
+    {
+      "text": "A hot baseball player with a weird asshole.",
+      "renderHtml": false
+    },
+    {
+      "text": "A hot bro with a hairy dick.",
+      "renderHtml": false
+    },
+    {
+      "text": "A hot congressman with a smooth clitoris.",
+      "renderHtml": false
+    },
+    {
+      "text": "A hot congressman with history's greatest asshole.",
+      "renderHtml": false
+    },
+    {
+      "text": "A hot god with a beautiful scrotum.",
+      "renderHtml": false
+    },
+    {
+      "text": "A hot grandfather with an extra scrotum.",
+      "renderHtml": false
+    },
+    {
+      "text": "A hot hipster with the world's biggest ballsack.",
+      "renderHtml": false
+    },
+    {
+      "text": "A hot hipster with the world's smallest pair of nipples.",
+      "renderHtml": false
+    },
+    {
+      "text": "A hot novelist with a crappy dick.",
+      "renderHtml": false
+    },
+    {
+      "text": "A hot priest with a shit-covered dingus.",
+      "renderHtml": false
+    },
+    {
+      "text": "A hot school teacher with an inspiring vagina.",
+      "renderHtml": false
+    },
+    {
+      "text": "A huge bro with a glorious taint.",
+      "renderHtml": false
+    },
+    {
+      "text": "A huge cop with a perfectly-formed clitoris.",
+      "renderHtml": false
+    },
+    {
+      "text": "A huge dad with a smooth penis.",
+      "renderHtml": false
+    },
+    {
+      "text": "A huge dragon with a tiny, upsetting pussy.",
+      "renderHtml": false
+    },
+    {
+      "text": "A huge fireman with history's greatest anus.",
+      "renderHtml": false
+    },
+    {
+      "text": "A huge god with a perfectly-formed taint.",
+      "renderHtml": false
+    },
+    {
+      "text": "A huge hipster with a perfectly-formed pair of tits.",
+      "renderHtml": false
+    },
+    {
+      "text": "A huge Rabbi with the world's biggest cock.",
+      "renderHtml": false
+    },
+    {
+      "text": "A huge school teacehr with an infinite pussy.",
+      "renderHtml": false
+    },
+    {
+      "text": "A huge surgeon with a hairy scrotum.",
+      "renderHtml": false
+    },
+    {
+      "text": "A huge woman with an impressive penis.",
+      "renderHtml": false
+    },
+    {
+      "text": "A laid-back boss with an inspiring pussy.",
+      "renderHtml": false
+    },
+    {
+      "text": "A laid-back congressman with a perfectly-formed taint.",
+      "renderHtml": false
+    },
+    {
+      "text": "A laid-back dad with a smooth clitoris.",
+      "renderHtml": false
+    },
+    {
+      "text": "A laid-back dog with the world's smallest scrotum.",
+      "renderHtml": false
+    },
+    {
+      "text": "A laid-back doneky with a spectacular erection.",
+      "renderHtml": false
+    },
+    {
+      "text": "A laid-back donkey with a spectacular scrotum.",
+      "renderHtml": false
+    },
+    {
+      "text": "A laid-back grandfather with a surprisingly large asshole.",
+      "renderHtml": false
+    },
+    {
+      "text": "A laid-back hipster with a crappy ballsack.",
+      "renderHtml": false
+    },
+    {
+      "text": "A laid-back horse with a wonderful scrotum.",
+      "renderHtml": false
+    },
+    {
+      "text": "A laid-back President with the world's biggest vagina.",
+      "renderHtml": false
+    },
+    {
+      "text": "A laid-back priest with a tremendous ballsack.",
+      "renderHtml": false
+    },
+    {
+      "text": "A laid-back prince with the world's biggest butthole.",
+      "renderHtml": false
+    },
+    {
+      "text": "A laid-back Rabbi with a tiny, upsetting erection.",
+      "renderHtml": false
+    },
+    {
+      "text": "A laid-back school teacher with an impressive butthole.",
+      "renderHtml": false
+    },
+    {
+      "text": "A laid-back superhero with an extra taint.",
+      "renderHtml": false
+    },
+    {
+      "text": "A laid-back superhero with the world's biggest anus.",
+      "renderHtml": false
+    },
+    {
+      "text": "A laidback horse with a crappy twat.",
+      "renderHtml": false
+    },
+    {
+      "text": "A large dog with a weird taint.",
+      "renderHtml": false
+    },
+    {
+      "text": "A large farmer with a surprisingly large taint.",
+      "renderHtml": false
+    },
+    {
+      "text": "A large garbageman with an infinite dong.",
+      "renderHtml": false
+    },
+    {
+      "text": "A large hipster with a crappy erection.",
+      "renderHtml": false
+    },
+    {
+      "text": "A large hipster with a weird ballsack.",
+      "renderHtml": false
+    },
+    {
+      "text": "A lonely Batman with a crappy dingus.",
+      "renderHtml": false
+    },
+    {
+      "text": "A lonely boss with a wonderful asshole.",
+      "renderHtml": false
+    },
+    {
+      "text": "A lonely dentist with an inspiring taint.",
+      "renderHtml": false
+    },
+    {
+      "text": "A lonely farmer with a glorious pair of nipples.",
+      "renderHtml": false
+    },
+    {
+      "text": "A lonely fireman with a chocolate-covered dong.",
+      "renderHtml": false
+    },
+    {
+      "text": "A lonely god with an extra pussy.",
+      "renderHtml": false
+    },
+    {
+      "text": "A lonely nurse with an epic pair of nipples.",
+      "renderHtml": false
+    },
+    {
+      "text": "A mean CEO with a wonderful taint.",
+      "renderHtml": false
+    },
+    {
+      "text": "A mean garbageman with a smooth erection.",
+      "renderHtml": false
+    },
+    {
+      "text": "A mean grandfater with a perfectly-formed clitoris.",
+      "renderHtml": false
+    },
+    {
+      "text": "A mean grandfather with a chocolate-covered dong.",
+      "renderHtml": false
+    },
+    {
+      "text": "A mean nerd with a creamy twat.",
+      "renderHtml": false
+    },
+    {
+      "text": "A mean nerd with an epic anus.",
+      "renderHtml": false
+    },
+    {
+      "text": "A mean plumber with an impressive vagina.",
+      "renderHtml": false
+    },
+    {
+      "text": "A mean President with a perfectly-formed clitoris.",
+      "renderHtml": false
+    },
+    {
+      "text": "A mean school teacher with a glistening butthole.",
+      "renderHtml": false
+    },
+    {
+      "text": "A moaning fireman with an infinite anus.",
+      "renderHtml": false
+    },
+    {
+      "text": "A moaning garbageman with a glistening asshole.",
+      "renderHtml": false
+    },
+    {
+      "text": "A moaning god with a smooth dick.",
+      "renderHtml": false
+    },
+    {
+      "text": "A moaning mom with a shit-covered ballsack.",
+      "renderHtml": false
+    },
+    {
+      "text": "A moaning novelist with a smooth dingus.",
+      "renderHtml": false
+    },
+    {
+      "text": "A moaning nurse with a shit-covered butthole.",
+      "renderHtml": false
+    },
+    {
+      "text": "A moaning nurse with a tremendous dingus.",
+      "renderHtml": false
+    },
+    {
+      "text": "A moaning wizard with a sopping wet asshole.",
+      "renderHtml": false
+    },
+    {
+      "text": "A muscular Batman with a tremendous ballsack.",
+      "renderHtml": false
+    },
+    {
+      "text": "A muscular cop with an epic pair of tits.",
+      "renderHtml": false
+    },
+    {
+      "text": "A muscular garbageman with a sopping wet pussy.",
+      "renderHtml": false
+    },
+    {
+      "text": "A muscular god with a hairy erection.",
+      "renderHtml": false
+    },
+    {
+      "text": "A muscular hunk with an epic asshole.",
+      "renderHtml": false
+    },
+    {
+      "text": "A muscular milkman with a glistening dick.",
+      "renderHtml": false
+    },
+    {
+      "text": "A muscular prince with a glorious anus.",
+      "renderHtml": false
+    },
+    {
+      "text": "A muscular prince with a spectacular twat.",
+      "renderHtml": false
+    },
+    {
+      "text": "A muscular woman with the world's biggest pair of nipples.",
+      "renderHtml": false
+    },
+    {
+      "text": "A regular garbageman with a creamy pair of tits.",
+      "renderHtml": false
+    },
+    {
+      "text": "A regular grandfather with a creamy dingus.",
+      "renderHtml": false
+    },
+    {
+      "text": "A regular hipster with an extra dingus.",
+      "renderHtml": false
+    },
+    {
+      "text": "A regular prince with an extra taint.",
+      "renderHtml": false
+    },
+    {
+      "text": "A regular Rabbi with a chocolate-covered pair of nipples.",
+      "renderHtml": false
+    },
+    {
+      "text": "A regular Rabbi with a glistening scrotum.",
+      "renderHtml": false
+    },
+    {
+      "text": "A sad astronaut with a creamy cock.",
+      "renderHtml": false
+    },
+    {
+      "text": "A sad boss with a weird dingus.",
+      "renderHtml": false
+    },
+    {
+      "text": "A sad god with a shit-covered pair of nipples.",
+      "renderHtml": false
+    },
+    {
+      "text": "A sad hunk with an extra ballsack.",
+      "renderHtml": false
+    },
+    {
+      "text": "A sad mom with a glorius anus.",
+      "renderHtml": false
+    },
+    {
+      "text": "A sad nerd with a glorious vagina.",
+      "renderHtml": false
+    },
+    {
+      "text": "A sad novelist with history's greatest penis.",
+      "renderHtml": false
+    },
+    {
+      "text": "A sad superhero with a sopping wet anus.",
+      "renderHtml": false
+    },
+    {
+      "text": "A sexy dog with a sopping wet cock.",
+      "renderHtml": false
+    },
+    {
+      "text": "A sexy dragon with a spectacular ballsack.",
+      "renderHtml": false
+    },
+    {
+      "text": "A sexy farmer with a creamy penis.",
+      "renderHtml": false
+    },
+    {
+      "text": "A sexy guy with an epic penis.",
+      "renderHtml": false
+    },
+    {
+      "text": "A sexy husband with a surprisingly large dong.",
+      "renderHtml": false
+    },
+    {
+      "text": "A sexy milkman with a perfectly-formed erection.",
+      "renderHtml": false
+    },
+    {
+      "text": "A smiling bro with a glistening cock.",
+      "renderHtml": false
+    },
+    {
+      "text": "A smiling farmer with the world's biggest pussy.",
+      "renderHtml": false
+    },
+    {
+      "text": "A smiling prince with a sopping wet dingus.",
+      "renderHtml": false
+    },
+    {
+      "text": "A smiling Rabbi with a weird ballsack.",
+      "renderHtml": false
+    },
+    {
+      "text": "A smiling school teacher with history's greatest twat.",
+      "renderHtml": false
+    },
+    {
+      "text": "A tall boss with a creamy pair of nipples.",
+      "renderHtml": false
+    },
+    {
+      "text": "A tall milkman with a sopping wet ballsack.",
+      "renderHtml": false
+    },
+    {
+      "text": "A tall nurse with a hairy penis.",
+      "renderHtml": false
+    },
+    {
+      "text": "A tall nurse with a spectacular ballsack.",
+      "renderHtml": false
+    },
+    {
+      "text": "A tall President with an infinite vagina.",
+      "renderHtml": false
+    },
+    {
+      "text": "A tall Rabbi with the world's biggest vagina.",
+      "renderHtml": false
+    },
+    {
+      "text": "A tall Republican with a glorious cock.",
+      "renderHtml": false
+    },
+    {
+      "text": "A tall Republican with a spectacular pair of tits.",
+      "renderHtml": false
+    },
+    {
+      "text": "A tall surgeon with an inspiring dick.",
+      "renderHtml": false
+    },
+    {
+      "text": "A tiny baseball player with a sopping wet scrotum.",
+      "renderHtml": false
+    },
+    {
+      "text": "A tiny baseball player with a tiny, upsetting clit.",
+      "renderHtml": false
+    },
+    {
+      "text": "A tiny Batman with the world's smallest pair of nipples.",
+      "renderHtml": false
+    },
+    {
+      "text": "A tiny CEO with a chocolate-covered asshole.",
+      "renderHtml": false
+    },
+    {
+      "text": "A tiny dentist with a sopping wet taint.",
+      "renderHtml": false
+    },
+    {
+      "text": "A tiny fireman with a sopping wet cock.",
+      "renderHtml": false
+    },
+    {
+      "text": "A tiny guy with a wonderful taint.",
+      "renderHtml": false
+    },
+    {
+      "text": "A tiny prince with a perfectly-formed dick.",
+      "renderHtml": false
+    },
+    {
+      "text": "A tiny Republican with an impressive pair of tits.",
+      "renderHtml": false
+    },
+    {
+      "text": "A tiny school teacher with history's greatest pair of tits.",
+      "renderHtml": false
+    },
+    {
+      "text": "A tiny woman with a chocolate-covered cock.",
+      "renderHtml": false
+    },
+    {
+      "text": "A trembling dog with history's greatest penis.",
+      "renderHtml": false
+    },
+    {
+      "text": "A trembling farmer with a wonderful scrotum.",
+      "renderHtml": false
+    },
+    {
+      "text": "A trembling grandfather with history's greatest twat.",
+      "renderHtml": false
+    },
+    {
+      "text": "A trembling guy with an extra erection.",
+      "renderHtml": false
+    },
+    {
+      "text": "A trembling hunk with history's greatest twat.",
+      "renderHtml": false
+    },
+    {
+      "text": "A trembling milkman with a perfectly-formed erection.",
+      "renderHtml": false
+    },
+    {
+      "text": "A trembling mom with a shit-covered asshole.",
+      "renderHtml": false
+    },
+    {
+      "text": "A trembling Republican with a glorious dong.",
+      "renderHtml": false
+    },
+    {
+      "text": "A trembling teacher with a weird ballsack.",
+      "renderHtml": false
+    },
+    {
+      "text": "A trembling woman with the world's biggest asshole.",
+      "renderHtml": false
+    },
+    {
+      "text": "A winking astronaut with a tiny, upsetting pecker.",
+      "renderHtml": false
+    },
+    {
+      "text": "A winking Batman with a crappy pair of nipples.",
+      "renderHtml": false
+    },
+    {
+      "text": "A winking CEO with a crappy asshole.",
+      "renderHtml": false
+    },
+    {
+      "text": "A winking congressman with a creamy asshole.",
+      "renderHtml": false
+    },
+    {
+      "text": "A winking dad with a creamy butthole.",
+      "renderHtml": false
+    },
+    {
+      "text": "A winking dude with an infinite erection.",
+      "renderHtml": false
+    },
+    {
+      "text": "A winking garbageman with a sopping wet pussy.",
+      "renderHtml": false
+    },
+    {
+      "text": "A winking garbageman with an infinite dong.",
+      "renderHtml": false
+    },
+    {
+      "text": "A winking god with a weird ballsack.",
+      "renderHtml": false
+    },
+    {
+      "text": "A winking milkman with a glorious pair of nipples.",
+      "renderHtml": false
+    },
+    {
+      "text": "A winking novelist with a tremendous dingus.",
+      "renderHtml": false
+    },
+    {
+      "text": "A winking Republican with a weird penis.",
+      "renderHtml": false
+    },
+    {
+      "text": "A winking woman with a creamy penis.",
+      "renderHtml": false
+    },
+    {
+      "text": "A wizard with a chocolate-covered scrotum.",
+      "renderHtml": false
+    },
+    {
+      "text": "An average dad with a tremendous ballsack.",
+      "renderHtml": false
+    },
+    {
+      "text": "An average dentist with a glorious scrotum.",
+      "renderHtml": false
+    },
+    {
+      "text": "An average dragon with a glistening clitoris.",
+      "renderHtml": false
+    },
+    {
+      "text": "An average farmer with an inspiring penis.",
+      "renderHtml": false
+    },
+    {
+      "text": "An average fireman with the world's smallest penis.",
+      "renderHtml": false
+    },
+    {
+      "text": "An average garbageman with an infinite vagina.",
+      "renderHtml": false
+    },
+    {
+      "text": "An eager cop with an extra ballsack.",
+      "renderHtml": false
+    },
+    {
+      "text": "An eager farmer with a beautiful pussy.",
+      "renderHtml": false
+    },
+    {
+      "text": "An eager hipster with a glistening cock.",
+      "renderHtml": false
+    },
+    {
+      "text": "An eager nerd with a crappy taint.",
+      "renderHtml": false
+    },
+    {
+      "text": "An eager nurse with a shit-covered taint.",
+      "renderHtml": false
+    },
+    {
+      "text": "An eager prince with a sopping wet twat.",
+      "renderHtml": false
+    },
+    {
+      "text": "An eager school teacher with a glorious cock.",
+      "renderHtml": false
+    },
+    {
+      "text": "An ordinary bro with a shit-covered penis.",
+      "renderHtml": false
+    },
+    {
+      "text": "An ordinary CEO with a perfectly-formed scrotum.",
+      "renderHtml": false
+    },
+    {
+      "text": "An ordinary cop with a chocolate-covered ballsack.",
+      "renderHtml": false
+    },
+    {
+      "text": "An ordinary dentist with the world's smallest vagina.",
+      "renderHtml": false
+    },
+    {
+      "text": "An ordinary dragon with a surprisingly large pair of tits.",
+      "renderHtml": false
+    },
+    {
+      "text": "An ordinary novelist with a smooth penis.",
+      "renderHtml": false
+    },
+    {
+      "text": "An ordinary prince with a beautiful pussy.",
+      "renderHtml": false
+    },
+    {
+      "text": "An ordinary Republican with a tiny, upsetting cock.",
+      "renderHtml": false
+    },
+    {
+      "text": "An ordinary school teacher with a creamy clitoris.",
+      "renderHtml": false
+    },
+    {
+      "text": "An ordinary school teacher with a sopping wet butthole.",
+      "renderHtml": false
+    },
+    {
+      "text": "An ordinary woman with a glistening twat.",
+      "renderHtml": false
+    },
+    {
+      "text": "An otherwise unremarkable baseball player with a tiny, upsetting twat.",
+      "renderHtml": false
+    },
+    {
+      "text": "An otherwise unremarkable bro with a glorious pair of tits.",
+      "renderHtml": false
+    },
+    {
+      "text": "An otherwise unremarkable dad with a sopping wet dingus.",
+      "renderHtml": false
+    },
+    {
+      "text": "An otherwise unremarkable dragon with a smooth clitoris.",
+      "renderHtml": false
+    },
+    {
+      "text": "An otherwise unremarkable god with a shit-covered vagina.",
+      "renderHtml": false
+    },
+    {
+      "text": "An otherwise unremarkable milkman with a smooth asshole.",
+      "renderHtml": false
+    },
+    {
+      "text": "An otherwise unremarkable mom with a glistening dingus.",
+      "renderHtml": false
+    },
+    {
+      "text": "An otherwise unremarkable novelist with an impressive clitoris.",
+      "renderHtml": false
+    },
+    {
+      "text": "An otherwise unremarkable nurse with history's greatest scrotum.",
+      "renderHtml": false
+    },
+    {
+      "text": "An otherwise unremarkable woman with an epic ballsack.",
+      "renderHtml": false
+    },
+    {
+      "text": "An otherwise unremarkablenurse with history's greatest scrotum.",
+      "renderHtml": false
+    },
+    {
+      "text": "Some kind of astronaut with quite a pussy.",
+      "renderHtml": false
+    },
+    {
+      "text": "Some kind of CEO with a smooth dick.",
+      "renderHtml": false
+    },
+    {
+      "text": "Some kind of congressman with a glistening cock.",
+      "renderHtml": false
+    },
+    {
+      "text": "Some kind of cop with a hairy dick.",
+      "renderHtml": false
+    },
+    {
+      "text": "Some kind of dad with a tremendous scrotum.",
+      "renderHtml": false
+    },
+    {
+      "text": "Some kind of dragon with a creamy twat.",
+      "renderHtml": false
+    },
+    {
+      "text": "Some kind of god with a surprising large asshole.",
+      "renderHtml": false
+    },
+    {
+      "text": "Some kind of hunk with a shit-covered dingus.",
+      "renderHtml": false
+    },
+    {
+      "text": "Some kind of milkman with a crappy dingus.",
+      "renderHtml": false
+    },
+    {
+      "text": "Some kind of milkman with a tiny, upsetting penis.",
+      "renderHtml": false
+    },
+    {
+      "text": "Some kind of nurse with a creamy taint.",
+      "renderHtml": false
+    },
+    {
+      "text": "Some kind of rabbi with a beautiful erection.",
+      "renderHtml": false
+    },
+    {
+      "text": "Some kind of Rabbi with history's greatest dingus.",
+      "renderHtml": false
+    },
+    {
+      "text": "Some kind of woman with a sopping wet clitoris.",
+      "renderHtml": false
+    },
+    {
+      "text": "The most gorgeous president with the greatest dick.",
+      "renderHtml": false
+    },
+    {
+      "text": "Yet another astronaut with a creamy twat.",
+      "renderHtml": false
+    },
+    {
+      "text": "Yet another Batman with an epic pecker.",
+      "renderHtml": false
+    },
+    {
+      "text": "Yet another grandfather with an inspiring dong.",
+      "renderHtml": false
+    },
+    {
+      "text": "Yet another guy with an impressive dick.",
+      "renderHtml": false
+    },
+    {
+      "text": "Yet another nerd with a smooth ballsack.",
+      "renderHtml": false
+    },
+    {
+      "text": "Yet another President with a wonderful dick.",
+      "renderHtml": false
+    },
+    {
+      "text": "Yet another superhero with a smooth dong.",
+      "renderHtml": false
+    },
+    {
+      "text": "Yet another surgeon with a creamy pecker.",
+      "renderHtml": false
+    }
+  ]
+}

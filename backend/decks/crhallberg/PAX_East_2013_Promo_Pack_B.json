@@ -1,0 +1,49 @@
+{
+  "order": 43,
+  "displayName": "PAX East 2013 Promo Pack B",
+  "name": "PAX_East_2013_Promo_Pack_B",
+  "whiteCards": [
+    {
+      "text": "Action stations! Action stations! Set condition one throughout the fleet and brace for _!",
+      "pick": 1
+    },
+    {
+      "text": "In the final round of this year's Omegathon, Omeganauts must face off in a game of _.",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "Getting inside the Horadric Cube with a hot babe and pressing the transmute button.",
+      "renderHtml": false
+    },
+    {
+      "text": "Loan sharks or left sharks, whichever",
+      "renderHtml": false
+    },
+    {
+      "text": "Punching a tree to gather wood.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sharpie lipstick",
+      "renderHtml": false
+    },
+    {
+      "text": "Spending the year's insulin budget on Warhammer 40k figurines.",
+      "renderHtml": false
+    },
+    {
+      "text": "The desparate girl who wanted to be a mom so bad that she robbed a sperm bank.",
+      "renderHtml": false
+    },
+    {
+      "text": "The rocket launcher.",
+      "renderHtml": false
+    },
+    {
+      "text": "Violating the First Law of Robotics.",
+      "renderHtml": false
+    }
+  ]
+}

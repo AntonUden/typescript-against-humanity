@@ -1,0 +1,12 @@
+{
+  "order": 76,
+  "displayName": "Black Box Press Kit",
+  "name": "Black_Box_Press_Kit",
+  "whiteCards": [],
+  "blackCards": [
+    {
+      "text": "Lighting a circle of black candles and trying every flavor of Doritos®.",
+      "renderHtml": false
+    }
+  ]
+}

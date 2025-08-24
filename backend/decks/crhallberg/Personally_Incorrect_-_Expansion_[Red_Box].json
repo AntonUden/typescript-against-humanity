@@ -1,0 +1,509 @@
+{
+  "order": 175,
+  "displayName": "Personally Incorrect - Expansion [Red Box]",
+  "name": "Personally_Incorrect_-_Expansion_[Red_Box]",
+  "whiteCards": [
+    {
+      "text": "_ always helps \"Insert Name\" prepare for a big exam.",
+      "pick": 1
+    },
+    {
+      "text": "_ always starts out fun until \"Insert Name\" gets involved.",
+      "pick": 1
+    },
+    {
+      "text": "\"Insert Name's\" aptitude tst shows he/she is either suited to be a Doctor or _.",
+      "pick": 1
+    },
+    {
+      "text": "\"Insert Name's\" class trip was completely ruined by _.",
+      "pick": 1
+    },
+    {
+      "text": "\"Insert Name\" believes that on the 7th day the Lord said let there be _.",
+      "pick": 1
+    },
+    {
+      "text": "\"Insert Name\" has a weakness for kittens, puppies and _.",
+      "pick": 1
+    },
+    {
+      "text": "\"Insert Name\" loves to use _ to get him/her off.",
+      "pick": 1
+    },
+    {
+      "text": "\"Insert Name\" Offered two homeless people lots of _ in order for them to fight to the death.",
+      "pick": 1
+    },
+    {
+      "text": "\"Insert Name\" says _ tastes like chicken.",
+      "pick": 1
+    },
+    {
+      "text": "\"Insert Name\" says if there were an Olympic sport for _ he/she would win gold.",
+      "pick": 1
+    },
+    {
+      "text": "\"Insert Name\" thought getting abducted by Captain Hook would be scary, turns out they both enjoy _.",
+      "pick": 1
+    },
+    {
+      "text": "\"Insert Name\" traded _ for a vial of pristine Gypsy tears.",
+      "pick": 1
+    },
+    {
+      "text": "\"Insert Name\" wanted a pony but got _ instead.",
+      "pick": 1
+    },
+    {
+      "text": "\"Insert Name\" would love to see _ as the new school mascot.",
+      "pick": 1
+    },
+    {
+      "text": "Dear Parent, we regret to inform you that \"Insert Name\" will no longer be allowed on school property after he/she involvement with _.",
+      "pick": 1
+    },
+    {
+      "text": "Do not fuck with \"Insert Name\", while he/she is watching _ online.",
+      "pick": 1
+    },
+    {
+      "text": "During sex \"Insert Name\" likes to imagine he/she is _.",
+      "pick": 1
+    },
+    {
+      "text": "Every Sunday \"Insert Name\" goes to market to sell _, and every time comes home with Magic Beans.",
+      "pick": 1
+    },
+    {
+      "text": "For \"Insert Name's\" magic trick next he/she will pull _ out of a hat.",
+      "pick": 1
+    },
+    {
+      "text": "I am not sure what \"Insert Name\" has up his/her ass, but I think it might be _.",
+      "pick": 1
+    },
+    {
+      "text": "I missed my last flight to Utah because \"Insert Name\" hid _ in my luggage and I was detained by Airport security.",
+      "pick": 1
+    },
+    {
+      "text": "If \"Insert Name's\" life were turned into a musical it would be called the Sound of _.",
+      "pick": 1
+    },
+    {
+      "text": "In chemistry lab today \"Insert Name\" learned how to make explosives by/with _.",
+      "pick": 1
+    },
+    {
+      "text": "In psychology \"Insert Name\" learned that basic human needs include _.",
+      "pick": 1
+    },
+    {
+      "text": "Next to lollipops, _ is/are \"Insert Name's\" favourite things to lick.",
+      "pick": 1
+    },
+    {
+      "text": "The best excuse \"Insert Name\" could come up with for being late for work involved a crossing guard and _.",
+      "pick": 1
+    },
+    {
+      "text": "We all know the phrase \"What happens in Vegas, Stays in Vegas\" so why did \"Insert Name\" bring home _?",
+      "pick": 1
+    },
+    {
+      "text": "When \"Insert Name\" was a child they used to use building blocks to create _.",
+      "pick": 1
+    },
+    {
+      "text": "You hear the craziest stuff in methadone clinic lineups, this morning I overheard \"Insert Name\" having a heated conversations about _.",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "70 Year Old Prostitute(s)",
+      "renderHtml": false
+    },
+    {
+      "text": "A Bag Stuffed With Mystery Meat",
+      "renderHtml": false
+    },
+    {
+      "text": "A Bottle of Fine Wine",
+      "renderHtml": false
+    },
+    {
+      "text": "A Collection of Baby Teeth",
+      "renderHtml": false
+    },
+    {
+      "text": "A Daytime Pajama Party",
+      "renderHtml": false
+    },
+    {
+      "text": "A Fart Connoisseur",
+      "renderHtml": false
+    },
+    {
+      "text": "A Japanese Houseboy",
+      "renderHtml": false
+    },
+    {
+      "text": "A Late Night Mannequin Party",
+      "renderHtml": false
+    },
+    {
+      "text": "A Maggot Eating Contest",
+      "renderHtml": false
+    },
+    {
+      "text": "A Nudist Old Age Home",
+      "renderHtml": false
+    },
+    {
+      "text": "A prolapsed rectum.",
+      "renderHtml": false
+    },
+    {
+      "text": "A River of Tears",
+      "renderHtml": false
+    },
+    {
+      "text": "A Toilet Scrub Brush",
+      "renderHtml": false
+    },
+    {
+      "text": "A Walrus Giving Birth",
+      "renderHtml": false
+    },
+    {
+      "text": "A Weapon of Ass Destruction",
+      "renderHtml": false
+    },
+    {
+      "text": "Alien Abduction(s)",
+      "renderHtml": false
+    },
+    {
+      "text": "All You Can Eat Indian Buffet(s)",
+      "renderHtml": false
+    },
+    {
+      "text": "An Ex-Porn Star Kindergarten Teacher",
+      "renderHtml": false
+    },
+    {
+      "text": "An Inspiriatinal Cult Leader",
+      "renderHtml": false
+    },
+    {
+      "text": "Animals Having Sex",
+      "renderHtml": false
+    },
+    {
+      "text": "Blumpkins",
+      "renderHtml": false
+    },
+    {
+      "text": "Crack-Smoking Politician(s)",
+      "renderHtml": false
+    },
+    {
+      "text": "Dad's Fuck Face",
+      "renderHtml": false
+    },
+    {
+      "text": "Dirty Adult Diaper(s)",
+      "renderHtml": false
+    },
+    {
+      "text": "Disposable Razorblade(s)",
+      "renderHtml": false
+    },
+    {
+      "text": "DIY Tampon",
+      "renderHtml": false
+    },
+    {
+      "text": "Double Sided Bondage Tape",
+      "renderHtml": false
+    },
+    {
+      "text": "Drinking Alone in the Dark",
+      "renderHtml": false
+    },
+    {
+      "text": "Dutch Ovening",
+      "renderHtml": false
+    },
+    {
+      "text": "Eating Cigarette Butts",
+      "renderHtml": false
+    },
+    {
+      "text": "Elbow Grease",
+      "renderHtml": false
+    },
+    {
+      "text": "Endangered Species",
+      "renderHtml": false
+    },
+    {
+      "text": "Eurotrash Speedo Line(s)",
+      "renderHtml": false
+    },
+    {
+      "text": "Expired Dog Food",
+      "renderHtml": false
+    },
+    {
+      "text": "Extra Friendly Airport Security",
+      "renderHtml": false
+    },
+    {
+      "text": "Factory Slaves",
+      "renderHtml": false
+    },
+    {
+      "text": "Fat Shaming",
+      "renderHtml": false
+    },
+    {
+      "text": "French Canadian(s)",
+      "renderHtml": false
+    },
+    {
+      "text": "Fresh Road Kill",
+      "renderHtml": false
+    },
+    {
+      "text": "Going Postal",
+      "renderHtml": false
+    },
+    {
+      "text": "Homemade Abortion Kit(s)",
+      "renderHtml": false
+    },
+    {
+      "text": "Homemade Desert(s)",
+      "renderHtml": false
+    },
+    {
+      "text": "Impending Doom",
+      "renderHtml": false
+    },
+    {
+      "text": "Invisible Underwear",
+      "renderHtml": false
+    },
+    {
+      "text": "Itchy Crotch Rot",
+      "renderHtml": false
+    },
+    {
+      "text": "Kidney Stone(s)",
+      "renderHtml": false
+    },
+    {
+      "text": "Kinky Civil War Reenactments",
+      "renderHtml": false
+    },
+    {
+      "text": "Licking Toilet Seats",
+      "renderHtml": false
+    },
+    {
+      "text": "Makeshift Dildos Of Shame",
+      "renderHtml": false
+    },
+    {
+      "text": "Making Shitty Life Choices",
+      "renderHtml": false
+    },
+    {
+      "text": "Mermaid Tail Soup",
+      "renderHtml": false
+    },
+    {
+      "text": "Missing The Bowl In An Airplane Bathroom",
+      "renderHtml": false
+    },
+    {
+      "text": "Moldy Cheese Sauce",
+      "renderHtml": false
+    },
+    {
+      "text": "Mouth Herpes",
+      "renderHtml": false
+    },
+    {
+      "text": "My Little Pony Tattoo",
+      "renderHtml": false
+    },
+    {
+      "text": "Naked Yoga",
+      "renderHtml": false
+    },
+    {
+      "text": "North Korea.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ostrich Racing",
+      "renderHtml": false
+    },
+    {
+      "text": "Pet Rock Collecting",
+      "renderHtml": false
+    },
+    {
+      "text": "Pillow Fight Club",
+      "renderHtml": false
+    },
+    {
+      "text": "Pinata(s) Full of Cockroaches",
+      "renderHtml": false
+    },
+    {
+      "text": "Pirate Flags and Eye Patches",
+      "renderHtml": false
+    },
+    {
+      "text": "Piss Flavored Jaw breaker(s)",
+      "renderHtml": false
+    },
+    {
+      "text": "Placenta Milkshakes",
+      "renderHtml": false
+    },
+    {
+      "text": "Pounding Meat",
+      "renderHtml": false
+    },
+    {
+      "text": "Promiscuous Teen(s)",
+      "renderHtml": false
+    },
+    {
+      "text": "Public Flogging",
+      "renderHtml": false
+    },
+    {
+      "text": "Pulling Tapeworms Out of Your Ass",
+      "renderHtml": false
+    },
+    {
+      "text": "Rat Shit",
+      "renderHtml": false
+    },
+    {
+      "text": "Really Tight Leather Pants",
+      "renderHtml": false
+    },
+    {
+      "text": "Rectal Feeding",
+      "renderHtml": false
+    },
+    {
+      "text": "Red Neck Family Values",
+      "renderHtml": false
+    },
+    {
+      "text": "Rusty Trombone Girls",
+      "renderHtml": false
+    },
+    {
+      "text": "Sacrificing Neighborhood Pets",
+      "renderHtml": false
+    },
+    {
+      "text": "Self Popping Pimples",
+      "renderHtml": false
+    },
+    {
+      "text": "Sex Ritual(s)",
+      "renderHtml": false
+    },
+    {
+      "text": "Sexually Abusive Doctor(s)",
+      "renderHtml": false
+    },
+    {
+      "text": "Skanky Fat Cat(s)",
+      "renderHtml": false
+    },
+    {
+      "text": "Skinny Dipping in an Outhouse",
+      "renderHtml": false
+    },
+    {
+      "text": "Skydiving Without A Parachute",
+      "renderHtml": false
+    },
+    {
+      "text": "Slutty Car Wash Girls",
+      "renderHtml": false
+    },
+    {
+      "text": "Taking A Date To The Soup Kitchen",
+      "renderHtml": false
+    },
+    {
+      "text": "Tartar Sauce",
+      "renderHtml": false
+    },
+    {
+      "text": "The American Dream",
+      "renderHtml": false
+    },
+    {
+      "text": "The Amish",
+      "renderHtml": false
+    },
+    {
+      "text": "The Bearded Lady",
+      "renderHtml": false
+    },
+    {
+      "text": "The Friend Zone",
+      "renderHtml": false
+    },
+    {
+      "text": "The Morning After Pill",
+      "renderHtml": false
+    },
+    {
+      "text": "Thrift Shops",
+      "renderHtml": false
+    },
+    {
+      "text": "Tiny Nipples",
+      "renderHtml": false
+    },
+    {
+      "text": "Toasted Nuts",
+      "renderHtml": false
+    },
+    {
+      "text": "Toe Nail Clippings",
+      "renderHtml": false
+    },
+    {
+      "text": "Triple Penetration",
+      "renderHtml": false
+    },
+    {
+      "text": "Week Old Kitty Litter",
+      "renderHtml": false
+    },
+    {
+      "text": "Wiping Your Ass With Your Hand",
+      "renderHtml": false
+    },
+    {
+      "text": "Yellow Snow Snowcone",
+      "renderHtml": false
+    }
+  ]
+}

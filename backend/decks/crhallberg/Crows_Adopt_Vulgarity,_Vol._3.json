@@ -1,0 +1,449 @@
+{
+  "order": 130,
+  "displayName": "Crows Adopt Vulgarity, Vol. 3",
+  "name": "Crows_Adopt_Vulgarity,_Vol._3",
+  "whiteCards": [
+    {
+      "text": "_ isn't illegal, right?",
+      "pick": 1
+    },
+    {
+      "text": "_ was fun, but then she woke up.",
+      "pick": 1
+    },
+    {
+      "text": "4 out of 5 dentists recommend _.",
+      "pick": 1
+    },
+    {
+      "text": "Don't worry, officer, I'm just _.",
+      "pick": 1
+    },
+    {
+      "text": "Ew. Taste this. Doesn't it taste like _?",
+      "pick": 1
+    },
+    {
+      "text": "Hello, This is my first meeting and I'm addicted to _.",
+      "pick": 1
+    },
+    {
+      "text": "I fell asleep watching HBO and woke up to _ on my TV.",
+      "pick": 1
+    },
+    {
+      "text": "I hope Rule 34 doesn't apply to _.",
+      "pick": 1
+    },
+    {
+      "text": "I snuck into the White House and I saw _.",
+      "pick": 1
+    },
+    {
+      "text": "I thought my job sucked, then I found out about _.",
+      "pick": 1
+    },
+    {
+      "text": "I would be on board with Scientology if it weren't for _.",
+      "pick": 1
+    },
+    {
+      "text": "I'm always mindfucked by _.",
+      "pick": 1
+    },
+    {
+      "text": "If I were a stripper, my name would be _.",
+      "pick": 1
+    },
+    {
+      "text": "If it weren't for _, I wouldn't have spent that year in college.",
+      "pick": 1
+    },
+    {
+      "text": "It should be a goal of the human race to ensure that _ never happens.",
+      "pick": 1
+    },
+    {
+      "text": "More restaurants need _ on the menu.",
+      "pick": 1
+    },
+    {
+      "text": "On the day set aside for the Lord, I like to _.",
+      "pick": 1
+    },
+    {
+      "text": "PAGING DR. _!!",
+      "pick": 1
+    },
+    {
+      "text": "The children sprung from bed and ran down the stairs to find _ under the christmas tree.",
+      "pick": 1
+    },
+    {
+      "text": "The Comedy Central Roast of _.",
+      "pick": 1
+    },
+    {
+      "text": "The name of my sex tape is \"_.\"",
+      "pick": 1
+    },
+    {
+      "text": "The road to success is paved with _.",
+      "pick": 1
+    },
+    {
+      "text": "The secret 11th Commandment is _.",
+      "pick": 1
+    },
+    {
+      "text": "This isn't a hickey, it's just _.",
+      "pick": 1
+    },
+    {
+      "text": "We need to prioritize scientific research on _.",
+      "pick": 1
+    },
+    {
+      "text": "What was the blind orphan boy's favorite Christmas present?",
+      "pick": 1
+    },
+    {
+      "text": "What's in the briefcase?",
+      "pick": 1
+    },
+    {
+      "text": "When you get in a cab and it smells like _.",
+      "pick": 1
+    },
+    {
+      "text": "With great power comes _.",
+      "pick": 1
+    },
+    {
+      "text": "Yesterday I found _ for sale on eBay.",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "A box with magazines containing strong pornography.",
+      "renderHtml": false
+    },
+    {
+      "text": "A Canadian tuxedo.",
+      "renderHtml": false
+    },
+    {
+      "text": "A Diet Coke that tastes like balls are in it.",
+      "renderHtml": false
+    },
+    {
+      "text": "A fridge festooned with nude photos of every family member.",
+      "renderHtml": false
+    },
+    {
+      "text": "A good old-fashioned skullfucking.",
+      "renderHtml": false
+    },
+    {
+      "text": "A hilarious failed suicide attempt.",
+      "renderHtml": false
+    },
+    {
+      "text": "A Holocaust blooper reel.",
+      "renderHtml": false
+    },
+    {
+      "text": "A horny hive mind.",
+      "renderHtml": false
+    },
+    {
+      "text": "A male figure skater with a massive bulge.",
+      "renderHtml": false
+    },
+    {
+      "text": "A monkey fucking a coconut.",
+      "renderHtml": false
+    },
+    {
+      "text": "A negative HIV test bought on Amazon.",
+      "renderHtml": false
+    },
+    {
+      "text": "A Norwegian-style sweater with a cute reindeer swastika pattern.",
+      "renderHtml": false
+    },
+    {
+      "text": "A sprinkle of the finest crystal meth on the eyeballs.",
+      "renderHtml": false
+    },
+    {
+      "text": "A toothless hooker.",
+      "renderHtml": false
+    },
+    {
+      "text": "A touching moment between a wealthy old woman and her Mexican gardener.",
+      "renderHtml": false
+    },
+    {
+      "text": "A water pistol loaded with LSD.",
+      "renderHtml": false
+    },
+    {
+      "text": "All this weed I found.",
+      "renderHtml": false
+    },
+    {
+      "text": "An acute heroin addiction.",
+      "renderHtml": false
+    },
+    {
+      "text": "Another goddamn virus from surfing questionable porn.",
+      "renderHtml": false
+    },
+    {
+      "text": "Anyone that isn't me.",
+      "renderHtml": false
+    },
+    {
+      "text": "Asking your best friend to hold your cock at the urinal so you can keep watching funny cat videos.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being bullied by a small child.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being one bad motherfucker.",
+      "renderHtml": false
+    },
+    {
+      "text": "Beliebiers.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bottomless mimosas.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bringing five thousand $1 bills to a seventh-grade beauty pageant.",
+      "renderHtml": false
+    },
+    {
+      "text": "Britney Spears circa 2007.",
+      "renderHtml": false
+    },
+    {
+      "text": "Building a wall and making the Mexicans pay for it.",
+      "renderHtml": false
+    },
+    {
+      "text": "Cajuns.",
+      "renderHtml": false
+    },
+    {
+      "text": "Capitalism.",
+      "renderHtml": false
+    },
+    {
+      "text": "Chanting \"heritage, not hate\" as you hang several black men from trees.",
+      "renderHtml": false
+    },
+    {
+      "text": "CHICKENFUCKER!",
+      "renderHtml": false
+    },
+    {
+      "text": "Coffee so black that it starts picking cotton.",
+      "renderHtml": false
+    },
+    {
+      "text": "Doing karate in the garage.",
+      "renderHtml": false
+    },
+    {
+      "text": "Donald Trump's third nipple.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dried-up pulverized spunk.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dropping warheads on foreheads.",
+      "renderHtml": false
+    },
+    {
+      "text": "Elton John's sunglass collection.",
+      "renderHtml": false
+    },
+    {
+      "text": "Falling and not being able to get back up.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting really high with your pet dog.",
+      "renderHtml": false
+    },
+    {
+      "text": "Giving a coat hanger as a gift at a baby shower.",
+      "renderHtml": false
+    },
+    {
+      "text": "Going to Hell.",
+      "renderHtml": false
+    },
+    {
+      "text": "Harajuku Girl prostitutes.",
+      "renderHtml": false
+    },
+    {
+      "text": "Having a pulse and being fuckable.",
+      "renderHtml": false
+    },
+    {
+      "text": "I refuse to dignify that with a response.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ignorance and self-righteousness.",
+      "renderHtml": false
+    },
+    {
+      "text": "Insulting Santa Claus.",
+      "renderHtml": false
+    },
+    {
+      "text": "Justin Timberlake's cornrows.",
+      "renderHtml": false
+    },
+    {
+      "text": "Killing a prostitute to get the money back.",
+      "renderHtml": false
+    },
+    {
+      "text": "Killing someone.",
+      "renderHtml": false
+    },
+    {
+      "text": "Kurt Cobain's shotgun.",
+      "renderHtml": false
+    },
+    {
+      "text": "LOUD NOISES!",
+      "renderHtml": false
+    },
+    {
+      "text": "Making Helen Keller moan so loudly, even she can hear it.",
+      "renderHtml": false
+    },
+    {
+      "text": "No comment.",
+      "renderHtml": false
+    },
+    {
+      "text": "Oh, God, why?",
+      "renderHtml": false
+    },
+    {
+      "text": "Pulling a Mulan.",
+      "renderHtml": false
+    },
+    {
+      "text": "Rape being perfectly acceptable as long as it was enjoyed by everyone.",
+      "renderHtml": false
+    },
+    {
+      "text": "Resting your balls on the dining room table.",
+      "renderHtml": false
+    },
+    {
+      "text": "Rubbing Oprah's belly until it falls asleep.",
+      "renderHtml": false
+    },
+    {
+      "text": "Screaming at a deaf child.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sexy sport tops.",
+      "renderHtml": false
+    },
+    {
+      "text": "Shooting amateur porn at the retirement home.",
+      "renderHtml": false
+    },
+    {
+      "text": "Slapping strangers in the face with a porterhouse steak.",
+      "renderHtml": false
+    },
+    {
+      "text": "Smelly cat, smelly cat.",
+      "renderHtml": false
+    },
+    {
+      "text": "Some band you've never heard of.",
+      "renderHtml": false
+    },
+    {
+      "text": "Steve Buscemi and Rebel Wilson's love child.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sucking on an elf's surprisingly large candy cane.",
+      "renderHtml": false
+    },
+    {
+      "text": "Taking a dump in a ball pit.",
+      "renderHtml": false
+    },
+    {
+      "text": "Thanks, Obama!",
+      "renderHtml": false
+    },
+    {
+      "text": "The ability to embarrass a teen anytime, anywhere",
+      "renderHtml": false
+    },
+    {
+      "text": "The alpha male.",
+      "renderHtml": false
+    },
+    {
+      "text": "The awkwardness of third wheels.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Foo Fighters.",
+      "renderHtml": false
+    },
+    {
+      "text": "The last US citizen who is not disturbingly obese.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Pillsbury Doughboy blowing his load all over a toaster strudel.",
+      "renderHtml": false
+    },
+    {
+      "text": "The pure shock of finding out your daughter is pregnant ... and the baby is yours.",
+      "renderHtml": false
+    },
+    {
+      "text": "Tyra Bank's fat years.",
+      "renderHtml": false
+    },
+    {
+      "text": "Umbilical-cord handcuffs.",
+      "renderHtml": false
+    },
+    {
+      "text": "Voting for Trump.",
+      "renderHtml": false
+    },
+    {
+      "text": "William Shatner speaking fluently.",
+      "renderHtml": false
+    }
+  ]
+}

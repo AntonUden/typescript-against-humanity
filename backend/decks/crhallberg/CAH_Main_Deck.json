@@ -1,0 +1,165 @@
+{
+  "order": 20,
+  "displayName": "CAH: Main Deck",
+  "name": "CAH_Main_Deck",
+  "whiteCards": [
+    {
+      "text": "Channel 4 presents \"_: the Story of _.\"",
+      "pick": 2
+    },
+    {
+      "text": "Dear Agony Aunt, I'm having some trouble with _ and would like your advice.",
+      "pick": 1
+    },
+    {
+      "text": "Hey guys, welcome to TGI Fridays! Would you like to start the night off right with _?",
+      "pick": 1
+    },
+    {
+      "text": "Mate, do not go in that toilet. There's _ in there.",
+      "pick": 1
+    },
+    {
+      "text": "This season at the Old Vic, Samuel Beckett's classic existential play: Waiting for _.",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "A comprehensive understanding of the Irish backstop.",
+      "renderHtml": false
+    },
+    {
+      "text": "A deep-rooted fear of the working class.",
+      "renderHtml": false
+    },
+    {
+      "text": "A general lack of purpose.",
+      "renderHtml": false
+    },
+    {
+      "text": "A Ginsters pasty and three cans of Monsters Energy.",
+      "renderHtml": false
+    },
+    {
+      "text": "A meat raffle!",
+      "renderHtml": false
+    },
+    {
+      "text": "A slightly salty toad in the hole.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ainsley Harriott.",
+      "renderHtml": false
+    },
+    {
+      "text": "All my gentleman suitors.",
+      "renderHtml": false
+    },
+    {
+      "text": "Barely making £15,000 a year.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being a witch.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being fucking stupid.",
+      "renderHtml": false
+    },
+    {
+      "text": "Blood, sweat, and tears.",
+      "renderHtml": false
+    },
+    {
+      "text": "Brutal austerity.",
+      "renderHtml": false
+    },
+    {
+      "text": "cunninglus",
+      "renderHtml": false
+    },
+    {
+      "text": "Danny Dyer.",
+      "renderHtml": false
+    },
+    {
+      "text": "Discovering he's a Tory.",
+      "renderHtml": false
+    },
+    {
+      "text": "Flat out not giving a shit.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting the same Boots Meal Deal every day for six years.",
+      "renderHtml": false
+    },
+    {
+      "text": "James fucking Cordon.",
+      "renderHtml": false
+    },
+    {
+      "text": "Licking the Queen.",
+      "renderHtml": false
+    },
+    {
+      "text": "Martin Lewis, Money Saving Expert.",
+      "renderHtml": false
+    },
+    {
+      "text": "My Uber driver, Ajay.",
+      "renderHtml": false
+    },
+    {
+      "text": "Nicki Minaj.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ryanair.",
+      "renderHtml": false
+    },
+    {
+      "text": "Scottish independence.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sitting in a jar of vinegar all night because I am gherkin.",
+      "renderHtml": false
+    },
+    {
+      "text": "Slapping your knees to signal your imminent departure.",
+      "renderHtml": false
+    },
+    {
+      "text": "The bastard seagull who stole my chips.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Hair Plug Club",
+      "renderHtml": false
+    },
+    {
+      "text": "The petty troubles of the aristrocracy.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Smell of a Primark.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Strictly Come Dancing final.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Welsh.",
+      "renderHtml": false
+    },
+    {
+      "text": "Waking up half-naked in a Wetherspoons car park.",
+      "renderHtml": false
+    }
+  ]
+}

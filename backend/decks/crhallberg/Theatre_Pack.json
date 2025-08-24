@@ -1,0 +1,129 @@
+{
+  "order": 64,
+  "displayName": "Theatre Pack",
+  "name": "Theatre_Pack",
+  "whiteCards": [
+    {
+      "text": "Alright everybody, HOLD!\nKelly, why is there _ on my stage?",
+      "pick": 1
+    },
+    {
+      "text": "Comedy = Tragedy + _.",
+      "pick": 1
+    },
+    {
+      "text": "Let's take it from the top, and remember, you are _. Show me  _(SAME CARD AGAIN)_.",
+      "pick": 3
+    },
+    {
+      "text": "Match-maker,\nmatch-maker,\nmake me a match.\nFind me _.",
+      "pick": 1
+    },
+    {
+      "text": "This season at Manhattan Theatre Club: \"Who's afraid of _?\"",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "A dead salesman.",
+      "renderHtml": false
+    },
+    {
+      "text": "A Drama Desk Award for Outstanding Sound Design in a Play.",
+      "renderHtml": false
+    },
+    {
+      "text": "A fog machine.",
+      "renderHtml": false
+    },
+    {
+      "text": "A play about people I don't like doing things I don't care about.",
+      "renderHtml": false
+    },
+    {
+      "text": "Absolutely butchering Sondheim.",
+      "renderHtml": false
+    },
+    {
+      "text": "All 59 inches of Kristin Chenoweth.",
+      "renderHtml": false
+    },
+    {
+      "text": "An autographed headshot of Nathan Lane.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being crushed to death by a stage light.",
+      "renderHtml": false
+    },
+    {
+      "text": "Brief male nudity.",
+      "renderHtml": false
+    },
+    {
+      "text": "Five miso soups, four seaweed salads, three soy burger dinners, two tofu dog platters, and one pasta with meatless meatballs.",
+      "renderHtml": false
+    },
+    {
+      "text": "Forgetting your lines, shitting your pants, and your pants falling down.",
+      "renderHtml": false
+    },
+    {
+      "text": "Improv comedy.",
+      "renderHtml": false
+    },
+    {
+      "text": "Killing Dad and fucking Mom.",
+      "renderHtml": false
+    },
+    {
+      "text": "Linda, 18 but wise beyond her years, achingly beautiful.",
+      "renderHtml": false
+    },
+    {
+      "text": "My whole family watching.",
+      "renderHtml": false
+    },
+    {
+      "text": "Narcissistic Personality Disorder.",
+      "renderHtml": false
+    },
+    {
+      "text": "Problematic depictions of Asian characters.",
+      "renderHtml": false
+    },
+    {
+      "text": "Rampant misogyny and sexual harassment.",
+      "renderHtml": false
+    },
+    {
+      "text": "Taking a year off to study Japanese puppet theatre.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Phantom of the Opera.",
+      "renderHtml": false
+    },
+    {
+      "text": "The wickedly talented, one and only, Adele Dazeem.",
+      "renderHtml": false
+    },
+    {
+      "text": "This old lady next to me who won't stop farting.",
+      "renderHtml": false
+    },
+    {
+      "text": "Two contrasting monologues-- one classical, one contemporary.",
+      "renderHtml": false
+    },
+    {
+      "text": "Two men in a horse costume.",
+      "renderHtml": false
+    },
+    {
+      "text": "Two tickets to Hamilton.",
+      "renderHtml": false
+    }
+  ]
+}

@@ -1,0 +1,437 @@
+{
+  "order": 190,
+  "displayName": "The Worst Card Game: 2016 National Edition",
+  "name": "The_Worst_Card_Game_2016_National_Edition",
+  "whiteCards": [
+    {
+      "text": "Check out my new podcast about _ and _.",
+      "pick": 2
+    },
+    {
+      "text": "Cuba's new tourism campaign: come for _, stay for _.",
+      "pick": 2
+    },
+    {
+      "text": "Don't blame me, I voted for _.",
+      "pick": 1
+    },
+    {
+      "text": "Float like a butterfly, sting like _.",
+      "pick": 1
+    },
+    {
+      "text": "For the price, you'd think a self-driving car could also include _.",
+      "pick": 1
+    },
+    {
+      "text": "How did I alone break the Chicago Cubs' curse?",
+      "pick": 1
+    },
+    {
+      "text": "How do I know if I have the Zika virus?",
+      "pick": 1
+    },
+    {
+      "text": "I got hot sauce in _ swag.",
+      "pick": 1
+    },
+    {
+      "text": "It didn't take long before _ replaed Harriet Tubman on the $20 bill.",
+      "pick": 1
+    },
+    {
+      "text": "No justice, no peace, no _. #BlackLivesMatter",
+      "pick": 1
+    },
+    {
+      "text": "Republicans vowed to only approve a Supreme Court justice that supports _.",
+      "pick": 1
+    },
+    {
+      "text": "The only thing Harambe was truly guilty of was _.",
+      "pick": 1
+    },
+    {
+      "text": "They never would have legalized marijuana in California without _.",
+      "pick": 1
+    },
+    {
+      "text": "What are you prying from my cold, dead hands?",
+      "pick": 1
+    },
+    {
+      "text": "What did they find in Prince's vault?",
+      "pick": 1
+    },
+    {
+      "text": "What do vaccines really prevent?",
+      "pick": 1
+    },
+    {
+      "text": "What should be banned in North Carolina bathrooms?",
+      "pick": 1
+    },
+    {
+      "text": "What was my favorite event at the 2016 Rio Summer Olympics?",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "9/11: Forgive and forget.",
+      "renderHtml": false
+    },
+    {
+      "text": "A bathtub full of Jared from Subway's lost fat that he used as lube with underage girls. (I'm sorry.)",
+      "renderHtml": false
+    },
+    {
+      "text": "A cat named Magic beating feline AIDS.",
+      "renderHtml": false
+    },
+    {
+      "text": "A concetration camp counsellor.",
+      "renderHtml": false
+    },
+    {
+      "text": "A dick made out of hot sauce.",
+      "renderHtml": false
+    },
+    {
+      "text": "A dick so old it cums dust.",
+      "renderHtml": false
+    },
+    {
+      "text": "A flask that doubles as a dildo so your alcoholism can finally finish fucking you.",
+      "renderHtml": false
+    },
+    {
+      "text": "A fun-filled suicide pact.",
+      "renderHtml": false
+    },
+    {
+      "text": "A lady in a wheelchair racing a Slinky® down a staircase.",
+      "renderHtml": false
+    },
+    {
+      "text": "A lubed up butthole that sings like James Taylor instead of farting.",
+      "renderHtml": false
+    },
+    {
+      "text": "A magical horse with a horn that you fuck called a Screwnicorn.",
+      "renderHtml": false
+    },
+    {
+      "text": "A mommy blogger seconds away from drowning her children in the bathtub.",
+      "renderHtml": false
+    },
+    {
+      "text": "A mouth full of soft dick.",
+      "renderHtml": false
+    },
+    {
+      "text": "A new assault rifle called the JFK-47.",
+      "renderHtml": false
+    },
+    {
+      "text": "A smaller, whiter vagina.",
+      "renderHtml": false
+    },
+    {
+      "text": "A tanning bed that makes you racist.",
+      "renderHtml": false
+    },
+    {
+      "text": "A wilderness survivalist who sucks his own dick for protein.",
+      "renderHtml": false
+    },
+    {
+      "text": "Adding a landing strip to your ass.",
+      "renderHtml": false
+    },
+    {
+      "text": "Aggressively maintaining eye contact with my gynocologist.",
+      "renderHtml": false
+    },
+    {
+      "text": "Airbnb but for people who need to shit.",
+      "renderHtml": false
+    },
+    {
+      "text": "American't.",
+      "renderHtml": false
+    },
+    {
+      "text": "An abused circus elephant named Donald Trunk.",
+      "renderHtml": false
+    },
+    {
+      "text": "An awkward father daughter dance boner.",
+      "renderHtml": false
+    },
+    {
+      "text": "An NRA member blowing a gun through a glory hole.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being racist only towards those pesky Native Americans.",
+      "renderHtml": false
+    },
+    {
+      "text": "Big titties OR little titties, I don't give a fuck!",
+      "renderHtml": false
+    },
+    {
+      "text": "Bigfoot's underwhelming penis.",
+      "renderHtml": false
+    },
+    {
+      "text": "Breast implants made from crumpled newspaper.",
+      "renderHtml": false
+    },
+    {
+      "text": "Captain Sandy Hook (a bunch of dead children dressed in a trench coat trying to pass as a sea captain).",
+      "renderHtml": false
+    },
+    {
+      "text": "Child porn, meaning porn starring adults but written and directed by children.",
+      "renderHtml": false
+    },
+    {
+      "text": "Clearing Eric Clapton's son off of the sidewalk.",
+      "renderHtml": false
+    },
+    {
+      "text": "Clitoral paper cuts.",
+      "renderHtml": false
+    },
+    {
+      "text": "Colonic chronic: Poo that gets you high.",
+      "renderHtml": false
+    },
+    {
+      "text": "Covering up the tattoo of a past lover with a c-setion scar.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dick tears.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dressing up as a baby and fighting everyone at Planned Parenthood.",
+      "renderHtml": false
+    },
+    {
+      "text": "Eating out Harriet Tubman for the password to the Underground Railroad.",
+      "renderHtml": false
+    },
+    {
+      "text": "Explaining the dick on your friend's face to his mother when you hadn't realized he died of alcohol posioning.",
+      "renderHtml": false
+    },
+    {
+      "text": "Explaining to the court why it's really the Jews who should be on trial here.",
+      "renderHtml": false
+    },
+    {
+      "text": "Farting on a ranom baby.",
+      "renderHtml": false
+    },
+    {
+      "text": "Finding a condom at the very center of the turducken.",
+      "renderHtml": false
+    },
+    {
+      "text": "Finding your dad's paraplegic porn collection and realizing why he beats your mom.",
+      "renderHtml": false
+    },
+    {
+      "text": "George Zimmerman auctioning off his gun to buy Skittles® and hoodies.",
+      "renderHtml": false
+    },
+    {
+      "text": "Googling \"how many dick warts is too many dick warts?\"",
+      "renderHtml": false
+    },
+    {
+      "text": "Having wet nightmares.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hitting another person with another person.",
+      "renderHtml": false
+    },
+    {
+      "text": "House strippers ruining your zucchini.",
+      "renderHtml": false
+    },
+    {
+      "text": "Instagramming your abortion #blessed.",
+      "renderHtml": false
+    },
+    {
+      "text": "Jizzing on the wrong kid and not knowing what to say to the guy you paid.",
+      "renderHtml": false
+    },
+    {
+      "text": "Kissing Hillary Clinton's thighs after running a 5K.",
+      "renderHtml": false
+    },
+    {
+      "text": "Lip gloss for the labia.",
+      "renderHtml": false
+    },
+    {
+      "text": "Lucy in the sky with diseases.",
+      "renderHtml": false
+    },
+    {
+      "text": "Masturbatinhg to pictures of your mom's tits when you're hungry.",
+      "renderHtml": false
+    },
+    {
+      "text": "Meeting your birth father through Tinder.",
+      "renderHtml": false
+    },
+    {
+      "text": "Nut skin frozen to a steel pipe.",
+      "renderHtml": false
+    },
+    {
+      "text": "O.J. Simpson's application for Uber.",
+      "renderHtml": false
+    },
+    {
+      "text": "Obama's nickname for his wife's vagina: \"The Oval Orifice.\"",
+      "renderHtml": false
+    },
+    {
+      "text": "Pixar's first snuff film.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pubes held together in a little ponytail holder.",
+      "renderHtml": false
+    },
+    {
+      "text": "Quietly tucking my penis under my belt.",
+      "renderHtml": false
+    },
+    {
+      "text": "Realizing she's dead, but finishing anyway.",
+      "renderHtml": false
+    },
+    {
+      "text": "Referring to your vagina as \"The Wage Gap.\"",
+      "renderHtml": false
+    },
+    {
+      "text": "Roofying her just for some god damn peace and quiet.",
+      "renderHtml": false
+    },
+    {
+      "text": "Rubbing my period pussy on Steve Harvey's teeth.",
+      "renderHtml": false
+    },
+    {
+      "text": "Scuba poopin'.",
+      "renderHtml": false
+    },
+    {
+      "text": "Seriously fighting your shadow because you suffer from dementia and racism.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sniffing the bike seats at a women's gym.",
+      "renderHtml": false
+    },
+    {
+      "text": "Spanx for your personality.",
+      "renderHtml": false
+    },
+    {
+      "text": "Squirting after eating asparagus.",
+      "renderHtml": false
+    },
+    {
+      "text": "Standing there knowing you could fuck that kid back to life.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sucking a dick so small you have to fake choke and gag just to be nice.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sucking on titties like you're trying to get the cancer out.",
+      "renderHtml": false
+    },
+    {
+      "text": "Summer School II: Still Can't Read.",
+      "renderHtml": false
+    },
+    {
+      "text": "Taking a friend's kid on a walk and coming back with a dog instead.",
+      "renderHtml": false
+    },
+    {
+      "text": "Taking your daughter on a trip to Africa to get rid of that pesky clit.",
+      "renderHtml": false
+    },
+    {
+      "text": "Tampons for squirrels.",
+      "renderHtml": false
+    },
+    {
+      "text": "That floating plastic bag from American Beauty, but full of diarrhea.",
+      "renderHtml": false
+    },
+    {
+      "text": "The cigar Donald Trump keeps in his daughters.",
+      "renderHtml": false
+    },
+    {
+      "text": "The country where people die from gun violence all the time but people still want more guns.",
+      "renderHtml": false
+    },
+    {
+      "text": "The dark secret behind the Special Olympics that nobody talks about.",
+      "renderHtml": false
+    },
+    {
+      "text": "The scent of an excited Oprah.",
+      "renderHtml": false
+    },
+    {
+      "text": "The smooth, creamy taste of Neverland Ranch Dressing.",
+      "renderHtml": false
+    },
+    {
+      "text": "The tiny slave owner that lives under Pharrell's hat.",
+      "renderHtml": false
+    },
+    {
+      "text": "Throwing cats into ceiling fans.",
+      "renderHtml": false
+    },
+    {
+      "text": "Traveling back in time to find Hitler and suck his dick.",
+      "renderHtml": false
+    },
+    {
+      "text": "Trying incest because she's such a good cook.",
+      "renderHtml": false
+    },
+    {
+      "text": "Twinkies®.",
+      "renderHtml": false
+    },
+    {
+      "text": "Voting with my vagina by mashing it against all the buttons.",
+      "renderHtml": false
+    },
+    {
+      "text": "Wolverine's ever-regenerating foreskin.",
+      "renderHtml": false
+    }
+  ]
+}

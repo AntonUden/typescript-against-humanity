@@ -1,0 +1,409 @@
+{
+  "order": 163,
+  "displayName": "KinderPerfect: Naughty Expansion Pack",
+  "name": "KinderPerfect_Naughty_Expansion_Pack",
+  "whiteCards": [
+    {
+      "text": "_ is a sure sign of mankind's decline.",
+      "pick": 1
+    },
+    {
+      "text": "_ is a sure sign of mankind's decline.",
+      "pick": 1
+    },
+    {
+      "text": "_ is Daddy's job.",
+      "pick": 1
+    },
+    {
+      "text": "_ is the gift that keeps on giving.",
+      "pick": 1
+    },
+    {
+      "text": "_ kills the mood every time.",
+      "pick": 1
+    },
+    {
+      "text": "A Disney princess would never know about _.",
+      "pick": 1
+    },
+    {
+      "text": "Did you read the Scary Mommy blog post about _?",
+      "pick": 1
+    },
+    {
+      "text": "I don't know which is more disturbing: _, or _.",
+      "pick": 2
+    },
+    {
+      "text": "I won the Mean Parent Award today with _.",
+      "pick": 1
+    },
+    {
+      "text": "I'm getting too old for _.",
+      "pick": 1
+    },
+    {
+      "text": "If the kids ever find out about _, we're so screwed.",
+      "pick": 1
+    },
+    {
+      "text": "Its okay, millions of parents struggle with _ every day.",
+      "pick": 1
+    },
+    {
+      "text": "My secret guilty pleasure.",
+      "pick": 1
+    },
+    {
+      "text": "Now on Netflix: _.",
+      "pick": 1
+    },
+    {
+      "text": "Parenthood: Eat, sleep, _, repeat.",
+      "pick": 1
+    },
+    {
+      "text": "Parenting would be incomplete without _.",
+      "pick": 1
+    },
+    {
+      "text": "Pediatricians agree that _ will not harm children.",
+      "pick": 1
+    },
+    {
+      "text": "The best reason for a vasectomy.",
+      "pick": 1
+    },
+    {
+      "text": "The best reason to get a babysitter.",
+      "pick": 1
+    },
+    {
+      "text": "This morning's hangover is brought to you by _.",
+      "pick": 1
+    },
+    {
+      "text": "What else could go wrong?",
+      "pick": 1
+    },
+    {
+      "text": "What is my secret parental power?",
+      "pick": 1
+    },
+    {
+      "text": "Why my first marriage ended in divorce.",
+      "pick": 1
+    },
+    {
+      "text": "Why will mommy get arrested?",
+      "pick": 1
+    },
+    {
+      "text": "Yes Doctor, we are here again. This time it's because of _.",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "A 9-month denial period",
+      "renderHtml": false
+    },
+    {
+      "text": "A rock hard erection",
+      "renderHtml": false
+    },
+    {
+      "text": "A toddler drinking out of a plunger",
+      "renderHtml": false
+    },
+    {
+      "text": "A viral PornHub video",
+      "renderHtml": false
+    },
+    {
+      "text": "A weak pull-out game",
+      "renderHtml": false
+    },
+    {
+      "text": "Babysitter crushes",
+      "renderHtml": false
+    },
+    {
+      "text": "Being sexually attracted to a cartoon",
+      "renderHtml": false
+    },
+    {
+      "text": "Being that girl gone wild",
+      "renderHtml": false
+    },
+    {
+      "text": "Breastfeeding a piranha",
+      "renderHtml": false
+    },
+    {
+      "text": "Broken condoms and broken dreams",
+      "renderHtml": false
+    },
+    {
+      "text": "Buying the fancy boxed wine",
+      "renderHtml": false
+    },
+    {
+      "text": "Cleaning an uncircumcised penis",
+      "renderHtml": false
+    },
+    {
+      "text": "Crossing my heart and hoping to die",
+      "renderHtml": false
+    },
+    {
+      "text": "Daydreaming about selling them to gypsies",
+      "renderHtml": false
+    },
+    {
+      "text": "Discovering your child is the bully",
+      "renderHtml": false
+    },
+    {
+      "text": "Doing Kegels to tighten up my vag",
+      "renderHtml": false
+    },
+    {
+      "text": "Drinking heavily to be a better parent",
+      "renderHtml": false
+    },
+    {
+      "text": "Drinking on the scout camping trip",
+      "renderHtml": false
+    },
+    {
+      "text": "Expecting it to be all unicorns and rainbows",
+      "renderHtml": false
+    },
+    {
+      "text": "Explaining daddy's erection",
+      "renderHtml": false
+    },
+    {
+      "text": "Explaining porn",
+      "renderHtml": false
+    },
+    {
+      "text": "Explaining your furry kink to the kids",
+      "renderHtml": false
+    },
+    {
+      "text": "Eye candy at the community pool",
+      "renderHtml": false
+    },
+    {
+      "text": "F**king selfies",
+      "renderHtml": false
+    },
+    {
+      "text": "Finding them wearing your leather lingerie",
+      "renderHtml": false
+    },
+    {
+      "text": "Five uninterrupted minutes to masturbate",
+      "renderHtml": false
+    },
+    {
+      "text": "Forgetting to take the pill",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting caught watching online porn",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting in a quickie while the kids are at soccer practice",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting too old for this sh*t",
+      "renderHtml": false
+    },
+    {
+      "text": "Giving in to sex just to stop the begging",
+      "renderHtml": false
+    },
+    {
+      "text": "Googling if the Safe Haven Law applies to toddlers",
+      "renderHtml": false
+    },
+    {
+      "text": "Helping them cheat on the SAT",
+      "renderHtml": false
+    },
+    {
+      "text": "Hooking up at parent-teacher conferences",
+      "renderHtml": false
+    },
+    {
+      "text": "Hot stay-at-home dads",
+      "renderHtml": false
+    },
+    {
+      "text": "Keeping them off the sex-stained sheets",
+      "renderHtml": false
+    },
+    {
+      "text": "Lazy foreplay",
+      "renderHtml": false
+    },
+    {
+      "text": "Leaking milk during sex",
+      "renderHtml": false
+    },
+    {
+      "text": "Losing your child at Walmart",
+      "renderHtml": false
+    },
+    {
+      "text": "Making daddy cry",
+      "renderHtml": false
+    },
+    {
+      "text": "Making him sleep in the wet spot",
+      "renderHtml": false
+    },
+    {
+      "text": "Making the kids flush the goldfish",
+      "renderHtml": false
+    },
+    {
+      "text": "Mastering how to masturbate in silence",
+      "renderHtml": false
+    },
+    {
+      "text": "Missing your child's big moment because you were looking at your phone",
+      "renderHtml": false
+    },
+    {
+      "text": "Missionary . . . again",
+      "renderHtml": false
+    },
+    {
+      "text": "Not really knowing their paternity",
+      "renderHtml": false
+    },
+    {
+      "text": "Nothing but fear itself.",
+      "renderHtml": false
+    },
+    {
+      "text": "Noturnal emissions",
+      "renderHtml": false
+    },
+    {
+      "text": "Oldest child, practice child",
+      "renderHtml": false
+    },
+    {
+      "text": "Porn star role models",
+      "renderHtml": false
+    },
+    {
+      "text": "Princess Aurora working a stripper pole",
+      "renderHtml": false
+    },
+    {
+      "text": "Realizing they know when you have sex",
+      "renderHtml": false
+    },
+    {
+      "text": "Saggy old man ass",
+      "renderHtml": false
+    },
+    {
+      "text": "Secretly happy your ex's kids are ugly",
+      "renderHtml": false
+    },
+    {
+      "text": "Secretly happy your sibling is getting divorced",
+      "renderHtml": false
+    },
+    {
+      "text": "Secretly wishing they don't look like your spouse",
+      "renderHtml": false
+    },
+    {
+      "text": "Sending an Uber to pick up the kids",
+      "renderHtml": false
+    },
+    {
+      "text": "Seriously considering anal sex after natural childbirth",
+      "renderHtml": false
+    },
+    {
+      "text": "Sex with an audience",
+      "renderHtml": false
+    },
+    {
+      "text": "Sexting",
+      "renderHtml": false
+    },
+    {
+      "text": "Shamelessly flirting with the gay parents",
+      "renderHtml": false
+    },
+    {
+      "text": "Sifting through my kid's poop to find their first lost tooth",
+      "renderHtml": false
+    },
+    {
+      "text": "Sleeping off your hangover in the car during Saturday morning practice",
+      "renderHtml": false
+    },
+    {
+      "text": "Stealing from your kid's piggy bank to buy booze",
+      "renderHtml": false
+    },
+    {
+      "text": "Teacher cleavage",
+      "renderHtml": false
+    },
+    {
+      "text": "The day you stop being naked in front of your kid",
+      "renderHtml": false
+    },
+    {
+      "text": "The half-assed announcement of the 2nd pregnancy",
+      "renderHtml": false
+    },
+    {
+      "text": "The mailman's baby",
+      "renderHtml": false
+    },
+    {
+      "text": "The Poison Control app",
+      "renderHtml": false
+    },
+    {
+      "text": "The sudden realization that your classmate's prom baby is now old enough to drink",
+      "renderHtml": false
+    },
+    {
+      "text": "Training your kid to get you a beer",
+      "renderHtml": false
+    },
+    {
+      "text": "Twins . . . again!",
+      "renderHtml": false
+    },
+    {
+      "text": "Wanting to birth Channing Tatum's love child",
+      "renderHtml": false
+    },
+    {
+      "text": "When your kids find your anal beads",
+      "renderHtml": false
+    },
+    {
+      "text": "You're horny, they're asleep",
+      "renderHtml": false
+    }
+  ]
+}

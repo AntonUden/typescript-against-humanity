@@ -1,0 +1,129 @@
+{
+  "order": 2,
+  "displayName": "2013 Holiday Pack",
+  "name": "2013_Holiday_Pack",
+  "whiteCards": [
+    {
+      "text": "Because they are forbidden from masturbating, Mormons channel their repressed sexual energy into _.",
+      "pick": 1
+    },
+    {
+      "text": "Blessed are you, Lord our God, creator of the universe, who has granted us _.",
+      "pick": 1
+    },
+    {
+      "text": "But wait, there's more! If you order _ in the next 15 minutes, we'll throw in _ absolutely free!",
+      "pick": 2
+    },
+    {
+      "text": "GREETINGS HUMANS\nI AM _ BOT\nEXECUTING PROGRAM.",
+      "pick": 1
+    },
+    {
+      "text": "Heroin: a proud supporter of _.",
+      "pick": 1
+    },
+    {
+      "text": "I really hope my grandma doesn't ask me to explain _ again.",
+      "pick": 1
+    },
+    {
+      "text": "Kids these days with their iPods and their Internet. In my day, all we needed to pass the time was _.",
+      "pick": 1
+    },
+    {
+      "text": "Revealed: Why He Really Resigned! Pope Benedict's Secret Struggle with _.",
+      "pick": 1
+    },
+    {
+      "text": "What's the only thing sexier than confidence?",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "A magical tablet containing a world of unlimited pornography.",
+      "renderHtml": false
+    },
+    {
+      "text": "A simultaneous nightmare and wet dream starring Sigourney Weaver.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being blind and deaf and having no limbs.",
+      "renderHtml": false
+    },
+    {
+      "text": "Breeding elves for their priceless semen.",
+      "renderHtml": false
+    },
+    {
+      "text": "Congress's flaccid penises withering away beneath their suit pants.",
+      "renderHtml": false
+    },
+    {
+      "text": "Finding out Santa isn't real.",
+      "renderHtml": false
+    },
+    {
+      "text": "Giving money and personal information to strangers on the Internet.",
+      "renderHtml": false
+    },
+    {
+      "text": "Having a strong opinion about Obamacare.",
+      "renderHtml": false
+    },
+    {
+      "text": "Jizzing into Santa's beard.",
+      "renderHtml": false
+    },
+    {
+      "text": "Making up for 10 years of shitty parenting with a PlayStation.",
+      "renderHtml": false
+    },
+    {
+      "text": "Moses gargling Jesus's balls while Shiva and the Buddha penetrate his divine hand holes.",
+      "renderHtml": false
+    },
+    {
+      "text": "People with cake in their mouths talking about how good cake is.",
+      "renderHtml": false
+    },
+    {
+      "text": "Piece of shit Christmas cards with no money in them.",
+      "renderHtml": false
+    },
+    {
+      "text": "Rudolph's bright red balls.",
+      "renderHtml": false
+    },
+    {
+      "text": "Slicing a ham in icy silence.",
+      "renderHtml": false
+    },
+    {
+      "text": "Swapping bodies with mom for a day.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Grinch's musty, cum-stained pelt.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Hawaiian goddess Kapo and her flying detachable vagina.",
+      "renderHtml": false
+    },
+    {
+      "text": "The royal afterbirth.",
+      "renderHtml": false
+    },
+    {
+      "text": "The shittier, Jewish version of Christmas.",
+      "renderHtml": false
+    },
+    {
+      "text": "These low, low prices!",
+      "renderHtml": false
+    }
+  ]
+}

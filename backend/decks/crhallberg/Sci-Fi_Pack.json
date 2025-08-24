@@ -1,0 +1,129 @@
+{
+  "order": 60,
+  "displayName": "Sci-Fi Pack",
+  "name": "Sci-Fi_Pack",
+  "whiteCards": [
+    {
+      "text": "Computer! Display _ on screen. Enhance.",
+      "pick": 1
+    },
+    {
+      "text": "Feeling nostalgic when you remember _ from your childhood.",
+      "pick": 1
+    },
+    {
+      "text": "Madam President, the asteroid is headed directly for Earth and there's only one thing that can stop it: _.",
+      "pick": 1
+    },
+    {
+      "text": "This won't be like negotiating with the Vogons. Humans only respond to one thing: _.",
+      "pick": 1
+    },
+    {
+      "text": "What is the answer to life, the universe, and everything?",
+      "pick": 1
+    },
+    {
+      "text": "You have violated the Prime Directive! You exposed an alien culture to _ before they were ready.",
+      "pick": 1
+    },
+    {
+      "text": "You're not going to believe this, but I'm you from the future! You've got to stop _.",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "[A picture of Sean Connery in the movie Zardoz]",
+      "renderHtml": false
+    },
+    {
+      "text": "A hazmat suit full of farts.",
+      "renderHtml": false
+    },
+    {
+      "text": "A misty room full of glistening egg sacs.",
+      "renderHtml": false
+    },
+    {
+      "text": "A planet-devouring space worm named Rachel.",
+      "renderHtml": false
+    },
+    {
+      "text": "A protagonist with no qualities.",
+      "renderHtml": false
+    },
+    {
+      "text": "An alternate history where Hitler was gay but he still killed all those people.",
+      "renderHtml": false
+    },
+    {
+      "text": "Beep beep boop beep boop.",
+      "renderHtml": false
+    },
+    {
+      "text": "Cheerful blowjob robots.",
+      "renderHtml": false
+    },
+    {
+      "text": "Cosmic bowling.",
+      "renderHtml": false
+    },
+    {
+      "text": "Darmok and Jalad at Tanagra.",
+      "renderHtml": false
+    },
+    {
+      "text": "Frantically writing equations on a chalkboard.",
+      "renderHtml": false
+    },
+    {
+      "text": "Funkified aliens from the planet Groovius.",
+      "renderHtml": false
+    },
+    {
+      "text": "Going too far with science and bad things happening.",
+      "renderHtml": false
+    },
+    {
+      "text": "How great of a movie Men In Black was.",
+      "renderHtml": false
+    },
+    {
+      "text": "Laying thousands of eggs in a man's colon.",
+      "renderHtml": false
+    },
+    {
+      "text": "Masturbating Yoda's leathery turtle-penis.",
+      "renderHtml": false
+    },
+    {
+      "text": "Nine seasons of sexual tension with David Duchovny.",
+      "renderHtml": false
+    },
+    {
+      "text": "That girl from the Hunger Games.",
+      "renderHtml": false
+    },
+    {
+      "text": "The dystopia we're living in right now.",
+      "renderHtml": false
+    },
+    {
+      "text": "The ending of Lost.",
+      "renderHtml": false
+    },
+    {
+      "text": "Three boobs.",
+      "renderHtml": false
+    },
+    {
+      "text": "Trimming the poop out of Chewbacca's butt hair.",
+      "renderHtml": false
+    },
+    {
+      "text": "Vulcan sex-madness.",
+      "renderHtml": false
+    }
+  ]
+}

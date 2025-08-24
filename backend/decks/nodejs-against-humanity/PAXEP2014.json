@@ -1,0 +1,50 @@
+{
+  "source": 0,
+  "order": 18,
+  "displayName": "PAX East 2014 Panel Pack",
+  "name": "PAXEP2014",
+  "whiteCards": [
+    {
+      "text": "Let me tell you about my new startup. It's basically _, but for _.",
+      "pick": 2
+    },
+    {
+      "text": "_ was totally worth the trauma.",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "Exciting content!",
+      "renderHtml": false
+    },
+    {
+      "text": "Rubbing chocolate pudding all over Bill Cosby's nipples.",
+      "renderHtml": false
+    },
+    {
+      "text": "What The Rock was really cooking.",
+      "renderHtml": false
+    },
+    {
+      "text": "Stepping on a god damn friggin' LEGO.",
+      "renderHtml": false
+    },
+    {
+      "text": "All this liquid in my mouth.",
+      "renderHtml": false
+    },
+    {
+      "text": "Giving a dolphin a handjob for science.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hodor.",
+      "renderHtml": false
+    },
+    {
+      "text": "A floor that is literally made of lava.",
+      "renderHtml": false
+    }
+  ]
+}

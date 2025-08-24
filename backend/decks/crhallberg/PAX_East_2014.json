@@ -1,0 +1,117 @@
+{
+  "order": 45,
+  "displayName": "PAX East 2014",
+  "name": "PAX_East_2014",
+  "whiteCards": [
+    {
+      "text": "_ is way too much responsibility for me.",
+      "pick": 1
+    },
+    {
+      "text": "(insert name) died when _.",
+      "pick": 1
+    },
+    {
+      "text": "Unfortunately, Neo, no one can be told what _ is. You have to see it for yourself.",
+      "pick": 1
+    },
+    {
+      "text": "What the hell?! They added a 6/6 with flying, trample and _.",
+      "pick": 1
+    },
+    {
+      "text": "You think you have defeated me? Well, let's see how you handle _.",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "A giant mechanical bird with a tragic backstory.",
+      "renderHtml": false
+    },
+    {
+      "text": "A grumpy spiritual director.",
+      "renderHtml": false
+    },
+    {
+      "text": "All of the good times and premium gaming entertainment available to you in the Kickstarter room.",
+      "renderHtml": false
+    },
+    {
+      "text": "Attacking from Kamchatka.",
+      "renderHtml": false
+    },
+    {
+      "text": "Collecting all seven power crystals.",
+      "renderHtml": false
+    },
+    {
+      "text": "Demons and shit.",
+      "renderHtml": false
+    },
+    {
+      "text": "Endless pleasure.",
+      "renderHtml": false
+    },
+    {
+      "text": "Futuristic death sports.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting bitten by a radioactive spider and then battling leukemia for 30 years.",
+      "renderHtml": false
+    },
+    {
+      "text": "KHAAAAAAAAAN!",
+      "renderHtml": false
+    },
+    {
+      "text": "Lagging out.",
+      "renderHtml": false
+    },
+    {
+      "text": "Mistakenly hitting on a League of Legends statue.",
+      "renderHtml": false
+    },
+    {
+      "text": "Separation of merch and state.",
+      "renderHtml": false
+    },
+    {
+      "text": "Serana William`s black sweaty scrotum",
+      "renderHtml": false
+    },
+    {
+      "text": "Stuffing my underwear with pancakes.",
+      "renderHtml": false
+    },
+    {
+      "text": "Taking 3 hours to go on a 15 minute errand",
+      "renderHtml": false
+    },
+    {
+      "text": "The imagination of Peter Jackson.",
+      "renderHtml": false
+    },
+    {
+      "text": "The old gods.",
+      "renderHtml": false
+    },
+    {
+      "text": "The pure, Zen-like state that exists between micro and macro.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Star Wars universe.",
+      "renderHtml": false
+    },
+    {
+      "text": "Whatever Final Fantasy bullshit happened this year.",
+      "renderHtml": false
+    },
+    {
+      "text": "Xena, Warrior Princess.",
+      "renderHtml": false
+    }
+  ]
+}

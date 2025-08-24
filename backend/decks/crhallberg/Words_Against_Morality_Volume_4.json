@@ -1,0 +1,449 @@
+{
+  "order": 204,
+  "displayName": "Words Against Morality: Volume 4",
+  "name": "Words_Against_Morality_Volume_4",
+  "whiteCards": [
+    {
+      "text": "_ can help any relationship",
+      "pick": 1
+    },
+    {
+      "text": "_ showed us that _ is a great homemade hangover remedy.",
+      "pick": 2
+    },
+    {
+      "text": "_: Boil 'em, mash 'em, stick 'em in a stew.",
+      "pick": 1
+    },
+    {
+      "text": "_. No homo.",
+      "pick": 1
+    },
+    {
+      "text": "\"I have _.\" - Dr. Martin Luther King Jr.",
+      "pick": 1
+    },
+    {
+      "text": "A fortune teller said my life would be filled with _.",
+      "pick": 1
+    },
+    {
+      "text": "After suffering in agony for eight millennia in Hell, my penis split open and _ flew out.",
+      "pick": 1
+    },
+    {
+      "text": "Ah! Your rival! What was his name again?",
+      "pick": 1
+    },
+    {
+      "text": "As a parent, I get excited about _.",
+      "pick": 1
+    },
+    {
+      "text": "As your commanding officer, I order you to perform _ for my amusement.",
+      "pick": 1
+    },
+    {
+      "text": "Because of my investment in Bitcoin, soon I'll be able to afford _.",
+      "pick": 1
+    },
+    {
+      "text": "Calm down, dear, it's only _.",
+      "pick": 1
+    },
+    {
+      "text": "Christmas was ruined for me when my Uncle Larry got me _.",
+      "pick": 1
+    },
+    {
+      "text": "Drop the kids off, call in sick, then hurry home to enjoy _.",
+      "pick": 1
+    },
+    {
+      "text": "Here's the draw: $1,000,000 every week for the rest of your life. Here's the catch: You're involved with _ for the rest of your life.",
+      "pick": 1
+    },
+    {
+      "text": "Heroin: a proud supporter of _.",
+      "pick": 1
+    },
+    {
+      "text": "I just received the report from the doctor. Turns out I have _.",
+      "pick": 1
+    },
+    {
+      "text": "I like my coffee like I like my men: filled with _.",
+      "pick": 1
+    },
+    {
+      "text": "I peeled the banana like I always did, but this time I found _ inside it.",
+      "pick": 1
+    },
+    {
+      "text": "In an exclusive CNN interview, the Pope revealed his new hobby: _.",
+      "pick": 1
+    },
+    {
+      "text": "Introducing powdered _! Simply add water to activate.",
+      "pick": 1
+    },
+    {
+      "text": "Let's do _ again! This is fun!",
+      "pick": 1
+    },
+    {
+      "text": "My best friend died texting while driving. The last text she sent before crashing was about _.",
+      "pick": 1
+    },
+    {
+      "text": "The best Christmas present Grandma ever gave was _.",
+      "pick": 1
+    },
+    {
+      "text": "The hills are alive, with the sound of _!",
+      "pick": 1
+    },
+    {
+      "text": "The last thing you will see before you die: _.",
+      "pick": 1
+    },
+    {
+      "text": "The root of all evil? _.",
+      "pick": 1
+    },
+    {
+      "text": "This Thanksgiving, I'm most thankful for _.",
+      "pick": 1
+    },
+    {
+      "text": "Yes, Mr. Death ... I'll play your game! But not chess! My game is _.",
+      "pick": 1
+    },
+    {
+      "text": "You have 72 hours to deliver the gold, or you'll face _.",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "\"Too much bush,\" whatever that is.",
+      "renderHtml": false
+    },
+    {
+      "text": "A bacon cheeseburger.",
+      "renderHtml": false
+    },
+    {
+      "text": "A bearded clam.",
+      "renderHtml": false
+    },
+    {
+      "text": "A glitch in the matrix.",
+      "renderHtml": false
+    },
+    {
+      "text": "A horny Furby.",
+      "renderHtml": false
+    },
+    {
+      "text": "A nocturnal flamingo",
+      "renderHtml": false
+    },
+    {
+      "text": "A particularly tantalizing set of tatas.",
+      "renderHtml": false
+    },
+    {
+      "text": "A rape whistle.",
+      "renderHtml": false
+    },
+    {
+      "text": "A rotting whale corpse.",
+      "renderHtml": false
+    },
+    {
+      "text": "A sex doll the size and shape of a 7-year-old",
+      "renderHtml": false
+    },
+    {
+      "text": "A sex scene written by Dr. Seuss.",
+      "renderHtml": false
+    },
+    {
+      "text": "A straight man doing gay porn.",
+      "renderHtml": false
+    },
+    {
+      "text": "A suspicious stain on your pillow.",
+      "renderHtml": false
+    },
+    {
+      "text": "Asking a blind man if he saw the new \"Star Wars' movie.",
+      "renderHtml": false
+    },
+    {
+      "text": "Asking for a third refill of communion wine on a Sunday morning.",
+      "renderHtml": false
+    },
+    {
+      "text": "Babies infected with rabies.",
+      "renderHtml": false
+    },
+    {
+      "text": "Baby fat.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ball ticklers",
+      "renderHtml": false
+    },
+    {
+      "text": "Being terrorized by a moth for eight hours.",
+      "renderHtml": false
+    },
+    {
+      "text": "Birthday strippers.",
+      "renderHtml": false
+    },
+    {
+      "text": "Black slaves.",
+      "renderHtml": false
+    },
+    {
+      "text": "Busting ... real quick.",
+      "renderHtml": false
+    },
+    {
+      "text": "Buying sex toys from Amazon Warehouse Deals.",
+      "renderHtml": false
+    },
+    {
+      "text": "Challenging a bear for his honey.",
+      "renderHtml": false
+    },
+    {
+      "text": "Cheap Chinese knockoffs.",
+      "renderHtml": false
+    },
+    {
+      "text": "Comcast customer service.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dat ghetto booty.",
+      "renderHtml": false
+    },
+    {
+      "text": "Death by Brazilian wax.",
+      "renderHtml": false
+    },
+    {
+      "text": "Donating a used dildo to the local thrift shop.",
+      "renderHtml": false
+    },
+    {
+      "text": "Earning $7k or more per week from the comfort of your home!",
+      "renderHtml": false
+    },
+    {
+      "text": "Eating a banana sensually in the cafeteria.",
+      "renderHtml": false
+    },
+    {
+      "text": "Every man's ultimate fantasy: a perfectly cylindrical vagina.",
+      "renderHtml": false
+    },
+    {
+      "text": "Faces of Meth.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fingerpainting with your Mom's period blood.",
+      "renderHtml": false
+    },
+    {
+      "text": "Flipping a table onto an infant.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting on your knees to confess to your pastor, but on thing leads to another ...",
+      "renderHtml": false
+    },
+    {
+      "text": "Giving a cab driver a hand job because you have no money for the fare.",
+      "renderHtml": false
+    },
+    {
+      "text": "Going to a children's hospital and streaking through the hallways.",
+      "renderHtml": false
+    },
+    {
+      "text": "Going to a strip club to vent your problems to a complete stranger.",
+      "renderHtml": false
+    },
+    {
+      "text": "Having a long history of mental illness. Being known for violence. And still qualifying to buy a gun, because this is America.",
+      "renderHtml": false
+    },
+    {
+      "text": "Having to \"collect\" bull sperm for a living.",
+      "renderHtml": false
+    },
+    {
+      "text": "Infinite pickles.",
+      "renderHtml": false
+    },
+    {
+      "text": "Insane Clown Posse.",
+      "renderHtml": false
+    },
+    {
+      "text": "Inspirational racism.",
+      "renderHtml": false
+    },
+    {
+      "text": "Internet friends.",
+      "renderHtml": false
+    },
+    {
+      "text": "It's not what it looks like, I swear! The cat fell on my cock accidentally!",
+      "renderHtml": false
+    },
+    {
+      "text": "Janice from accounting.",
+      "renderHtml": false
+    },
+    {
+      "text": "Jerkin' off with mittens.",
+      "renderHtml": false
+    },
+    {
+      "text": "Languidly dancing in front of the bathroom mirror.",
+      "renderHtml": false
+    },
+    {
+      "text": "Little boys.",
+      "renderHtml": false
+    },
+    {
+      "text": "Losing your innocence at church.",
+      "renderHtml": false
+    },
+    {
+      "text": "Making America Great Again, by getting rid of the Kardashians.",
+      "renderHtml": false
+    },
+    {
+      "text": "Minions.",
+      "renderHtml": false
+    },
+    {
+      "text": "Naked women and cocaine.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ninja wearing sneakers.",
+      "renderHtml": false
+    },
+    {
+      "text": "One long, disgusting toenail.",
+      "renderHtml": false
+    },
+    {
+      "text": "Planting crack on a homeless man.",
+      "renderHtml": false
+    },
+    {
+      "text": "Playing a Vietnam War tap in a retirement home to give the veterans heart attacks.",
+      "renderHtml": false
+    },
+    {
+      "text": "Psych! It's a gas chamber.",
+      "renderHtml": false
+    },
+    {
+      "text": "Racing a penny down the Empire State Building.",
+      "renderHtml": false
+    },
+    {
+      "text": "Respecting my authoritah!!!",
+      "renderHtml": false
+    },
+    {
+      "text": "Sex and pizza.",
+      "renderHtml": false
+    },
+    {
+      "text": "Six dead hookers.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sleeping with your best friend's wife.",
+      "renderHtml": false
+    },
+    {
+      "text": "Small feet.",
+      "renderHtml": false
+    },
+    {
+      "text": "Spam mail.",
+      "renderHtml": false
+    },
+    {
+      "text": "Stabbing someone with a cactus.",
+      "renderHtml": false
+    },
+    {
+      "text": "Steve Irwin dying the way he lived his life ... with animals in his heart.",
+      "renderHtml": false
+    },
+    {
+      "text": "That one guy who tells jokes and everyone laughs at them to make him feel better.",
+      "renderHtml": false
+    },
+    {
+      "text": "The broken dreams of a child.",
+      "renderHtml": false
+    },
+    {
+      "text": "The creepy, awkward stare of children.",
+      "renderHtml": false
+    },
+    {
+      "text": "The lack of black people in \"The Jetsons.\"",
+      "renderHtml": false
+    },
+    {
+      "text": "The right touch.",
+      "renderHtml": false
+    },
+    {
+      "text": "The whitest black person you know.",
+      "renderHtml": false
+    },
+    {
+      "text": "Using a hammer to fix a crying baby.",
+      "renderHtml": false
+    },
+    {
+      "text": "Using your phone as a vibrator.",
+      "renderHtml": false
+    },
+    {
+      "text": "Warriors, coming out to play-ayyyyyyy.",
+      "renderHtml": false
+    },
+    {
+      "text": "Watching porn on a library computer.",
+      "renderHtml": false
+    },
+    {
+      "text": "When \"Netflix and Chill\" turns into \"Netflix and Child.\"",
+      "renderHtml": false
+    },
+    {
+      "text": "Whipping it out, with force.",
+      "renderHtml": false
+    }
+  ]
+}

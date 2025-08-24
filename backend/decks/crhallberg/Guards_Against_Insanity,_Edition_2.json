@@ -1,0 +1,457 @@
+{
+  "order": 143,
+  "displayName": "Guards Against Insanity, Edition 2",
+  "name": "Guards_Against_Insanity,_Edition_2",
+  "whiteCards": [
+    {
+      "text": "_,  For the person who has everything.",
+      "pick": 1
+    },
+    {
+      "text": "_.  60% of the time, it works every time.",
+      "pick": 1
+    },
+    {
+      "text": "_.  Because size matters.",
+      "pick": 1
+    },
+    {
+      "text": "_.  It's what your right arm's for.",
+      "pick": 1
+    },
+    {
+      "text": "A single death is a tragedy; a million deaths is _.",
+      "pick": 1
+    },
+    {
+      "text": "Does anybody wanna play _?",
+      "pick": 1
+    },
+    {
+      "text": "Growing up happens in a heartbeat.  One day, you're _; next day, you're _.",
+      "pick": 2
+    },
+    {
+      "text": "Guns don't kill people, _ kill people.",
+      "pick": 1
+    },
+    {
+      "text": "How am I going to kill myself?",
+      "pick": 1
+    },
+    {
+      "text": "I believe that the majority of life's problems can be solved with _ and _.",
+      "pick": 2
+    },
+    {
+      "text": "I don't understand all the stigma around _.  After all, I'm _ and proud!",
+      "pick": 2
+    },
+    {
+      "text": "I would do anything for love, but I won't do _.",
+      "pick": 1
+    },
+    {
+      "text": "Let's fight on of the most terrible diseases of all, _.",
+      "pick": 1
+    },
+    {
+      "text": "No matter how hard I scrubbed, it was impossible to get _ out of my _.",
+      "pick": 2
+    },
+    {
+      "text": "The internet now makes _ obsolete.",
+      "pick": 1
+    },
+    {
+      "text": "The true secret to happiness is _.",
+      "pick": 1
+    },
+    {
+      "text": "There are two types of people in this world.  _ and _.",
+      "pick": 2
+    },
+    {
+      "text": "There's always money in _.",
+      "pick": 1
+    },
+    {
+      "text": "To stop myself cumming too soon, I imagine _.",
+      "pick": 1
+    },
+    {
+      "text": "Two things are infinite.  The universe and _.",
+      "pick": 1
+    },
+    {
+      "text": "What is God's biggest mistake?",
+      "pick": 1
+    },
+    {
+      "text": "Why do I have an erection?",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "A complete lack of respect for the law.",
+      "renderHtml": false
+    },
+    {
+      "text": "A distinct lack of morals.",
+      "renderHtml": false
+    },
+    {
+      "text": "A fistathon.",
+      "renderHtml": false
+    },
+    {
+      "text": "A harem full o' bitches.",
+      "renderHtml": false
+    },
+    {
+      "text": "A heated debate on whether ginger people have souls.",
+      "renderHtml": false
+    },
+    {
+      "text": "A lumpy period.",
+      "renderHtml": false
+    },
+    {
+      "text": "A monkey blowjob.",
+      "renderHtml": false
+    },
+    {
+      "text": "A total clusterfuck.",
+      "renderHtml": false
+    },
+    {
+      "text": "A well placed thumb.",
+      "renderHtml": false
+    },
+    {
+      "text": "Accidental Discharge.",
+      "renderHtml": false
+    },
+    {
+      "text": "Actually drowning in cum.",
+      "renderHtml": false
+    },
+    {
+      "text": "Adopting orphaned children with the sole intention of recreating The Hunger Games.",
+      "renderHtml": false
+    },
+    {
+      "text": "Anal discomfort.",
+      "renderHtml": false
+    },
+    {
+      "text": "Anusol™ cream.",
+      "renderHtml": false
+    },
+    {
+      "text": "Astroglide™.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being tied spread-eagle on a four-poster bed.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bodily fluids.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bruising the back of the throat.",
+      "renderHtml": false
+    },
+    {
+      "text": "Buggery.",
+      "renderHtml": false
+    },
+    {
+      "text": "Burying your dog.",
+      "renderHtml": false
+    },
+    {
+      "text": "Capital punishment.",
+      "renderHtml": false
+    },
+    {
+      "text": "Choir boys.",
+      "renderHtml": false
+    },
+    {
+      "text": "Coating your mouth with Ronald McDonald's special sauce.",
+      "renderHtml": false
+    },
+    {
+      "text": "Compassion for the handicapped.",
+      "renderHtml": false
+    },
+    {
+      "text": "Damn dirty apes.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dangerous minorities.",
+      "renderHtml": false
+    },
+    {
+      "text": "Democracy.",
+      "renderHtml": false
+    },
+    {
+      "text": "Doing things to Ma, in front of Pa.",
+      "renderHtml": false
+    },
+    {
+      "text": "Domestic violence",
+      "renderHtml": false
+    },
+    {
+      "text": "Dumb luck.",
+      "renderHtml": false
+    },
+    {
+      "text": "Erogenous zones.",
+      "renderHtml": false
+    },
+    {
+      "text": "Every last drop.",
+      "renderHtml": false
+    },
+    {
+      "text": "Evolution.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fat bitches fighting over a Twinkie.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fecal vomit.",
+      "renderHtml": false
+    },
+    {
+      "text": "Feeling threatened by change.",
+      "renderHtml": false
+    },
+    {
+      "text": "Feeling turned on.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting caught rifling though your mother's knicker draw.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hands-free ejaculation.",
+      "renderHtml": false
+    },
+    {
+      "text": "Having sex on tap, all thanks to your wife's dementia.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hot Asian girls.",
+      "renderHtml": false
+    },
+    {
+      "text": "Inappropriate stroking.",
+      "renderHtml": false
+    },
+    {
+      "text": "Lindsay Lohan.",
+      "renderHtml": false
+    },
+    {
+      "text": "Lovely lady lumps.",
+      "renderHtml": false
+    },
+    {
+      "text": "Masturbating in public.",
+      "renderHtml": false
+    },
+    {
+      "text": "Mensa poster child.",
+      "renderHtml": false
+    },
+    {
+      "text": "Mind-altering substances.",
+      "renderHtml": false
+    },
+    {
+      "text": "Moaning like a whore.",
+      "renderHtml": false
+    },
+    {
+      "text": "My crispy wank sock.",
+      "renderHtml": false
+    },
+    {
+      "text": "My cum face.",
+      "renderHtml": false
+    },
+    {
+      "text": "My first crush.",
+      "renderHtml": false
+    },
+    {
+      "text": "Neatly trimmed pubes.",
+      "renderHtml": false
+    },
+    {
+      "text": "Not trusting anything that can bleed for a week and not die.",
+      "renderHtml": false
+    },
+    {
+      "text": "Noticing that your dad's cock tastes different.",
+      "renderHtml": false
+    },
+    {
+      "text": "Organized religion.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pissing blood.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pointing at a complete stranger and whispering \"You did this\" the moment before you die.",
+      "renderHtml": false
+    },
+    {
+      "text": "Putting things right, that once went wrong.",
+      "renderHtml": false
+    },
+    {
+      "text": "Repressed memories.",
+      "renderHtml": false
+    },
+    {
+      "text": "Robin Williams.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sex dolls that look ashamed.",
+      "renderHtml": false
+    },
+    {
+      "text": "Skid marks.",
+      "renderHtml": false
+    },
+    {
+      "text": "Slowly inching Buss Lightyear into your anal canal while shouting \"To infinity and beyond\".",
+      "renderHtml": false
+    },
+    {
+      "text": "Snuff movies.",
+      "renderHtml": false
+    },
+    {
+      "text": "Some girl-on-girl action.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sticky fingers.",
+      "renderHtml": false
+    },
+    {
+      "text": "Suppressing the gag reflex.",
+      "renderHtml": false
+    },
+    {
+      "text": "Swants.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sweet, sweet revenge.",
+      "renderHtml": false
+    },
+    {
+      "text": "Tappin' dat ass.",
+      "renderHtml": false
+    },
+    {
+      "text": "Tearing the mask off nature and staring at the face of God.",
+      "renderHtml": false
+    },
+    {
+      "text": "The abortion clinic.",
+      "renderHtml": false
+    },
+    {
+      "text": "The abuse of power.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Catholic Church.",
+      "renderHtml": false
+    },
+    {
+      "text": "The familiar taste of semen.",
+      "renderHtml": false
+    },
+    {
+      "text": "The feeling of impending doom.",
+      "renderHtml": false
+    },
+    {
+      "text": "The gay gene.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Middle East.",
+      "renderHtml": false
+    },
+    {
+      "text": "The morally bankrupt.",
+      "renderHtml": false
+    },
+    {
+      "text": "The rhythms of Africa.",
+      "renderHtml": false
+    },
+    {
+      "text": "The well endowed.",
+      "renderHtml": false
+    },
+    {
+      "text": "Three working orifices.",
+      "renderHtml": false
+    },
+    {
+      "text": "Thumbing in a softy.",
+      "renderHtml": false
+    },
+    {
+      "text": "Using a fat kid as a human shield.",
+      "renderHtml": false
+    },
+    {
+      "text": "Waxing your back, sack and crack.",
+      "renderHtml": false
+    },
+    {
+      "text": "When taking a shit feels more like you're bleeding a radiator.",
+      "renderHtml": false
+    },
+    {
+      "text": "White trash.",
+      "renderHtml": false
+    },
+    {
+      "text": "Your Mom.",
+      "renderHtml": false
+    },
+    {
+      "text": "Your touchy-feely uncle who isn't really your uncle.",
+      "renderHtml": false
+    },
+    {
+      "text": "Your wife's pussy before it was wrecked by childbirth.",
+      "renderHtml": false
+    }
+  ]
+}

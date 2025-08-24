@@ -1,0 +1,869 @@
+{
+  "order": 186,
+  "displayName": "The Catholic Card Game: Five Deck Expansion Pack",
+  "name": "The_Catholic_Card_Game_Five_Deck_Expansion_Pack",
+  "whiteCards": [
+    {
+      "text": "_ is basically the story of my life.",
+      "pick": 1
+    },
+    {
+      "text": "_ is/are the New Evangelization.",
+      "pick": 1
+    },
+    {
+      "text": "_ led me to believe _ was morally wrong.",
+      "pick": 2
+    },
+    {
+      "text": "_ ruins everything.",
+      "pick": 1
+    },
+    {
+      "text": "A Catholic's guide to _.",
+      "pick": 1
+    },
+    {
+      "text": "Aquinas responds to _ with _.",
+      "pick": 2
+    },
+    {
+      "text": "At the sight of _ Jesus was amazed.",
+      "pick": 1
+    },
+    {
+      "text": "Be wise as _ and innocent as _.",
+      "pick": 2
+    },
+    {
+      "text": "Even a Catholic cartoonist wouldn't dare to make light of _.",
+      "pick": 1
+    },
+    {
+      "text": "From the desire of destroying _, deliver me, Jesus.",
+      "pick": 1
+    },
+    {
+      "text": "Hi I'm _, and this is _.",
+      "pick": 2
+    },
+    {
+      "text": "I am writing my thesis on _.",
+      "pick": 1
+    },
+    {
+      "text": "I got kicked out of a youth conference for _.",
+      "pick": 1
+    },
+    {
+      "text": "I only retweet tweets about _.",
+      "pick": 1
+    },
+    {
+      "text": "I ran out of money on pilgrimage because of _.",
+      "pick": 1
+    },
+    {
+      "text": "I will make you fishers of _.",
+      "pick": 1
+    },
+    {
+      "text": "I would give talks about _ to youth groups.",
+      "pick": 1
+    },
+    {
+      "text": "If Jesus hadn't died for our sins, His back-up plan might have been _.",
+      "pick": 1
+    },
+    {
+      "text": "If you don't laugh at _ it's just sad.",
+      "pick": 1
+    },
+    {
+      "text": "In my dreams, I am _.",
+      "pick": 1
+    },
+    {
+      "text": "In the name of _, I command you to stop _.",
+      "pick": 2
+    },
+    {
+      "text": "It's not true Catholic church unless it offers _.",
+      "pick": 1
+    },
+    {
+      "text": "Leading adult faith formation is difficult because of _.",
+      "pick": 1
+    },
+    {
+      "text": "Lord prepare me, to be _.",
+      "pick": 1
+    },
+    {
+      "text": "Love _, use _.",
+      "pick": 2
+    },
+    {
+      "text": "Modern philosophers will never understand _.",
+      "pick": 1
+    },
+    {
+      "text": "No one talks about the tenth circle of Hell, which is punishment reserved for _.",
+      "pick": 1
+    },
+    {
+      "text": "Only invoke _ if you are _.",
+      "pick": 2
+    },
+    {
+      "text": "Podcasting about _ is super difficult.",
+      "pick": 1
+    },
+    {
+      "text": "Praying _ away.",
+      "pick": 1
+    },
+    {
+      "text": "Repent and submit to _.",
+      "pick": 1
+    },
+    {
+      "text": "Seek 2035 will be hosted by _.",
+      "pick": 1
+    },
+    {
+      "text": "Shout out to _ for _.",
+      "pick": 2
+    },
+    {
+      "text": "St. Joseph is most notably quoted speaking about _.",
+      "pick": 1
+    },
+    {
+      "text": "Teaching about _ shortens my purgatory time.",
+      "pick": 1
+    },
+    {
+      "text": "The most underrated sacrilege of all is _.",
+      "pick": 1
+    },
+    {
+      "text": "The venial sin of _ is a gatewa to the mortal sin of _.",
+      "pick": 2
+    },
+    {
+      "text": "Thomas Aquinas wrote the most about _.",
+      "pick": 1
+    },
+    {
+      "text": "Thomas' lesser-known book is about _.",
+      "pick": 1
+    },
+    {
+      "text": "What was I excommunicated for?",
+      "pick": 1
+    },
+    {
+      "text": "What you don't want to find in the Holy Water.",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "\"Worshipping\" the saints.",
+      "renderHtml": false
+    },
+    {
+      "text": "A cardboard cutout of Pope St. John Paul II.",
+      "renderHtml": false
+    },
+    {
+      "text": "A fight between a Dominican and a Franciscan.",
+      "renderHtml": false
+    },
+    {
+      "text": "A large priest.",
+      "renderHtml": false
+    },
+    {
+      "text": "A monotone audiobook narrator.",
+      "renderHtml": false
+    },
+    {
+      "text": "A motivating Scripture reading.",
+      "renderHtml": false
+    },
+    {
+      "text": "A non-Thomist Dominican.",
+      "renderHtml": false
+    },
+    {
+      "text": "A not so special payer intention.",
+      "renderHtml": false
+    },
+    {
+      "text": "A promising philosophy degree.",
+      "renderHtml": false
+    },
+    {
+      "text": "A rejected marriage proposal.",
+      "renderHtml": false
+    },
+    {
+      "text": "A sexy chastity speaker.",
+      "renderHtml": false
+    },
+    {
+      "text": "Actualizing my potential.",
+      "renderHtml": false
+    },
+    {
+      "text": "An \"I love my priest\" bumper sticker.",
+      "renderHtml": false
+    },
+    {
+      "text": "An amateur preacher.",
+      "renderHtml": false
+    },
+    {
+      "text": "An artisinal podcast.",
+      "renderHtml": false
+    },
+    {
+      "text": "An empty tomb.",
+      "renderHtml": false
+    },
+    {
+      "text": "An ongoing homily series.",
+      "renderHtml": false
+    },
+    {
+      "text": "Anima Technica Vacua.",
+      "renderHtml": false
+    },
+    {
+      "text": "Asking God for a sign.",
+      "renderHtml": false
+    },
+    {
+      "text": "Avant-garde jazz.",
+      "renderHtml": false
+    },
+    {
+      "text": "Awkwardly receiving a gift I don't want.",
+      "renderHtml": false
+    },
+    {
+      "text": "Baby Boomers.",
+      "renderHtml": false
+    },
+    {
+      "text": "Beefing with Catholic speakers on Twitter.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being a dumb ox.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being a fallen, broken human creature.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being a sheep.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being an aspiring beekeeper.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being attacked by swine.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being awake and sober.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being brutally honest about my feelings.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being forced against my will to listen to The Crunch.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being in adoration with a loud breather.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being shirtless in the confessional again.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being single in my 30s.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being too good at prayer.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being worth many sparrows.",
+      "renderHtml": false
+    },
+    {
+      "text": "Blaming my problems on my thyroid.",
+      "renderHtml": false
+    },
+    {
+      "text": "Blaming Ockam.",
+      "renderHtml": false
+    },
+    {
+      "text": "Blesed Vegemite.",
+      "renderHtml": false
+    },
+    {
+      "text": "Buying clams at Long John Silver's during Lent.",
+      "renderHtml": false
+    },
+    {
+      "text": "Calling Jesus my mate.",
+      "renderHtml": false
+    },
+    {
+      "text": "Casually chatting with St. Peter and St. Paul.",
+      "renderHtml": false
+    },
+    {
+      "text": "Cathedrals.",
+      "renderHtml": false
+    },
+    {
+      "text": "Cathilic Twitter.",
+      "renderHtml": false
+    },
+    {
+      "text": "Catholic adult coloring books.",
+      "renderHtml": false
+    },
+    {
+      "text": "Catholics that cuss.",
+      "renderHtml": false
+    },
+    {
+      "text": "Celebrating Mothering Sunday AND Mother's Day.",
+      "renderHtml": false
+    },
+    {
+      "text": "Censoring Game of Thrones.",
+      "renderHtml": false
+    },
+    {
+      "text": "Clever Catholic shirts.",
+      "renderHtml": false
+    },
+    {
+      "text": "Collecting taxes.",
+      "renderHtml": false
+    },
+    {
+      "text": "Constantly functioning on 4 hours of sleep.",
+      "renderHtml": false
+    },
+    {
+      "text": "Contemplating predetination.",
+      "renderHtml": false
+    },
+    {
+      "text": "Coughing loudly to let the priest know to wrap it up.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dan Brown novels.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dancing Nuns.",
+      "renderHtml": false
+    },
+    {
+      "text": "Deliverance ministry.",
+      "renderHtml": false
+    },
+    {
+      "text": "Disapointed Jesus.",
+      "renderHtml": false
+    },
+    {
+      "text": "Disney taking all my money.",
+      "renderHtml": false
+    },
+    {
+      "text": "Disturbingly European Jesus.",
+      "renderHtml": false
+    },
+    {
+      "text": "Drawing Jesus as an anime character.",
+      "renderHtml": false
+    },
+    {
+      "text": "Drinking coffee out of a beer stein.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dunking the baby for baptism.",
+      "renderHtml": false
+    },
+    {
+      "text": "Eating cereal as fast as you can an hour before Mass.",
+      "renderHtml": false
+    },
+    {
+      "text": "Encountering me.",
+      "renderHtml": false
+    },
+    {
+      "text": "Enjoying Christian films.",
+      "renderHtml": false
+    },
+    {
+      "text": "Evangelizing to kangaroos.",
+      "renderHtml": false
+    },
+    {
+      "text": "Evolving a labyrinthine vagina.",
+      "renderHtml": false
+    },
+    {
+      "text": "Feminist men.",
+      "renderHtml": false
+    },
+    {
+      "text": "Flying buttresses.",
+      "renderHtml": false
+    },
+    {
+      "text": "Frantically cleaning before a priest comes over for dinner.",
+      "renderHtml": false
+    },
+    {
+      "text": "Frantically texting my spiritual director asking for confession ASAP.",
+      "renderHtml": false
+    },
+    {
+      "text": "Gently tossing Michael Vorris' \"hair.\"",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting an S.T.D.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting into Catholic speaking for the money.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting much fatter after Fat Tuesday.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting that retreat high.",
+      "renderHtml": false
+    },
+    {
+      "text": "Giving amazing advice to all my friends.",
+      "renderHtml": false
+    },
+    {
+      "text": "Giving up The Office for Lent.",
+      "renderHtml": false
+    },
+    {
+      "text": "Going to Mass at noon.",
+      "renderHtml": false
+    },
+    {
+      "text": "Having a nice ash... cross.",
+      "renderHtml": false
+    },
+    {
+      "text": "Having a painful disease in my loins.",
+      "renderHtml": false
+    },
+    {
+      "text": "Having a pint with Aquinas.",
+      "renderHtml": false
+    },
+    {
+      "text": "Having a stroke.",
+      "renderHtml": false
+    },
+    {
+      "text": "Having a superior complex.",
+      "renderHtml": false
+    },
+    {
+      "text": "Having Catholic guilt.",
+      "renderHtml": false
+    },
+    {
+      "text": "Having priests as friends.",
+      "renderHtml": false
+    },
+    {
+      "text": "Having the appetite of Aquinas.",
+      "renderHtml": false
+    },
+    {
+      "text": "Having two feast days.",
+      "renderHtml": false
+    },
+    {
+      "text": "Having ugly feet.",
+      "renderHtml": false
+    },
+    {
+      "text": "Heretical tweets.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hiding miraculous medals in a Protestant church.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hiring murderers as religious leaders.",
+      "renderHtml": false
+    },
+    {
+      "text": "Humble bragging.",
+      "renderHtml": false
+    },
+    {
+      "text": "Idolatry.",
+      "renderHtml": false
+    },
+    {
+      "text": "Jesus coming down from Heaven riding on a slide.",
+      "renderHtml": false
+    },
+    {
+      "text": "Jesus's death.",
+      "renderHtml": false
+    },
+    {
+      "text": "Justifying a bar crawl as \"evangelization.\"",
+      "renderHtml": false
+    },
+    {
+      "text": "Knitting.",
+      "renderHtml": false
+    },
+    {
+      "text": "Knowing more rap lyrics than Bible verses.",
+      "renderHtml": false
+    },
+    {
+      "text": "Knowing my future husband is in seminary.",
+      "renderHtml": false
+    },
+    {
+      "text": "Knowing that vinyl records are worse than CDs.",
+      "renderHtml": false
+    },
+    {
+      "text": "Knowing the difference between dulia, hyperdulia, and latria.",
+      "renderHtml": false
+    },
+    {
+      "text": "Knowing too much about cervical mucus.",
+      "renderHtml": false
+    },
+    {
+      "text": "Leaving the European Union.",
+      "renderHtml": false
+    },
+    {
+      "text": "Leggings.",
+      "renderHtml": false
+    },
+    {
+      "text": "Lifting all yachts equally.",
+      "renderHtml": false
+    },
+    {
+      "text": "Listening to Catching Foxes to feel better about myself.",
+      "renderHtml": false
+    },
+    {
+      "text": "Living a moderate life.",
+      "renderHtml": false
+    },
+    {
+      "text": "Lying to my kids about Santa.",
+      "renderHtml": false
+    },
+    {
+      "text": "Making incredible puns.",
+      "renderHtml": false
+    },
+    {
+      "text": "Mama Mary.",
+      "renderHtml": false
+    },
+    {
+      "text": "Marital intimacy.",
+      "renderHtml": false
+    },
+    {
+      "text": "Matt Fradd.",
+      "renderHtml": false
+    },
+    {
+      "text": "Meeting God face to face and realizing how dumb I am.",
+      "renderHtml": false
+    },
+    {
+      "text": "Misquoting the saints.",
+      "renderHtml": false
+    },
+    {
+      "text": "Not knowing how to respond when someone says \"God bless!\"",
+      "renderHtml": false
+    },
+    {
+      "text": "Not knowing the difference between a dating fast and speed dating.",
+      "renderHtml": false
+    },
+    {
+      "text": "Not making any friends at a Church mixer.",
+      "renderHtml": false
+    },
+    {
+      "text": "Not reflecting the views of my employer.",
+      "renderHtml": false
+    },
+    {
+      "text": "Not using my phone on the toilet.",
+      "renderHtml": false
+    },
+    {
+      "text": "Only believing in science.",
+      "renderHtml": false
+    },
+    {
+      "text": "Only drinking sippable beer.",
+      "renderHtml": false
+    },
+    {
+      "text": "Our Lady of Flimbo Flambo.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pascal's Wager.",
+      "renderHtml": false
+    },
+    {
+      "text": "Playing the Didgeridoo at Mass.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pope Michael.",
+      "renderHtml": false
+    },
+    {
+      "text": "Post-Evangelical Protestants.",
+      "renderHtml": false
+    },
+    {
+      "text": "Praise & Worship pump up songs.",
+      "renderHtml": false
+    },
+    {
+      "text": "Praising God through whom all blessings flow.",
+      "renderHtml": false
+    },
+    {
+      "text": "Preachy teenage musicians.",
+      "renderHtml": false
+    },
+    {
+      "text": "Preparing for Mass with the wrong readings.",
+      "renderHtml": false
+    },
+    {
+      "text": "Priests wearing \"rose\" vestments.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pure, unadulterated evil.",
+      "renderHtml": false
+    },
+    {
+      "text": "Questionable bromances.",
+      "renderHtml": false
+    },
+    {
+      "text": "Rad Trads.",
+      "renderHtml": false
+    },
+    {
+      "text": "Radical hospitality.",
+      "renderHtml": false
+    },
+    {
+      "text": "Reading The Porn Myth in public.",
+      "renderHtml": false
+    },
+    {
+      "text": "Recieving the Eucharist in hand.",
+      "renderHtml": false
+    },
+    {
+      "text": "Retreating to the mountains.",
+      "renderHtml": false
+    },
+    {
+      "text": "Scouting for disciples.",
+      "renderHtml": false
+    },
+    {
+      "text": "Scrupulosity.",
+      "renderHtml": false
+    },
+    {
+      "text": "Seein beauty in everything.",
+      "renderHtml": false
+    },
+    {
+      "text": "Seeing Jesus in my toast.",
+      "renderHtml": false
+    },
+    {
+      "text": "Shorts that don't reach below the fingertips.",
+      "renderHtml": false
+    },
+    {
+      "text": "Social media evangelization.",
+      "renderHtml": false
+    },
+    {
+      "text": "Speed praying for intentions in the silence of my heart.",
+      "renderHtml": false
+    },
+    {
+      "text": "St. Michael the Archangel.",
+      "renderHtml": false
+    },
+    {
+      "text": "St. Peter",
+      "renderHtml": false
+    },
+    {
+      "text": "Staying up until midnight to eat meat during Lent.",
+      "renderHtml": false
+    },
+    {
+      "text": "Steubenville.",
+      "renderHtml": false
+    },
+    {
+      "text": "Supporting every Catholic on Patreon.",
+      "renderHtml": false
+    },
+    {
+      "text": "Taking a rip from my Juul to relate to the youth.",
+      "renderHtml": false
+    },
+    {
+      "text": "Taking a selfie with the Pope.",
+      "renderHtml": false
+    },
+    {
+      "text": "Terrible Catholic podcasts.",
+      "renderHtml": false
+    },
+    {
+      "text": "That one rebellious youth group kid.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Ascencion.",
+      "renderHtml": false
+    },
+    {
+      "text": "The complimentarity of men and women.",
+      "renderHtml": false
+    },
+    {
+      "text": "The fine cuisine of locusts and honey.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Five Proofs for God's existence.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Great Fast.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Monk Life.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Pharisees talking AGAIN.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Spanish Inquisition.",
+      "renderHtml": false
+    },
+    {
+      "text": "The theology of my body.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Theotokos.",
+      "renderHtml": false
+    },
+    {
+      "text": "The un-intellectual life.",
+      "renderHtml": false
+    },
+    {
+      "text": "thousand year old eggs",
+      "renderHtml": false
+    },
+    {
+      "text": "Using discerning religious life to get out of a relationship.",
+      "renderHtml": false
+    },
+    {
+      "text": "Waiting to drink until I'm 21.",
+      "renderHtml": false
+    },
+    {
+      "text": "Wedding receptions at the Knights of Columbus hall.",
+      "renderHtml": false
+    },
+    {
+      "text": "Winning arguments left and right.",
+      "renderHtml": false
+    },
+    {
+      "text": "Working for the Church.",
+      "renderHtml": false
+    },
+    {
+      "text": "Yet another Crusade.",
+      "renderHtml": false
+    },
+    {
+      "text": "Young adult events without alcohol.",
+      "renderHtml": false
+    }
+  ]
+}

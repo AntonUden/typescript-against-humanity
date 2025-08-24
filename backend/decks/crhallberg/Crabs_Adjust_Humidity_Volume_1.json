@@ -1,0 +1,489 @@
+{
+  "order": 120,
+  "displayName": "Crabs Adjust Humidity: Volume 1",
+  "name": "Crabs_Adjust_Humidity_Volume_1",
+  "whiteCards": [
+    {
+      "text": "_: Just sayin'.",
+      "pick": 1
+    },
+    {
+      "text": "_: not even once.",
+      "pick": 1
+    },
+    {
+      "text": "A wild _ appears!\n\nYou used _! It's super effective!",
+      "pick": 2
+    },
+    {
+      "text": "According to a new UN treaty, _ now qualifies as a weapon of mass destruction.",
+      "pick": 1
+    },
+    {
+      "text": "Ever since \"the incident,\" every time I close my eyes, I still see _.",
+      "pick": 1
+    },
+    {
+      "text": "Gentleman, I'm sure you're wondering why I asked you here this evening.\n\nIt's a long story, but it all began with _.",
+      "pick": 1
+    },
+    {
+      "text": "How did I get this restraining order?",
+      "pick": 1
+    },
+    {
+      "text": "How did I hurt my back?",
+      "pick": 1
+    },
+    {
+      "text": "How did my grandparents make it through the Great Depression?",
+      "pick": 1
+    },
+    {
+      "text": "I am become _, the destroyer of worlds.",
+      "pick": 1
+    },
+    {
+      "text": "I love the smell of _ in the morning",
+      "pick": 1
+    },
+    {
+      "text": "I was once sent to the HR department for an incident involving _, _, and (allegedly) _.",
+      "pick": 3
+    },
+    {
+      "text": "I'm gonna go build my own theme park! With _! And _!",
+      "pick": 2
+    },
+    {
+      "text": "I'm so hungry, I could eat _.",
+      "pick": 1
+    },
+    {
+      "text": "If you want a picture of the future, imagine a boot stamping on _--forever.",
+      "pick": 1
+    },
+    {
+      "text": "In a move that has Hollywood insiders baffled, the producers of American Idol have decided to replace host Ryan Seacrest with _.",
+      "pick": 1
+    },
+    {
+      "text": "In my opinion, _ is grounds for justifiable homicide.",
+      "pick": 1
+    },
+    {
+      "text": "It took seven years in a remote Tibetan monastery, but I finally learned the art of _.",
+      "pick": 1
+    },
+    {
+      "text": "Like Midas reborn, everything she touches turns to _.",
+      "pick": 1
+    },
+    {
+      "text": "Oh my God!\nThey killed _!\nYou bastards!",
+      "pick": 1
+    },
+    {
+      "text": "PornHub.com's single most popular video features _ and _.",
+      "pick": 2
+    },
+    {
+      "text": "So then he says, \"If you want to make this relationship work, you need to give up _ and _.\"\n\nAs.  If.",
+      "pick": 2
+    },
+    {
+      "text": "Thanks to _, I now have a crippling fear of _.",
+      "pick": 2
+    },
+    {
+      "text": "The best part of waking up is _.",
+      "pick": 1
+    },
+    {
+      "text": "The last three items on my \"bucket list\":",
+      "pick": 1
+    },
+    {
+      "text": "Three bullet points from my OKCupid® profile: _, _, and, (most importantly) _.",
+      "pick": 3
+    },
+    {
+      "text": "Tonight on \"My Super Sweet 16,\" Stephani's parents give her _.",
+      "pick": 1
+    },
+    {
+      "text": "Tonight on \"Supernatural,\" Sam and Dean are forced to confront _ using only _.",
+      "pick": 2
+    },
+    {
+      "text": "What do we want?  _!\n\nWhen do we want it?  Now!",
+      "pick": 1
+    },
+    {
+      "text": "What was one of the rejected flavors for Bertie Bott's Every Flavour Beans™?",
+      "pick": 1
+    },
+    {
+      "text": "When I'm dating somebody, I can overlook _ and _, but _ is a deal-breaker.",
+      "pick": 3
+    },
+    {
+      "text": "Why won't they let me in Chuck E. Cheese's® anymore?",
+      "pick": 1
+    },
+    {
+      "text": "William Shatner's shocking new autobiography is titled \"_: The Final Frontier.\"",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "A $50 cup of coffee literally made from cat shit.",
+      "renderHtml": false
+    },
+    {
+      "text": "A beard longer than 12 inches.",
+      "renderHtml": false
+    },
+    {
+      "text": "A four-inch clit.",
+      "renderHtml": false
+    },
+    {
+      "text": "A hamster with a throbbing erection.",
+      "renderHtml": false
+    },
+    {
+      "text": "A mazel tov cocktail.",
+      "renderHtml": false
+    },
+    {
+      "text": "A nugget of poo roughly the size and shape of a crouton.",
+      "renderHtml": false
+    },
+    {
+      "text": "A prehensile penis.",
+      "renderHtml": false
+    },
+    {
+      "text": "A sexually aggressive koala.",
+      "renderHtml": false
+    },
+    {
+      "text": "A shockingly flatulent bobcat.",
+      "renderHtml": false
+    },
+    {
+      "text": "A strong, independent woman who don't need no man.",
+      "renderHtml": false
+    },
+    {
+      "text": "A tossed salad.",
+      "renderHtml": false
+    },
+    {
+      "text": "Affirmative action.",
+      "renderHtml": false
+    },
+    {
+      "text": "An asexual bonobo.",
+      "renderHtml": false
+    },
+    {
+      "text": "An entire bottle of Jagermeister®.",
+      "renderHtml": false
+    },
+    {
+      "text": "An extra-large can of Bone Bashful™ brand Chinchilla Pudding Sauce.",
+      "renderHtml": false
+    },
+    {
+      "text": "An Oosik, or Inuit war club made from the penis bone of a walrus.",
+      "renderHtml": false
+    },
+    {
+      "text": "An overly-enthusiastic prostate exam.",
+      "renderHtml": false
+    },
+    {
+      "text": "An unsurprising rash.",
+      "renderHtml": false
+    },
+    {
+      "text": "Axl Rose.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bacne.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bacon that can feel pain.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bacon-flavored lube.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being born with a tail.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being kicked in the ovaries.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being punk in drublic.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being raped to sleep by dickwolves.",
+      "renderHtml": false
+    },
+    {
+      "text": "Belching out the lyrics to \"Hey Jude.\"",
+      "renderHtml": false
+    },
+    {
+      "text": "Bono.\nJust... Bono.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bronies.",
+      "renderHtml": false
+    },
+    {
+      "text": "Cockasaurus rex: the horniest dinosaur of them all.",
+      "renderHtml": false
+    },
+    {
+      "text": "Cocktimus Prime: the laser-guided dildo rocket.",
+      "renderHtml": false
+    },
+    {
+      "text": "Costco® food samples.",
+      "renderHtml": false
+    },
+    {
+      "text": "Death by snu-snu.",
+      "renderHtml": false
+    },
+    {
+      "text": "Droppin' the mic.",
+      "renderHtml": false
+    },
+    {
+      "text": "Enrolling in clown school.",
+      "renderHtml": false
+    },
+    {
+      "text": "Erotic balloon animals.",
+      "renderHtml": false
+    },
+    {
+      "text": "Explaining how I got the nickname \"Nibbleberries.\"",
+      "renderHtml": false
+    },
+    {
+      "text": "Ezekiel 23:20\n\"There she lusted after her lovers, whose genitals were like those of donkeys and whose emission was like that of horses.\"",
+      "renderHtml": false
+    },
+    {
+      "text": "Flop sweat.",
+      "renderHtml": false
+    },
+    {
+      "text": "Gilbert Gottfried's voice.",
+      "renderHtml": false
+    },
+    {
+      "text": "Giving Anne Frank a drum kit for her birthday.",
+      "renderHtml": false
+    },
+    {
+      "text": "Giving the tumor a cutesy name.",
+      "renderHtml": false
+    },
+    {
+      "text": "Googling \"Betty White nude.\"",
+      "renderHtml": false
+    },
+    {
+      "text": "Grandma's wet, sloppy kisses.",
+      "renderHtml": false
+    },
+    {
+      "text": "Honey Boo Boo shotgunning a 2-litre bottle of \"go-go juice.\"",
+      "renderHtml": false
+    },
+    {
+      "text": "Insisting that Jesus is technically a zombie.",
+      "renderHtml": false
+    },
+    {
+      "text": "JJ Abrams putting lens flares all over everything.",
+      "renderHtml": false
+    },
+    {
+      "text": "Joe Biden getting his freak on.",
+      "renderHtml": false
+    },
+    {
+      "text": "Joffrey Baratheon, the loathsome little shit.",
+      "renderHtml": false
+    },
+    {
+      "text": "LEGO® recreations of classic pornos.",
+      "renderHtml": false
+    },
+    {
+      "text": "Lego® recreations of famous porn scenes.",
+      "renderHtml": false
+    },
+    {
+      "text": "Logic.",
+      "renderHtml": false
+    },
+    {
+      "text": "Michele Bachmann furiously masturbating with a coathanger.",
+      "renderHtml": false
+    },
+    {
+      "text": "Mitt Romney doing a burlesque routine in a giant champagne glass.",
+      "renderHtml": false
+    },
+    {
+      "text": "Monkey torture.",
+      "renderHtml": false
+    },
+    {
+      "text": "My level 90 night elf, Leafshit Puddingsbane.",
+      "renderHtml": false
+    },
+    {
+      "text": "Natalie Portman naked, petrified, and covered in hot grits.",
+      "renderHtml": false
+    },
+    {
+      "text": "Officially no longer giving a shit.",
+      "renderHtml": false
+    },
+    {
+      "text": "Plato's Allegory of the Cave or some other pretentious bullshit.",
+      "renderHtml": false
+    },
+    {
+      "text": "Posting on www.reddit.com/r/gonewild/",
+      "renderHtml": false
+    },
+    {
+      "text": "Pretending to be a malfunctioning robot.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pretending to have the hiccups.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pronouncing \"quinoa\" properly.",
+      "renderHtml": false
+    },
+    {
+      "text": "Racist ninjas.",
+      "renderHtml": false
+    },
+    {
+      "text": "Raptor Jesus.",
+      "renderHtml": false
+    },
+    {
+      "text": "Reluctant anal.",
+      "renderHtml": false
+    },
+    {
+      "text": "S'more Schnapps.",
+      "renderHtml": false
+    },
+    {
+      "text": "Selling out.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sexy witches.",
+      "renderHtml": false
+    },
+    {
+      "text": "Slightly more than 3 ounces of cum.",
+      "renderHtml": false
+    },
+    {
+      "text": "Steaming hot lemonade.",
+      "renderHtml": false
+    },
+    {
+      "text": "Struggle snuggles.",
+      "renderHtml": false
+    },
+    {
+      "text": "That \"not-so-fresh\" feeling.",
+      "renderHtml": false
+    },
+    {
+      "text": "The combined fat from all of the Kardashian's liposuction procedures.",
+      "renderHtml": false
+    },
+    {
+      "text": "The combined fat from all the Kardashian family liposuctions.",
+      "renderHtml": false
+    },
+    {
+      "text": "The fabled Mongolian Death Worm.",
+      "renderHtml": false
+    },
+    {
+      "text": "The green apple splatters.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Slender Man.",
+      "renderHtml": false
+    },
+    {
+      "text": "The TARDIS.",
+      "renderHtml": false
+    },
+    {
+      "text": "Thirty pieces of silver.",
+      "renderHtml": false
+    },
+    {
+      "text": "Touching each other's butts.",
+      "renderHtml": false
+    },
+    {
+      "text": "Using teeth.",
+      "renderHtml": false
+    },
+    {
+      "text": "Van Gogh's severed ear.",
+      "renderHtml": false
+    },
+    {
+      "text": "Weaponized ebola.",
+      "renderHtml": false
+    },
+    {
+      "text": "Wielding a toddler as a weapon.",
+      "renderHtml": false
+    },
+    {
+      "text": "WINNING!!",
+      "renderHtml": false
+    },
+    {
+      "text": "Yoga to the Sorrowful Mysteries.",
+      "renderHtml": false
+    }
+  ]
+}

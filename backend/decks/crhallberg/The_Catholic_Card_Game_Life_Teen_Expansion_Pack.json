@@ -1,0 +1,225 @@
+{
+  "order": 188,
+  "displayName": "The Catholic Card Game: Life Teen Expansion Pack",
+  "name": "The_Catholic_Card_Game_Life_Teen_Expansion_Pack",
+  "whiteCards": [
+    {
+      "text": "Even St. Jude can't help _.",
+      "pick": 1
+    },
+    {
+      "text": "Good thing our Church doesn't do _.",
+      "pick": 1
+    },
+    {
+      "text": "I hate it when my small group leader says _.",
+      "pick": 1
+    },
+    {
+      "text": "I will make you fishers of _.",
+      "pick": 1
+    },
+    {
+      "text": "The Church Fathers never would have put up with _.",
+      "pick": 1
+    },
+    {
+      "text": "The Spirit is leading me to tell you about _.",
+      "pick": 1
+    },
+    {
+      "text": "We need a podcast for _.",
+      "pick": 1
+    },
+    {
+      "text": "Youth group didn't prepare me for _.",
+      "pick": 1
+    },
+    {
+      "text": "Youth group prepared me well for _.",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "A not so special prayer intention.",
+      "renderHtml": false
+    },
+    {
+      "text": "Accidentally drinking holy water.",
+      "renderHtml": false
+    },
+    {
+      "text": "Awkward silence in small groups.",
+      "renderHtml": false
+    },
+    {
+      "text": "Baking a little cake.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being overwhelmed by all the devotions I should have.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being superior for not going to public school.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being the smartest kid in the youth group.",
+      "renderHtml": false
+    },
+    {
+      "text": "Camping retreats in the wilderness.",
+      "renderHtml": false
+    },
+    {
+      "text": "Catholic pickup lines.",
+      "renderHtml": false
+    },
+    {
+      "text": "Chanting \"I love Jesus yes I do.\"",
+      "renderHtml": false
+    },
+    {
+      "text": "Choosing my confirmation Saint on a whim.",
+      "renderHtml": false
+    },
+    {
+      "text": "Clothespins.",
+      "renderHtml": false
+    },
+    {
+      "text": "Conga lines at conferences.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dating Jesus.",
+      "renderHtml": false
+    },
+    {
+      "text": "Feeling weak after a haircut.",
+      "renderHtml": false
+    },
+    {
+      "text": "Going to adoration for a first date.",
+      "renderHtml": false
+    },
+    {
+      "text": "Going to youth group to see my crush.",
+      "renderHtml": false
+    },
+    {
+      "text": "Having a dove for a pet.",
+      "renderHtml": false
+    },
+    {
+      "text": "Having wet hair at Mass.",
+      "renderHtml": false
+    },
+    {
+      "text": "Lazarus' morning breath.",
+      "renderHtml": false
+    },
+    {
+      "text": "Looking for any excuse to show off my guitar skills.",
+      "renderHtml": false
+    },
+    {
+      "text": "Looking good for Jesus.",
+      "renderHtml": false
+    },
+    {
+      "text": "Loving my enemies.",
+      "renderHtml": false
+    },
+    {
+      "text": "Matching youth group t-shirts.",
+      "renderHtml": false
+    },
+    {
+      "text": "Mischievous altar servers.",
+      "renderHtml": false
+    },
+    {
+      "text": "My lifeguard walks on water.",
+      "renderHtml": false
+    },
+    {
+      "text": "My stomach growling in adoration.",
+      "renderHtml": false
+    },
+    {
+      "text": "NCYC hats.",
+      "renderHtml": false
+    },
+    {
+      "text": "Needing grace upon grace.",
+      "renderHtml": false
+    },
+    {
+      "text": "No purple!",
+      "renderHtml": false
+    },
+    {
+      "text": "Not having silly talk.",
+      "renderHtml": false
+    },
+    {
+      "text": "Offering my second fruits.",
+      "renderHtml": false
+    },
+    {
+      "text": "Only listening to Christian music.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pixie Sticks and Soda.",
+      "renderHtml": false
+    },
+    {
+      "text": "Popping my knuckles when it suddenly gets quiet at church.",
+      "renderHtml": false
+    },
+    {
+      "text": "Putting my leftovers in wicker baskets.",
+      "renderHtml": false
+    },
+    {
+      "text": "Saturday night at a Steubenville Conference.",
+      "renderHtml": false
+    },
+    {
+      "text": "Speed praying to be done faster.",
+      "renderHtml": false
+    },
+    {
+      "text": "St. Therese of Lisieux.",
+      "renderHtml": false
+    },
+    {
+      "text": "Talking about who among us is greatest.",
+      "renderHtml": false
+    },
+    {
+      "text": "The bus breaking down on the way to retreat.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Cross Clap.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Vatican flag emoji.",
+      "renderHtml": false
+    },
+    {
+      "text": "Watching people's shoes pass by during Communion.",
+      "renderHtml": false
+    },
+    {
+      "text": "Women's sessions.",
+      "renderHtml": false
+    }
+  ]
+}

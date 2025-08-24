@@ -1,0 +1,449 @@
+{
+  "order": 153,
+  "displayName": "Humanity Hates Trump: Expansion Pack 2 - Humanity Hates Hillary, Too",
+  "name": "Humanity_Hates_Trump_Expansion_Pack_2_-_Humanity_Hates_Hillary,_Too",
+  "whiteCards": [
+    {
+      "text": "_ is Hillary's Watergate.",
+      "pick": 1
+    },
+    {
+      "text": "_ is the law of the land, deal with it.",
+      "pick": 1
+    },
+    {
+      "text": "Al Gore invented _",
+      "pick": 1
+    },
+    {
+      "text": "As first female president, I am legalizing _.",
+      "pick": 1
+    },
+    {
+      "text": "Daddy? What are you doing?",
+      "pick": 1
+    },
+    {
+      "text": "Having sex with Hillary is like having sex with _.",
+      "pick": 1
+    },
+    {
+      "text": "Hey, Susie. I know your job is _ but can you just grab me _? Thanks.",
+      "pick": 2
+    },
+    {
+      "text": "Hillary is better then Trump because of _.",
+      "pick": 1
+    },
+    {
+      "text": "Hillary is worse then Trump because of _.",
+      "pick": 1
+    },
+    {
+      "text": "Hillary was caught with _.",
+      "pick": 1
+    },
+    {
+      "text": "I did not have _ with _.",
+      "pick": 2
+    },
+    {
+      "text": "I didn't believe the gossip tabloids about _, until I watched the videos.",
+      "pick": 1
+    },
+    {
+      "text": "In order to win more voters, Hillary Clinton will now support _.",
+      "pick": 1
+    },
+    {
+      "text": "It depends on what the meaning of the word(s) _ is/are.",
+      "pick": 1
+    },
+    {
+      "text": "It's not cheating if (its/I'm) _.",
+      "pick": 1
+    },
+    {
+      "text": "Martin Luther King's real dream was _.",
+      "pick": 1
+    },
+    {
+      "text": "My husband may have ( his ) _, but he has never lied to me.",
+      "pick": 1
+    },
+    {
+      "text": "Newsflash. Hillary is President. What's Next?",
+      "pick": 1
+    },
+    {
+      "text": "The Presidential reality show would feature _.",
+      "pick": 1
+    },
+    {
+      "text": "There are _ everywhere. And yet they do not contribute to the growth of their own countries.",
+      "pick": 1
+    },
+    {
+      "text": "To deny the opportunity to any of our daughters and sons solely on the basis of _ is to deny them the chance to live up to their God given potential.",
+      "pick": 1
+    },
+    {
+      "text": "We have to pass the _ Act, which is currently pending in Congress.",
+      "pick": 1
+    },
+    {
+      "text": "What made this the most dramatic rose ceremony ever?",
+      "pick": 1
+    },
+    {
+      "text": "What makes a man sponge-worthy?",
+      "pick": 1
+    },
+    {
+      "text": "What resonates with Millennials?",
+      "pick": 1
+    },
+    {
+      "text": "What should I get my therapist for Christmas?",
+      "pick": 1
+    },
+    {
+      "text": "What will Bill Clinton's social cause be as First Man?",
+      "pick": 1
+    },
+    {
+      "text": "What's my preferred method of contraception?",
+      "pick": 1
+    },
+    {
+      "text": "Why do men on the internet send me pictures of _?",
+      "pick": 1
+    },
+    {
+      "text": "Yeah, I got him off. So What? Who Cares? We got the _ thrown out, so he walked.",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "A $20 bill with Harriet Tubman's face on it.",
+      "renderHtml": false
+    },
+    {
+      "text": "A federal holiday named after a black woman (or any woman, for that matter).",
+      "renderHtml": false
+    },
+    {
+      "text": "A really solid tuck job.",
+      "renderHtml": false
+    },
+    {
+      "text": "a reissue of Battleship where you have to find the clitoris.",
+      "renderHtml": false
+    },
+    {
+      "text": "A Very Hillary Christmas Special.",
+      "renderHtml": false
+    },
+    {
+      "text": "An 80-year-old woman with her 20-year-old lover.",
+      "renderHtml": false
+    },
+    {
+      "text": "An all-girl orgy comprised entirely of feminists.",
+      "renderHtml": false
+    },
+    {
+      "text": "Anyone but Hillary.",
+      "renderHtml": false
+    },
+    {
+      "text": "Arthur Weasley's muggle porn.",
+      "renderHtml": false
+    },
+    {
+      "text": "Asking Apple to unlock Hillary's iPhone.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bacon panties to stop rape in the Middle East.",
+      "renderHtml": false
+    },
+    {
+      "text": "Barbara Bush's bush.. NOT located in the Rose Garden.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being an overweight bitch.",
+      "renderHtml": false
+    },
+    {
+      "text": "Big Bird impersonator, Linda Tripp.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bill becoming First Lady.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bill Clinton in the Supreme (Food) Court.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bill Clinton's Ashley Madison account.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bill Clinton's flaccid penis.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bill Clinton's sexual assault victims.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bill Clintons love child.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bill's saxophone (only thing of Bill's that gets blown).",
+      "renderHtml": false
+    },
+    {
+      "text": "Blowing the election Monica Lewinsky style.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bruce Jenner's car having tranny issues.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bruises from \"falling down some stairs\".",
+      "renderHtml": false
+    },
+    {
+      "text": "Calling your white friend \"my nigga\".",
+      "renderHtml": false
+    },
+    {
+      "text": "Chelsea's first period.",
+      "renderHtml": false
+    },
+    {
+      "text": "Chillary.",
+      "renderHtml": false
+    },
+    {
+      "text": "CNN's shocking new study that shows women aren't treated equally with men.",
+      "renderHtml": false
+    },
+    {
+      "text": "Congress examining your emails and finding out you're subscribed to www.muffdivers.com.",
+      "renderHtml": false
+    },
+    {
+      "text": "Craigslist sex ad.",
+      "renderHtml": false
+    },
+    {
+      "text": "Daddy loving you a little too much.",
+      "renderHtml": false
+    },
+    {
+      "text": "Depriving white men of the right to vote for 150 years and just seeing what happens.",
+      "renderHtml": false
+    },
+    {
+      "text": "Donald Trump's Presidential Seal: The bald spread eagle.",
+      "renderHtml": false
+    },
+    {
+      "text": "Donald Trump's worn out toupee.",
+      "renderHtml": false
+    },
+    {
+      "text": "Donating your breast milk for vegan consumption.",
+      "renderHtml": false
+    },
+    {
+      "text": "Drones hurting more innocent children than Jared from Subway.",
+      "renderHtml": false
+    },
+    {
+      "text": "E.coli-infested burritos from Chipotle.",
+      "renderHtml": false
+    },
+    {
+      "text": "Female President on her period.",
+      "renderHtml": false
+    },
+    {
+      "text": "Growing up black.",
+      "renderHtml": false
+    },
+    {
+      "text": "Guys who take off their wedding rings before they flirt with you at a bar.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hagrid and Madame Maxime roleplay.",
+      "renderHtml": false
+    },
+    {
+      "text": "Having an affair with the Grand Master of the KKK.",
+      "renderHtml": false
+    },
+    {
+      "text": "Having unprotected sex to honor the anniversary of Roe v. Wade.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hillary Clinton telling the truth about anything.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hillary for Prison 2016.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hillary's dildo collection.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hillary's front-butt locked in a chastity belt.",
+      "renderHtml": false
+    },
+    {
+      "text": "Joe Biden whispering sweet nothings in your ear.",
+      "renderHtml": false
+    },
+    {
+      "text": "Keeping up with the Obamas.",
+      "renderHtml": false
+    },
+    {
+      "text": "Keeping women in their rightful place... the kitchen.",
+      "renderHtml": false
+    },
+    {
+      "text": "Kill Bill.",
+      "renderHtml": false
+    },
+    {
+      "text": "Kunte Kinte whipping and nae naeing.",
+      "renderHtml": false
+    },
+    {
+      "text": "Letting your step child out of the cage.",
+      "renderHtml": false
+    },
+    {
+      "text": "Living with the fact that you're a white person who regularly download songs from \"Glee.\"",
+      "renderHtml": false
+    },
+    {
+      "text": "Losing the 2016 election and applying for the celebrity apprentice.",
+      "renderHtml": false
+    },
+    {
+      "text": "Loudmouth lesbians.",
+      "renderHtml": false
+    },
+    {
+      "text": "Monica voting Republican because democrats left a bad taste in her mouth.",
+      "renderHtml": false
+    },
+    {
+      "text": "Monica: Putting the \"BJ\" in Bill Jefferson Clinton.",
+      "renderHtml": false
+    },
+    {
+      "text": "Nancy Reagan spoon feeding baby food to the Gipper.",
+      "renderHtml": false
+    },
+    {
+      "text": "Obama's celebrity black book.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pro-Choice or Pro-Hanger.",
+      "renderHtml": false
+    },
+    {
+      "text": "Realizing halfway through a great date that you forgot to tweeze those nipple hairs.",
+      "renderHtml": false
+    },
+    {
+      "text": "Reminding yourself not to start a conversation about your to-do list after your mind wanders during sex.",
+      "renderHtml": false
+    },
+    {
+      "text": "Resting bitch face.",
+      "renderHtml": false
+    },
+    {
+      "text": "Saddam Hussein reenacting the Godfather with a group of Saddam Hussein lookalikes.",
+      "renderHtml": false
+    },
+    {
+      "text": "Shitting in the Oval Office trash can.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sucking Wall Street's dick for 30 years.",
+      "renderHtml": false
+    },
+    {
+      "text": "Talking sexy social justice with Maya Angelou until your caged bird sings.",
+      "renderHtml": false
+    },
+    {
+      "text": "Taylor Swift's sloppy seconds.",
+      "renderHtml": false
+    },
+    {
+      "text": "Thawed out placenta.",
+      "renderHtml": false
+    },
+    {
+      "text": "The assassination of Hillary's sex life.",
+      "renderHtml": false
+    },
+    {
+      "text": "The disconcertingly placed hotel room mirror that allows you to finally know how your face looks when you poop.",
+      "renderHtml": false
+    },
+    {
+      "text": "The First Presidential queef.",
+      "renderHtml": false
+    },
+    {
+      "text": "The look on your boyfriend's face when he said \"anal is no big deal\" so you pulled out a strap-on.",
+      "renderHtml": false
+    },
+    {
+      "text": "The new Special K diet: eating the box.",
+      "renderHtml": false
+    },
+    {
+      "text": "The underwear sniff test.",
+      "renderHtml": false
+    },
+    {
+      "text": "Transgender and minority women.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ultimate BITCH CARD",
+      "renderHtml": false
+    },
+    {
+      "text": "Using April Fools as a barometer to figure out which of your friends are actually funny.",
+      "renderHtml": false
+    },
+    {
+      "text": "Wearing the pantsuits in your relationship.",
+      "renderHtml": false
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "order": 6,
+  "displayName": "CAH: 2000s Nostalgia Pack",
+  "name": "CAH_2000s_Nostalgia_Pack",
+  "whiteCards": [
+    {
+      "text": "_? That's a no from me, dawg.",
+      "pick": 1
+    },
+    {
+      "text": "16 people. 39 days of _. One Survivor.",
+      "pick": 1
+    },
+    {
+      "text": "I couldn't help but wonder. Was \"having it all\" an unattainable myth? Was the secret to a truly happy life just _?",
+      "pick": 1
+    },
+    {
+      "text": "Oh my god! _ killed Kenny!",
+      "pick": 1
+    },
+    {
+      "text": "Oops! I did it again. I played with _.",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "All these boys in my yard asking for milkshakes.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being a total Miranda.",
+      "renderHtml": false
+    },
+    {
+      "text": "Blowing Lucas on an inflatable chair.",
+      "renderHtml": false
+    },
+    {
+      "text": "Chunky highlights.",
+      "renderHtml": false
+    },
+    {
+      "text": "Collateralized debt obligations.",
+      "renderHtml": false
+    },
+    {
+      "text": "Competing against 20 other women for the love of Flava Flav.",
+      "renderHtml": false
+    },
+    {
+      "text": "Cybering with diselman89.",
+      "renderHtml": false
+    },
+    {
+      "text": "Defining marriage at the union of one man and one woman.",
+      "renderHtml": false
+    },
+    {
+      "text": "Doing 9/11.",
+      "renderHtml": false
+    },
+    {
+      "text": "Downloading a bunch of weird porn on Kazaa.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting crunk.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting drenched in Dave Matthew's shit and piss.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting pwned.",
+      "renderHtml": false
+    },
+    {
+      "text": "Going to prom with a 108-year-old vampire.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hoobastank.",
+      "renderHtml": false
+    },
+    {
+      "text": "Letting the terrorists win.",
+      "renderHtml": false
+    },
+    {
+      "text": "My son and business partnew H.W. Plainview.",
+      "renderHtml": false
+    },
+    {
+      "text": "Starting to be cool about gay people.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sustainability",
+      "renderHtml": false
+    },
+    {
+      "text": "Taking a blurry photo of my penis on my Motorola Razr.",
+      "renderHtml": false
+    },
+    {
+      "text": "The conservative blogosphere.",
+      "renderHtml": false
+    },
+    {
+      "text": "The new Sweet Onion Chicken Teriyaki sandwich from Subway!",
+      "renderHtml": false
+    },
+    {
+      "text": "Two girls sharing one cup of poop.",
+      "renderHtml": false
+    },
+    {
+      "text": "Vajazzling my vajayjay.",
+      "renderHtml": false
+    },
+    {
+      "text": "Weapons of tax destruction.",
+      "renderHtml": false
+    }
+  ]
+}

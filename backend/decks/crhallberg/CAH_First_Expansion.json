@@ -1,0 +1,569 @@
+{
+  "order": 15,
+  "displayName": "CAH: First Expansion",
+  "name": "CAH_First_Expansion",
+  "whiteCards": [
+    {
+      "text": "An international tribunal has found _ guilty of _.",
+      "pick": 2
+    },
+    {
+      "text": "And I would have gotten away with it, too, if it hadn't been for _!",
+      "pick": 1
+    },
+    {
+      "text": "Awww, sick! I just saw this skater do a 720 kickflip into _!",
+      "pick": 1
+    },
+    {
+      "text": "Dear Substitute Teacher, could you please stop _?",
+      "pick": 1
+    },
+    {
+      "text": "DOCTOR:\nWhat seems to be the problem?\n\nYOU: \n_.",
+      "pick": 1
+    },
+    {
+      "text": "Future Historians will agree that _ marked the beginning of America's decline.",
+      "pick": 1
+    },
+    {
+      "text": "He who controls _ controls the world.",
+      "pick": 1
+    },
+    {
+      "text": "I left Hamilton because I heard about _'s obsession with _.",
+      "pick": 2
+    },
+    {
+      "text": "In a pinch, _ can be a suitable substitute for _.",
+      "pick": 2
+    },
+    {
+      "text": "In his new summer comedy, Rob Schneider is _ trapped in the body of _.",
+      "pick": 2
+    },
+    {
+      "text": "In its new tourism campaign, Detroit proudly proclaims that it has finally eliminated _.",
+      "pick": 1
+    },
+    {
+      "text": "In some cultures, _ is considered a good omen.",
+      "pick": 1
+    },
+    {
+      "text": "In the distant future, historians will agree that _ marked the beginning of America's decline.",
+      "pick": 1
+    },
+    {
+      "text": "Michael Bay's new three-hour action epic pits _ against _.",
+      "pick": 2
+    },
+    {
+      "text": "My porn-star name would be _; and I'm famous for _.",
+      "pick": 2
+    },
+    {
+      "text": "Next season on Man vs, Wild, Bear Grylls must survive the depths of the Amazon with only _ and his wits.",
+      "pick": 1
+    },
+    {
+      "text": "Next week on Discovery Channel, one man must survive in the depths of the Amazon with only _ and his wits.",
+      "pick": 1
+    },
+    {
+      "text": "Science will never explain the origin of _.",
+      "pick": 1
+    },
+    {
+      "text": "Science will never explain the origin of _.",
+      "pick": 1
+    },
+    {
+      "text": "The CIA now interrogates enemy agents by repeatedly subjecting them to _.",
+      "pick": 1
+    },
+    {
+      "text": "The secret to getting your adopted African street dog back into the United States is _.",
+      "pick": 1
+    },
+    {
+      "text": "The socialist governments of Scandinavia have declared that access to _ is a basic human right.",
+      "pick": 1
+    },
+    {
+      "text": "This season on Man vs. Wild, Bear Grylls must survive in the depths of the Amazon with only _ and his wits.",
+      "pick": 1
+    },
+    {
+      "text": "What came in the mail today?",
+      "pick": 1
+    },
+    {
+      "text": "What has been seen cannot be unssen! I just witnessed _.",
+      "pick": 1
+    },
+    {
+      "text": "What's the gift that keeps on giving?",
+      "pick": 1
+    },
+    {
+      "text": "When asked about the biggest threat facing the nation, 60% of Americans said _.",
+      "pick": 1
+    },
+    {
+      "text": "When i pooped, what came out?",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "24-hour media coverage.",
+      "renderHtml": false
+    },
+    {
+      "text": "A beached whale.",
+      "renderHtml": false
+    },
+    {
+      "text": "A big black dildo.",
+      "renderHtml": false
+    },
+    {
+      "text": "A bloody pacifier.",
+      "renderHtml": false
+    },
+    {
+      "text": "A crappy little hand.",
+      "renderHtml": false
+    },
+    {
+      "text": "A fat Batman with a sopping wet scrotum.",
+      "renderHtml": false
+    },
+    {
+      "text": "A Japanese tourist who wants something very badly but cannot communicate it.",
+      "renderHtml": false
+    },
+    {
+      "text": "a low sucking sound",
+      "renderHtml": false
+    },
+    {
+      "text": "A nuanced critique.",
+      "renderHtml": false
+    },
+    {
+      "text": "A panty raid.",
+      "renderHtml": false
+    },
+    {
+      "text": "A passionate Latino lover.",
+      "renderHtml": false
+    },
+    {
+      "text": "A plunger to the face.",
+      "renderHtml": false
+    },
+    {
+      "text": "A rival dojo.",
+      "renderHtml": false
+    },
+    {
+      "text": "A smiling black man, a latina businesswoman, a cool Asian, and some whites.",
+      "renderHtml": false
+    },
+    {
+      "text": "A wedding reception. Again.",
+      "renderHtml": false
+    },
+    {
+      "text": "A woman scorned.",
+      "renderHtml": false
+    },
+    {
+      "text": "An atomic wedgie.",
+      "renderHtml": false
+    },
+    {
+      "text": "An Etsy steampunk strap-on.",
+      "renderHtml": false
+    },
+    {
+      "text": "An Ex-Porn Star Kindergarten Teacher",
+      "renderHtml": false
+    },
+    {
+      "text": "Andre the Giant's enormous, leathery scrotum.",
+      "renderHtml": false
+    },
+    {
+      "text": "Appalachian swamp cannibals",
+      "renderHtml": false
+    },
+    {
+      "text": "Appreciative snapping.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ashton Kutcher.",
+      "renderHtml": false
+    },
+    {
+      "text": "Beating your wives.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being a clever little girl.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being a dumb ox.",
+      "renderHtml": false
+    },
+    {
+      "text": "Big Bird's brown, crusty asshole.",
+      "renderHtml": false
+    },
+    {
+      "text": "Blaxploitation.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bosveld lapa porn.",
+      "renderHtml": false
+    },
+    {
+      "text": "Breaking nip slip news.",
+      "renderHtml": false
+    },
+    {
+      "text": "Carnies.",
+      "renderHtml": false
+    },
+    {
+      "text": "Clams.",
+      "renderHtml": false
+    },
+    {
+      "text": "Clenched butt cheeks.",
+      "renderHtml": false
+    },
+    {
+      "text": "Converting your sex dungeon into a baby room",
+      "renderHtml": false
+    },
+    {
+      "text": "Coughing into a vagina.",
+      "renderHtml": false
+    },
+    {
+      "text": "Cutting.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dancing with a broom.",
+      "renderHtml": false
+    },
+    {
+      "text": "Deflowering a princess.",
+      "renderHtml": false
+    },
+    {
+      "text": "deformities floundering in seas of blood and blue paint",
+      "renderHtml": false
+    },
+    {
+      "text": "Dorito breath.",
+      "renderHtml": false
+    },
+    {
+      "text": "Eating an entire box of chocolates.",
+      "renderHtml": false
+    },
+    {
+      "text": "Enormous Scandinavian women.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fabricating statistics.",
+      "renderHtml": false
+    },
+    {
+      "text": "Finding a skeleton.",
+      "renderHtml": false
+    },
+    {
+      "text": "Gandalf's perfectly shaped eyebrows.",
+      "renderHtml": false
+    },
+    {
+      "text": "Genetically modified organisms",
+      "renderHtml": false
+    },
+    {
+      "text": "George Clooney's musk.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting abducted by Peter Pan.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting in her pants, politely.",
+      "renderHtml": false
+    },
+    {
+      "text": "Glamping with Muammar Gaddafi.",
+      "renderHtml": false
+    },
+    {
+      "text": "Good grammar.",
+      "renderHtml": false
+    },
+    {
+      "text": "Having a pint with Aquinas.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hire that Stripper",
+      "renderHtml": false
+    },
+    {
+      "text": "Historical revisionism.",
+      "renderHtml": false
+    },
+    {
+      "text": "Insatiable bloodlust.",
+      "renderHtml": false
+    },
+    {
+      "text": "Jafar.",
+      "renderHtml": false
+    },
+    {
+      "text": "Jean-Claude Van Damme in slow motion.",
+      "renderHtml": false
+    },
+    {
+      "text": "Jean-Claude Van Damme.",
+      "renderHtml": false
+    },
+    {
+      "text": "Just the tip.",
+      "renderHtml": false
+    },
+    {
+      "text": "Liam Neeson",
+      "renderHtml": false
+    },
+    {
+      "text": "Literally fucking the shit out of someone.",
+      "renderHtml": false
+    },
+    {
+      "text": "Mad hacky-sack skills.",
+      "renderHtml": false
+    },
+    {
+      "text": "Making the printer work.",
+      "renderHtml": false
+    },
+    {
+      "text": "Media coverage.",
+      "renderHtml": false
+    },
+    {
+      "text": "Medieval Times® Dinner & Tournament.",
+      "renderHtml": false
+    },
+    {
+      "text": "Mom's ability to take a cock.",
+      "renderHtml": false
+    },
+    {
+      "text": "Moral bankruptcy.",
+      "renderHtml": false
+    },
+    {
+      "text": "My magic awand",
+      "renderHtml": false
+    },
+    {
+      "text": "Neil Patrick Harris.",
+      "renderHtml": false
+    },
+    {
+      "text": "NOOOOOOOOO!!!",
+      "renderHtml": false
+    },
+    {
+      "text": "Nubile slave boys.",
+      "renderHtml": false
+    },
+    {
+      "text": "on her left breast, a mole",
+      "renderHtml": false
+    },
+    {
+      "text": "One thousand Slim Jims.",
+      "renderHtml": false
+    },
+    {
+      "text": "Oversharing on social media",
+      "renderHtml": false
+    },
+    {
+      "text": "Panty raids.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pistol-whipping a hostage.",
+      "renderHtml": false
+    },
+    {
+      "text": "Quiche.",
+      "renderHtml": false
+    },
+    {
+      "text": "Quivering jowls.",
+      "renderHtml": false
+    },
+    {
+      "text": "Revenge fucking.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ripping into a man's chest and pulling out his still-beating heart.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ryanair.",
+      "renderHtml": false
+    },
+    {
+      "text": "Salvia.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sanding off a man's nose.",
+      "renderHtml": false
+    },
+    {
+      "text": "Santa cumming down your chimney.",
+      "renderHtml": false
+    },
+    {
+      "text": "Savagely beating a mascot.",
+      "renderHtml": false
+    },
+    {
+      "text": "Scrubbing under the folds.",
+      "renderHtml": false
+    },
+    {
+      "text": "sexual inadequacy",
+      "renderHtml": false
+    },
+    {
+      "text": "Sexy Siamese twins.",
+      "renderHtml": false
+    },
+    {
+      "text": "Shaft.",
+      "renderHtml": false
+    },
+    {
+      "text": "Shitting perfectly into a hot dog bun.",
+      "renderHtml": false
+    },
+    {
+      "text": "Slow motion.",
+      "renderHtml": false
+    },
+    {
+      "text": "Space muffins.",
+      "renderHtml": false
+    },
+    {
+      "text": "Statistically validated stereotypes.",
+      "renderHtml": false
+    },
+    {
+      "text": "Stockings filled with Vaseline®.",
+      "renderHtml": false
+    },
+    {
+      "text": "Suddenly feeling really sad for 40 years.",
+      "renderHtml": false
+    },
+    {
+      "text": "Suicide Awareness Training.",
+      "renderHtml": false
+    },
+    {
+      "text": "Syphilitic insanity.",
+      "renderHtml": false
+    },
+    {
+      "text": "The boogeyman.",
+      "renderHtml": false
+    },
+    {
+      "text": "The EDL.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Fanta® girls.",
+      "renderHtml": false
+    },
+    {
+      "text": "The four arms of Vishnu.",
+      "renderHtml": false
+    },
+    {
+      "text": "The gun lobby",
+      "renderHtml": false
+    },
+    {
+      "text": "The harsh light of day.",
+      "renderHtml": false
+    },
+    {
+      "text": "The hidden dick in your favorite Disney movie.",
+      "renderHtml": false
+    },
+    {
+      "text": "The ooze.",
+      "renderHtml": false
+    },
+    {
+      "text": "The shambling corpse of Larry King.",
+      "renderHtml": false
+    },
+    {
+      "text": "The worst pain imaginable. Times two!",
+      "renderHtml": false
+    },
+    {
+      "text": "This guy!",
+      "renderHtml": false
+    },
+    {
+      "text": "Tripping elderly roller skaters.",
+      "renderHtml": false
+    },
+    {
+      "text": "Walking in on your mom dominating your dad.",
+      "renderHtml": false
+    },
+    {
+      "text": "Words, words, words.",
+      "renderHtml": false
+    },
+    {
+      "text": "Zeus's sexual appetites.",
+      "renderHtml": false
+    }
+  ]
+}

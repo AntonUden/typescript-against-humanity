@@ -1,0 +1,785 @@
+{
+  "order": 156,
+  "displayName": "JadedAid: A Card Game to Save Humanitarians",
+  "name": "JadedAid_A_Card_Game_to_Save_Humanitarians",
+  "whiteCards": [
+    {
+      "text": "_ is not reimbursable.",
+      "pick": 1
+    },
+    {
+      "text": "_ is our new performance indicator.",
+      "pick": 1
+    },
+    {
+      "text": "_ is the next development panacea.",
+      "pick": 1
+    },
+    {
+      "text": "Angelina Jolie will now be special envoy for _.",
+      "pick": 1
+    },
+    {
+      "text": "As of today, all local staff will be paid in _.",
+      "pick": 1
+    },
+    {
+      "text": "Buy one, give one should be reserved for _.",
+      "pick": 1
+    },
+    {
+      "text": "Ebola was eradicated by injecting _ with _.",
+      "pick": 2
+    },
+    {
+      "text": "GSMA is now promoting smartphones for _.",
+      "pick": 1
+    },
+    {
+      "text": "I spent all my hazard pay on _.",
+      "pick": 1
+    },
+    {
+      "text": "I took inspiration from _ where I started _.",
+      "pick": 2
+    },
+    {
+      "text": "I'm pretty sure \"capacity building\" is just a euphemism for _.",
+      "pick": 1
+    },
+    {
+      "text": "My NGO name means _ in Kiswahili.",
+      "pick": 1
+    },
+    {
+      "text": "My only real Peace Corps accomplishment was _.",
+      "pick": 1
+    },
+    {
+      "text": "Oh joy! Another workshop on _.",
+      "pick": 1
+    },
+    {
+      "text": "Our proposal win themes are _ and _.",
+      "pick": 2
+    },
+    {
+      "text": "Our theory of change: If _, then _.",
+      "pick": 2
+    },
+    {
+      "text": "Save the Children will now be saving _.",
+      "pick": 1
+    },
+    {
+      "text": "Sustainability will be assured through a razor-sharp focus on _.",
+      "pick": 1
+    },
+    {
+      "text": "The best in-kind donation ever received was _.",
+      "pick": 1
+    },
+    {
+      "text": "The data collected with SurveyCTO revealed that the project is getting the greatest results from _.",
+      "pick": 1
+    },
+    {
+      "text": "The Gates Foundation is launching a small grants program to eradicate _.",
+      "pick": 1
+    },
+    {
+      "text": "The humanitarian situation in Syria reminds me of _.",
+      "pick": 1
+    },
+    {
+      "text": "The last mile is paved with _.",
+      "pick": 1
+    },
+    {
+      "text": "The most popular Google search in rural Zambia is \"_.\"",
+      "pick": 1
+    },
+    {
+      "text": "This hashtag will save the world: #_.",
+      "pick": 1
+    },
+    {
+      "text": "To the surprise of funders, Joseph Mbuntu spent the $10000 USD he received from GiveDirectly on _.",
+      "pick": 1
+    },
+    {
+      "text": "USAID brought _ to the people of Haiti when they really needed _.",
+      "pick": 2
+    },
+    {
+      "text": "Vegemite: easier to spread than _.",
+      "pick": 1
+    },
+    {
+      "text": "We're not so much faith-based as _-based.",
+      "pick": 1
+    },
+    {
+      "text": "What is DFID's secret weapon against USAID dominance?",
+      "pick": 1
+    },
+    {
+      "text": "What is the 18th Sustainable Development Goal?",
+      "pick": 1
+    },
+    {
+      "text": "What is USAID's guilty pleasure?",
+      "pick": 1
+    },
+    {
+      "text": "What's the secret to peace in the Middle East?",
+      "pick": 1
+    },
+    {
+      "text": "When the US State Department was evacuated from Yemen, they left a warehouse full of _.",
+      "pick": 1
+    },
+    {
+      "text": "Why was the low-level diplomat kicked out of the country?",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "\"Hello Mister!\"",
+      "renderHtml": false
+    },
+    {
+      "text": "$1.25 per day",
+      "renderHtml": false
+    },
+    {
+      "text": "100 foreskins in a bucket",
+      "renderHtml": false
+    },
+    {
+      "text": "A bad blood-to-stool ratio",
+      "renderHtml": false
+    },
+    {
+      "text": "A bottomless pit of need",
+      "renderHtml": false
+    },
+    {
+      "text": "A career in contract compliance",
+      "renderHtml": false
+    },
+    {
+      "text": "A Celebrity Deathmatch between Jeff Sachs and Bill Easterly",
+      "renderHtml": false
+    },
+    {
+      "text": "A child's unwashed hands",
+      "renderHtml": false
+    },
+    {
+      "text": "A fire drill in the Ronald Reagan Building",
+      "renderHtml": false
+    },
+    {
+      "text": "A gift of live chickens and a stalk of plantains",
+      "renderHtml": false
+    },
+    {
+      "text": "A hand job from a monkey",
+      "renderHtml": false
+    },
+    {
+      "text": "A loan shark in micro lender's clothing",
+      "renderHtml": false
+    },
+    {
+      "text": "A market-driven approach",
+      "renderHtml": false
+    },
+    {
+      "text": "A one-way feedback loop",
+      "renderHtml": false
+    },
+    {
+      "text": "A photogenic child with flies and a distended belly",
+      "renderHtml": false
+    },
+    {
+      "text": "A really solid shit",
+      "renderHtml": false
+    },
+    {
+      "text": "A research grant to find evidence that evidence-based research for policy makers is used by policy makers to make evidence-based policy",
+      "renderHtml": false
+    },
+    {
+      "text": "A sinking boat full of brown people",
+      "renderHtml": false
+    },
+    {
+      "text": "A vial of Bono's tears",
+      "renderHtml": false
+    },
+    {
+      "text": "A white SUV",
+      "renderHtml": false
+    },
+    {
+      "text": "A year's salary from the Shuttleworth Foundation to do whatever the fuck you want",
+      "renderHtml": false
+    },
+    {
+      "text": "Actually giving a shit",
+      "renderHtml": false
+    },
+    {
+      "text": "AIDS",
+      "renderHtml": false
+    },
+    {
+      "text": "An educated angry African",
+      "renderHtml": false
+    },
+    {
+      "text": "An external drive full of ripped TV shows",
+      "renderHtml": false
+    },
+    {
+      "text": "An iPhone at the bottom of a pit latrine",
+      "renderHtml": false
+    },
+    {
+      "text": "An unpronounceable acronym",
+      "renderHtml": false
+    },
+    {
+      "text": "An updated, well-organized spreadsheet",
+      "renderHtml": false
+    },
+    {
+      "text": "Another goddamn cookstove",
+      "renderHtml": false
+    },
+    {
+      "text": "Antimalarial-induced hallucinations",
+      "renderHtml": false
+    },
+    {
+      "text": "Asian ass",
+      "renderHtml": false
+    },
+    {
+      "text": "Avoiding missionaries",
+      "renderHtml": false
+    },
+    {
+      "text": "Ayn Rand",
+      "renderHtml": false
+    },
+    {
+      "text": "Being a gay Mormon in Uganda",
+      "renderHtml": false
+    },
+    {
+      "text": "Beyonic's cashless utopia",
+      "renderHtml": false
+    },
+    {
+      "text": "Bicycle-powered water pumps pedaled by malnourished 8-year-olds",
+      "renderHtml": false
+    },
+    {
+      "text": "Bleeding-heart humanitarianism",
+      "renderHtml": false
+    },
+    {
+      "text": "Bombing in the name of freedom",
+      "renderHtml": false
+    },
+    {
+      "text": "Botflies in my boxers",
+      "renderHtml": false
+    },
+    {
+      "text": "Brain parasites as a behavior change methodology",
+      "renderHtml": false
+    },
+    {
+      "text": "Bribes paid in M-PESA",
+      "renderHtml": false
+    },
+    {
+      "text": "Bribing the local ethics review board",
+      "renderHtml": false
+    },
+    {
+      "text": "Broken condoms",
+      "renderHtml": false
+    },
+    {
+      "text": "Bush meat",
+      "renderHtml": false
+    },
+    {
+      "text": "Carefully curating a social media presence to look cool",
+      "renderHtml": false
+    },
+    {
+      "text": "China!",
+      "renderHtml": false
+    },
+    {
+      "text": "Coming to terms with the fact that your intervention is the problem",
+      "renderHtml": false
+    },
+    {
+      "text": "Contracting AIDS from a cute rebel leader",
+      "renderHtml": false
+    },
+    {
+      "text": "Dennis Rodman diplomacy",
+      "renderHtml": false
+    },
+    {
+      "text": "Diplomatic pouch privileges",
+      "renderHtml": false
+    },
+    {
+      "text": "Disneyland Darfur",
+      "renderHtml": false
+    },
+    {
+      "text": "Disruptive Innovation",
+      "renderHtml": false
+    },
+    {
+      "text": "Ebola juices",
+      "renderHtml": false
+    },
+    {
+      "text": "Emergency Sex",
+      "renderHtml": false
+    },
+    {
+      "text": "Ending peace and harmony by introducing democracy and elections",
+      "renderHtml": false
+    },
+    {
+      "text": "Explaining tat Chad is a country, not a person",
+      "renderHtml": false
+    },
+    {
+      "text": "Fecal sludge",
+      "renderHtml": false
+    },
+    {
+      "text": "Feeling superior to tourists for knowing how to say more than \"thank you\" in the local language",
+      "renderHtml": false
+    },
+    {
+      "text": "George Clooney's wife",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting high with indigenous communities",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting upgraded to business class",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting your vibrator confiscated a the airport",
+      "renderHtml": false
+    },
+    {
+      "text": "Giardia burps",
+      "renderHtml": false
+    },
+    {
+      "text": "Gin o'clock",
+      "renderHtml": false
+    },
+    {
+      "text": "Giving a damn about genocide",
+      "renderHtml": false
+    },
+    {
+      "text": "Giving AIDS to prostitutes",
+      "renderHtml": false
+    },
+    {
+      "text": "Giving up any hope of a stable relationship",
+      "renderHtml": false
+    },
+    {
+      "text": "GIZ",
+      "renderHtml": false
+    },
+    {
+      "text": "Going blind from local moonshine",
+      "renderHtml": false
+    },
+    {
+      "text": "Going local",
+      "renderHtml": false
+    },
+    {
+      "text": "Good old-fashioned colonial values",
+      "renderHtml": false
+    },
+    {
+      "text": "Growing a beard and waving a Kalashnikov",
+      "renderHtml": false
+    },
+    {
+      "text": "Hanging up and pretending you ran out of mobile credit",
+      "renderHtml": false
+    },
+    {
+      "text": "Helpies - selfies to brag about helping",
+      "renderHtml": false
+    },
+    {
+      "text": "His Excellency, President for Life, Field Marshal Al Hadji Doctor Idi Amin Dada, VC, DSO, MC, Lord of All the Beasts of the Earth and Fishes of the Seas and Conqueror of the British Empire in Africa in General and Uganda in Particular",
+      "renderHtml": false
+    },
+    {
+      "text": "Hoarding the only two squares of toilet paper left",
+      "renderHtml": false
+    },
+    {
+      "text": "Humanitarians of Tinder",
+      "renderHtml": false
+    },
+    {
+      "text": "Hypocrisy",
+      "renderHtml": false
+    },
+    {
+      "text": "In the bush",
+      "renderHtml": false
+    },
+    {
+      "text": "In-kind donations of hookers and coke",
+      "renderHtml": false
+    },
+    {
+      "text": "Indigenous alcohol",
+      "renderHtml": false
+    },
+    {
+      "text": "Ineffective cascaded training",
+      "renderHtml": false
+    },
+    {
+      "text": "Interrupting the fecal-oral cycle",
+      "renderHtml": false
+    },
+    {
+      "text": "ISIL's YouTube channel",
+      "renderHtml": false
+    },
+    {
+      "text": "Learning to poop in a Ziploc bag",
+      "renderHtml": false
+    },
+    {
+      "text": "Marrying local",
+      "renderHtml": false
+    },
+    {
+      "text": "Measuring time as an indicator",
+      "renderHtml": false
+    },
+    {
+      "text": "Microloans to start a brothel",
+      "renderHtml": false
+    },
+    {
+      "text": "Mid-Upper Arm Circumference",
+      "renderHtml": false
+    },
+    {
+      "text": "Missing 1K status by 500 miles",
+      "renderHtml": false
+    },
+    {
+      "text": "Monsanto.org",
+      "renderHtml": false
+    },
+    {
+      "text": "My well-hung Senegalese boyfriend",
+      "renderHtml": false
+    },
+    {
+      "text": "My white in shining armor",
+      "renderHtml": false
+    },
+    {
+      "text": "Nepotism",
+      "renderHtml": false
+    },
+    {
+      "text": "Organizational restructuring",
+      "renderHtml": false
+    },
+    {
+      "text": "Orphanage tourism",
+      "renderHtml": false
+    },
+    {
+      "text": "Per diems",
+      "renderHtml": false
+    },
+    {
+      "text": "Phase 17: Establish local ownership",
+      "renderHtml": false
+    },
+    {
+      "text": "Pleasing the donor at any cost",
+      "renderHtml": false
+    },
+    {
+      "text": "Post-Traumatic Stress Disorder",
+      "renderHtml": false
+    },
+    {
+      "text": "Poverty porn",
+      "renderHtml": false
+    },
+    {
+      "text": "Propagating heinous American stereotypes",
+      "renderHtml": false
+    },
+    {
+      "text": "Puking into the shower while sitting on the toilet",
+      "renderHtml": false
+    },
+    {
+      "text": "Real-time data collection",
+      "renderHtml": false
+    },
+    {
+      "text": "Reserving DFID funds for the abortions",
+      "renderHtml": false
+    },
+    {
+      "text": "Robert Mugabe",
+      "renderHtml": false
+    },
+    {
+      "text": "Saving Africa one adoption at a time",
+      "renderHtml": false
+    },
+    {
+      "text": "Seahawks Super Bowl XLIX Championship t-shirts",
+      "renderHtml": false
+    },
+    {
+      "text": "Sean Penn's Glock",
+      "renderHtml": false
+    },
+    {
+      "text": "Secret Service hookers",
+      "renderHtml": false
+    },
+    {
+      "text": "Secretly celebrating when disasters occurs because you don't have to live in your parent's basement anymore",
+      "renderHtml": false
+    },
+    {
+      "text": "Sexpats",
+      "renderHtml": false
+    },
+    {
+      "text": "Sexy UNHAS flight attendants",
+      "renderHtml": false
+    },
+    {
+      "text": "Shagging in a flak jacket",
+      "renderHtml": false
+    },
+    {
+      "text": "Sharts",
+      "renderHtml": false
+    },
+    {
+      "text": "Shooting Cecil the lion",
+      "renderHtml": false
+    },
+    {
+      "text": "Skype sex with a bad Internet connection",
+      "renderHtml": false
+    },
+    {
+      "text": "Sleeping with your supervisors",
+      "renderHtml": false
+    },
+    {
+      "text": "Sobbing while your host family eats your dog for dinner",
+      "renderHtml": false
+    },
+    {
+      "text": "Somali pirates",
+      "renderHtml": false
+    },
+    {
+      "text": "Struggling with the fact that without child labor, there'd be no cocoa",
+      "renderHtml": false
+    },
+    {
+      "text": "Sushi in a landlocked country",
+      "renderHtml": false
+    },
+    {
+      "text": "Sustainability",
+      "renderHtml": false
+    },
+    {
+      "text": "T-shirts!",
+      "renderHtml": false
+    },
+    {
+      "text": "T.I.A.",
+      "renderHtml": false
+    },
+    {
+      "text": "Talking about food security over caviar and fine wine",
+      "renderHtml": false
+    },
+    {
+      "text": "Tea breaks",
+      "renderHtml": false
+    },
+    {
+      "text": "That time the UN recognized Palestine",
+      "renderHtml": false
+    },
+    {
+      "text": "The bloodshot eyes of a boy soldier",
+      "renderHtml": false
+    },
+    {
+      "text": "The British",
+      "renderHtml": false
+    },
+    {
+      "text": "The dysentery diet",
+      "renderHtml": false
+    },
+    {
+      "text": "The economic vacuum left by a UN peacekeeping mission close down",
+      "renderHtml": false
+    },
+    {
+      "text": "The eternal tension between prostitution and entrepreneurship",
+      "renderHtml": false
+    },
+    {
+      "text": "The fourth cup of tea",
+      "renderHtml": false
+    },
+    {
+      "text": "The girl-child",
+      "renderHtml": false
+    },
+    {
+      "text": "The one honest Nigerian official",
+      "renderHtml": false
+    },
+    {
+      "text": "The resource curse",
+      "renderHtml": false
+    },
+    {
+      "text": "The satisfaction that comes with finding the closest workshop venue outside the capitol that qualifies for per diems",
+      "renderHtml": false
+    },
+    {
+      "text": "The sex worker value chain",
+      "renderHtml": false
+    },
+    {
+      "text": "The smug sense of self-satisfaction",
+      "renderHtml": false
+    },
+    {
+      "text": "The sudden realization that your theory of change is a crock of shit",
+      "renderHtml": false
+    },
+    {
+      "text": "The third gender",
+      "renderHtml": false
+    },
+    {
+      "text": "The warm embrace of malaria",
+      "renderHtml": false
+    },
+    {
+      "text": "The White Maasai",
+      "renderHtml": false
+    },
+    {
+      "text": "The White Savior Complex",
+      "renderHtml": false
+    },
+    {
+      "text": "Three large sheep",
+      "renderHtml": false
+    },
+    {
+      "text": "Tragically single middle-aged women",
+      "renderHtml": false
+    },
+    {
+      "text": "Turning human waste into clean energy",
+      "renderHtml": false
+    },
+    {
+      "text": "Two guys with AK-47s",
+      "renderHtml": false
+    },
+    {
+      "text": "Ugali",
+      "renderHtml": false
+    },
+    {
+      "text": "Ushahidi",
+      "renderHtml": false
+    },
+    {
+      "text": "Using fake polio vaccines to find Osama bin Laden",
+      "renderHtml": false
+    },
+    {
+      "text": "Value for money",
+      "renderHtml": false
+    },
+    {
+      "text": "Vandalizing a Mandela statue",
+      "renderHtml": false
+    },
+    {
+      "text": "Village hooch",
+      "renderHtml": false
+    },
+    {
+      "text": "Village justice",
+      "renderHtml": false
+    },
+    {
+      "text": "Voluntourism",
+      "renderHtml": false
+    },
+    {
+      "text": "Whispering under your breath that the US is not the center of the world",
+      "renderHtml": false
+    },
+    {
+      "text": "Women dancing and clapping for an arriving fleet of Land Cruisers",
+      "renderHtml": false
+    }
+  ]
+}

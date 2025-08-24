@@ -1,0 +1,449 @@
+{
+  "order": 152,
+  "displayName": "Humanity Hates Trump: Expansion Pack 1",
+  "name": "Humanity_Hates_Trump_Expansion_Pack_1",
+  "whiteCards": [
+    {
+      "text": "_ is the reason for my pass request.",
+      "pick": 1
+    },
+    {
+      "text": "_ is/are like roaches - you can't kill them",
+      "pick": 1
+    },
+    {
+      "text": "_. It's not just a good idea, it's the law.",
+      "pick": 1
+    },
+    {
+      "text": "_. The solution for women.",
+      "pick": 1
+    },
+    {
+      "text": "_(s) should never be allowed in America.",
+      "pick": 1
+    },
+    {
+      "text": "After last night's debate, we were shocked to find out that Trump supports _.",
+      "pick": 1
+    },
+    {
+      "text": "And on the 8th day, God created _, and it was good",
+      "pick": 1
+    },
+    {
+      "text": "Breaking News: CNN Reports that Donald Trump has been assassinated by _ for his actions in/on _.",
+      "pick": 2
+    },
+    {
+      "text": "Disney Presents: _ on ice!",
+      "pick": 1
+    },
+    {
+      "text": "Donald Trump Is sometimes known by his vigilante alter ego: \"_: Destroyer of _!\"",
+      "pick": 2
+    },
+    {
+      "text": "He alone, who owns the _(s), gains the _(s).",
+      "pick": 2
+    },
+    {
+      "text": "High school students today just don't have a good grasp of _.",
+      "pick": 1
+    },
+    {
+      "text": "I would build a wall around _(s).",
+      "pick": 1
+    },
+    {
+      "text": "In addition to Black History month, Donald Trump has created _ history month.",
+      "pick": 1
+    },
+    {
+      "text": "In Trump tower you'll find 60 stories of _(s) and _(s).",
+      "pick": 2
+    },
+    {
+      "text": "Make _(s) great again.",
+      "pick": 1
+    },
+    {
+      "text": "Monica Lewinsky said she won't vote for another Clinton because of _(s).",
+      "pick": 1
+    },
+    {
+      "text": "New studies show _(s) causes autism.",
+      "pick": 1
+    },
+    {
+      "text": "Next season on Celebrity Apprentice: _.",
+      "pick": 1
+    },
+    {
+      "text": "No more _ at Starbucks.",
+      "pick": 1
+    },
+    {
+      "text": "The concept of Global warming was created by _.",
+      "pick": 1
+    },
+    {
+      "text": "The Japanese Government has spent billions of yen researching _.",
+      "pick": 1
+    },
+    {
+      "text": "There's nothing that money can't buy, except _.\"",
+      "pick": 1
+    },
+    {
+      "text": "They kill us. I beat _(s) all the time. All the time.",
+      "pick": 1
+    },
+    {
+      "text": "Trump uses a mixture of _ and _ to hold his hair in place.",
+      "pick": 2
+    },
+    {
+      "text": "What does Trump do for fun?",
+      "pick": 1
+    },
+    {
+      "text": "What is the secret to winning the hunger games?",
+      "pick": 1
+    },
+    {
+      "text": "What's better than an orgasm?",
+      "pick": 1
+    },
+    {
+      "text": "When I'm President, the first thing I'll hide is _(s).",
+      "pick": 1
+    },
+    {
+      "text": "Why has America gone downhill?",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "\"Trump Nude\" internet searches.",
+      "renderHtml": false
+    },
+    {
+      "text": "A huuuge wall, that the Mexicans will pay for.",
+      "renderHtml": false
+    },
+    {
+      "text": "A sack of potatoes stuffed into a condom.",
+      "renderHtml": false
+    },
+    {
+      "text": "A sign language interpreter at a Trump rally just wildly swinging middle fingers.",
+      "renderHtml": false
+    },
+    {
+      "text": "A small loan of a million dollars.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being the only person at the office-mandated sexual harassment training.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bernie Sanders' Brooklyn accent.",
+      "renderHtml": false
+    },
+    {
+      "text": "Big schlonging.",
+      "renderHtml": false
+    },
+    {
+      "text": "Blood coming out of wherever.",
+      "renderHtml": false
+    },
+    {
+      "text": "Captive war bitches.",
+      "renderHtml": false
+    },
+    {
+      "text": "Carly Fiorina's dog face.",
+      "renderHtml": false
+    },
+    {
+      "text": "Celebrity Apprentice™.",
+      "renderHtml": false
+    },
+    {
+      "text": "China beatings.",
+      "renderHtml": false
+    },
+    {
+      "text": "Chinese campaign clothing.",
+      "renderHtml": false
+    },
+    {
+      "text": "Chinese hackers.",
+      "renderHtml": false
+    },
+    {
+      "text": "Chris Christie's gravitational pull.",
+      "renderHtml": false
+    },
+    {
+      "text": "Clinton bathroom breaks.",
+      "renderHtml": false
+    },
+    {
+      "text": "Common sense gun control laws.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dating your daughter.",
+      "renderHtml": false
+    },
+    {
+      "text": "Demolishing that ass like a Palestinian village.",
+      "renderHtml": false
+    },
+    {
+      "text": "Donald Trump Blow Up Dolls.",
+      "renderHtml": false
+    },
+    {
+      "text": "DRUMPF.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dumb blondes.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ethnic slurs.",
+      "renderHtml": false
+    },
+    {
+      "text": "Euthanization of the Chinese population for fun and profit.",
+      "renderHtml": false
+    },
+    {
+      "text": "Extra chromosomes.",
+      "renderHtml": false
+    },
+    {
+      "text": "Glooooooooooooooooooooria.",
+      "renderHtml": false
+    },
+    {
+      "text": "Heidi Klum's former 10 body.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hillary Clinton's mysterious women powers.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hillary Clinton's sexts.",
+      "renderHtml": false
+    },
+    {
+      "text": "Integrity, or progress?",
+      "renderHtml": false
+    },
+    {
+      "text": "Jokes about 9/11.",
+      "renderHtml": false
+    },
+    {
+      "text": "Legalized marijuana.",
+      "renderHtml": false
+    },
+    {
+      "text": "Lindsey Graham's phone number.",
+      "renderHtml": false
+    },
+    {
+      "text": "Long and beautiful fingers.",
+      "renderHtml": false
+    },
+    {
+      "text": "Losers and haters.",
+      "renderHtml": false
+    },
+    {
+      "text": "Low budget abortion clinics.",
+      "renderHtml": false
+    },
+    {
+      "text": "Mexican rapists.",
+      "renderHtml": false
+    },
+    {
+      "text": "Miss America sex tapes.",
+      "renderHtml": false
+    },
+    {
+      "text": "Non casual sex.",
+      "renderHtml": false
+    },
+    {
+      "text": "Non-Americans.",
+      "renderHtml": false
+    },
+    {
+      "text": "Overly polite strippers from Wisconsin.",
+      "renderHtml": false
+    },
+    {
+      "text": "Police shooting black people.",
+      "renderHtml": false
+    },
+    {
+      "text": "Polish People.",
+      "renderHtml": false
+    },
+    {
+      "text": "Poorly educated voters.",
+      "renderHtml": false
+    },
+    {
+      "text": "President Obama's fake birth certificate.",
+      "renderHtml": false
+    },
+    {
+      "text": "Problematic Mexicans.",
+      "renderHtml": false
+    },
+    {
+      "text": "Rosie O'Donnell's truck driver accent.",
+      "renderHtml": false
+    },
+    {
+      "text": "Rubio's robot overlords.",
+      "renderHtml": false
+    },
+    {
+      "text": "Rubio's sweat.",
+      "renderHtml": false
+    },
+    {
+      "text": "Rubio's water bottle.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sarah Palin in a helicopter shooting seals with an AK-47.",
+      "renderHtml": false
+    },
+    {
+      "text": "Second or Third World Countries.",
+      "renderHtml": false
+    },
+    {
+      "text": "Secret Service laundry Trips.",
+      "renderHtml": false
+    },
+    {
+      "text": "Self-proclaimed teen idol, Donald Trump.",
+      "renderHtml": false
+    },
+    {
+      "text": "Slowly stroking it to a photo of myself.",
+      "renderHtml": false
+    },
+    {
+      "text": "Spraying oneself with Febreeze in lieu of a shower",
+      "renderHtml": false
+    },
+    {
+      "text": "Strategic bankruptcies.",
+      "renderHtml": false
+    },
+    {
+      "text": "Tears of deported immigrants.",
+      "renderHtml": false
+    },
+    {
+      "text": "That damn Apple™ agreement.",
+      "renderHtml": false
+    },
+    {
+      "text": "The funding of Planned Parenthood™.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Oral Office.",
+      "renderHtml": false
+    },
+    {
+      "text": "The other Bush.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Rwandan Genocide.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Ultimate Yule Log\nPlay this card and win the round.\nThe gift that keeps on giving.",
+      "renderHtml": false
+    },
+    {
+      "text": "The War on Drugs.",
+      "renderHtml": false
+    },
+    {
+      "text": "Thinly veiled Hitler quotes.",
+      "renderHtml": false
+    },
+    {
+      "text": "Tiny children in horse costumes.",
+      "renderHtml": false
+    },
+    {
+      "text": "Trump's flabby, wrinkled figure.",
+      "renderHtml": false
+    },
+    {
+      "text": "Trump's hairpiece or a drowned rat.",
+      "renderHtml": false
+    },
+    {
+      "text": "Two small breasts and a bunch of left wings.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ugly mexican hookers.",
+      "renderHtml": false
+    },
+    {
+      "text": "Vacation to the Islamic State.",
+      "renderHtml": false
+    },
+    {
+      "text": "Vanilla Isis.",
+      "renderHtml": false
+    },
+    {
+      "text": "Vietnamese prison camps.",
+      "renderHtml": false
+    },
+    {
+      "text": "Weak and pathetic people.",
+      "renderHtml": false
+    },
+    {
+      "text": "Weekend at Bernie's.",
+      "renderHtml": false
+    },
+    {
+      "text": "Well educated scientists who say vaccines don't cause autism.",
+      "renderHtml": false
+    },
+    {
+      "text": "What's her face.",
+      "renderHtml": false
+    },
+    {
+      "text": "White Rosa Parks.",
+      "renderHtml": false
+    }
+  ]
+}

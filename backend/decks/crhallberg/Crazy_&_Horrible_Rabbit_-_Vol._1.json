@@ -1,0 +1,457 @@
+{
+  "order": 127,
+  "displayName": "Crazy & Horrible Rabbit - Vol. 1",
+  "name": "Crazy_&_Horrible_Rabbit_-_Vol._1",
+  "whiteCards": [
+    {
+      "text": "_ is many things to many people, as you will see and learn.",
+      "pick": 1
+    },
+    {
+      "text": "_ Spice was one of the lesser-known Spice Girls.",
+      "pick": 1
+    },
+    {
+      "text": "_: It even makes it's own gravy!",
+      "pick": 1
+    },
+    {
+      "text": "_: It even makes it's own gravy!",
+      "pick": 1
+    },
+    {
+      "text": "_: the best thing since slices bread.",
+      "pick": 1
+    },
+    {
+      "text": "_! All alone in the moonlight!",
+      "pick": 1
+    },
+    {
+      "text": "_! All alone in the moonlight!",
+      "pick": 1
+    },
+    {
+      "text": "And behold, the fifth seal opened, and there was _ and with it came _.",
+      "pick": 2
+    },
+    {
+      "text": "As a stripper, I have one rule: No _.",
+      "pick": 1
+    },
+    {
+      "text": "Baby I'm _ on the streets, _ in the sheets.",
+      "pick": 2
+    },
+    {
+      "text": "Code Three, request backup! I'm surrounded by _!",
+      "pick": 1
+    },
+    {
+      "text": "Could a brother get _ up in this bitch?",
+      "pick": 1
+    },
+    {
+      "text": "Forget Fifty Shades of Grey... Give me Fifty Shades of _.",
+      "pick": 1
+    },
+    {
+      "text": "I never karaoke because I always end up getting drunk and singing a song about _.",
+      "pick": 1
+    },
+    {
+      "text": "I'm constantly confusing _ and _.",
+      "pick": 2
+    },
+    {
+      "text": "I'm finally writing that book, it's titles \"Zen and the Art of _.\"",
+      "pick": 1
+    },
+    {
+      "text": "Interrogators are now using _ and _ as their new go-to torture methods.",
+      "pick": 2
+    },
+    {
+      "text": "It's all about _-no _.",
+      "pick": 2
+    },
+    {
+      "text": "Let it go! Let it go! _never bothered me anyway...",
+      "pick": 1
+    },
+    {
+      "text": "My Therapist says I have an unhealthy attitude about _.",
+      "pick": 1
+    },
+    {
+      "text": "Next on Adult Swim: The adventures of _ and _.",
+      "pick": 2
+    },
+    {
+      "text": "Thank you Alex, I'll take _ for 800.",
+      "pick": 1
+    },
+    {
+      "text": "Turn the car around. I think I left _ back there.",
+      "pick": 1
+    },
+    {
+      "text": "What really gave Superman his powers?",
+      "pick": 1
+    },
+    {
+      "text": "What would you do for a Klondike Bar?",
+      "pick": 1
+    },
+    {
+      "text": "Whats that sound?",
+      "pick": 1
+    },
+    {
+      "text": "When I was younger I read comics, but now I'm into _.",
+      "pick": 1
+    },
+    {
+      "text": "Why do men on the internet send me pictures of _?",
+      "pick": 1
+    },
+    {
+      "text": "Why is mommy crying?",
+      "pick": 1
+    },
+    {
+      "text": "Why so serious?",
+      "pick": 1
+    },
+    {
+      "text": "Yo bro, you tired _? Shit's straight fire.",
+      "pick": 1
+    },
+    {
+      "text": "Your kids with your fancy degrees... They don't teach ya' nothing' 'bout _ in school.",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "A bag of hammers.",
+      "renderHtml": false
+    },
+    {
+      "text": "A bag of tainted shrimp",
+      "renderHtml": false
+    },
+    {
+      "text": "A bucket of fish heads.",
+      "renderHtml": false
+    },
+    {
+      "text": "A fig tree.",
+      "renderHtml": false
+    },
+    {
+      "text": "A girl.",
+      "renderHtml": false
+    },
+    {
+      "text": "A lemur",
+      "renderHtml": false
+    },
+    {
+      "text": "A meat whistle.",
+      "renderHtml": false
+    },
+    {
+      "text": "A miscarried deployment pregnancy.",
+      "renderHtml": false
+    },
+    {
+      "text": "A nice cup of tea.",
+      "renderHtml": false
+    },
+    {
+      "text": "A peanut butter and KY Jelly sandwich.",
+      "renderHtml": false
+    },
+    {
+      "text": "A racist uncle",
+      "renderHtml": false
+    },
+    {
+      "text": "A Shamrock Shake",
+      "renderHtml": false
+    },
+    {
+      "text": "A soggy bowl of corn flakes",
+      "renderHtml": false
+    },
+    {
+      "text": "A specially trained robot that tortures annoying family members.",
+      "renderHtml": false
+    },
+    {
+      "text": "A Stetson and set of spurs.",
+      "renderHtml": false
+    },
+    {
+      "text": "a tacky fashion sense",
+      "renderHtml": false
+    },
+    {
+      "text": "A turd burglar",
+      "renderHtml": false
+    },
+    {
+      "text": "A whole cheese pizza just for me.",
+      "renderHtml": false
+    },
+    {
+      "text": "Allahu Akbar!",
+      "renderHtml": false
+    },
+    {
+      "text": "Am man crush.",
+      "renderHtml": false
+    },
+    {
+      "text": "An amber necklace.",
+      "renderHtml": false
+    },
+    {
+      "text": "An asshole with dreadlocks.",
+      "renderHtml": false
+    },
+    {
+      "text": "Argentine Tango.",
+      "renderHtml": false
+    },
+    {
+      "text": "Battlefield amputations.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being a sore loser",
+      "renderHtml": false
+    },
+    {
+      "text": "Being caught masturbating by your Mum",
+      "renderHtml": false
+    },
+    {
+      "text": "Being just dark enough to be labeled a terrorist.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being really unprepared for Picture Day.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bill Fucking Murray.",
+      "renderHtml": false
+    },
+    {
+      "text": "Books I'll never read",
+      "renderHtml": false
+    },
+    {
+      "text": "Broken condoms",
+      "renderHtml": false
+    },
+    {
+      "text": "Crotchless knickers",
+      "renderHtml": false
+    },
+    {
+      "text": "Crusty Boogers",
+      "renderHtml": false
+    },
+    {
+      "text": "Diaper blowouts",
+      "renderHtml": false
+    },
+    {
+      "text": "Dick pics.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dickbutt.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dogs",
+      "renderHtml": false
+    },
+    {
+      "text": "Doing things to Ma, in front of Pa.",
+      "renderHtml": false
+    },
+    {
+      "text": "Freeing a fart from its butt prison.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting white girl wasted.",
+      "renderHtml": false
+    },
+    {
+      "text": "going solo",
+      "renderHtml": false
+    },
+    {
+      "text": "Hillary Clinton's wig.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hot Sister Thursdays at the Lackland BX.",
+      "renderHtml": false
+    },
+    {
+      "text": "Iggy Azalea's appropriation of black cultre.",
+      "renderHtml": false
+    },
+    {
+      "text": "Irrational optimism.",
+      "renderHtml": false
+    },
+    {
+      "text": "it'll look big in your hands",
+      "renderHtml": false
+    },
+    {
+      "text": "Kinky porn",
+      "renderHtml": false
+    },
+    {
+      "text": "Me luck Charms!",
+      "renderHtml": false
+    },
+    {
+      "text": "MORTAL KOMBAT.",
+      "renderHtml": false
+    },
+    {
+      "text": "Nutella.",
+      "renderHtml": false
+    },
+    {
+      "text": "One Night in Paris.",
+      "renderHtml": false
+    },
+    {
+      "text": "ONLY WRITING IN ALL CAPS.",
+      "renderHtml": false
+    },
+    {
+      "text": "Police 10 7",
+      "renderHtml": false
+    },
+    {
+      "text": "Quietly tucking my penis under my belt.",
+      "renderHtml": false
+    },
+    {
+      "text": "Santorum: a frothy mixture of semen and fecal matter.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sharing a bank account.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sheriff Joe Arpaio.",
+      "renderHtml": false
+    },
+    {
+      "text": "Shit.",
+      "renderHtml": false
+    },
+    {
+      "text": "Shut the fuck up, Carl!",
+      "renderHtml": false
+    },
+    {
+      "text": "Sitting at the end of the pew so late people can't get in.",
+      "renderHtml": false
+    },
+    {
+      "text": "Skateboard road rash.",
+      "renderHtml": false
+    },
+    {
+      "text": "Spending $12,000 a year on dildos",
+      "renderHtml": false
+    },
+    {
+      "text": "Stank Dick.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sugar Bear™",
+      "renderHtml": false
+    },
+    {
+      "text": "The cockpocalypse.",
+      "renderHtml": false
+    },
+    {
+      "text": "The diminishing purity of the white race.",
+      "renderHtml": false
+    },
+    {
+      "text": "The MWR tour you're no longer allowed to join.",
+      "renderHtml": false
+    },
+    {
+      "text": "The pooping position.",
+      "renderHtml": false
+    },
+    {
+      "text": "The scientific theory that gayness is caused by being bitten by a radioactive gay guy.",
+      "renderHtml": false
+    },
+    {
+      "text": "The sound of Adam Vaughan giving birth to a child",
+      "renderHtml": false
+    },
+    {
+      "text": "The Thong Song.",
+      "renderHtml": false
+    },
+    {
+      "text": "the wetter, the better",
+      "renderHtml": false
+    },
+    {
+      "text": "The youth.",
+      "renderHtml": false
+    },
+    {
+      "text": "they don't pay me enough for this",
+      "renderHtml": false
+    },
+    {
+      "text": "This old lady next to me who won't stop farting.",
+      "renderHtml": false
+    },
+    {
+      "text": "Tinder.",
+      "renderHtml": false
+    },
+    {
+      "text": "Tyra Bank's fat years.",
+      "renderHtml": false
+    },
+    {
+      "text": "Winking arseholes",
+      "renderHtml": false
+    },
+    {
+      "text": "You know, one of them sorts of things.",
+      "renderHtml": false
+    },
+    {
+      "text": "Your boyfriend revealing Cupid isn't the only fairy on Valentine's Day.",
+      "renderHtml": false
+    }
+  ]
+}

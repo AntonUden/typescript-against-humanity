@@ -1,0 +1,29 @@
+{
+  "order": 58,
+  "displayName": "Retail Mini Pack",
+  "name": "Retail_Mini_Pack",
+  "whiteCards": [
+    {
+      "text": "How are the writers of Cards Against Humanity spending your $25?",
+      "pick": 1
+    },
+    {
+      "text": "Looking to earn big bucks? Learn how to make _ work for you!",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "A teenage boy gunning for a handjob.",
+      "renderHtml": false
+    },
+    {
+      "text": "Feeding a man a pie made of his own children.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ironically buying a trucker hat and then ironically being a trucker for 38 years.",
+      "renderHtml": false
+    }
+  ]
+}

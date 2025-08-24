@@ -1,0 +1,1809 @@
+{
+  "order": 82,
+  "displayName": "Cads Against Adulting",
+  "name": "Cads_Against_Adulting",
+  "whiteCards": [
+    {
+      "text": "_ is way too much responsibility for me.",
+      "pick": 1
+    },
+    {
+      "text": "_ should be a human right.",
+      "pick": 1
+    },
+    {
+      "text": "_: it's more likely than you think.",
+      "pick": 1
+    },
+    {
+      "text": "According to this personality quiz, you're the friend who's most likely to be _.",
+      "pick": 1
+    },
+    {
+      "text": "Adulting is like _ mixed with _.",
+      "pick": 2
+    },
+    {
+      "text": "Adulting is stressful. At least as a child I was _.",
+      "pick": 1
+    },
+    {
+      "text": "An upcoming social event just got canceled. How are you celebrating?",
+      "pick": 1
+    },
+    {
+      "text": "At a work meeting, I suggested shifting our core competencies away from web-based monetization and toward _.",
+      "pick": 1
+    },
+    {
+      "text": "During my job interview, I was asked my strengths, so I told them about my talent for _.",
+      "pick": 1
+    },
+    {
+      "text": "Everything's a complete mess but I'm still _ so I guess it's okay.",
+      "pick": 1
+    },
+    {
+      "text": "Great. Millennials have now ruined the _ industry.",
+      "pick": 1
+    },
+    {
+      "text": "Hey! I know we haven't talked in years, but I was wondering if you'd like to make residual income by selling _ with me.",
+      "pick": 1
+    },
+    {
+      "text": "His Tinder profile seemed fine until he listed _ as an interest.",
+      "pick": 1
+    },
+    {
+      "text": "I adulted for six straight hours before _.",
+      "pick": 1
+    },
+    {
+      "text": "I celebrated paying off my credit card by _.",
+      "pick": 1
+    },
+    {
+      "text": "I did my own laundry today! Tomorrow I plan to be _.",
+      "pick": 1
+    },
+    {
+      "text": "I didn't want to deal with my family, so I sat in my car for two hours just _.",
+      "pick": 1
+    },
+    {
+      "text": "I don't care if it's fun, _ is sexism.",
+      "pick": 1
+    },
+    {
+      "text": "I don't need to hold onto my youth, I just love _.",
+      "pick": 1
+    },
+    {
+      "text": "I feel inadequate when I see others _.",
+      "pick": 1
+    },
+    {
+      "text": "I had to call the health insurance company three times just to get coverage for _.",
+      "pick": 1
+    },
+    {
+      "text": "I know I'm good at adulting when I'm regularly _.",
+      "pick": 1
+    },
+    {
+      "text": "I know I'm in touch with my true self when I'm _.",
+      "pick": 1
+    },
+    {
+      "text": "I literally have no hobbies other than _.",
+      "pick": 1
+    },
+    {
+      "text": "I may not argue with what you just said, but I respect your right to be _.",
+      "pick": 1
+    },
+    {
+      "text": "I needed to buy a new mattress but my $50 was only good for _.",
+      "pick": 1
+    },
+    {
+      "text": "I never understand why adults were always in such a bad mood until I started _.",
+      "pick": 1
+    },
+    {
+      "text": "I should really go to sleep right now, but I can't stop _.",
+      "pick": 1
+    },
+    {
+      "text": "I try to find a nice date, but I always end up falling for people who are _.",
+      "pick": 1
+    },
+    {
+      "text": "I used to believe in fairytales. Now I believe in _.",
+      "pick": 1
+    },
+    {
+      "text": "I used to look forward to weekends, but now I just spend my time _.",
+      "pick": 1
+    },
+    {
+      "text": "I want to be the first person take a selfie while _.",
+      "pick": 1
+    },
+    {
+      "text": "I want to settle down and have kids but _ takes up all of my time.",
+      "pick": 1
+    },
+    {
+      "text": "I watched the news for five minutes. Now I want to be _.",
+      "pick": 1
+    },
+    {
+      "text": "I wish I was good as making friends in real life as I was at _.",
+      "pick": 1
+    },
+    {
+      "text": "I wonder if my landlord will accept _ as payment.",
+      "pick": 1
+    },
+    {
+      "text": "I'd have more money if I didn't waste it on _.",
+      "pick": 1
+    },
+    {
+      "text": "I'd rather be _ than file my own taxes.",
+      "pick": 1
+    },
+    {
+      "text": "I'm going to start listing _ as a skill on my resume.",
+      "pick": 1
+    },
+    {
+      "text": "I'm not a child anymore, Mom. I'm _.",
+      "pick": 1
+    },
+    {
+      "text": "I'm not irresponsible. Just today, I started _.",
+      "pick": 1
+    },
+    {
+      "text": "I'm out of coffee, so the only thing keepig me alive right now is _.",
+      "pick": 1
+    },
+    {
+      "text": "I'm sick of being shamed for _.",
+      "pick": 1
+    },
+    {
+      "text": "I'm trying to reduce my appetite by _.",
+      "pick": 1
+    },
+    {
+      "text": "I've been keeping the rent price down in my neighbourhood by publicly _.",
+      "pick": 1
+    },
+    {
+      "text": "I've been working three jobs, so the only thing I have energy for is _.",
+      "pick": 1
+    },
+    {
+      "text": "Ideal first date: _.",
+      "pick": 1
+    },
+    {
+      "text": "If I found a job that paid a living wage, I'd quit _.",
+      "pick": 1
+    },
+    {
+      "text": "If I spent less time _, I'd feel more like an adult.",
+      "pick": 1
+    },
+    {
+      "text": "If it weren't for Google, I wouldn't have a clue how to _.",
+      "pick": 1
+    },
+    {
+      "text": "If it weren't for my student loans, I could be _.",
+      "pick": 1
+    },
+    {
+      "text": "If you think your life is hard, I was just _.",
+      "pick": 1
+    },
+    {
+      "text": "In a shocking new report, 80% of people under 40 now believe in _.",
+      "pick": 1
+    },
+    {
+      "text": "In this essay, I will be _.",
+      "pick": 1
+    },
+    {
+      "text": "Instead of trusting my inner voice, I think I'll just trust _.",
+      "pick": 1
+    },
+    {
+      "text": "It's not that I'm so dependent on my phone, it's just that it keeps me distracted from _.",
+      "pick": 1
+    },
+    {
+      "text": "Life is what happens while you're _.",
+      "pick": 1
+    },
+    {
+      "text": "Maturity is a process that involves patience and _.",
+      "pick": 1
+    },
+    {
+      "text": "Money can't buy you happiness but it sure beats _.",
+      "pick": 1
+    },
+    {
+      "text": "My belly button has probably collected 10 lbs of _ over the course of my life.",
+      "pick": 1
+    },
+    {
+      "text": "My biggest fear about adulting is _.",
+      "pick": 1
+    },
+    {
+      "text": "My constant _ just got me promoted.",
+      "pick": 1
+    },
+    {
+      "text": "My credit score is so bad, but at least I'll always be _.",
+      "pick": 1
+    },
+    {
+      "text": "My enjoyment of _ has turned into an addiction to _.",
+      "pick": 2
+    },
+    {
+      "text": "My fondest childhood memories are _.",
+      "pick": 1
+    },
+    {
+      "text": "My fridge is starting to represent _.",
+      "pick": 1
+    },
+    {
+      "text": "My friend claims to have lost 10 lbs. in two weeks by simply _.",
+      "pick": 1
+    },
+    {
+      "text": "My idea of winning is _.",
+      "pick": 1
+    },
+    {
+      "text": "My mom is so happy when I visit, but I'm only there to be _.",
+      "pick": 1
+    },
+    {
+      "text": "My new roommate was great until she started _.",
+      "pick": 1
+    },
+    {
+      "text": "My old classmates have great careers. Meanwhile, I'm _ all day.",
+      "pick": 1
+    },
+    {
+      "text": "My online persona would be shattered if people knew that I'm actually _.",
+      "pick": 1
+    },
+    {
+      "text": "My parents always told me I could be anything I wanted to be, but I just want to be _.",
+      "pick": 1
+    },
+    {
+      "text": "My partner is so competitive, but the only thing they beat me at is _.",
+      "pick": 1
+    },
+    {
+      "text": "My social life has turned to shit so now I'm just _ for fun.",
+      "pick": 1
+    },
+    {
+      "text": "My way of dealing with conflist is _.",
+      "pick": 1
+    },
+    {
+      "text": "No one retweets my stuff unless I post about _.",
+      "pick": 1
+    },
+    {
+      "text": "No one should be allowed to be _ in this country. Share if you agree!",
+      "pick": 1
+    },
+    {
+      "text": "Oh, so just because I believe in _, that makes me a Nazi?",
+      "pick": 1
+    },
+    {
+      "text": "Payday isn't for 12 days and I already spent my whole paycheck on _.",
+      "pick": 1
+    },
+    {
+      "text": "Sounds like _ but ok.",
+      "pick": 1
+    },
+    {
+      "text": "Sure, I had no freedom as a child, but it was still better than _.",
+      "pick": 1
+    },
+    {
+      "text": "The best part of my childhood was _.",
+      "pick": 1
+    },
+    {
+      "text": "The day I vote is the day I'll be _.",
+      "pick": 1
+    },
+    {
+      "text": "The idea of getting married is bearable if I'm allowed to be _.",
+      "pick": 1
+    },
+    {
+      "text": "The main reason for my social anxiety is _.",
+      "pick": 1
+    },
+    {
+      "text": "The only thing that gets me through my morning commute is _.",
+      "pick": 1
+    },
+    {
+      "text": "The road to adulting is paved with _.",
+      "pick": 1
+    },
+    {
+      "text": "They laughed at me for _. Well, now look at me.",
+      "pick": 1
+    },
+    {
+      "text": "They should invent an emoji for _.",
+      "pick": 1
+    },
+    {
+      "text": "Three things in life are certain: death, taxes, and _.",
+      "pick": 1
+    },
+    {
+      "text": "When I finally washed my bedsheets, I discovered evidence of _.",
+      "pick": 1
+    },
+    {
+      "text": "When I was a child, $10 was huge. Now $1,000 won't even pay for _.",
+      "pick": 1
+    },
+    {
+      "text": "While I might not function at most basic tasks, I'm an expert at _.",
+      "pick": 1
+    },
+    {
+      "text": "Why is it so hard to find a roommate who isn't always _?",
+      "pick": 1
+    },
+    {
+      "text": "With every year that passes, I find it harder and harder to be _.",
+      "pick": 1
+    },
+    {
+      "text": "Wow, you're still _? That's so retro!",
+      "pick": 1
+    },
+    {
+      "text": "You accidentally read the comments section. How do you maintain the will to live?",
+      "pick": 1
+    },
+    {
+      "text": "You try to go one hour without looking at your phone. How are you keeping yourself distracted?",
+      "pick": 1
+    },
+    {
+      "text": "Your date keeps talking about his moon sign in the fourth house. How do you stay interested?",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "420",
+      "renderHtml": false
+    },
+    {
+      "text": "$10 bills defaced with anarchist propaganda.",
+      "renderHtml": false
+    },
+    {
+      "text": "10 minute sof decent sex.",
+      "renderHtml": false
+    },
+    {
+      "text": "50 dollars' worth of cereal.",
+      "renderHtml": false
+    },
+    {
+      "text": "64 slices of American cheese.",
+      "renderHtml": false
+    },
+    {
+      "text": "A Confederate Flag tattoo.",
+      "renderHtml": false
+    },
+    {
+      "text": "A giant clusterfuck in the center of the galaxy.",
+      "renderHtml": false
+    },
+    {
+      "text": "A sausage betwixt the cheeks.",
+      "renderHtml": false
+    },
+    {
+      "text": "Abandoning all my hopes and dreams.",
+      "renderHtml": false
+    },
+    {
+      "text": "Absolutely nothing.",
+      "renderHtml": false
+    },
+    {
+      "text": "Abusing public figures on Twitter.",
+      "renderHtml": false
+    },
+    {
+      "text": "Accidental dick pics.",
+      "renderHtml": false
+    },
+    {
+      "text": "Accidentally posting a nude to my story.",
+      "renderHtml": false
+    },
+    {
+      "text": "Actually saying my partner's name during sex.",
+      "renderHtml": false
+    },
+    {
+      "text": "Adding \"and shit\" to sentences to sound less white.",
+      "renderHtml": false
+    },
+    {
+      "text": "Adulting classes.",
+      "renderHtml": false
+    },
+    {
+      "text": "Almost experiencing consequences.",
+      "renderHtml": false
+    },
+    {
+      "text": "Anchovies.",
+      "renderHtml": false
+    },
+    {
+      "text": "Another goddamn rustic-looking brewpub.",
+      "renderHtml": false
+    },
+    {
+      "text": "Antimalarial-induced hallucinations",
+      "renderHtml": false
+    },
+    {
+      "text": "Apologizing without knowing what I'm apologizing for.",
+      "renderHtml": false
+    },
+    {
+      "text": "Arming the homeless.",
+      "renderHtml": false
+    },
+    {
+      "text": "Armpit herpes.",
+      "renderHtml": false
+    },
+    {
+      "text": "Artificial insemination.",
+      "renderHtml": false
+    },
+    {
+      "text": "Assmebling an IKEA wardrobe.",
+      "renderHtml": false
+    },
+    {
+      "text": "Attending a North Korea summit with the President and Dennis Rodman.",
+      "renderHtml": false
+    },
+    {
+      "text": "Attracting literally the worst people.",
+      "renderHtml": false
+    },
+    {
+      "text": "Attractive men with insubstantial dicks.",
+      "renderHtml": false
+    },
+    {
+      "text": "Avoiding eye contact unless it will lead to fucking.",
+      "renderHtml": false
+    },
+    {
+      "text": "Backpacking in New Zealand, fucking a Hobbit.",
+      "renderHtml": false
+    },
+    {
+      "text": "Banana milk.",
+      "renderHtml": false
+    },
+    {
+      "text": "Barron Trump.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being a male and needing constant reassurance that I'm not acting gay.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being a motherfucking mermaid.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being completely unemployable.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being in a bad mood for so long that this is just who I am now.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being kinkshamed on social media.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being passively-aggressive on social media.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being proud of taking a long nap.",
+      "renderHtml": false
+    },
+    {
+      "text": "Big dick energy.",
+      "renderHtml": false
+    },
+    {
+      "text": "Binge-shopping.",
+      "renderHtml": false
+    },
+    {
+      "text": "Biting nipples.",
+      "renderHtml": false
+    },
+    {
+      "text": "Blaming all salty text messages on autocorrect.",
+      "renderHtml": false
+    },
+    {
+      "text": "Blaming everyone else for everything.",
+      "renderHtml": false
+    },
+    {
+      "text": "Blissfully ignorant.",
+      "renderHtml": false
+    },
+    {
+      "text": "Blowing bubbles in the bath with a straw instead of forking out for real bubbles.",
+      "renderHtml": false
+    },
+    {
+      "text": "Boko Haram.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bonding with my Roomba.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bonding with someone over our desire to bang a member of the Royal Family.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bracing for heartbreak before opening the fridge to see if my roommate ate my leftovers.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bragging about easting ass but refusing to eat pineapple on pizza.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bringing cocaine to a baby shower.",
+      "renderHtml": false
+    },
+    {
+      "text": "Building a nuclear bunker at my parents' house.",
+      "renderHtml": false
+    },
+    {
+      "text": "Burning in Adulthood Hell.",
+      "renderHtml": false
+    },
+    {
+      "text": "Burning my neighbor's house down to keep the rent low.",
+      "renderHtml": false
+    },
+    {
+      "text": "Busting a nut.",
+      "renderHtml": false
+    },
+    {
+      "text": "Calling the cops on my own party because I'm tired.",
+      "renderHtml": false
+    },
+    {
+      "text": "Cashiers talking to me about their stepchildren.",
+      "renderHtml": false
+    },
+    {
+      "text": "Celebrating personal achievements with video games.",
+      "renderHtml": false
+    },
+    {
+      "text": "Changing my bedsheets.",
+      "renderHtml": false
+    },
+    {
+      "text": "Charging my dog back rent.",
+      "renderHtml": false
+    },
+    {
+      "text": "Checking my bank balance.",
+      "renderHtml": false
+    },
+    {
+      "text": "Checking out of life.",
+      "renderHtml": false
+    },
+    {
+      "text": "Climbing a mountain.",
+      "renderHtml": false
+    },
+    {
+      "text": "Clocking out of work.",
+      "renderHtml": false
+    },
+    {
+      "text": "Closing my eyes and thinking about dick.",
+      "renderHtml": false
+    },
+    {
+      "text": "Coming home, unwinding, and binge-watching an entire TV series.",
+      "renderHtml": false
+    },
+    {
+      "text": "Commenting with aggressive memes on Mark Zuckerberg's posts.",
+      "renderHtml": false
+    },
+    {
+      "text": "Competitive eating.",
+      "renderHtml": false
+    },
+    {
+      "text": "Complimenting someone's dress sense in person while blasting their poor taste on social media.",
+      "renderHtml": false
+    },
+    {
+      "text": "Constantly consuming content.",
+      "renderHtml": false
+    },
+    {
+      "text": "Constantly making plans with my partner to psotpone breaking up.",
+      "renderHtml": false
+    },
+    {
+      "text": "Convincing my friend I watched the video he shared.",
+      "renderHtml": false
+    },
+    {
+      "text": "Convincing my roommate I'm not a slob ass piece of shit.",
+      "renderHtml": false
+    },
+    {
+      "text": "Cooking, serving, and smoking meth.",
+      "renderHtml": false
+    },
+    {
+      "text": "Covfefe.",
+      "renderHtml": false
+    },
+    {
+      "text": "Creating perfect camel toe.",
+      "renderHtml": false
+    },
+    {
+      "text": "Crying in the fetal position.",
+      "renderHtml": false
+    },
+    {
+      "text": "cunninglus",
+      "renderHtml": false
+    },
+    {
+      "text": "Cutting coupons for ramen noodles.",
+      "renderHtml": false
+    },
+    {
+      "text": "Danny DeVito.",
+      "renderHtml": false
+    },
+    {
+      "text": "Day-drinking and using power tools.",
+      "renderHtml": false
+    },
+    {
+      "text": "Deep-frying leftover pizza.",
+      "renderHtml": false
+    },
+    {
+      "text": "Describing my beer belly as \"thicc\".",
+      "renderHtml": false
+    },
+    {
+      "text": "Destigmatizing alcoholism.",
+      "renderHtml": false
+    },
+    {
+      "text": "Disappointment.",
+      "renderHtml": false
+    },
+    {
+      "text": "Discussing coconuts' migratory patterns.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dope.",
+      "renderHtml": false
+    },
+    {
+      "text": "Downplaying my hilariousness.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dreaming about Obama.",
+      "renderHtml": false
+    },
+    {
+      "text": "Drinking a whole bottle of red wine for the antioxidants.",
+      "renderHtml": false
+    },
+    {
+      "text": "Drinking wine in bed while watching cartoons.",
+      "renderHtml": false
+    },
+    {
+      "text": "Driving off a bridge in the hopes of getting a few days off.",
+      "renderHtml": false
+    },
+    {
+      "text": "Driving without swearing.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dwayne \"The Rock\" Johnson's acting career.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dying from a preventable illness.",
+      "renderHtml": false
+    },
+    {
+      "text": "Eaing gluten unapologetically.",
+      "renderHtml": false
+    },
+    {
+      "text": "Earwax sculpting.",
+      "renderHtml": false
+    },
+    {
+      "text": "Eating a $2 McDonald's meal.",
+      "renderHtml": false
+    },
+    {
+      "text": "Eating a moldy fruit because it's still organic.",
+      "renderHtml": false
+    },
+    {
+      "text": "Eating a single tomato in the dark.",
+      "renderHtml": false
+    },
+    {
+      "text": "Eating a whole head of lettuce like an apple.",
+      "renderHtml": false
+    },
+    {
+      "text": "Eating anxiety sandwiches.",
+      "renderHtml": false
+    },
+    {
+      "text": "Eating magic mushrooms and laughing at my dad watching Fox News.",
+      "renderHtml": false
+    },
+    {
+      "text": "Eating my best friend's placenta.",
+      "renderHtml": false
+    },
+    {
+      "text": "Eating my partenr's fries even though I could have odered my own.",
+      "renderHtml": false
+    },
+    {
+      "text": "Eating Nutella for breakfast.",
+      "renderHtml": false
+    },
+    {
+      "text": "Eating squirrels.",
+      "renderHtml": false
+    },
+    {
+      "text": "Eating sushi in a dance pit.",
+      "renderHtml": false
+    },
+    {
+      "text": "Edible porcupines.",
+      "renderHtml": false
+    },
+    {
+      "text": "Edibles.",
+      "renderHtml": false
+    },
+    {
+      "text": "Endless fidget spinning.",
+      "renderHtml": false
+    },
+    {
+      "text": "Erection sword fighting.",
+      "renderHtml": false
+    },
+    {
+      "text": "Erotic asphyxiation.",
+      "renderHtml": false
+    },
+    {
+      "text": "Establishing communism.",
+      "renderHtml": false
+    },
+    {
+      "text": "Experiencing horrible hormonal side-effects from birth control that are still better than using condoms.",
+      "renderHtml": false
+    },
+    {
+      "text": "Expressing my existential hell through memes.",
+      "renderHtml": false
+    },
+    {
+      "text": "Extinguishing fires with vodka.",
+      "renderHtml": false
+    },
+    {
+      "text": "Facebooking while drinking.",
+      "renderHtml": false
+    },
+    {
+      "text": "Faith in humanity.",
+      "renderHtml": false
+    },
+    {
+      "text": "Falling pregnant.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fantasizing about Ruth Bader Ginsberg.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fantasizing more about seleep than sex.",
+      "renderHtml": false
+    },
+    {
+      "text": "Feeling a sense of futility while shaving my pubes.",
+      "renderHtml": false
+    },
+    {
+      "text": "Feeling over the hill at 22.",
+      "renderHtml": false
+    },
+    {
+      "text": "Feigning interest in others.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fellowship in Christ.",
+      "renderHtml": false
+    },
+    {
+      "text": "Female ejaculation.",
+      "renderHtml": false
+    },
+    {
+      "text": "Finding a small family of racoons living in my sink.",
+      "renderHtml": false
+    },
+    {
+      "text": "Finding a sugar daddy.",
+      "renderHtml": false
+    },
+    {
+      "text": "Finding my keys.",
+      "renderHtml": false
+    },
+    {
+      "text": "Finding my old scene pics from MySpace.",
+      "renderHtml": false
+    },
+    {
+      "text": "Finding out that fabric softener isn't detergent.",
+      "renderHtml": false
+    },
+    {
+      "text": "Finding snacks in my cleavage.",
+      "renderHtml": false
+    },
+    {
+      "text": "Finding thin layers of grease on all of my devices.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fishing for compliments.",
+      "renderHtml": false
+    },
+    {
+      "text": "Five shots of coffee mixed with 100g of sugar and two shots of liquor.",
+      "renderHtml": false
+    },
+    {
+      "text": "Flinging myself from a cliff overlooking the sea.",
+      "renderHtml": false
+    },
+    {
+      "text": "Food trucks.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fuckboys.",
+      "renderHtml": false
+    },
+    {
+      "text": "Furiously masturbating.",
+      "renderHtml": false
+    },
+    {
+      "text": "Furiously pirating movies and music.",
+      "renderHtml": false
+    },
+    {
+      "text": "Gender-neutral pronouns.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting action at the TSA.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting all the good dick.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting in a knockout fight in Walmart.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting in a Twitter beef with the president.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting mad at people for not responding within 12 minutes.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting my dominatrix career off the ground.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting no likes on what I thought was an incredibly on-point post.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting pulled over for sexting and driving.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting roasted by a distant relative on social media.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting together with old friends and masturbating together.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting turnt up.",
+      "renderHtml": false
+    },
+    {
+      "text": "Going for a hike while watching YouTube on my phone.",
+      "renderHtml": false
+    },
+    {
+      "text": "Going to a festival and watching absolutely zero bands.",
+      "renderHtml": false
+    },
+    {
+      "text": "Going to extreme lengths to convince my boss I'm in hospital.",
+      "renderHtml": false
+    },
+    {
+      "text": "Gonorrhoea... gift wrapped",
+      "renderHtml": false
+    },
+    {
+      "text": "Harvesting lint from bodily crevices.",
+      "renderHtml": false
+    },
+    {
+      "text": "Having a great work ethic in video games and nothing else.",
+      "renderHtml": false
+    },
+    {
+      "text": "Having a house to myself.",
+      "renderHtml": false
+    },
+    {
+      "text": "Having a panic attack in a grocery store.",
+      "renderHtml": false
+    },
+    {
+      "text": "Having a relaxing night deciding what show to watch and choosing nothing.",
+      "renderHtml": false
+    },
+    {
+      "text": "Having my credit card declined.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hiding hotdogs in my pocket as a treat for later.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hillary Clinton's death stare.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hot jizz.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hunting unicorns in Alaska.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ignoring emails but instantly reponding to texts.",
+      "renderHtml": false
+    },
+    {
+      "text": "Imagining scenarios in which I'm funny.",
+      "renderHtml": false
+    },
+    {
+      "text": "Inexplicable bruises.",
+      "renderHtml": false
+    },
+    {
+      "text": "Injecting my insecure chihuahua with steroids.",
+      "renderHtml": false
+    },
+    {
+      "text": "Inspecting my own asshole with a mirror.",
+      "renderHtml": false
+    },
+    {
+      "text": "Instagram husbands.",
+      "renderHtml": false
+    },
+    {
+      "text": "Intense staring contests with cats.",
+      "renderHtml": false
+    },
+    {
+      "text": "Inventing new curse words.",
+      "renderHtml": false
+    },
+    {
+      "text": "Jeff Price.",
+      "renderHtml": false
+    },
+    {
+      "text": "Jesus and tequila.",
+      "renderHtml": false
+    },
+    {
+      "text": "Joining a book club.",
+      "renderHtml": false
+    },
+    {
+      "text": "Joining ISIS for the job security.",
+      "renderHtml": false
+    },
+    {
+      "text": "Joyriding onto a traffic island.",
+      "renderHtml": false
+    },
+    {
+      "text": "Judging someone called Kyle just because his name is Kyle...",
+      "renderHtml": false
+    },
+    {
+      "text": "Justin Bieber's secret toupee.",
+      "renderHtml": false
+    },
+    {
+      "text": "Knowing every detail from Harry Potter but not knowing how to boil an egg.",
+      "renderHtml": false
+    },
+    {
+      "text": "Kony 2012.",
+      "renderHtml": false
+    },
+    {
+      "text": "Lacking in major cognitive function.",
+      "renderHtml": false
+    },
+    {
+      "text": "Learning a language just so the Duolingo owl can keep me company.",
+      "renderHtml": false
+    },
+    {
+      "text": "Leaving MDMA out for Santa.",
+      "renderHtml": false
+    },
+    {
+      "text": "Leftover food showing signs of snetience.",
+      "renderHtml": false
+    },
+    {
+      "text": "Lending my parents money to pay for meds.",
+      "renderHtml": false
+    },
+    {
+      "text": "Liking a comment my ex tagged their new partner in.",
+      "renderHtml": false
+    },
+    {
+      "text": "Limiting all sensory experiences to chocolate and YouTube.",
+      "renderHtml": false
+    },
+    {
+      "text": "Listening to my nephew's abysmal singing.",
+      "renderHtml": false
+    },
+    {
+      "text": "Lit AF.",
+      "renderHtml": false
+    },
+    {
+      "text": "Long-distance squirting.",
+      "renderHtml": false
+    },
+    {
+      "text": "Lying about literally everything on a rental application.",
+      "renderHtml": false
+    },
+    {
+      "text": "Lying in my own filth.",
+      "renderHtml": false
+    },
+    {
+      "text": "Making a list of people to kill.",
+      "renderHtml": false
+    },
+    {
+      "text": "Making a shameless knockoff card game.",
+      "renderHtml": false
+    },
+    {
+      "text": "Making fun of pumpkin spice but lowkey still enjoying it.",
+      "renderHtml": false
+    },
+    {
+      "text": "Making sex eyes at a police officer.",
+      "renderHtml": false
+    },
+    {
+      "text": "Masturbating like nobody's watching.",
+      "renderHtml": false
+    },
+    {
+      "text": "Masturbating to profile pictures.",
+      "renderHtml": false
+    },
+    {
+      "text": "Medicated all the time.",
+      "renderHtml": false
+    },
+    {
+      "text": "Meditation classes.",
+      "renderHtml": false
+    },
+    {
+      "text": "Mentally undressing my therapist.",
+      "renderHtml": false
+    },
+    {
+      "text": "Microbreweries.",
+      "renderHtml": false
+    },
+    {
+      "text": "Microwaving whole cans of soup.",
+      "renderHtml": false
+    },
+    {
+      "text": "Miniature horses.",
+      "renderHtml": false
+    },
+    {
+      "text": "Mompreneurs.",
+      "renderHtml": false
+    },
+    {
+      "text": "Mosquitoes sucking my will to live.",
+      "renderHtml": false
+    },
+    {
+      "text": "Motorcycle training.",
+      "renderHtml": false
+    },
+    {
+      "text": "Moving to Serbia and living off $3 a day.",
+      "renderHtml": false
+    },
+    {
+      "text": "My coping mechanisms creating more problems than the thing I'm trying to cope with.",
+      "renderHtml": false
+    },
+    {
+      "text": "Nodding and shouting \"Yeah!\" at my parent's advice while knowing I'll ignore it.",
+      "renderHtml": false
+    },
+    {
+      "text": "Not having to deal with people's shit.",
+      "renderHtml": false
+    },
+    {
+      "text": "Offering emotional support then cutting off all contact.",
+      "renderHtml": false
+    },
+    {
+      "text": "Optimus Prime having sex with a dishwasher.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ordering a $200 watch because of the free shipping.",
+      "renderHtml": false
+    },
+    {
+      "text": "Our Dear Supreme Leader.",
+      "renderHtml": false
+    },
+    {
+      "text": "Overactive glands.",
+      "renderHtml": false
+    },
+    {
+      "text": "Overanalyzing everything.",
+      "renderHtml": false
+    },
+    {
+      "text": "Overthrowing capitalism.",
+      "renderHtml": false
+    },
+    {
+      "text": "Paranormal activity.",
+      "renderHtml": false
+    },
+    {
+      "text": "Patriotically standing during the national anthem.",
+      "renderHtml": false
+    },
+    {
+      "text": "Peace and quiet.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pee-pee juice.",
+      "renderHtml": false
+    },
+    {
+      "text": "Peeing in my shower.",
+      "renderHtml": false
+    },
+    {
+      "text": "Peeing in someone else's shower.",
+      "renderHtml": false
+    },
+    {
+      "text": "Plunging my head into a vat of organic coconut oil.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pointing out insignificant inaccuracies in people's jokes.",
+      "renderHtml": false
+    },
+    {
+      "text": "Post Malone.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pre-existing conditions.",
+      "renderHtml": false
+    },
+    {
+      "text": "Premature foreclosure.",
+      "renderHtml": false
+    },
+    {
+      "text": "Preparing the guillotine.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pretending I'm not one accident away from complete bankruptcy.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pretending to agree then quietly seeing myself out.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pretending to be broke to get out of social events.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pretending to give a fuck.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pretending work is crazy to get oput of social events.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pronouncing the p in raspberry.",
+      "renderHtml": false
+    },
+    {
+      "text": "Psoting selfies with my uglier friends.",
+      "renderHtml": false
+    },
+    {
+      "text": "Putting on a serious voice.",
+      "renderHtml": false
+    },
+    {
+      "text": "Putting on pants before noon.",
+      "renderHtml": false
+    },
+    {
+      "text": "Putting other people's problems before my own.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pyramid schemes.",
+      "renderHtml": false
+    },
+    {
+      "text": "Raging hormones.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ramen noodles.",
+      "renderHtml": false
+    },
+    {
+      "text": "Reaching sexual climax.",
+      "renderHtml": false
+    },
+    {
+      "text": "Reading a headline about a trophy hunter being eaten by hyenas.",
+      "renderHtml": false
+    },
+    {
+      "text": "Realizing I won't be able to retire until I'm 85.",
+      "renderHtml": false
+    },
+    {
+      "text": "Realizing that today will require underwear.",
+      "renderHtml": false
+    },
+    {
+      "text": "Receiving participation trophies.",
+      "renderHtml": false
+    },
+    {
+      "text": "Receiving the weinering of a lifetime.",
+      "renderHtml": false
+    },
+    {
+      "text": "Recommending self-help books I've never read.",
+      "renderHtml": false
+    },
+    {
+      "text": "Reevaluating everything every day.",
+      "renderHtml": false
+    },
+    {
+      "text": "Referring to Avril Lavigne as \"classic rock\".",
+      "renderHtml": false
+    },
+    {
+      "text": "Renewable dick energy.",
+      "renderHtml": false
+    },
+    {
+      "text": "Rereading my own hilarious posts.",
+      "renderHtml": false
+    },
+    {
+      "text": "Responding to everything I hear with \"Yeet\".",
+      "renderHtml": false
+    },
+    {
+      "text": "Resting my balls on the table.",
+      "renderHtml": false
+    },
+    {
+      "text": "Resting my balls on the table.",
+      "renderHtml": false
+    },
+    {
+      "text": "Resurfacing in a new country with a foreign name.",
+      "renderHtml": false
+    },
+    {
+      "text": "Riding a dildo with the door open.",
+      "renderHtml": false
+    },
+    {
+      "text": "Riding my menstraul cycle.",
+      "renderHtml": false
+    },
+    {
+      "text": "Rimming.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ripping fat vapes.",
+      "renderHtml": false
+    },
+    {
+      "text": "Rubbing my crotch up and down a street pole for change.",
+      "renderHtml": false
+    },
+    {
+      "text": "Saying I'm too tired to go out, but then staying up till 4 a.m. on my phone.",
+      "renderHtml": false
+    },
+    {
+      "text": "Saying no to drugs.",
+      "renderHtml": false
+    },
+    {
+      "text": "Saying yes to drugs.",
+      "renderHtml": false
+    },
+    {
+      "text": "Screaming at my barista.",
+      "renderHtml": false
+    },
+    {
+      "text": "Screaming at my pile of dirty clothes.",
+      "renderHtml": false
+    },
+    {
+      "text": "Scrolling on my phone until my eyes bleed.",
+      "renderHtml": false
+    },
+    {
+      "text": "Seeing my Professor on PornHub.",
+      "renderHtml": false
+    },
+    {
+      "text": "Self-pity.",
+      "renderHtml": false
+    },
+    {
+      "text": "Selling a kidney to pay for a doctor's appointment.",
+      "renderHtml": false
+    },
+    {
+      "text": "Selling my used underwear on Craigslist.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sexting while eating a tuna sandwich.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sexual urges at inappropriate times.",
+      "renderHtml": false
+    },
+    {
+      "text": "Shaving appendages.",
+      "renderHtml": false
+    },
+    {
+      "text": "Shaving eyebrows, drawing new eyebrows on.",
+      "renderHtml": false
+    },
+    {
+      "text": "Shoplifting, but only from Walmart.",
+      "renderHtml": false
+    },
+    {
+      "text": "Showering more than once a week.",
+      "renderHtml": false
+    },
+    {
+      "text": "Shrouding my human frailties with Snapchat puppy filters.",
+      "renderHtml": false
+    },
+    {
+      "text": "Singing \"Wheels On The Bus\" 31 times.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sitting on someone's face.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sleeping as deeply as God did during the Holocaust.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sloppy and sensual handshakes.",
+      "renderHtml": false
+    },
+    {
+      "text": "Small dick energy.",
+      "renderHtml": false
+    },
+    {
+      "text": "Smoking weed out of various fruits.",
+      "renderHtml": false
+    },
+    {
+      "text": "Smoking weed with Elon Musk.",
+      "renderHtml": false
+    },
+    {
+      "text": "Spending all my money on avocado toast.",
+      "renderHtml": false
+    },
+    {
+      "text": "Spending September to November sleeping with a pumpkin at night.",
+      "renderHtml": false
+    },
+    {
+      "text": "Staining my t-shirt from sweating while eating.",
+      "renderHtml": false
+    },
+    {
+      "text": "Stealing Taco Bell hot sauce packets.",
+      "renderHtml": false
+    },
+    {
+      "text": "Student loans.",
+      "renderHtml": false
+    },
+    {
+      "text": "Surrounding myself with idiots to feel more mature.",
+      "renderHtml": false
+    },
+    {
+      "text": "Taco crumbs.",
+      "renderHtml": false
+    },
+    {
+      "text": "Tagging my ex in memes against their will.",
+      "renderHtml": false
+    },
+    {
+      "text": "Taking a bath with my dog.",
+      "renderHtml": false
+    },
+    {
+      "text": "Taking a deep breath, going for a walk, and never coming back.",
+      "renderHtml": false
+    },
+    {
+      "text": "Taking an unrequested vow of celibacy.",
+      "renderHtml": false
+    },
+    {
+      "text": "Taking the high road when I really want to punch you in the face.",
+      "renderHtml": false
+    },
+    {
+      "text": "Talking smack about everything I see.",
+      "renderHtml": false
+    },
+    {
+      "text": "Talking to myself.",
+      "renderHtml": false
+    },
+    {
+      "text": "Tall, dark, and hung.",
+      "renderHtml": false
+    },
+    {
+      "text": "Tangling my headphones before they're even out of the box.",
+      "renderHtml": false
+    },
+    {
+      "text": "Teaching a Baby Boomer to internet.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ted Cruz's warm, trustworthy smile.",
+      "renderHtml": false
+    },
+    {
+      "text": "Telling friends I'm \"working on a screenplay\".",
+      "renderHtml": false
+    },
+    {
+      "text": "Texting \"lol\" to express self-consciousness.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Impossible Burger.",
+      "renderHtml": false
+    },
+    {
+      "text": "The next Great Recession.",
+      "renderHtml": false
+    },
+    {
+      "text": "The President's mushroomy genitals.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Second Amendment.",
+      "renderHtml": false
+    },
+    {
+      "text": "The smell of pussy.",
+      "renderHtml": false
+    },
+    {
+      "text": "Thinking a stomach ache might be cancer.",
+      "renderHtml": false
+    },
+    {
+      "text": "Throwing expired greens in the trash.",
+      "renderHtml": false
+    },
+    {
+      "text": "Throwing silverware at a waitress.",
+      "renderHtml": false
+    },
+    {
+      "text": "Tide pods.",
+      "renderHtml": false
+    },
+    {
+      "text": "Totaling a manual-transmission car two seconds after trying to drive it.",
+      "renderHtml": false
+    },
+    {
+      "text": "Training crows to collect change.",
+      "renderHtml": false
+    },
+    {
+      "text": "Trying to figure out how the fuck I hurt my back.",
+      "renderHtml": false
+    },
+    {
+      "text": "Trying to make it as a SoundCloud rapper.",
+      "renderHtml": false
+    },
+    {
+      "text": "Underachieving.",
+      "renderHtml": false
+    },
+    {
+      "text": "Unfollowing people in real life.",
+      "renderHtml": false
+    },
+    {
+      "text": "Upcycling my DivaCup.",
+      "renderHtml": false
+    },
+    {
+      "text": "Using food stamps on steak and lobster.",
+      "renderHtml": false
+    },
+    {
+      "text": "Using insults on the internet that I'd never dream of saying out loud.",
+      "renderHtml": false
+    },
+    {
+      "text": "Using internet slang that's been out of date for five months now.",
+      "renderHtml": false
+    },
+    {
+      "text": "Vaginal weightlifting.",
+      "renderHtml": false
+    },
+    {
+      "text": "Vanilla lattes.",
+      "renderHtml": false
+    },
+    {
+      "text": "Vomiting in my best friend's hair.",
+      "renderHtml": false
+    },
+    {
+      "text": "Voting got a thrid-party.",
+      "renderHtml": false
+    },
+    {
+      "text": "Waiting for the apocalypse to run its course.",
+      "renderHtml": false
+    },
+    {
+      "text": "Washing dishes and sobbing.",
+      "renderHtml": false
+    },
+    {
+      "text": "Watching my mom's mind unravel as she folds laundry.",
+      "renderHtml": false
+    },
+    {
+      "text": "Watching yoga and  eating cookies.",
+      "renderHtml": false
+    },
+    {
+      "text": "Watermelon and collard greens.",
+      "renderHtml": false
+    },
+    {
+      "text": "Wearing a hazmat suit to wash the dishes.",
+      "renderHtml": false
+    },
+    {
+      "text": "Wearing a necklace above my enormous breast implants.",
+      "renderHtml": false
+    },
+    {
+      "text": "Wearing matching outfits with my cat.",
+      "renderHtml": false
+    },
+    {
+      "text": "Wearing matching socks.",
+      "renderHtml": false
+    },
+    {
+      "text": "Wearing the same clothes for a week.",
+      "renderHtml": false
+    },
+    {
+      "text": "Weed stores.",
+      "renderHtml": false
+    },
+    {
+      "text": "Whatever, who even gives a shit.",
+      "renderHtml": false
+    },
+    {
+      "text": "Winning.",
+      "renderHtml": false
+    },
+    {
+      "text": "Witty comebacks.",
+      "renderHtml": false
+    },
+    {
+      "text": "Wondering why everyone's farts smell bad except mine.",
+      "renderHtml": false
+    }
+  ]
+}

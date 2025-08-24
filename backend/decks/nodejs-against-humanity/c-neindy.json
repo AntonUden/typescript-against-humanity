@@ -1,0 +1,194 @@
+{
+  "source": 0,
+  "order": 43,
+  "displayName": "[C] NEIndy",
+  "name": "c-neindy",
+  "whiteCards": [
+    {
+      "text": "We got the third rope, now where's the fourth?",
+      "pick": 1
+    },
+    {
+      "text": "Tonights main event, _ vs. _.",
+      "pick": 2
+    },
+    {
+      "text": "Tackle, Dropdown, _.",
+      "pick": 1
+    },
+    {
+      "text": "Christopher Daniels is late on his _.",
+      "pick": 1
+    },
+    {
+      "text": "Instead of booking _, they should have booked _.",
+      "pick": 2
+    },
+    {
+      "text": "Genius is 10% inspiration, 90% _.",
+      "pick": 1
+    },
+    {
+      "text": "They found _ in the dumpster behind _.",
+      "pick": 2
+    },
+    {
+      "text": "The best thing I ever got for Christmas was _.",
+      "pick": 1
+    },
+    {
+      "text": "There's no crying in _.",
+      "pick": 1
+    },
+    {
+      "text": "Mastodon! Pterodactyl! Triceratops! Sabretooth Tiger! _!",
+      "pick": 1
+    },
+    {
+      "text": "Don't eat the _.",
+      "pick": 1
+    },
+    {
+      "text": "He did _ with the _!?!",
+      "pick": 2
+    },
+    {
+      "text": "SOOOOO hot, want to touch the _.",
+      "pick": 1
+    },
+    {
+      "text": "Stop looking at me _!",
+      "pick": 1
+    },
+    {
+      "text": "I'm cuckoo for _ puffs.",
+      "pick": 1
+    },
+    {
+      "text": "Silly rabbit, _ are for kids.",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "Bumpses.",
+      "renderHtml": false
+    },
+    {
+      "text": "A Vin Gerard H8 X 10.",
+      "renderHtml": false
+    },
+    {
+      "text": "Harry Acropolis.",
+      "renderHtml": false
+    },
+    {
+      "text": "Under the ring.",
+      "renderHtml": false
+    },
+    {
+      "text": "Afa The Wild Samoan.",
+      "renderHtml": false
+    },
+    {
+      "text": "Peanut Butter and Baby sandwiches.",
+      "renderHtml": false
+    },
+    {
+      "text": "Yard Tards.",
+      "renderHtml": false
+    },
+    {
+      "text": "Two girls, one cup.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ugly Mexican Hookers.",
+      "renderHtml": false
+    },
+    {
+      "text": "Duct tape.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sodaj.",
+      "renderHtml": false
+    },
+    {
+      "text": "Steve The Teacher.",
+      "renderHtml": false
+    },
+    {
+      "text": "Jefferee.",
+      "renderHtml": false
+    },
+    {
+      "text": "Autoerotic Asphyxiation.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sonic The Hedgehog.",
+      "renderHtml": false
+    },
+    {
+      "text": "Lotto Money.",
+      "renderHtml": false
+    },
+    {
+      "text": "Jailbait.",
+      "renderHtml": false
+    },
+    {
+      "text": "Prison rape.",
+      "renderHtml": false
+    },
+    {
+      "text": "Two And A Half Men.",
+      "renderHtml": false
+    },
+    {
+      "text": "Anne Frank.",
+      "renderHtml": false
+    },
+    {
+      "text": "Black Santa.",
+      "renderHtml": false
+    },
+    {
+      "text": "Jesus Christ (our lord and saviour).",
+      "renderHtml": false
+    },
+    {
+      "text": "Farting with your armpits.",
+      "renderHtml": false
+    },
+    {
+      "text": "Poopsicles.",
+      "renderHtml": false
+    },
+    {
+      "text": "Slaughtering innocent children.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sex with vegetables.",
+      "renderHtml": false
+    },
+    {
+      "text": "My gay ex-husband.",
+      "renderHtml": false
+    },
+    {
+      "text": "Accidentally sexting your mom.",
+      "renderHtml": false
+    },
+    {
+      "text": "Tabasco in your pee-hole.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pee Wee Herman.",
+      "renderHtml": false
+    }
+  ]
+}

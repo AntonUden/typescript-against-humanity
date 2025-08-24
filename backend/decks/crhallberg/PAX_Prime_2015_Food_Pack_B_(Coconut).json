@@ -1,0 +1,49 @@
+{
+  "order": 51,
+  "displayName": "PAX Prime 2015 Food Pack B (Coconut)",
+  "name": "PAX_Prime_2015_Food_Pack_B_(Coconut)",
+  "whiteCards": [
+    {
+      "text": "Aw babe, your burps smell like _!",
+      "pick": 1
+    },
+    {
+      "text": "Don't miss Rachel Ray's hit new show, Cooking with _.",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "A Benedict Cumberbatch RealDoll™.",
+      "renderHtml": false
+    },
+    {
+      "text": "A joyless vegan patty.",
+      "renderHtml": false
+    },
+    {
+      "text": "A tablespoon of thick, custardy puss.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being eskimo brothers with your father-in-law.",
+      "renderHtml": false
+    },
+    {
+      "text": "Kevin Hart",
+      "renderHtml": false
+    },
+    {
+      "text": "Not knowing when to shut up.",
+      "renderHtml": false
+    },
+    {
+      "text": "Soup that's better than pussy.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sucking each other's penises for hours on end.",
+      "renderHtml": false
+    }
+  ]
+}

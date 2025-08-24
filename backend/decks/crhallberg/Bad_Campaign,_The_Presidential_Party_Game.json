@@ -1,0 +1,2169 @@
+{
+  "order": 73,
+  "displayName": "Bad Campaign, The Presidential Party Game!",
+  "name": "Bad_Campaign,_The_Presidential_Party_Game",
+  "whiteCards": [
+    {
+      "text": "_ baby _ (repeat)!",
+      "pick": 2
+    },
+    {
+      "text": "_ for a more hopeful America.",
+      "pick": 1
+    },
+    {
+      "text": "_ for American families.",
+      "pick": 1
+    },
+    {
+      "text": "_ is all I need to make the tough decisions.",
+      "pick": 1
+    },
+    {
+      "text": "_ is my true passion in life.",
+      "pick": 1
+    },
+    {
+      "text": "_ is the one thing that would drive me crazy enough to push the button.",
+      "pick": 1
+    },
+    {
+      "text": "_ is the subject of Bill Clinton's new book.",
+      "pick": 1
+    },
+    {
+      "text": "_ is what haunts my dreams at night!",
+      "pick": 1
+    },
+    {
+      "text": "_ should be the start of the conversation on how we can improve as a society.",
+      "pick": 1
+    },
+    {
+      "text": "_ was my nickname at Yale.",
+      "pick": 1
+    },
+    {
+      "text": "_ will cause a blistering argument with Vladimir Putin.",
+      "pick": 1
+    },
+    {
+      "text": "A vote for me is a vote for _.",
+      "pick": 1
+    },
+    {
+      "text": "An executive order will be issued calling dibs on _.",
+      "pick": 1
+    },
+    {
+      "text": "As President the hardest task is dealing with _.",
+      "pick": 1
+    },
+    {
+      "text": "At my command NASA will have to shoot _ into space.",
+      "pick": 1
+    },
+    {
+      "text": "At night when I close my eyes _ occupies my thoughts.",
+      "pick": 1
+    },
+    {
+      "text": "Believe in _.",
+      "pick": 1
+    },
+    {
+      "text": "Darn right I'm running for President and I'm taking _ with me.",
+      "pick": 1
+    },
+    {
+      "text": "Dick Cheney was hiding _ under his shirt.",
+      "pick": 1
+    },
+    {
+      "text": "Donald Trump is working to quit his _ habit.",
+      "pick": 1
+    },
+    {
+      "text": "Donald Trump keeps his hair lustrous by rubbing _ deep into his scalp.",
+      "pick": 1
+    },
+    {
+      "text": "During the next debate I'm going to keep focus on _.",
+      "pick": 1
+    },
+    {
+      "text": "Experts have warned us that the _ pandemic is inevitable.",
+      "pick": 1
+    },
+    {
+      "text": "George Bush regrets not focusing on _ more.",
+      "pick": 1
+    },
+    {
+      "text": "George Bush's new painting will be a revealing look at _.",
+      "pick": 1
+    },
+    {
+      "text": "Government of, by, and for _.",
+      "pick": 1
+    },
+    {
+      "text": "Here's a few topics for discussion when the Pope visits: _, _, and _.",
+      "pick": 3
+    },
+    {
+      "text": "Hillary Clinton wants to focus her campaign on _.",
+      "pick": 1
+    },
+    {
+      "text": "Hillary's email divulged cryptic discussions on _.",
+      "pick": 1
+    },
+    {
+      "text": "I am proud and excited to announce _ as my running mate!",
+      "pick": 1
+    },
+    {
+      "text": "I come from a little town called _, Arkansas.",
+      "pick": 1
+    },
+    {
+      "text": "I did not have sexual relations with _.",
+      "pick": 1
+    },
+    {
+      "text": "I found _ under Al Gore's mattress.",
+      "pick": 1
+    },
+    {
+      "text": "I grew up on a desolate _ farm.",
+      "pick": 1
+    },
+    {
+      "text": "I have one word for you. Just one word, _!",
+      "pick": 1
+    },
+    {
+      "text": "I inhaled. My dreamquest included a vision of _. It shaped who I am.",
+      "pick": 1
+    },
+    {
+      "text": "I know _ poses a direct threat to the United States.",
+      "pick": 1
+    },
+    {
+      "text": "I love the same activities every American enjoys; windsurfing, polo, and anything involving _.",
+      "pick": 1
+    },
+    {
+      "text": "I plan on sending _ to the British Prime Minister as a gift.",
+      "pick": 1
+    },
+    {
+      "text": "I pledge to raise taxes to create more _.",
+      "pick": 1
+    },
+    {
+      "text": "I promise _ for every hard working mother in our country.",
+      "pick": 1
+    },
+    {
+      "text": "I stand before you as someone who is against _ in all circumstances.",
+      "pick": 1
+    },
+    {
+      "text": "I want a country of shared opportunities and _.",
+      "pick": 1
+    },
+    {
+      "text": "I want you to elect a person who is cool on the outside but burns for _ on the inside.",
+      "pick": 1
+    },
+    {
+      "text": "I will create a new national holiday celebrating _.",
+      "pick": 1
+    },
+    {
+      "text": "I will replace baseball as America's pastime with a sport that involves _.",
+      "pick": 1
+    },
+    {
+      "text": "I will shout _ down the halls of Congress.",
+      "pick": 1
+    },
+    {
+      "text": "I will stand on the deck of an aircraft carrier, under a banner that says \"_\" and declare it a rousing success.",
+      "pick": 1
+    },
+    {
+      "text": "I will tackle America's obesity problem by promoting an hour of daily exercise with _.",
+      "pick": 1
+    },
+    {
+      "text": "I'd be happy to sit with Joe Six Pack at the local bar and discuss _.",
+      "pick": 1
+    },
+    {
+      "text": "I'll work with Congress to get the _ our children need.",
+      "pick": 1
+    },
+    {
+      "text": "I'm an expert in _. I invented it.",
+      "pick": 1
+    },
+    {
+      "text": "I'm announcing the war on _!",
+      "pick": 1
+    },
+    {
+      "text": "I'm not worried about _ it will take care of itself.",
+      "pick": 1
+    },
+    {
+      "text": "I'm putting _ first.",
+      "pick": 1
+    },
+    {
+      "text": "If Iran builds nuclear weapons I will unleash _.",
+      "pick": 1
+    },
+    {
+      "text": "If we don't protect _ American families will suffer.",
+      "pick": 1
+    },
+    {
+      "text": "Instead of a turkey, I think I will pardon _ on Thanksgiving.",
+      "pick": 1
+    },
+    {
+      "text": "It's a simple dream, its about _. It has always been about that.",
+      "pick": 1
+    },
+    {
+      "text": "It's not surprising, the cling to their guns and _.",
+      "pick": 1
+    },
+    {
+      "text": "It's the _, stupid.",
+      "pick": 1
+    },
+    {
+      "text": "Let me assert my belief that the only thing we have to fear is _!",
+      "pick": 1
+    },
+    {
+      "text": "Long sultry nights at Camp David will be spent playing with _.",
+      "pick": 1
+    },
+    {
+      "text": "Look at my record, I am the biggest proponent of _.",
+      "pick": 1
+    },
+    {
+      "text": "My 3 step solution to regain American prominence abroad: _, _, and _.",
+      "pick": 3
+    },
+    {
+      "text": "My campaign bus is fully stocked with _.",
+      "pick": 1
+    },
+    {
+      "text": "My first Presidential scandal will involve gratuitous amounts of _.",
+      "pick": 1
+    },
+    {
+      "text": "My grandpappy used to sit on the porch and sing an old tune about _.",
+      "pick": 1
+    },
+    {
+      "text": "My greatest strength is _.",
+      "pick": 1
+    },
+    {
+      "text": "My opponent has an unhealthy obsession with _.",
+      "pick": 1
+    },
+    {
+      "text": "My post about _ got the most likes.",
+      "pick": 1
+    },
+    {
+      "text": "My time in office will focus on the _ crisis.",
+      "pick": 1
+    },
+    {
+      "text": "My two prong strategy for winning this election: _ and _.",
+      "pick": 2
+    },
+    {
+      "text": "Obama believes _ is his greatest achievement in office.",
+      "pick": 1
+    },
+    {
+      "text": "Read my lips, no _.",
+      "pick": 1
+    },
+    {
+      "text": "Sarah Palin's diary incessantly mentions _.",
+      "pick": 1
+    },
+    {
+      "text": "The _ industry will propel us toward a brighter future.",
+      "pick": 1
+    },
+    {
+      "text": "The best way to secure a majority of votes is to have_ on every street corner.",
+      "pick": 1
+    },
+    {
+      "text": "There is a new axis of evil: _, _, and _.",
+      "pick": 3
+    },
+    {
+      "text": "There is a secret room in the White House devoted to _.",
+      "pick": 1
+    },
+    {
+      "text": "Vote your conscious, vote for _.",
+      "pick": 1
+    },
+    {
+      "text": "Washington D.C. needs to be cleaned up. Everywhere you look you see _.",
+      "pick": 1
+    },
+    {
+      "text": "We are witnessing the relentless spread of _.",
+      "pick": 1
+    },
+    {
+      "text": "We just can't afford _ anymore.",
+      "pick": 1
+    },
+    {
+      "text": "We must teach our children to resolve their conflicts with _.",
+      "pick": 1
+    },
+    {
+      "text": "We will redirect the NSA to spy on _.",
+      "pick": 1
+    },
+    {
+      "text": "We're not building a bridge to the past, we're building a bridge to _.",
+      "pick": 1
+    },
+    {
+      "text": "What does Washington need? I always give the same answer, _!",
+      "pick": 1
+    },
+    {
+      "text": "When Bill Clinton blows on his saxophone he probably thinks about _.",
+      "pick": 1
+    },
+    {
+      "text": "When I meet voters I like to look them square in the eye and say \"I need _.\"",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "A cloud of joylessness that spreads across the Earth.",
+      "renderHtml": false
+    },
+    {
+      "text": "A giant hole.",
+      "renderHtml": false
+    },
+    {
+      "text": "A pegasus to Uranus.",
+      "renderHtml": false
+    },
+    {
+      "text": "A Port-O-Potty on a sweltering August day.",
+      "renderHtml": false
+    },
+    {
+      "text": "A punch in the fat.",
+      "renderHtml": false
+    },
+    {
+      "text": "A stick in the eye.",
+      "renderHtml": false
+    },
+    {
+      "text": "Abandoned ideals.",
+      "renderHtml": false
+    },
+    {
+      "text": "ABC gum.",
+      "renderHtml": false
+    },
+    {
+      "text": "Adult diapers.",
+      "renderHtml": false
+    },
+    {
+      "text": "Advice from carnies.",
+      "renderHtml": false
+    },
+    {
+      "text": "Aggressive meditation.",
+      "renderHtml": false
+    },
+    {
+      "text": "Al Gore riding a humpback whale.",
+      "renderHtml": false
+    },
+    {
+      "text": "Al Sharpton.",
+      "renderHtml": false
+    },
+    {
+      "text": "Alf.",
+      "renderHtml": false
+    },
+    {
+      "text": "Another crappy Steve Jobs biography.",
+      "renderHtml": false
+    },
+    {
+      "text": "Anxiety meds.",
+      "renderHtml": false
+    },
+    {
+      "text": "Apocalyptic Robot Wars.",
+      "renderHtml": false
+    },
+    {
+      "text": "Armpit fart noises.",
+      "renderHtml": false
+    },
+    {
+      "text": "Arson.",
+      "renderHtml": false
+    },
+    {
+      "text": "Atomic wedgies.",
+      "renderHtml": false
+    },
+    {
+      "text": "Awesome stuff.",
+      "renderHtml": false
+    },
+    {
+      "text": "Awkward middle school dances.",
+      "renderHtml": false
+    },
+    {
+      "text": "Baby back ribs.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bae.",
+      "renderHtml": false
+    },
+    {
+      "text": "Banana hammocks.",
+      "renderHtml": false
+    },
+    {
+      "text": "Barack's blond wig.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bats.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bedazzled boxer shorts.",
+      "renderHtml": false
+    },
+    {
+      "text": "Beef Chow Mein.",
+      "renderHtml": false
+    },
+    {
+      "text": "Beer Pong.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being a shill for extremist groups.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being chased by goblins.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being nice to chipmunks.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being thick with nectar.",
+      "renderHtml": false
+    },
+    {
+      "text": "Belly flops.",
+      "renderHtml": false
+    },
+    {
+      "text": "Belting out power ballads in the shower.",
+      "renderHtml": false
+    },
+    {
+      "text": "Betrayal.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bicep rubdowns.",
+      "renderHtml": false
+    },
+    {
+      "text": "Biden's IROC Camaro.",
+      "renderHtml": false
+    },
+    {
+      "text": "Biden's rockin mullet.",
+      "renderHtml": false
+    },
+    {
+      "text": "Big turd factories.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bile filled burps.",
+      "renderHtml": false
+    },
+    {
+      "text": "Binge watching Golden Girls.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bingo at the senior center.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bitter hatred.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bloodthirsty dictators.",
+      "renderHtml": false
+    },
+    {
+      "text": "Blowing chunks.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bobbing for guinea pigs.",
+      "renderHtml": false
+    },
+    {
+      "text": "Boring weekends in Amish Country.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bouncing on a pogo stick.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bowing to my corporate masters.",
+      "renderHtml": false
+    },
+    {
+      "text": "Boxed wine.",
+      "renderHtml": false
+    },
+    {
+      "text": "Brazilian wax jobs.",
+      "renderHtml": false
+    },
+    {
+      "text": "Breasts",
+      "renderHtml": false
+    },
+    {
+      "text": "Breathing heavily on the phone and then quickly hanging up.",
+      "renderHtml": false
+    },
+    {
+      "text": "Brown Toledo tap water.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bruce's Yams.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bruised bananas.",
+      "renderHtml": false
+    },
+    {
+      "text": "Brushing a life size doll's hair all day.",
+      "renderHtml": false
+    },
+    {
+      "text": "Brushing my teeth once a week.",
+      "renderHtml": false
+    },
+    {
+      "text": "Buckets of fried chicken.",
+      "renderHtml": false
+    },
+    {
+      "text": "Buldge revealing unitards.",
+      "renderHtml": false
+    },
+    {
+      "text": "Butt flu.",
+      "renderHtml": false
+    },
+    {
+      "text": "Butt pimples.",
+      "renderHtml": false
+    },
+    {
+      "text": "Canker sores.",
+      "renderHtml": false
+    },
+    {
+      "text": "Captain Planet.",
+      "renderHtml": false
+    },
+    {
+      "text": "Caroling with Yoda.",
+      "renderHtml": false
+    },
+    {
+      "text": "Cats with gas.",
+      "renderHtml": false
+    },
+    {
+      "text": "Chasing sheep across the hills.",
+      "renderHtml": false
+    },
+    {
+      "text": "Cheap booze.",
+      "renderHtml": false
+    },
+    {
+      "text": "Cheapskates.",
+      "renderHtml": false
+    },
+    {
+      "text": "Chewing on handfulls of Mexican pharmacy drugs.",
+      "renderHtml": false
+    },
+    {
+      "text": "Chili cheese fries.",
+      "renderHtml": false
+    },
+    {
+      "text": "Chillin with my homies.",
+      "renderHtml": false
+    },
+    {
+      "text": "Chinese food.",
+      "renderHtml": false
+    },
+    {
+      "text": "Chris Christie's neck flab.",
+      "renderHtml": false
+    },
+    {
+      "text": "Cock fights.",
+      "renderHtml": false
+    },
+    {
+      "text": "Coffins.",
+      "renderHtml": false
+    },
+    {
+      "text": "Communism.",
+      "renderHtml": false
+    },
+    {
+      "text": "Conversations with an indifferent moose.",
+      "renderHtml": false
+    },
+    {
+      "text": "Cougars.",
+      "renderHtml": false
+    },
+    {
+      "text": "Cow tipping.",
+      "renderHtml": false
+    },
+    {
+      "text": "Crack houses.",
+      "renderHtml": false
+    },
+    {
+      "text": "Crotch kicks.",
+      "renderHtml": false
+    },
+    {
+      "text": "Crotch rockets.",
+      "renderHtml": false
+    },
+    {
+      "text": "Crushing debt.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dance fights.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dancing the Macarena.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dangling hotdogs over a shark tank.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dating people with low self-esteem.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dead end jobs.",
+      "renderHtml": false
+    },
+    {
+      "text": "Deep hamstring stretches with Donald Trump.",
+      "renderHtml": false
+    },
+    {
+      "text": "Deez nuts.",
+      "renderHtml": false
+    },
+    {
+      "text": "Deflated balls.",
+      "renderHtml": false
+    },
+    {
+      "text": "Destroying the economy.",
+      "renderHtml": false
+    },
+    {
+      "text": "Destroying the outdoors.",
+      "renderHtml": false
+    },
+    {
+      "text": "Diamond studded grillz.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dick Cheney's glistening forehead.",
+      "renderHtml": false
+    },
+    {
+      "text": "Digging out belly lint.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dimwitted Diplomats.",
+      "renderHtml": false
+    },
+    {
+      "text": "Disco Inferno.",
+      "renderHtml": false
+    },
+    {
+      "text": "Disney's cryogenically frozen head.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dolphins eating potato chips.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dork face.",
+      "renderHtml": false
+    },
+    {
+      "text": "Double rainbows.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dropping my phone in the toilet.",
+      "renderHtml": false
+    },
+    {
+      "text": "Drunk Secret Service Agents.",
+      "renderHtml": false
+    },
+    {
+      "text": "Drunken selfies.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dry heaves.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dumpster fires.",
+      "renderHtml": false
+    },
+    {
+      "text": "Eating a gallon of ice cream alone in the dark.",
+      "renderHtml": false
+    },
+    {
+      "text": "Eating dirt.",
+      "renderHtml": false
+    },
+    {
+      "text": "Embezzling.",
+      "renderHtml": false
+    },
+    {
+      "text": "Endless invitations to play candy crush.",
+      "renderHtml": false
+    },
+    {
+      "text": "Endless pleasure.",
+      "renderHtml": false
+    },
+    {
+      "text": "Erotic haiku.",
+      "renderHtml": false
+    },
+    {
+      "text": "Exceedingly low standards.",
+      "renderHtml": false
+    },
+    {
+      "text": "Explosive diarrhoea",
+      "renderHtml": false
+    },
+    {
+      "text": "Extra meat in burrito bowls.",
+      "renderHtml": false
+    },
+    {
+      "text": "Extreme comb-overs.",
+      "renderHtml": false
+    },
+    {
+      "text": "Extreme couponing.",
+      "renderHtml": false
+    },
+    {
+      "text": "Facebook stalking.",
+      "renderHtml": false
+    },
+    {
+      "text": "Failing inner city schools.",
+      "renderHtml": false
+    },
+    {
+      "text": "Falling sleep on the toilet.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fat lobsters.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fat old Juan.",
+      "renderHtml": false
+    },
+    {
+      "text": "Filthy liars.",
+      "renderHtml": false
+    },
+    {
+      "text": "Finding a date on Craigslist.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fishnet stockings.",
+      "renderHtml": false
+    },
+    {
+      "text": "Flabby bulge.",
+      "renderHtml": false
+    },
+    {
+      "text": "Flapjacks.",
+      "renderHtml": false
+    },
+    {
+      "text": "Flesh eating bacteria.",
+      "renderHtml": false
+    },
+    {
+      "text": "Floppy jowls.",
+      "renderHtml": false
+    },
+    {
+      "text": "Flying squirrels.",
+      "renderHtml": false
+    },
+    {
+      "text": "Footie pajamas.",
+      "renderHtml": false
+    },
+    {
+      "text": "Forbidden love.",
+      "renderHtml": false
+    },
+    {
+      "text": "French kissing.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fresh coconuts.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fresh Prince reruns.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fried bologna.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fudge.",
+      "renderHtml": false
+    },
+    {
+      "text": "Gas station sushi.",
+      "renderHtml": false
+    },
+    {
+      "text": "Gator Wrasslin.",
+      "renderHtml": false
+    },
+    {
+      "text": "Gently touching the boa constrictor.",
+      "renderHtml": false
+    },
+    {
+      "text": "George Bush's jorts.",
+      "renderHtml": false
+    },
+    {
+      "text": "George Bush's nude self portrait.",
+      "renderHtml": false
+    },
+    {
+      "text": "Gerbils with leprosy.",
+      "renderHtml": false
+    },
+    {
+      "text": "Gin.",
+      "renderHtml": false
+    },
+    {
+      "text": "Gingivitis.",
+      "renderHtml": false
+    },
+    {
+      "text": "Giraffe tongue.",
+      "renderHtml": false
+    },
+    {
+      "text": "Giving the finger to lame hipsters with beards.",
+      "renderHtml": false
+    },
+    {
+      "text": "Giving up.",
+      "renderHtml": false
+    },
+    {
+      "text": "Glittery vampires.",
+      "renderHtml": false
+    },
+    {
+      "text": "Gluing quarters to the sidewalk.",
+      "renderHtml": false
+    },
+    {
+      "text": "Going commando.",
+      "renderHtml": false
+    },
+    {
+      "text": "Going to the Inauguration Ball with my slow cousin.",
+      "renderHtml": false
+    },
+    {
+      "text": "Government shutdowns.",
+      "renderHtml": false
+    },
+    {
+      "text": "Granny panties.",
+      "renderHtml": false
+    },
+    {
+      "text": "Grape soda.",
+      "renderHtml": false
+    },
+    {
+      "text": "Greasy foreigners.",
+      "renderHtml": false
+    },
+    {
+      "text": "Grizzly Bears.",
+      "renderHtml": false
+    },
+    {
+      "text": "Guns.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ham sandwiches.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hemorrhoid cream.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hillary's chin hair.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hillary's leather whip.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hocking loogies on voters from the rooftop.",
+      "renderHtml": false
+    },
+    {
+      "text": "Holding hands with my imaginary friend.",
+      "renderHtml": false
+    },
+    {
+      "text": "Homemade chunky yogurt.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hopelessness.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hormonal hurricanes.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hot beef.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hot wings.",
+      "renderHtml": false
+    },
+    {
+      "text": "Humiliating our allies.",
+      "renderHtml": false
+    },
+    {
+      "text": "Humiliating part time jobs.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hunting with Dick Cheney.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ice cold 40 oz. King Cobra.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ignoring the Constitution.",
+      "renderHtml": false
+    },
+    {
+      "text": "Indian burns.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ineptitude.",
+      "renderHtml": false
+    },
+    {
+      "text": "Inflaming religious groups.",
+      "renderHtml": false
+    },
+    {
+      "text": "Inhaling helium before every speech.",
+      "renderHtml": false
+    },
+    {
+      "text": "Insulting Santa Claus.",
+      "renderHtml": false
+    },
+    {
+      "text": "IRS ice cream socials.",
+      "renderHtml": false
+    },
+    {
+      "text": "Jello shots.",
+      "renderHtml": false
+    },
+    {
+      "text": "Jelly beans.",
+      "renderHtml": false
+    },
+    {
+      "text": "John Kerry's beat box album.",
+      "renderHtml": false
+    },
+    {
+      "text": "John Kerry's dream journal.",
+      "renderHtml": false
+    },
+    {
+      "text": "Juicy bacon cheeseburgers.",
+      "renderHtml": false
+    },
+    {
+      "text": "Kazoo lessons.",
+      "renderHtml": false
+    },
+    {
+      "text": "Keg stands.",
+      "renderHtml": false
+    },
+    {
+      "text": "Kicking a bodybuilder when he isn't looking and then running away.",
+      "renderHtml": false
+    },
+    {
+      "text": "KISS coverbands.",
+      "renderHtml": false
+    },
+    {
+      "text": "Lame pharmaceutical commercials.",
+      "renderHtml": false
+    },
+    {
+      "text": "Languidly dancing in front of the bathroom mirror.",
+      "renderHtml": false
+    },
+    {
+      "text": "Larry.",
+      "renderHtml": false
+    },
+    {
+      "text": "Late night burritos.",
+      "renderHtml": false
+    },
+    {
+      "text": "Laughing while people talk about their goals in life.",
+      "renderHtml": false
+    },
+    {
+      "text": "Lawyers.",
+      "renderHtml": false
+    },
+    {
+      "text": "Leprechaun traps.",
+      "renderHtml": false
+    },
+    {
+      "text": "Licking the bathroom floor.",
+      "renderHtml": false
+    },
+    {
+      "text": "Lightsabers.",
+      "renderHtml": false
+    },
+    {
+      "text": "Limp handshakes.",
+      "renderHtml": false
+    },
+    {
+      "text": "Lip injections.",
+      "renderHtml": false
+    },
+    {
+      "text": "Liposuction.",
+      "renderHtml": false
+    },
+    {
+      "text": "Losing faith in humanity.",
+      "renderHtml": false
+    },
+    {
+      "text": "Lukewarm hot dogs.",
+      "renderHtml": false
+    },
+    {
+      "text": "Lunch bags filled with glue.",
+      "renderHtml": false
+    },
+    {
+      "text": "Lying nightly news anchors.",
+      "renderHtml": false
+    },
+    {
+      "text": "Making Chinese diplomats pull my finger.",
+      "renderHtml": false
+    },
+    {
+      "text": "Making fun of the Prime Minister's teeth.",
+      "renderHtml": false
+    },
+    {
+      "text": "Mamma's boy.",
+      "renderHtml": false
+    },
+    {
+      "text": "Marco Rubio's hair gel.",
+      "renderHtml": false
+    },
+    {
+      "text": "Margarita night.",
+      "renderHtml": false
+    },
+    {
+      "text": "Mashed potatoes.",
+      "renderHtml": false
+    },
+    {
+      "text": "Medical waste.",
+      "renderHtml": false
+    },
+    {
+      "text": "Meth labs.",
+      "renderHtml": false
+    },
+    {
+      "text": "Mind numbing lectures.",
+      "renderHtml": false
+    },
+    {
+      "text": "Mindless consumerism.",
+      "renderHtml": false
+    },
+    {
+      "text": "Minimum wage.",
+      "renderHtml": false
+    },
+    {
+      "text": "Money.",
+      "renderHtml": false
+    },
+    {
+      "text": "Monster trucks.",
+      "renderHtml": false
+    },
+    {
+      "text": "Mother Earth's goodness.",
+      "renderHtml": false
+    },
+    {
+      "text": "Muffin tops.",
+      "renderHtml": false
+    },
+    {
+      "text": "Murder.",
+      "renderHtml": false
+    },
+    {
+      "text": "My beer gut.",
+      "renderHtml": false
+    },
+    {
+      "text": "My candyass running mate.",
+      "renderHtml": false
+    },
+    {
+      "text": "My coworkers boring vacation photos.",
+      "renderHtml": false
+    },
+    {
+      "text": "My dickhead roomate.",
+      "renderHtml": false
+    },
+    {
+      "text": "My happy place.",
+      "renderHtml": false
+    },
+    {
+      "text": "My hillbilly family.",
+      "renderHtml": false
+    },
+    {
+      "text": "My meat.",
+      "renderHtml": false
+    },
+    {
+      "text": "My milkshake.",
+      "renderHtml": false
+    },
+    {
+      "text": "My pants.",
+      "renderHtml": false
+    },
+    {
+      "text": "My pet llama.",
+      "renderHtml": false
+    },
+    {
+      "text": "My psycho ex.",
+      "renderHtml": false
+    },
+    {
+      "text": "My soft eyes and pouty lips.",
+      "renderHtml": false
+    },
+    {
+      "text": "My tight fitting, grease stained sweatshirt.",
+      "renderHtml": false
+    },
+    {
+      "text": "Neck beards.",
+      "renderHtml": false
+    },
+    {
+      "text": "Night terrors.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ninjas.",
+      "renderHtml": false
+    },
+    {
+      "text": "North Korean bowling shoes.",
+      "renderHtml": false
+    },
+    {
+      "text": "Not being able to button your pants.",
+      "renderHtml": false
+    },
+    {
+      "text": "Not really caring about global warming.",
+      "renderHtml": false
+    },
+    {
+      "text": "Obama's Portuguese water dog.",
+      "renderHtml": false
+    },
+    {
+      "text": "Obama's swim cap.",
+      "renderHtml": false
+    },
+    {
+      "text": "Obese sex.",
+      "renderHtml": false
+    },
+    {
+      "text": "Olive loaf.",
+      "renderHtml": false
+    },
+    {
+      "text": "Our Chinese Overlords.",
+      "renderHtml": false
+    },
+    {
+      "text": "Our country's pathetic youth.",
+      "renderHtml": false
+    },
+    {
+      "text": "Outlandish beliefs.",
+      "renderHtml": false
+    },
+    {
+      "text": "Overly sensitive vegetarians.",
+      "renderHtml": false
+    },
+    {
+      "text": "Patty cake with Rush Limbaugh.",
+      "renderHtml": false
+    },
+    {
+      "text": "Percocet.",
+      "renderHtml": false
+    },
+    {
+      "text": "Perfect hair.",
+      "renderHtml": false
+    },
+    {
+      "text": "Performing a rain dance while wearing only chaps.",
+      "renderHtml": false
+    },
+    {
+      "text": "Perusing farmersonly.com",
+      "renderHtml": false
+    },
+    {
+      "text": "Petting a lobster.",
+      "renderHtml": false
+    },
+    {
+      "text": "Picking bugs out of a hippies dreadlocks.",
+      "renderHtml": false
+    },
+    {
+      "text": "Picking scabs.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pigeon droppings.",
+      "renderHtml": false
+    },
+    {
+      "text": "Piles of nukes.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pillow fights.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pina Coladas.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pit bulls.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pit stains.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pitching a tent.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pizza bagels.",
+      "renderHtml": false
+    },
+    {
+      "text": "Plantar warts.",
+      "renderHtml": false
+    },
+    {
+      "text": "Playing tag with Jeb Bush.",
+      "renderHtml": false
+    },
+    {
+      "text": "Playing with my Slinky.",
+      "renderHtml": false
+    },
+    {
+      "text": "Plucking nipple hair.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pocket hockey.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pointing out other people's flaws.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pointy bras.",
+      "renderHtml": false
+    },
+    {
+      "text": "Poison.",
+      "renderHtml": false
+    },
+    {
+      "text": "Popping zits.",
+      "renderHtml": false
+    },
+    {
+      "text": "Powdered donuts.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pretending I'm not dead on the inside.",
+      "renderHtml": false
+    },
+    {
+      "text": "Prince Charles on a Slip'N Slide.",
+      "renderHtml": false
+    },
+    {
+      "text": "Princess jammies.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pudding skin.",
+      "renderHtml": false
+    },
+    {
+      "text": "Punching mimes.",
+      "renderHtml": false
+    },
+    {
+      "text": "Purple nurples.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pus.",
+      "renderHtml": false
+    },
+    {
+      "text": "Putin's scalp cream.",
+      "renderHtml": false
+    },
+    {
+      "text": "Questionable modern art.",
+      "renderHtml": false
+    },
+    {
+      "text": "Quilting with Aunt Gertrude.",
+      "renderHtml": false
+    },
+    {
+      "text": "Racing Hoveround Scooters.",
+      "renderHtml": false
+    },
+    {
+      "text": "Radical socialism.",
+      "renderHtml": false
+    },
+    {
+      "text": "Rainbow wigs.",
+      "renderHtml": false
+    },
+    {
+      "text": "Rainbows and Unicorns.",
+      "renderHtml": false
+    },
+    {
+      "text": "Random prescription side effects.",
+      "renderHtml": false
+    },
+    {
+      "text": "Raving lunatics.",
+      "renderHtml": false
+    },
+    {
+      "text": "Rectal thermometers.",
+      "renderHtml": false
+    },
+    {
+      "text": "Repealing the First Amendment.",
+      "renderHtml": false
+    },
+    {
+      "text": "Reptilian Senators.",
+      "renderHtml": false
+    },
+    {
+      "text": "Riding a burro to a Taco Bell.",
+      "renderHtml": false
+    },
+    {
+      "text": "Riding a unicycle.",
+      "renderHtml": false
+    },
+    {
+      "text": "Riding the Loch Ness Monster while guzzling scotch.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ripe melons.",
+      "renderHtml": false
+    },
+    {
+      "text": "Roach motels.",
+      "renderHtml": false
+    },
+    {
+      "text": "Robbing dollar stores.",
+      "renderHtml": false
+    },
+    {
+      "text": "Rolling Bubble Boy down a hill.",
+      "renderHtml": false
+    },
+    {
+      "text": "Rubber duckies.",
+      "renderHtml": false
+    },
+    {
+      "text": "Rubber nipples.",
+      "renderHtml": false
+    },
+    {
+      "text": "Rubbing the Buddha.",
+      "renderHtml": false
+    },
+    {
+      "text": "Rubbing the pot roast all over my chest.",
+      "renderHtml": false
+    },
+    {
+      "text": "Running naked through sprinklers.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ruth Bader Ginsburg's hard core rap album.",
+      "renderHtml": false
+    },
+    {
+      "text": "Salty nuts.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sarah Palin's crazy pills.",
+      "renderHtml": false
+    },
+    {
+      "text": "Screaming at inanimate objects.",
+      "renderHtml": false
+    },
+    {
+      "text": "Seated aerobics.",
+      "renderHtml": false
+    },
+    {
+      "text": "Secular wickedness.",
+      "renderHtml": false
+    },
+    {
+      "text": "Senators on performance enhancing drugs.",
+      "renderHtml": false
+    },
+    {
+      "text": "Serial killers.",
+      "renderHtml": false
+    },
+    {
+      "text": "Serving Riunite to the French delegation.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sexy Abe Lincoln.",
+      "renderHtml": false
+    },
+    {
+      "text": "Shameless pandering.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sharp objects.",
+      "renderHtml": false
+    },
+    {
+      "text": "Shaving a gorilla.",
+      "renderHtml": false
+    },
+    {
+      "text": "Shoplifting.",
+      "renderHtml": false
+    },
+    {
+      "text": "Shotgunning brewskies.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sissies.",
+      "renderHtml": false
+    },
+    {
+      "text": "Six pack abs.",
+      "renderHtml": false
+    },
+    {
+      "text": "Slapping the monkey.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sloppy Joes.",
+      "renderHtml": false
+    },
+    {
+      "text": "Smiles and hugs.",
+      "renderHtml": false
+    },
+    {
+      "text": "Smoking crack.",
+      "renderHtml": false
+    },
+    {
+      "text": "Smoking three packs a day.",
+      "renderHtml": false
+    },
+    {
+      "text": "Smooth jazz.",
+      "renderHtml": false
+    },
+    {
+      "text": "Snot rockets.",
+      "renderHtml": false
+    },
+    {
+      "text": "Soccer moms.",
+      "renderHtml": false
+    },
+    {
+      "text": "Soul Train reruns.",
+      "renderHtml": false
+    },
+    {
+      "text": "Soupy coleslaw.",
+      "renderHtml": false
+    },
+    {
+      "text": "Space zombies.",
+      "renderHtml": false
+    },
+    {
+      "text": "Spanky time.",
+      "renderHtml": false
+    },
+    {
+      "text": "Speaking gibberish and pretending its Spanish.",
+      "renderHtml": false
+    },
+    {
+      "text": "Spider veins.",
+      "renderHtml": false
+    },
+    {
+      "text": "Spontaneous breakdancing.",
+      "renderHtml": false
+    },
+    {
+      "text": "Spray tans.",
+      "renderHtml": false
+    },
+    {
+      "text": "Spreading joy throughout the land.",
+      "renderHtml": false
+    },
+    {
+      "text": "Squeezing the Charmin.",
+      "renderHtml": false
+    },
+    {
+      "text": "Stadium urinals.",
+      "renderHtml": false
+    },
+    {
+      "text": "Stained motel pillows.",
+      "renderHtml": false
+    },
+    {
+      "text": "Stained underwear.",
+      "renderHtml": false
+    },
+    {
+      "text": "Stalking Britney Spears.",
+      "renderHtml": false
+    },
+    {
+      "text": "Stanky breath.",
+      "renderHtml": false
+    },
+    {
+      "text": "Stapling my pants to a chair.",
+      "renderHtml": false
+    },
+    {
+      "text": "Star Trek nerds.",
+      "renderHtml": false
+    },
+    {
+      "text": "Staring contests with Washington's portrait.",
+      "renderHtml": false
+    },
+    {
+      "text": "Steaming bowls of beans.",
+      "renderHtml": false
+    },
+    {
+      "text": "Stepping on a Lego.",
+      "renderHtml": false
+    },
+    {
+      "text": "Stranger danger.",
+      "renderHtml": false
+    },
+    {
+      "text": "Strechy pants.",
+      "renderHtml": false
+    },
+    {
+      "text": "Strippers.",
+      "renderHtml": false
+    },
+    {
+      "text": "Stroking the camel.",
+      "renderHtml": false
+    },
+    {
+      "text": "Stuffing the ballot box with pepperoni.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sucking my thumb.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sucking on an exhaust pipe.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sweatin' to the Oldies.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sweatshops.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sweaty Elvis impersonators.",
+      "renderHtml": false
+    },
+    {
+      "text": "Swedish meatballs.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sweet cherry pie.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sweet mixtapes.",
+      "renderHtml": false
+    },
+    {
+      "text": "Talking baby movies.",
+      "renderHtml": false
+    },
+    {
+      "text": "Tax seminars.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ted Cruz's bong pipe.",
+      "renderHtml": false
+    },
+    {
+      "text": "Teen Wolf.",
+      "renderHtml": false
+    },
+    {
+      "text": "Teepeeing the Veep's house.",
+      "renderHtml": false
+    },
+    {
+      "text": "Telling Putin dirty jokes.",
+      "renderHtml": false
+    },
+    {
+      "text": "Telling the same fart joke over and over.",
+      "renderHtml": false
+    },
+    {
+      "text": "Tequila shooters.",
+      "renderHtml": false
+    },
+    {
+      "text": "That Band-Aid I found in my burger.",
+      "renderHtml": false
+    },
+    {
+      "text": "That creep in accounting.",
+      "renderHtml": false
+    },
+    {
+      "text": "That cute Congressman.",
+      "renderHtml": false
+    },
+    {
+      "text": "That idiot at Starbucks who sits there for hours using free Wifi.",
+      "renderHtml": false
+    },
+    {
+      "text": "That jerk that over pronounces foreign words.",
+      "renderHtml": false
+    },
+    {
+      "text": "That little hard bit you find in your chicken nuggets.",
+      "renderHtml": false
+    },
+    {
+      "text": "That nerd who takes forever to order at Panera.",
+      "renderHtml": false
+    },
+    {
+      "text": "That one freakishly long nose hair.",
+      "renderHtml": false
+    },
+    {
+      "text": "That rank odor coming from the dog.",
+      "renderHtml": false
+    },
+    {
+      "text": "That scary clown standing right behind you.",
+      "renderHtml": false
+    },
+    {
+      "text": "The boogeyman.",
+      "renderHtml": false
+    },
+    {
+      "text": "The darkness that lies deep within my soul.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Dump.",
+      "renderHtml": false
+    },
+    {
+      "text": "The extra fries in the bottom of the bag.",
+      "renderHtml": false
+    },
+    {
+      "text": "The gale force of a thousand seastorms.",
+      "renderHtml": false
+    },
+    {
+      "text": "The meat sweats.",
+      "renderHtml": false
+    },
+    {
+      "text": "The poor and disenfranchised.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Pork Festival Pagent Queen.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Rock.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Supreme Court Jazz Choir.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Supreme Court Swimsuit Calendar.",
+      "renderHtml": false
+    },
+    {
+      "text": "The thug life.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Truffle Shuffle.",
+      "renderHtml": false
+    },
+    {
+      "text": "Thick arm hair.",
+      "renderHtml": false
+    },
+    {
+      "text": "Those sleazeballs in Congress.",
+      "renderHtml": false
+    },
+    {
+      "text": "Three martini lunches.",
+      "renderHtml": false
+    },
+    {
+      "text": "Thumb wrestling.",
+      "renderHtml": false
+    },
+    {
+      "text": "Tick infested hell holes.",
+      "renderHtml": false
+    },
+    {
+      "text": "Tighty whities.",
+      "renderHtml": false
+    },
+    {
+      "text": "Tiptoeing through the tulips.",
+      "renderHtml": false
+    },
+    {
+      "text": "Toenail fungus.",
+      "renderHtml": false
+    },
+    {
+      "text": "Toga parties.",
+      "renderHtml": false
+    },
+    {
+      "text": "Tossed salad.",
+      "renderHtml": false
+    },
+    {
+      "text": "Total and complete boredom.",
+      "renderHtml": false
+    },
+    {
+      "text": "Trailer parks.",
+      "renderHtml": false
+    },
+    {
+      "text": "Trampy Halloween costumes.",
+      "renderHtml": false
+    },
+    {
+      "text": "Tripping elderly roller skaters.",
+      "renderHtml": false
+    },
+    {
+      "text": "Trolling Twitter.",
+      "renderHtml": false
+    },
+    {
+      "text": "Truck stop love.",
+      "renderHtml": false
+    },
+    {
+      "text": "Twig and berries.",
+      "renderHtml": false
+    },
+    {
+      "text": "Unbearable sadness.",
+      "renderHtml": false
+    },
+    {
+      "text": "Uncomfortable staring.",
+      "renderHtml": false
+    },
+    {
+      "text": "Uncontrollable public drooling.",
+      "renderHtml": false
+    },
+    {
+      "text": "Uncontrollable weeping.",
+      "renderHtml": false
+    },
+    {
+      "text": "Underfunding public schools.",
+      "renderHtml": false
+    },
+    {
+      "text": "Underwater monsters.",
+      "renderHtml": false
+    },
+    {
+      "text": "Unidentified burning crotch rash.",
+      "renderHtml": false
+    },
+    {
+      "text": "Vanilla Ice.",
+      "renderHtml": false
+    },
+    {
+      "text": "Verbally abusing the shift manager at Arby's.",
+      "renderHtml": false
+    },
+    {
+      "text": "Vests for snakes.",
+      "renderHtml": false
+    },
+    {
+      "text": "Vicious attack ads.",
+      "renderHtml": false
+    },
+    {
+      "text": "Visiting Snarlac the jungle planet of Alpha Centauri.",
+      "renderHtml": false
+    },
+    {
+      "text": "Voodoo curses.",
+      "renderHtml": false
+    },
+    {
+      "text": "Vote for Mob favors.",
+      "renderHtml": false
+    },
+    {
+      "text": "Wasting the whole day eating churros.",
+      "renderHtml": false
+    },
+    {
+      "text": "Water balloons filled with maple syrup.",
+      "renderHtml": false
+    },
+    {
+      "text": "Waterslides.",
+      "renderHtml": false
+    },
+    {
+      "text": "Weapons of mass destruction.",
+      "renderHtml": false
+    },
+    {
+      "text": "Wearing a pink fedora.",
+      "renderHtml": false
+    },
+    {
+      "text": "Weed.",
+      "renderHtml": false
+    },
+    {
+      "text": "Weenie roasts.",
+      "renderHtml": false
+    },
+    {
+      "text": "Wet cheese.",
+      "renderHtml": false
+    },
+    {
+      "text": "Wet willies.",
+      "renderHtml": false
+    },
+    {
+      "text": "Whatever.",
+      "renderHtml": false
+    },
+    {
+      "text": "Whiskey served in a dirty glass.",
+      "renderHtml": false
+    },
+    {
+      "text": "Wiffle ball.",
+      "renderHtml": false
+    },
+    {
+      "text": "Witchcraft.",
+      "renderHtml": false
+    },
+    {
+      "text": "Wizard spells.",
+      "renderHtml": false
+    },
+    {
+      "text": "Wooden teeth.",
+      "renderHtml": false
+    },
+    {
+      "text": "Yo Momma.",
+      "renderHtml": false
+    },
+    {
+      "text": "Yo sista so dumb.",
+      "renderHtml": false
+    },
+    {
+      "text": "Yoga pants.",
+      "renderHtml": false
+    },
+    {
+      "text": "Your face.",
+      "renderHtml": false
+    },
+    {
+      "text": "Zentos- King of the barbarian horde.",
+      "renderHtml": false
+    },
+    {
+      "text": "Zero effort.",
+      "renderHtml": false
+    }
+  ]
+}

@@ -1,0 +1,409 @@
+{
+  "order": 96,
+  "displayName": "Cards With No Sexuality",
+  "name": "Cards_With_No_Sexuality",
+  "whiteCards": [
+    {
+      "text": "AMC's new spin off, _ The Walking Dead.",
+      "pick": 1
+    },
+    {
+      "text": "Apple just announced that in the next iPhone update, they're replacing Siri with _.",
+      "pick": 1
+    },
+    {
+      "text": "As Jesus was nailed to the cross, he laughed and shouted, \"This is nothing compared to_.\"",
+      "pick": 1
+    },
+    {
+      "text": "Call me a bad parent, but the only way I can get my toddler to calm down is to give him _.",
+      "pick": 1
+    },
+    {
+      "text": "Even though I was born as a female, tumblr has opened my eyes. I now identify as _.",
+      "pick": 1
+    },
+    {
+      "text": "Everyone's favorite new third-party CAH expansion: _ Against _.",
+      "pick": 2
+    },
+    {
+      "text": "Frito-Lay® just announced that the flavor of the mystery Doritos® was actually _.",
+      "pick": 1
+    },
+    {
+      "text": "I came here to chew bubblegum, and get aroused by black and white photos of_.  And I'm all outta bubblegum.",
+      "pick": 1
+    },
+    {
+      "text": "I don't understand why white privilege is such a hot topic. Blacks have privilege too. Ever heard of _?",
+      "pick": 1
+    },
+    {
+      "text": "I just got fired because I liked a Facebook page titled \"_\" and my employer found out.",
+      "pick": 1
+    },
+    {
+      "text": "I just tasted my wife's breast milk and it tasted like _.",
+      "pick": 1
+    },
+    {
+      "text": "I swear you could mistake _ for _ if you didn't have your glasses on.",
+      "pick": 2
+    },
+    {
+      "text": "If it wasn't for _ and a little bit of luck, I'd still be a virgin.",
+      "pick": 1
+    },
+    {
+      "text": "My grandmother told me that back in her day, they didn't have fancy things like _. They had to make do with _.",
+      "pick": 2
+    },
+    {
+      "text": "My wife has no idea, but before we have sex, I look at pictures of _ on my phone because she just can't make me hard anymore.",
+      "pick": 1
+    },
+    {
+      "text": "Nick didn't hang out with Timmy. Timmy was into _ while Nick enjoyed the finer things in life like _.",
+      "pick": 2
+    },
+    {
+      "text": "Proving there's no film he won't star in, get ready for Nick Cage's \"Escape from _ Island\".",
+      "pick": 1
+    },
+    {
+      "text": "Silly Macklemore. He tried rhyming _ with _.",
+      "pick": 2
+    },
+    {
+      "text": "The abortion was going as planned until the physician pulled out_ instead.",
+      "pick": 1
+    },
+    {
+      "text": "The road to _ is riddled with broken hearts, shattered dreams, and a whole lot of _.",
+      "pick": 2
+    },
+    {
+      "text": "There's more concrete proof that_ exists than the Holocaust.",
+      "pick": 1
+    },
+    {
+      "text": "Thomas had finally come to accept gay marriage, but he still is, and always will be, against someone getting married to _. It's just wrong.",
+      "pick": 1
+    },
+    {
+      "text": "When asked to describe Barack Obama in a few strong words, Joe Biden replied, \"Barack is a man I look up to. He's like _ mixed with _.\"",
+      "pick": 2
+    },
+    {
+      "text": "When I asked for nudes, she sent pictures of _. I wasn't disappointed.",
+      "pick": 1
+    },
+    {
+      "text": "You could say it was his politics that got Barack Obama elected, but we all know the real reason was _.",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "[Player to your left]'s reproductive organ.",
+      "renderHtml": false
+    },
+    {
+      "text": "A 100-pound teenager who thinks she's fat.",
+      "renderHtml": false
+    },
+    {
+      "text": "A busty toddler.",
+      "renderHtml": false
+    },
+    {
+      "text": "A concussed football player doing his best not to hit his wife.",
+      "renderHtml": false
+    },
+    {
+      "text": "A constant, deafening queef.",
+      "renderHtml": false
+    },
+    {
+      "text": "A crusty used Playboy.",
+      "renderHtml": false
+    },
+    {
+      "text": "A heavy-set 14-year-old in yoga pants.",
+      "renderHtml": false
+    },
+    {
+      "text": "A hickey right on the ball sack.",
+      "renderHtml": false
+    },
+    {
+      "text": "A high-school dropout who knows he's a fucking idiot who'll never amount to anything.",
+      "renderHtml": false
+    },
+    {
+      "text": "A lubed-up Wiffle Ball bat.",
+      "renderHtml": false
+    },
+    {
+      "text": "A non-consensual boob touch that's acknowledged and awkwardly apologized for.",
+      "renderHtml": false
+    },
+    {
+      "text": "A priest that's been molested. (Ironically not the other way around for once.)",
+      "renderHtml": false
+    },
+    {
+      "text": "A wet dream nightmare.",
+      "renderHtml": false
+    },
+    {
+      "text": "An angry gay man.",
+      "renderHtml": false
+    },
+    {
+      "text": "An extremely up-close, high resolution picture of Will Smith's asshole.",
+      "renderHtml": false
+    },
+    {
+      "text": "An industrial-grade fart.",
+      "renderHtml": false
+    },
+    {
+      "text": "An overly sexualized cartoon character.",
+      "renderHtml": false
+    },
+    {
+      "text": "Attempting to masturbate to ABC Family because you've already exhausted all the porn on the Internet.",
+      "renderHtml": false
+    },
+    {
+      "text": "Averting your eyes from a naked toddler because you're afraid you'll like it.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being physically, mentally, and sexually addicted to Fruit Roll-Ups.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being so addicted to Cards Against Humanity that you buy third-party expansions because you got bored with the eleven hundred cards the game already has.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bits of history that were never recorded and therefore no one will ever know. Like Abraham Lincoln's penis size.",
+      "renderHtml": false
+    },
+    {
+      "text": "Black guys that are just asking to be shot by police.",
+      "renderHtml": false
+    },
+    {
+      "text": "Contracting HIV just to spread it.",
+      "renderHtml": false
+    },
+    {
+      "text": "Cutting a hole out of the middle of your Bible to hide your condoms.",
+      "renderHtml": false
+    },
+    {
+      "text": "Deep spanks.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dick so good, you have to crawl to work the next day.",
+      "renderHtml": false
+    },
+    {
+      "text": "Douching your penis for equality.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fingering your girlfriend under the dinner table while meeting her parents for the first time.",
+      "renderHtml": false
+    },
+    {
+      "text": "Gauging your foreskin.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting sexual with the hole at the tip of a gun.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting so excited from the joy of seeing your child on their first day of school that you get an erection.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting turned on by the mystery of drinking milk without checking the expiration date.",
+      "renderHtml": false
+    },
+    {
+      "text": "Giving your son hand jobs because your biggest fear as a dad is raising a homophobe.",
+      "renderHtml": false
+    },
+    {
+      "text": "Having your middle-school boyfriend stick his tongue in your bellybutton to see if it feels like sex.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hiding your cum because you hear your parents pulling in.",
+      "renderHtml": false
+    },
+    {
+      "text": "ISIS sympathizing.",
+      "renderHtml": false
+    },
+    {
+      "text": "Jacking off. Going to sleep. Waking up. Jacking off again.",
+      "renderHtml": false
+    },
+    {
+      "text": "Just doing hands stuff because you're waiting to turn 13 to have sex.",
+      "renderHtml": false
+    },
+    {
+      "text": "Justin Bieber's naturally bald pubic area.",
+      "renderHtml": false
+    },
+    {
+      "text": "Misshapen breasts.",
+      "renderHtml": false
+    },
+    {
+      "text": "National Nude Hiking Day.",
+      "renderHtml": false
+    },
+    {
+      "text": "Not being able to hear your porno because your parents are doing it too loud in the other room.",
+      "renderHtml": false
+    },
+    {
+      "text": "Not deleting all your ex-girlfriend's nudes in case you get back together... at least that's what you tell yourself.",
+      "renderHtml": false
+    },
+    {
+      "text": "Nudes.",
+      "renderHtml": false
+    },
+    {
+      "text": "Obese sex.",
+      "renderHtml": false
+    },
+    {
+      "text": "Offensive 9/11 jokes.",
+      "renderHtml": false
+    },
+    {
+      "text": "Performing gender reassignment surgeries with only YouTube as a guide.",
+      "renderHtml": false
+    },
+    {
+      "text": "Performing sexual favors for the cashier because you forgot your coupons at home and they let you have the savings anyway.",
+      "renderHtml": false
+    },
+    {
+      "text": "Purposely pooping a little during anal and then getting all embarrassed and acting like it was an accident.",
+      "renderHtml": false
+    },
+    {
+      "text": "Purposely putting the empty milk gallon back into the fridge in hopes it'll finally push your suicidal roommate over the edge.",
+      "renderHtml": false
+    },
+    {
+      "text": "Putting off your suicide because you can only think of 12 reasons.",
+      "renderHtml": false
+    },
+    {
+      "text": "Saving a marriage with breast implants.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sharing a fetish with Hitler.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sleeping naked.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sleeping only with virgins because your penis is so small, you want to make sure they have nothing to compare it to.",
+      "renderHtml": false
+    },
+    {
+      "text": "Spanking front to back.",
+      "renderHtml": false
+    },
+    {
+      "text": "Taking so long to poop that your ass falls asleep and starts to tingle.",
+      "renderHtml": false
+    },
+    {
+      "text": "Tasting your wife's boob milk.",
+      "renderHtml": false
+    },
+    {
+      "text": "Taylor Swift trying to remember which boyfriend took her virginity.",
+      "renderHtml": false
+    },
+    {
+      "text": "That one ISIS member who was put out of a job by the Samsung Galaxy Note 3.",
+      "renderHtml": false
+    },
+    {
+      "text": "That one white card that sucks and sits in your hand the whole game.",
+      "renderHtml": false
+    },
+    {
+      "text": "That thing where closet gay guys act like they hate gays because they really hate themselves.",
+      "renderHtml": false
+    },
+    {
+      "text": "The 38,000 anal fisting videos on Porn Hub.",
+      "renderHtml": false
+    },
+    {
+      "text": "The periodic table of elements, except all the little squares are replaced with dog porn.",
+      "renderHtml": false
+    },
+    {
+      "text": "The scientific theory that gayness is caused by being bitten by a radioactive gay guy.",
+      "renderHtml": false
+    },
+    {
+      "text": "The sexualization of disciplinary spanking.",
+      "renderHtml": false
+    },
+    {
+      "text": "The straight agenda.",
+      "renderHtml": false
+    },
+    {
+      "text": "The sturdy belief that Bigfoot is more likely to exist than a straight man vaping.",
+      "renderHtml": false
+    },
+    {
+      "text": "The trash can where the doctor collects foreskins after circumcising babies.",
+      "renderHtml": false
+    },
+    {
+      "text": "Tinkerbell's Tic-Tac tampons.",
+      "renderHtml": false
+    },
+    {
+      "text": "Unintentional sexual abstinence.",
+      "renderHtml": false
+    },
+    {
+      "text": "Using revenge porn to teach your dog not to piss on the carpet.",
+      "renderHtml": false
+    },
+    {
+      "text": "Using the 15% you saved by switching to Geico to buy crack.",
+      "renderHtml": false
+    },
+    {
+      "text": "Washing and reselling tampons.",
+      "renderHtml": false
+    }
+  ]
+}

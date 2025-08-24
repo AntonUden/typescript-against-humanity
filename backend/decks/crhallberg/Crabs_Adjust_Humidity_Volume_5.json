@@ -1,0 +1,457 @@
+{
+  "order": 124,
+  "displayName": "Crabs Adjust Humidity: Volume 5",
+  "name": "Crabs_Adjust_Humidity_Volume_5",
+  "whiteCards": [
+    {
+      "text": "_ is merely a puppet of _.",
+      "pick": 2
+    },
+    {
+      "text": "_: Evidence that this is the darkest timeline.",
+      "pick": 1
+    },
+    {
+      "text": "_: It even makes its own gravy!",
+      "pick": 1
+    },
+    {
+      "text": "_: My body is ready.",
+      "pick": 1
+    },
+    {
+      "text": "_: The struggle is real.",
+      "pick": 1
+    },
+    {
+      "text": "_: Wake up sheeple!",
+      "pick": 1
+    },
+    {
+      "text": "\"_ Spice\" was one of the lesser-known Spice Girls.",
+      "pick": 1
+    },
+    {
+      "text": "And for my final wish Genie, I want you to make me the master of _.",
+      "pick": 1
+    },
+    {
+      "text": "As a staunch libertarian, I believe the only role for government is _.",
+      "pick": 1
+    },
+    {
+      "text": "Back in college, my nickname was _.",
+      "pick": 1
+    },
+    {
+      "text": "Code Three, request backup!\n\nI'm surrounded by _!",
+      "pick": 1
+    },
+    {
+      "text": "Cover my eyes with _ and then pleasure me with _.",
+      "pick": 2
+    },
+    {
+      "text": "Forget Fifty Shades of Grey...\n\nGive me Fifty Shades of _!",
+      "pick": 1
+    },
+    {
+      "text": "I never karaoke, because I always end up getting drunk and singing a song about _.",
+      "pick": 1
+    },
+    {
+      "text": "I'm definitely going to hell for _.",
+      "pick": 1
+    },
+    {
+      "text": "I'm finally writing that book, it's titled \"Zen and the Art of _.\"",
+      "pick": 1
+    },
+    {
+      "text": "Instructions unclear: dick stuck in _.",
+      "pick": 1
+    },
+    {
+      "text": "It's all about _ - no _.",
+      "pick": 2
+    },
+    {
+      "text": "Let it go!\nLet it go!\n\n_ never bothered me anyway...",
+      "pick": 1
+    },
+    {
+      "text": "My therapist says I have an unhealthy attitude about _.",
+      "pick": 1
+    },
+    {
+      "text": "Next on Adult Swim™: The Adventures of _ and _.",
+      "pick": 2
+    },
+    {
+      "text": "Thank you Mario! But _ is in another castle!",
+      "pick": 1
+    },
+    {
+      "text": "Turn down for what?",
+      "pick": 1
+    },
+    {
+      "text": "What really brings out the child in me?",
+      "pick": 1
+    },
+    {
+      "text": "What would you do for a Klondike® Bar?",
+      "pick": 1
+    },
+    {
+      "text": "Whatever else may change, one thing is certain: you can't unfuck _.",
+      "pick": 1
+    },
+    {
+      "text": "When I was young, the only thing that kept me off the streets was _.",
+      "pick": 1
+    },
+    {
+      "text": "Why do I need feminism?",
+      "pick": 1
+    },
+    {
+      "text": "Why is Jon Stewart really retiring?",
+      "pick": 1
+    },
+    {
+      "text": "Why so salty?",
+      "pick": 1
+    },
+    {
+      "text": "Yo bro, you tried _?\n\nShit's straight fire.",
+      "pick": 1
+    },
+    {
+      "text": "You kids with your fancy degrees...\n\nThey don't teach ya' nothin' 'bout _ in school.",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "A bag of doorknobs.",
+      "renderHtml": false
+    },
+    {
+      "text": "A bag of pickled socks.",
+      "renderHtml": false
+    },
+    {
+      "text": "A bucket of dicks.",
+      "renderHtml": false
+    },
+    {
+      "text": "A few sharp tugs.",
+      "renderHtml": false
+    },
+    {
+      "text": "A girl-child.",
+      "renderHtml": false
+    },
+    {
+      "text": "A lemon-stealing whore.",
+      "renderHtml": false
+    },
+    {
+      "text": "A meat tornado.",
+      "renderHtml": false
+    },
+    {
+      "text": "A miscarriage.",
+      "renderHtml": false
+    },
+    {
+      "text": "A nice boy who never did anyone any harm.",
+      "renderHtml": false
+    },
+    {
+      "text": "A pattern of defensive wounds.",
+      "renderHtml": false
+    },
+    {
+      "text": "A racist toddler.",
+      "renderHtml": false
+    },
+    {
+      "text": "A shallow grave.",
+      "renderHtml": false
+    },
+    {
+      "text": "A soggy biscuit.",
+      "renderHtml": false
+    },
+    {
+      "text": "A special snowflake.",
+      "renderHtml": false
+    },
+    {
+      "text": "A sternly-worded letter.",
+      "renderHtml": false
+    },
+    {
+      "text": "A tablespoon of thick, custardy puss.",
+      "renderHtml": false
+    },
+    {
+      "text": "A turbo-encabulator, complete with pre-famulated amulite surmounted by a malleable logarithmic casing.",
+      "renderHtml": false
+    },
+    {
+      "text": "A whole baby.",
+      "renderHtml": false
+    },
+    {
+      "text": "ALLAH HU AKBAR!",
+      "renderHtml": false
+    },
+    {
+      "text": "Alzheimer's.",
+      "renderHtml": false
+    },
+    {
+      "text": "An Amber Alert.",
+      "renderHtml": false
+    },
+    {
+      "text": "An asshole that tastes like vanilla ice cream.",
+      "renderHtml": false
+    },
+    {
+      "text": "Area 69.",
+      "renderHtml": false
+    },
+    {
+      "text": "Battle-tested period panties.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being a size queen.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being catfished.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being judged not by the color of your skin, but by the content of your character.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being really unprepared for Picture Day.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bill Cosby's chocolate pudding pop.",
+      "renderHtml": false
+    },
+    {
+      "text": "Booklearnin'.",
+      "renderHtml": false
+    },
+    {
+      "text": "Brojobs.",
+      "renderHtml": false
+    },
+    {
+      "text": "Crotchfruit.",
+      "renderHtml": false
+    },
+    {
+      "text": "Crushing your enemies, seeing them driven before you, and hearing the lamentations of their women.",
+      "renderHtml": false
+    },
+    {
+      "text": "Diamond-studded tampons.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dick nipples.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dickbutt. [A chibi drawing of Dickbutt]",
+      "renderHtml": false
+    },
+    {
+      "text": "Doggy-style with a real doggy.",
+      "renderHtml": false
+    },
+    {
+      "text": "Doing the waffle stomp.",
+      "renderHtml": false
+    },
+    {
+      "text": "Freedom.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting White Girl Wasted.",
+      "renderHtml": false
+    },
+    {
+      "text": "Going potty.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hillary Clinton's triumphant patriotic cock.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hot singles in your area.",
+      "renderHtml": false
+    },
+    {
+      "text": "Iggy Azalea.",
+      "renderHtml": false
+    },
+    {
+      "text": "Irony.",
+      "renderHtml": false
+    },
+    {
+      "text": "It.",
+      "renderHtml": false
+    },
+    {
+      "text": "Kinky fuckery.",
+      "renderHtml": false
+    },
+    {
+      "text": "Me Lucky Charms®!",
+      "renderHtml": false
+    },
+    {
+      "text": "MORTAL KOMBAT™.",
+      "renderHtml": false
+    },
+    {
+      "text": "Nutella®.",
+      "renderHtml": false
+    },
+    {
+      "text": "One more fucking word.",
+      "renderHtml": false
+    },
+    {
+      "text": "Only traveling by rickshaw.",
+      "renderHtml": false
+    },
+    {
+      "text": "Poking it with a stick.",
+      "renderHtml": false
+    },
+    {
+      "text": "Quietly ovulating.",
+      "renderHtml": false
+    },
+    {
+      "text": "Santorum, everywhere.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sharia law.",
+      "renderHtml": false
+    },
+    {
+      "text": "Shenanigans.",
+      "renderHtml": false
+    },
+    {
+      "text": "Shit-filled raviolis.",
+      "renderHtml": false
+    },
+    {
+      "text": "Shub-Niggurath, The Black Goat of the Woods with a Thousand Young.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sitting alone in the dark, listening to Drake.",
+      "renderHtml": false
+    },
+    {
+      "text": "Skanky Smurf.",
+      "renderHtml": false
+    },
+    {
+      "text": "Spelunking.",
+      "renderHtml": false
+    },
+    {
+      "text": "Stank dick.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sugar and spice and everything nice.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Cockpocalypse.",
+      "renderHtml": false
+    },
+    {
+      "text": "The difference between \"good touch\" and \"bad touch.\"",
+      "renderHtml": false
+    },
+    {
+      "text": "The muffled cries of an Asian baby girl.",
+      "renderHtml": false
+    },
+    {
+      "text": "The poophole loophole.",
+      "renderHtml": false
+    },
+    {
+      "text": "The scientific method.",
+      "renderHtml": false
+    },
+    {
+      "text": "The sound of a toddler's skull cracking against the pavement.",
+      "renderHtml": false
+    },
+    {
+      "text": "The third trimester.",
+      "renderHtml": false
+    },
+    {
+      "text": "The wet spot.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Yellow Dick Road.",
+      "renderHtml": false
+    },
+    {
+      "text": "These strange human urges.",
+      "renderHtml": false
+    },
+    {
+      "text": "This motherfucker right here.",
+      "renderHtml": false
+    },
+    {
+      "text": "Tinder™.",
+      "renderHtml": false
+    },
+    {
+      "text": "Type 2 diabetes.",
+      "renderHtml": false
+    },
+    {
+      "text": "Wink wink, nudge nudge!",
+      "renderHtml": false
+    },
+    {
+      "text": "You Know Who.",
+      "renderHtml": false
+    },
+    {
+      "text": "Your bourgeois morality.",
+      "renderHtml": false
+    }
+  ]
+}

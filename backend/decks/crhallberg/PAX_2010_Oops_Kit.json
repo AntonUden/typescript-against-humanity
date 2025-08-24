@@ -1,0 +1,65 @@
+{
+  "order": 41,
+  "displayName": "PAX 2010 \"Oops\" Kit",
+  "name": "PAX_2010_Oops_Kit",
+  "whiteCards": [
+    {
+      "text": "_: Has science gone too far?",
+      "pick": 1
+    },
+    {
+      "text": "Daddy, why is Mommy crying?",
+      "pick": 1
+    },
+    {
+      "text": "Dear Agony Aunt, I'm having some trouble with _ and I need your advice.",
+      "pick": 1
+    },
+    {
+      "text": "I dropped my cellphone in the _ and now it won't work anymore.",
+      "pick": 1
+    },
+    {
+      "text": "Who ate my _ again?",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "A Bitch Slap.",
+      "renderHtml": false
+    },
+    {
+      "text": "Chunks of food in my teeth",
+      "renderHtml": false
+    },
+    {
+      "text": "Extremely tight trousers.",
+      "renderHtml": false
+    },
+    {
+      "text": "One unforgettable night of passion.",
+      "renderHtml": false
+    },
+    {
+      "text": "Strafing an Afghan shepherd and his sad, sickly goats.",
+      "renderHtml": false
+    },
+    {
+      "text": "The boy who sucks the farts our of my sweatpants.",
+      "renderHtml": false
+    },
+    {
+      "text": "The entire Mormon Tabernacle Chior.",
+      "renderHtml": false
+    },
+    {
+      "text": "The few shreds of tinsel still clinging to my asshole.",
+      "renderHtml": false
+    },
+    {
+      "text": "Throwing another pidgey in the wood chipper.",
+      "renderHtml": false
+    }
+  ]
+}

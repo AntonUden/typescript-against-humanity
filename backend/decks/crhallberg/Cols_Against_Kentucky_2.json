@@ -1,0 +1,153 @@
+{
+  "order": 114,
+  "displayName": "Cols Against Kentucky 2",
+  "name": "Cols_Against_Kentucky_2",
+  "whiteCards": [
+    {
+      "text": "Big Bone Lick State Park is much better than its original name, \"_ State Park.\"",
+      "pick": 1
+    },
+    {
+      "text": "Do what?",
+      "pick": 1
+    },
+    {
+      "text": "Hey, while you're at the Piggly Wiggly's, could you pick me up _?",
+      "pick": 1
+    },
+    {
+      "text": "Last week, three Florence teens climbed the water tower to paint _.",
+      "pick": 1
+    },
+    {
+      "text": "My Old Kentucky _.",
+      "pick": 1
+    },
+    {
+      "text": "There's a pot of gold at the end of every rainbow, but what's at the end of Cumberland Falls' moonbow?",
+      "pick": 1
+    },
+    {
+      "text": "What did those dudes on the Kentucky State Seal just barter? _ for _.",
+      "pick": 2
+    },
+    {
+      "text": "What started the Hatfield-McCoy feud?",
+      "pick": 1
+    },
+    {
+      "text": "What was always concealed inside Abraham Lincoln's stove-pipe hat?",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "[image of eastern gray squirrel]",
+      "renderHtml": false
+    },
+    {
+      "text": "A $90 million, full-size replica of Noah's Ark.",
+      "renderHtml": false
+    },
+    {
+      "text": "A mouthful of cicadas.",
+      "renderHtml": false
+    },
+    {
+      "text": "A two-liter of dip spit.",
+      "renderHtml": false
+    },
+    {
+      "text": "All the gold in Fort Knox.",
+      "renderHtml": false
+    },
+    {
+      "text": "An electric car with a \"Friends of Coal\" license plate.",
+      "renderHtml": false
+    },
+    {
+      "text": "An entire horse.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ashley Judd's presence.",
+      "renderHtml": false
+    },
+    {
+      "text": "Blessing everyone's heart.",
+      "renderHtml": false
+    },
+    {
+      "text": "Calling all soda \"coke.\"",
+      "renderHtml": false
+    },
+    {
+      "text": "Daniel Boone's foreskin cap.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fucking Matt Bevin.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting elbow dropped from the top rope by \"Macho Man\" Randy Savage-OOOH YEAH!",
+      "renderHtml": false
+    },
+    {
+      "text": "Having sex in Mammoth Cave in order to join the \"mile-low club.\"",
+      "renderHtml": false
+    },
+    {
+      "text": "How my Boss Hogg looks in these Daisy Dukes.",
+      "renderHtml": false
+    },
+    {
+      "text": "Jennifer Lawrence's endearing qualities.",
+      "renderHtml": false
+    },
+    {
+      "text": "Johnny Depp, dancing all sexy.",
+      "renderHtml": false
+    },
+    {
+      "text": "KY Jelly.",
+      "renderHtml": false
+    },
+    {
+      "text": "Lightning bug-flavored moonshine.",
+      "renderHtml": false
+    },
+    {
+      "text": "Melty Dippin' Dots.",
+      "renderHtml": false
+    },
+    {
+      "text": "Oregano, chili powder, sage, basil, marjoram, paprika, onion salt, garlic powder, salt, pepper and MSG.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pappy Van Winkle and Coke.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pawpaw flavored vape juice.",
+      "renderHtml": false
+    },
+    {
+      "text": "Shootin' shit.",
+      "renderHtml": false
+    },
+    {
+      "text": "Shoveling coal.",
+      "renderHtml": false
+    },
+    {
+      "text": "Some kind of bullshit vegan burgoo.",
+      "renderHtml": false
+    },
+    {
+      "text": "Some really sticky Kentucky Durban.",
+      "renderHtml": false
+    }
+  ]
+}

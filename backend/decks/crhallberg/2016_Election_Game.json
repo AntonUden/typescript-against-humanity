@@ -1,0 +1,1001 @@
+{
+  "order": 71,
+  "displayName": "2016 Election Game",
+  "name": "2016_Election_Game",
+  "whiteCards": [
+    {
+      "text": "_ is in bed with Wall Street.",
+      "pick": 1
+    },
+    {
+      "text": "_ won my vote.",
+      "pick": 1
+    },
+    {
+      "text": "_, it's gonna be YUGE.",
+      "pick": 1
+    },
+    {
+      "text": "_, you're fired.",
+      "pick": 1
+    },
+    {
+      "text": "_: Sadly no longer a 10.",
+      "pick": 1
+    },
+    {
+      "text": "_.",
+      "pick": 1
+    },
+    {
+      "text": "_. Just abort it.",
+      "pick": 1
+    },
+    {
+      "text": "_. These things happen.",
+      "pick": 1
+    },
+    {
+      "text": "#_ is trending on Twitter.",
+      "pick": 1
+    },
+    {
+      "text": "A nefarious source tells Fox that Trump has his own secret plan to replace the Cabinet with _.",
+      "pick": 1
+    },
+    {
+      "text": "A new poll shows that _ is only 6 points ahead.",
+      "pick": 1
+    },
+    {
+      "text": "According to a new poll, 57 percent of people support _.",
+      "pick": 1
+    },
+    {
+      "text": "According to recent polls, 76% of Democrats are voting in support of _.",
+      "pick": 1
+    },
+    {
+      "text": "Bernie Sanders. The messier his hair gets, the more powerful _ becomes.",
+      "pick": 1
+    },
+    {
+      "text": "Don't judge me too hard -- I voted for _.",
+      "pick": 1
+    },
+    {
+      "text": "Donald Trump keeps tweeting about _.",
+      "pick": 1
+    },
+    {
+      "text": "Free trade is terrible. Free trade can be wonderful if you have smart people in office. But we have _.",
+      "pick": 1
+    },
+    {
+      "text": "Hillary loves her new Snapchat account because the messages she sends about _ disappear all by themselves.",
+      "pick": 1
+    },
+    {
+      "text": "How do you balance the ego needed to be POTUS and the humility to lead?",
+      "pick": 1
+    },
+    {
+      "text": "How will the DNC hold back Bernie Sanders?",
+      "pick": 1
+    },
+    {
+      "text": "How will we defeat ISIS?",
+      "pick": 1
+    },
+    {
+      "text": "I am the least racist person there is. I'm even friends with _.",
+      "pick": 1
+    },
+    {
+      "text": "I think you're being rough. I had just arrived, my dad had just died, so I voted for _.",
+      "pick": 1
+    },
+    {
+      "text": "I'm pretty sure \"fundraising\" is just a euphemism for _.",
+      "pick": 1
+    },
+    {
+      "text": "If I were president, I would bomb the shit out of _.",
+      "pick": 1
+    },
+    {
+      "text": "If it doesn't work out, we can always get oil from _.",
+      "pick": 1
+    },
+    {
+      "text": "If you can't get rich dealing with _, there's something wrong with you.",
+      "pick": 1
+    },
+    {
+      "text": "In his first 100 days in office, Bernie would tackle the threat of _.",
+      "pick": 1
+    },
+    {
+      "text": "Instead of taking people's guns, let's focus on _.",
+      "pick": 1
+    },
+    {
+      "text": "Investing in _ was a total waste of money.",
+      "pick": 1
+    },
+    {
+      "text": "It's so easy to hack the CIA. Even _ can do it.",
+      "pick": 1
+    },
+    {
+      "text": "Liberals need to stop being so politically correct and start talking about _.",
+      "pick": 1
+    },
+    {
+      "text": "Make _ great again.",
+      "pick": 1
+    },
+    {
+      "text": "Marco Rubio's only accomplishment in the Senate was _.",
+      "pick": 1
+    },
+    {
+      "text": "One thing all Republican candidates have in common? All of them are going to say that they want to destroy _.",
+      "pick": 1
+    },
+    {
+      "text": "People say it's Donald Trump, but we know that _ is really responsible for the high debate ratings.",
+      "pick": 1
+    },
+    {
+      "text": "Right-wingin' bitter-clingin' proud clingers of our guns our God and our religion and _.",
+      "pick": 1
+    },
+    {
+      "text": "Somebody's doing the raping? Who's doing the raping?",
+      "pick": 1
+    },
+    {
+      "text": "The American people are sick and tired of hearing about _.",
+      "pick": 1
+    },
+    {
+      "text": "The most common search on POLITICO?",
+      "pick": 1
+    },
+    {
+      "text": "The most sought-after endorsement?",
+      "pick": 1
+    },
+    {
+      "text": "The solution to our economic troubles?",
+      "pick": 1
+    },
+    {
+      "text": "This just in: Bill Clinton allegedly had an affair with _.",
+      "pick": 1
+    },
+    {
+      "text": "Tune in for _ on Fox Business.",
+      "pick": 1
+    },
+    {
+      "text": "Unfortunately for Jeb, his Super PAC spent all their money on _.",
+      "pick": 1
+    },
+    {
+      "text": "We are going to build a wall and make _ pay for it.",
+      "pick": 1
+    },
+    {
+      "text": "What evidence do you have that the Mexican government is sending criminals across the border?",
+      "pick": 1
+    },
+    {
+      "text": "What will cause the third world war?",
+      "pick": 1
+    },
+    {
+      "text": "Which enemy is Hillary Clinton most proud of?",
+      "pick": 1
+    },
+    {
+      "text": "Who will be behind the next birther controversy?",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "#BlackLivesMatter.",
+      "renderHtml": false
+    },
+    {
+      "text": "$15 minimum wage.",
+      "renderHtml": false
+    },
+    {
+      "text": "A birther lawsuit.",
+      "renderHtml": false
+    },
+    {
+      "text": "A campaign intern.",
+      "renderHtml": false
+    },
+    {
+      "text": "A CNN alert.",
+      "renderHtml": false
+    },
+    {
+      "text": "A coin toss.",
+      "renderHtml": false
+    },
+    {
+      "text": "A gust of wind to Donald Trump's hair.",
+      "renderHtml": false
+    },
+    {
+      "text": "A Kenyan Muslim.",
+      "renderHtml": false
+    },
+    {
+      "text": "A loan from Goldman Sachs.",
+      "renderHtml": false
+    },
+    {
+      "text": "A low energy guy.",
+      "renderHtml": false
+    },
+    {
+      "text": "A penchant for sexism.",
+      "renderHtml": false
+    },
+    {
+      "text": "A vivid sex dream involving the Republican frontrunner.",
+      "renderHtml": false
+    },
+    {
+      "text": "A Washington outsider.",
+      "renderHtml": false
+    },
+    {
+      "text": "A Washington whorehouse.",
+      "renderHtml": false
+    },
+    {
+      "text": "A well-placed \"thanks Obama.\"",
+      "renderHtml": false
+    },
+    {
+      "text": "Abortion videos.",
+      "renderHtml": false
+    },
+    {
+      "text": "Actually giving a shit.",
+      "renderHtml": false
+    },
+    {
+      "text": "Adding ISIS on Snapchat.",
+      "renderHtml": false
+    },
+    {
+      "text": "Americans without a college degree.",
+      "renderHtml": false
+    },
+    {
+      "text": "An exception in the case of rape or incest.",
+      "renderHtml": false
+    },
+    {
+      "text": "An honest politician.",
+      "renderHtml": false
+    },
+    {
+      "text": "An Iowa do-over.",
+      "renderHtml": false
+    },
+    {
+      "text": "An unmanned center podium.",
+      "renderHtml": false
+    },
+    {
+      "text": "Anchor babies.",
+      "renderHtml": false
+    },
+    {
+      "text": "Anthony Weiner.",
+      "renderHtml": false
+    },
+    {
+      "text": "Arnold Schwarzenegger.",
+      "renderHtml": false
+    },
+    {
+      "text": "Baby Hitler.",
+      "renderHtml": false
+    },
+    {
+      "text": "Banning Muslims.",
+      "renderHtml": false
+    },
+    {
+      "text": "Barbara Bush.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ben Carson taking a nap.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ben Carson's violent past.",
+      "renderHtml": false
+    },
+    {
+      "text": "Benghazi.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bernie Sanders' Brooklyn accent.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bernie Sanders' medical records.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bernie Sanders' NRA rating.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bernie's spoken-word folk album.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bill Clinton.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bill Cosby.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bill O'Reilly.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bipartisan bullshit.",
+      "renderHtml": false
+    },
+    {
+      "text": "Black Jesus.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bleeding-heart millennials.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bobby Jindal.",
+      "renderHtml": false
+    },
+    {
+      "text": "Building a wall and making Mexico pay for it.",
+      "renderHtml": false
+    },
+    {
+      "text": "Business-related favors.",
+      "renderHtml": false
+    },
+    {
+      "text": "Campaign bankruptcy.",
+      "renderHtml": false
+    },
+    {
+      "text": "Canadians (i.e. Ted Cruz).",
+      "renderHtml": false
+    },
+    {
+      "text": "Carly Fiorina's face.",
+      "renderHtml": false
+    },
+    {
+      "text": "Carpet bombing ISIS.",
+      "renderHtml": false
+    },
+    {
+      "text": "Chelsea bashing Bernie.",
+      "renderHtml": false
+    },
+    {
+      "text": "China.",
+      "renderHtml": false
+    },
+    {
+      "text": "Chris Christie joining Weight Watchers.",
+      "renderHtml": false
+    },
+    {
+      "text": "Chris Christie's 404 Page.",
+      "renderHtml": false
+    },
+    {
+      "text": "CNN debate commercials.",
+      "renderHtml": false
+    },
+    {
+      "text": "Conspiracy theorists.",
+      "renderHtml": false
+    },
+    {
+      "text": "Conversion therapy.",
+      "renderHtml": false
+    },
+    {
+      "text": "Deez Nuts.",
+      "renderHtml": false
+    },
+    {
+      "text": "Defense spending.",
+      "renderHtml": false
+    },
+    {
+      "text": "Defunding Planned Parenthood.",
+      "renderHtml": false
+    },
+    {
+      "text": "Democratic-Socialism.",
+      "renderHtml": false
+    },
+    {
+      "text": "Democrats.",
+      "renderHtml": false
+    },
+    {
+      "text": "Domestic terrorism.",
+      "renderHtml": false
+    },
+    {
+      "text": "Donald Trump making sex jokes about his daughter.",
+      "renderHtml": false
+    },
+    {
+      "text": "Donald Trump playing with his belt buckle.",
+      "renderHtml": false
+    },
+    {
+      "text": "Donald Trump.",
+      "renderHtml": false
+    },
+    {
+      "text": "Donald Trump's Nobel Peace Prize nomination.",
+      "renderHtml": false
+    },
+    {
+      "text": "El Chapo.",
+      "renderHtml": false
+    },
+    {
+      "text": "Enhanced interrogation techniques.",
+      "renderHtml": false
+    },
+    {
+      "text": "Entitlement reform.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ethanol subsidies.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fat pigs, dogs, slobs, and disgusting animals.",
+      "renderHtml": false
+    },
+    {
+      "text": "Feminism.",
+      "renderHtml": false
+    },
+    {
+      "text": "Flip-flopping.",
+      "renderHtml": false
+    },
+    {
+      "text": "FLOTUS.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fox and Friends.",
+      "renderHtml": false
+    },
+    {
+      "text": "Frank Underwood.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fucking liberals.",
+      "renderHtml": false
+    },
+    {
+      "text": "Gay marriage.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting stabbed by Ben Carson.",
+      "renderHtml": false
+    },
+    {
+      "text": "Gloria Steinem.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hillary Clinton attending Donald Trump's wedding.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hillary Clinton serving on the Walmart Board of Directors.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hillary Clinton's emails.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hillary doing her kegels during the debate.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hillary's pantsuit.",
+      "renderHtml": false
+    },
+    {
+      "text": "Holding a Democratic debate on weekend night during NFL playoffs.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hummus attacking Israel.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hypocrisy.",
+      "renderHtml": false
+    },
+    {
+      "text": "Iowa.",
+      "renderHtml": false
+    },
+    {
+      "text": "Jake from State Farm.",
+      "renderHtml": false
+    },
+    {
+      "text": "Jeb Bush smoking weed 40 years ago.",
+      "renderHtml": false
+    },
+    {
+      "text": "Jeb Bush's Super PAC.",
+      "renderHtml": false
+    },
+    {
+      "text": "Jeb's missing exclamation point.",
+      "renderHtml": false
+    },
+    {
+      "text": "Jim Gilmore.",
+      "renderHtml": false
+    },
+    {
+      "text": "Jimmy Fallon.",
+      "renderHtml": false
+    },
+    {
+      "text": "John Kasich being racist.",
+      "renderHtml": false
+    },
+    {
+      "text": "Journalists that are scared of Trump.",
+      "renderHtml": false
+    },
+    {
+      "text": "Kissing babies.",
+      "renderHtml": false
+    },
+    {
+      "text": "Larry David.",
+      "renderHtml": false
+    },
+    {
+      "text": "Libyans for Hillary.",
+      "renderHtml": false
+    },
+    {
+      "text": "Lincoln Chafee.",
+      "renderHtml": false
+    },
+    {
+      "text": "Lines of Koch.",
+      "renderHtml": false
+    },
+    {
+      "text": "Making deals.",
+      "renderHtml": false
+    },
+    {
+      "text": "Marco Rubio in high heels.",
+      "renderHtml": false
+    },
+    {
+      "text": "Marco Rubio's boyish good looks.",
+      "renderHtml": false
+    },
+    {
+      "text": "Martin O'Malley playing acoustic guitar in front of the New York Stock Exchange.",
+      "renderHtml": false
+    },
+    {
+      "text": "Martin O'Malley's rain tax.",
+      "renderHtml": false
+    },
+    {
+      "text": "Mass deportations.",
+      "renderHtml": false
+    },
+    {
+      "text": "Megyn Kelly.",
+      "renderHtml": false
+    },
+    {
+      "text": "Michael Bloomberg.",
+      "renderHtml": false
+    },
+    {
+      "text": "Mike Huckabee.",
+      "renderHtml": false
+    },
+    {
+      "text": "Mispronouncing \"Boehner.\"",
+      "renderHtml": false
+    },
+    {
+      "text": "Monica Lewinsky.",
+      "renderHtml": false
+    },
+    {
+      "text": "MSNBC moderators.",
+      "renderHtml": false
+    },
+    {
+      "text": "Murica.",
+      "renderHtml": false
+    },
+    {
+      "text": "Nepotism.",
+      "renderHtml": false
+    },
+    {
+      "text": "Obamacare.",
+      "renderHtml": false
+    },
+    {
+      "text": "Paying for a selfie with Hillary Clinton.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pledging not to run as an independent.",
+      "renderHtml": false
+    },
+    {
+      "text": "Political legacy.",
+      "renderHtml": false
+    },
+    {
+      "text": "Political marriages.",
+      "renderHtml": false
+    },
+    {
+      "text": "Politically correct wars.",
+      "renderHtml": false
+    },
+    {
+      "text": "Poll numbers.",
+      "renderHtml": false
+    },
+    {
+      "text": "Poor people.",
+      "renderHtml": false
+    },
+    {
+      "text": "Presidential name-calling.",
+      "renderHtml": false
+    },
+    {
+      "text": "Private email servers.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pulling out.",
+      "renderHtml": false
+    },
+    {
+      "text": "Putin.",
+      "renderHtml": false
+    },
+    {
+      "text": "Racism.",
+      "renderHtml": false
+    },
+    {
+      "text": "Raising tariffs and making China pay for it.",
+      "renderHtml": false
+    },
+    {
+      "text": "Reading too much Ayn Rand.",
+      "renderHtml": false
+    },
+    {
+      "text": "Registering to vote.",
+      "renderHtml": false
+    },
+    {
+      "text": "Reince Pubis.",
+      "renderHtml": false
+    },
+    {
+      "text": "Renaming the Redskins.",
+      "renderHtml": false
+    },
+    {
+      "text": "Republicans.",
+      "renderHtml": false
+    },
+    {
+      "text": "Rick Perry.",
+      "renderHtml": false
+    },
+    {
+      "text": "Rick Santorum.",
+      "renderHtml": false
+    },
+    {
+      "text": "Rick Santorum's lackluster endorsement.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ripping up babies' body parts and selling them like they're parts to a Buick.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ron Paul.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ronald Reagan.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sarah Palin blaming her son's domestic violence arrest on Obama.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sarah Palin.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sexism.",
+      "renderHtml": false
+    },
+    {
+      "text": "Short guys that wear yamakas every day.",
+      "renderHtml": false
+    },
+    {
+      "text": "Speaking to an empty room.",
+      "renderHtml": false
+    },
+    {
+      "text": "Standing in the middle of fifth avenue and shooting someone.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sucking up to donors.",
+      "renderHtml": false
+    },
+    {
+      "text": "Switching to the metric system.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ted Cruz as America's designated driver.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ted Cruz reading Green Eggs and Ham on the Senate floor.",
+      "renderHtml": false
+    },
+    {
+      "text": "Terri Schiavo.",
+      "renderHtml": false
+    },
+    {
+      "text": "Texas seceding.",
+      "renderHtml": false
+    },
+    {
+      "text": "The 2016 Election Game.",
+      "renderHtml": false
+    },
+    {
+      "text": "The beautiful Anderson Cooper.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Bible.",
+      "renderHtml": false
+    },
+    {
+      "text": "The black vote.",
+      "renderHtml": false
+    },
+    {
+      "text": "The comb-over.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Confederate flag.",
+      "renderHtml": false
+    },
+    {
+      "text": "The conjoined twins separated by Ben Carson.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Cruz Campaign's voting violation notices.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Defense of Marriage Act.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Employment Prevention Agency (EPA).",
+      "renderHtml": false
+    },
+    {
+      "text": "The enemy soldier that threw the grenade that wounded Jim Webb.",
+      "renderHtml": false
+    },
+    {
+      "text": "The establishment vote.",
+      "renderHtml": false
+    },
+    {
+      "text": "The evangelical vote.",
+      "renderHtml": false
+    },
+    {
+      "text": "The first female president.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Koch Brothers.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Latino vote.",
+      "renderHtml": false
+    },
+    {
+      "text": "The liberal media.",
+      "renderHtml": false
+    },
+    {
+      "text": "The national debt.",
+      "renderHtml": false
+    },
+    {
+      "text": "The National Rifle Association.",
+      "renderHtml": false
+    },
+    {
+      "text": "The next Supreme Court Justice.",
+      "renderHtml": false
+    },
+    {
+      "text": "The nuclear codes.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Obama-Clinton regime.",
+      "renderHtml": false
+    },
+    {
+      "text": "The people Mexico sends.",
+      "renderHtml": false
+    },
+    {
+      "text": "The second amendment.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Sheldon Adelson Primary.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Tea Party candidate.",
+      "renderHtml": false
+    },
+    {
+      "text": "The undercard debate.",
+      "renderHtml": false
+    },
+    {
+      "text": "The vice presidential nomination.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Washington Cartel.",
+      "renderHtml": false
+    },
+    {
+      "text": "The welfare state.",
+      "renderHtml": false
+    },
+    {
+      "text": "The world's policeman.",
+      "renderHtml": false
+    },
+    {
+      "text": "Tina Fey.",
+      "renderHtml": false
+    },
+    {
+      "text": "True conservatives.",
+      "renderHtml": false
+    },
+    {
+      "text": "Trump sexting Putin.",
+      "renderHtml": false
+    },
+    {
+      "text": "Trump's Iowa hangover.",
+      "renderHtml": false
+    },
+    {
+      "text": "Two Corinthians.",
+      "renderHtml": false
+    },
+    {
+      "text": "Unemployment.",
+      "renderHtml": false
+    },
+    {
+      "text": "Unfulfilled campaign promises.",
+      "renderHtml": false
+    },
+    {
+      "text": "Univision.",
+      "renderHtml": false
+    },
+    {
+      "text": "Wearing political correctness like a suicide vest.",
+      "renderHtml": false
+    },
+    {
+      "text": "White supremacists.",
+      "renderHtml": false
+    },
+    {
+      "text": "Wiping Hillary Clinton's server with a cloth.",
+      "renderHtml": false
+    },
+    {
+      "text": "Wolf Blitzer.",
+      "renderHtml": false
+    },
+    {
+      "text": "Women's suffrage.",
+      "renderHtml": false
+    },
+    {
+      "text": "Y'all Qaeda.",
+      "renderHtml": false
+    }
+  ]
+}

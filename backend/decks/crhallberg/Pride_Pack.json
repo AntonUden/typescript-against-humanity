@@ -1,0 +1,129 @@
+{
+  "order": 54,
+  "displayName": "Pride Pack",
+  "name": "Pride_Pack",
+  "whiteCards": [
+    {
+      "text": "Excuse me, straight man, but _ isn't for you, STRAIGHT MAN.",
+      "pick": 1
+    },
+    {
+      "text": "GOD HATES _!",
+      "pick": 1
+    },
+    {
+      "text": "If you can't love yourself, how the hell you gonna love _?",
+      "pick": 1
+    },
+    {
+      "text": "We're here! We're _! Get used to it!",
+      "pick": 1
+    },
+    {
+      "text": "YAAAAAAS! You are serving me _ realness!",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "30 shirtless bears emerging from the fog.",
+      "renderHtml": false
+    },
+    {
+      "text": "A 6-hour conversation on gender and queer theory.",
+      "renderHtml": false
+    },
+    {
+      "text": "A big black dick strapped to a frail white body.",
+      "renderHtml": false
+    },
+    {
+      "text": "A genderless hole.",
+      "renderHtml": false
+    },
+    {
+      "text": "A messy bitch who lives for drama.",
+      "renderHtml": false
+    },
+    {
+      "text": "A Subaru.",
+      "renderHtml": false
+    },
+    {
+      "text": "A twink in a bounce house.",
+      "renderHtml": false
+    },
+    {
+      "text": "All the different kinds of lesbians.",
+      "renderHtml": false
+    },
+    {
+      "text": "Black, white, Puerto Rican, and Chinese boys.",
+      "renderHtml": false
+    },
+    {
+      "text": "Britney, bitch!",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting your ass ate.",
+      "renderHtml": false
+    },
+    {
+      "text": "Having your titties sucked while sucking on titties.",
+      "renderHtml": false
+    },
+    {
+      "text": "Licking that pussy right.",
+      "renderHtml": false
+    },
+    {
+      "text": "Marsha P. Johnson, the trans woman of color who may have thrown the first brick at Stonewall.",
+      "renderHtml": false
+    },
+    {
+      "text": "Older fitness gays.",
+      "renderHtml": false
+    },
+    {
+      "text": "Peeing in a bathroom.",
+      "renderHtml": false
+    },
+    {
+      "text": "Poppers and lube.",
+      "renderHtml": false
+    },
+    {
+      "text": "PrEP.",
+      "renderHtml": false
+    },
+    {
+      "text": "Repeatedly coming out as bisexual.",
+      "renderHtml": false
+    },
+    {
+      "text": "Talking, laughing, loving, breathing, fighting, fucking, crying, drinking, riding, winning, losing, cheating, kissing, thinking, dreaming.",
+      "renderHtml": false
+    },
+    {
+      "text": "Telling Heather she can't pull off that top.",
+      "renderHtml": false
+    },
+    {
+      "text": "The careless cunt who left a water ring on my credenza.",
+      "renderHtml": false
+    },
+    {
+      "text": "The pan-ethnic, gender-fluid children of the future.",
+      "renderHtml": false
+    },
+    {
+      "text": "Those cheekbones, honey.",
+      "renderHtml": false
+    },
+    {
+      "text": "Whatever straight people do for fun.",
+      "renderHtml": false
+    }
+  ]
+}

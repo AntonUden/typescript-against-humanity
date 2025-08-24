@@ -1,0 +1,449 @@
+{
+  "order": 83,
+  "displayName": "Cakes Athirst Hilarity Volume 1",
+  "name": "Cakes_Athirst_Hilarity_Volume_1",
+  "whiteCards": [
+    {
+      "text": "_ is my motivation.",
+      "pick": 1
+    },
+    {
+      "text": "_ is the active ingredient in cigarettes.",
+      "pick": 1
+    },
+    {
+      "text": "_ was the cause of the Holocaust.",
+      "pick": 1
+    },
+    {
+      "text": "A McDonald's employee was recently fired for placing _ in children's Happy Meals.",
+      "pick": 1
+    },
+    {
+      "text": "Daddy, what made you divorce Mommy?",
+      "pick": 1
+    },
+    {
+      "text": "I use drugs to escape _.",
+      "pick": 1
+    },
+    {
+      "text": "My anaconda don't want none unless you got _ Hun.",
+      "pick": 1
+    },
+    {
+      "text": "My favorite hobby is _.",
+      "pick": 1
+    },
+    {
+      "text": "My parents found _ when browsing my web history.",
+      "pick": 1
+    },
+    {
+      "text": "The Pulitzer prize for _ goes to _.",
+      "pick": 2
+    },
+    {
+      "text": "The reason the ozone layer is decaying is because of _.",
+      "pick": 1
+    },
+    {
+      "text": "They say _ is the best medicine.",
+      "pick": 1
+    },
+    {
+      "text": "War World II was the result of what?",
+      "pick": 1
+    },
+    {
+      "text": "We should stop war on _, it has ruined more lives than saved.",
+      "pick": 1
+    },
+    {
+      "text": "What are my relatives hiding from me?",
+      "pick": 1
+    },
+    {
+      "text": "What did I bring back from Cancun?",
+      "pick": 1
+    },
+    {
+      "text": "What do they call American Cheese in Canada?",
+      "pick": 1
+    },
+    {
+      "text": "What gave me unforgiving, ever lasting, flaming diarrhea?",
+      "pick": 1
+    },
+    {
+      "text": "What is George W. Bush's favorite past time?",
+      "pick": 1
+    },
+    {
+      "text": "What is my biggest turn off?",
+      "pick": 1
+    },
+    {
+      "text": "What is Serena Williams's guilty pleasure?",
+      "pick": 1
+    },
+    {
+      "text": "What is that noise from?",
+      "pick": 1
+    },
+    {
+      "text": "What is the perfect aphrodisiac for triggering a threesome?",
+      "pick": 1
+    },
+    {
+      "text": "What lead to me getting fired form my last job?",
+      "pick": 1
+    },
+    {
+      "text": "What left this mark on my carpet?",
+      "pick": 1
+    },
+    {
+      "text": "What was Paul Walker's last meal?",
+      "pick": 1
+    },
+    {
+      "text": "When committing a deadly sin I always think about?",
+      "pick": 1
+    },
+    {
+      "text": "When I am a newly appointed dictator of a war torn nation, I will legalize _.",
+      "pick": 1
+    },
+    {
+      "text": "When listening to a Creed album, I feel like _.",
+      "pick": 1
+    },
+    {
+      "text": "When masturbating, I dream about?",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "3.9 billion years of evolution.",
+      "renderHtml": false
+    },
+    {
+      "text": "A bag of dicks.",
+      "renderHtml": false
+    },
+    {
+      "text": "A bushel of pubes.",
+      "renderHtml": false
+    },
+    {
+      "text": "A cum-stained rainbow.",
+      "renderHtml": false
+    },
+    {
+      "text": "A flaming bag of horse shit.",
+      "renderHtml": false
+    },
+    {
+      "text": "A malaria party.",
+      "renderHtml": false
+    },
+    {
+      "text": "A male cheerleader.",
+      "renderHtml": false
+    },
+    {
+      "text": "A pong machine that's self-aware.",
+      "renderHtml": false
+    },
+    {
+      "text": "A slow painful death.",
+      "renderHtml": false
+    },
+    {
+      "text": "Adderall.",
+      "renderHtml": false
+    },
+    {
+      "text": "An Aids infected penis.",
+      "renderHtml": false
+    },
+    {
+      "text": "An ancient Aztecan warrior's foreskin.",
+      "renderHtml": false
+    },
+    {
+      "text": "An ass so fat it breaks the laws of physics.",
+      "renderHtml": false
+    },
+    {
+      "text": "Anal bleeding.",
+      "renderHtml": false
+    },
+    {
+      "text": "Asians singing karoke.",
+      "renderHtml": false
+    },
+    {
+      "text": "Beating a small child with a small child.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being a clever little girl.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being poor.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being so rich you can wipe your ass with $20 bills.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bill Cosby's chocolate pudding pop.",
+      "renderHtml": false
+    },
+    {
+      "text": "Crawling into a vagina.",
+      "renderHtml": false
+    },
+    {
+      "text": "Creepy guys at the edge of the dance floor.",
+      "renderHtml": false
+    },
+    {
+      "text": "Cunnilingus.",
+      "renderHtml": false
+    },
+    {
+      "text": "Disappointment of my parents.",
+      "renderHtml": false
+    },
+    {
+      "text": "Donkey punching your high school crush.",
+      "renderHtml": false
+    },
+    {
+      "text": "Drug problems.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dry-humping mannequins in a store window at the mall.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ejaculating into the tuna fish slad.",
+      "renderHtml": false
+    },
+    {
+      "text": "Elderly Korean men.",
+      "renderHtml": false
+    },
+    {
+      "text": "Elton John's wardrobe.",
+      "renderHtml": false
+    },
+    {
+      "text": "Faith in mankind.",
+      "renderHtml": false
+    },
+    {
+      "text": "Faking a jellyfish sting so someone will pee on you.",
+      "renderHtml": false
+    },
+    {
+      "text": "Farting in a crowded elevator.",
+      "renderHtml": false
+    },
+    {
+      "text": "Farting into a child's stroller.",
+      "renderHtml": false
+    },
+    {
+      "text": "Finger banging my little sister.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fisting your own asshole.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting a rim-job from the baby sitter.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting really concerned about global warming for a few seconds.",
+      "renderHtml": false
+    },
+    {
+      "text": "Giving Bill Clinton oral sex.",
+      "renderHtml": false
+    },
+    {
+      "text": "Gonorrhea.",
+      "renderHtml": false
+    },
+    {
+      "text": "Grandmother's heart-shaped box.",
+      "renderHtml": false
+    },
+    {
+      "text": "Great grandfather's dirtstar.",
+      "renderHtml": false
+    },
+    {
+      "text": "Happy Endings.",
+      "renderHtml": false
+    },
+    {
+      "text": "Helen Keller's Tampon.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hershey™ and the squirts",
+      "renderHtml": false
+    },
+    {
+      "text": "Hire that Stripper",
+      "renderHtml": false
+    },
+    {
+      "text": "Hoverboards.",
+      "renderHtml": false
+    },
+    {
+      "text": "Licking your partner's feet.",
+      "renderHtml": false
+    },
+    {
+      "text": "Mexicans.",
+      "renderHtml": false
+    },
+    {
+      "text": "Michelle Obama.",
+      "renderHtml": false
+    },
+    {
+      "text": "Midget porn obsession.",
+      "renderHtml": false
+    },
+    {
+      "text": "Money shots.",
+      "renderHtml": false
+    },
+    {
+      "text": "My dick in your mouth.",
+      "renderHtml": false
+    },
+    {
+      "text": "Old Asian women drivers.",
+      "renderHtml": false
+    },
+    {
+      "text": "Penis hunters.",
+      "renderHtml": false
+    },
+    {
+      "text": "Playing hot potato with a live grenade.",
+      "renderHtml": false
+    },
+    {
+      "text": "Princess Lelia's vagina.",
+      "renderHtml": false
+    },
+    {
+      "text": "Quaaludes.",
+      "renderHtml": false
+    },
+    {
+      "text": "Rank ass breath.",
+      "renderHtml": false
+    },
+    {
+      "text": "Rape victims.",
+      "renderHtml": false
+    },
+    {
+      "text": "Raptor Jesus.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ron Jeremy's foreskin, which is still bigger than my dick.",
+      "renderHtml": false
+    },
+    {
+      "text": "Rosie O'Donnell's dick.",
+      "renderHtml": false
+    },
+    {
+      "text": "Slammin a live fish on the counter and calling it dinner.",
+      "renderHtml": false
+    },
+    {
+      "text": "Small man syndrome.",
+      "renderHtml": false
+    },
+    {
+      "text": "Soaking.",
+      "renderHtml": false
+    },
+    {
+      "text": "Stealing candy from a small child.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sucking dick for money.",
+      "renderHtml": false
+    },
+    {
+      "text": "Taco bell poops.",
+      "renderHtml": false
+    },
+    {
+      "text": "Texting while driving.",
+      "renderHtml": false
+    },
+    {
+      "text": "The 1%.",
+      "renderHtml": false
+    },
+    {
+      "text": "The black lung.",
+      "renderHtml": false
+    },
+    {
+      "text": "The blacks.",
+      "renderHtml": false
+    },
+    {
+      "text": "The timing on my menstrual cycle.",
+      "renderHtml": false
+    },
+    {
+      "text": "Two girls one cup.",
+      "renderHtml": false
+    },
+    {
+      "text": "Unicorn and Rainbows.",
+      "renderHtml": false
+    },
+    {
+      "text": "Used condoms.",
+      "renderHtml": false
+    },
+    {
+      "text": "Using bacon grease as lubricant.",
+      "renderHtml": false
+    },
+    {
+      "text": "Whoopie Goldberg's nipples.",
+      "renderHtml": false
+    },
+    {
+      "text": "Wife Beaters.",
+      "renderHtml": false
+    }
+  ]
+}

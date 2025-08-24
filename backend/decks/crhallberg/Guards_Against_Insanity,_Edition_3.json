@@ -1,0 +1,457 @@
+{
+  "order": 144,
+  "displayName": "Guards Against Insanity, Edition 3",
+  "name": "Guards_Against_Insanity,_Edition_3",
+  "whiteCards": [
+    {
+      "text": "_ reminds me of my ex.",
+      "pick": 1
+    },
+    {
+      "text": "_.  Because prevention is better than cure.",
+      "pick": 1
+    },
+    {
+      "text": "_.  Man's best friend.",
+      "pick": 1
+    },
+    {
+      "text": "_.  Nature's birth control.",
+      "pick": 1
+    },
+    {
+      "text": "_.  What's not to like?",
+      "pick": 1
+    },
+    {
+      "text": "_. It just tastes better.",
+      "pick": 1
+    },
+    {
+      "text": "After climate change, what is the worst ecological concern today?",
+      "pick": 1
+    },
+    {
+      "text": "Children should be seen and not _.",
+      "pick": 1
+    },
+    {
+      "text": "Dear Santa.  All I want for Christmas this year is _.",
+      "pick": 1
+    },
+    {
+      "text": "Fear is the path to the dark side.  Fear leads to anger.  Anger leads to hate.  Hate leads to _.",
+      "pick": 1
+    },
+    {
+      "text": "Hell hath no fury like _.",
+      "pick": 1
+    },
+    {
+      "text": "I have decided to stick with _ as _ makes me horny.",
+      "pick": 2
+    },
+    {
+      "text": "One parenting tip I wish I'd learned sooner is to never _ without _.",
+      "pick": 2
+    },
+    {
+      "text": "Stop saying that I'm faking my disability.  I really do have _ Syndrome.",
+      "pick": 1
+    },
+    {
+      "text": "The ability to destroy a planet is insignificant next to the power of _.",
+      "pick": 1
+    },
+    {
+      "text": "What am I attracted to?",
+      "pick": 1
+    },
+    {
+      "text": "What did my boyfriend get me for my birthday?",
+      "pick": 1
+    },
+    {
+      "text": "What the hell Dad?!  You've got _ all over my _.",
+      "pick": 2
+    },
+    {
+      "text": "What's never as good as it is the first time?",
+      "pick": 1
+    },
+    {
+      "text": "Why am I trembling?",
+      "pick": 1
+    },
+    {
+      "text": "Why so serious?",
+      "pick": 1
+    },
+    {
+      "text": "You can't touch this.",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "A bigger bang for your buck.",
+      "renderHtml": false
+    },
+    {
+      "text": "A bleeding asshole.",
+      "renderHtml": false
+    },
+    {
+      "text": "A broken hymen.",
+      "renderHtml": false
+    },
+    {
+      "text": "A filthy hobo.",
+      "renderHtml": false
+    },
+    {
+      "text": "A group of chronic Masturbators.",
+      "renderHtml": false
+    },
+    {
+      "text": "A harmless white lie.",
+      "renderHtml": false
+    },
+    {
+      "text": "A large group of consenting adults.",
+      "renderHtml": false
+    },
+    {
+      "text": "A midlife crisis.",
+      "renderHtml": false
+    },
+    {
+      "text": "A one-night stand.",
+      "renderHtml": false
+    },
+    {
+      "text": "A shit of biblical proportions.",
+      "renderHtml": false
+    },
+    {
+      "text": "A strained groin.",
+      "renderHtml": false
+    },
+    {
+      "text": "A taste of your own medicine.",
+      "renderHtml": false
+    },
+    {
+      "text": "A three-way with the Olsen Twins.",
+      "renderHtml": false
+    },
+    {
+      "text": "A trophy wife.",
+      "renderHtml": false
+    },
+    {
+      "text": "A vagina so big there's an echo.",
+      "renderHtml": false
+    },
+    {
+      "text": "A victimless crime.",
+      "renderHtml": false
+    },
+    {
+      "text": "Absolutely fuck all.",
+      "renderHtml": false
+    },
+    {
+      "text": "An 80/20 nipple to boob ratio.",
+      "renderHtml": false
+    },
+    {
+      "text": "An Anne Frank sex doll that doesn't make a sound.",
+      "renderHtml": false
+    },
+    {
+      "text": "An uncomfortable silence.",
+      "renderHtml": false
+    },
+    {
+      "text": "Anal prolapse.",
+      "renderHtml": false
+    },
+    {
+      "text": "Awkward blowjobs.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being fingered next to the swings.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being raped in prison.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being the bigger man.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bi-curious George.",
+      "renderHtml": false
+    },
+    {
+      "text": "Biting the pillow.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bringing shame on your family.",
+      "renderHtml": false
+    },
+    {
+      "text": "Choosing to be gay.",
+      "renderHtml": false
+    },
+    {
+      "text": "Cleverly disguising yourself as a responsible adult.",
+      "renderHtml": false
+    },
+    {
+      "text": "Crotch kicks.",
+      "renderHtml": false
+    },
+    {
+      "text": "Crotch rot.",
+      "renderHtml": false
+    },
+    {
+      "text": "Crotchless panties.",
+      "renderHtml": false
+    },
+    {
+      "text": "Doggy style.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dying a little more each day on the inside",
+      "renderHtml": false
+    },
+    {
+      "text": "Dying in childbirth.",
+      "renderHtml": false
+    },
+    {
+      "text": "Euthanasia.",
+      "renderHtml": false
+    },
+    {
+      "text": "Excessive leg hair.",
+      "renderHtml": false
+    },
+    {
+      "text": "Feeling emasculated by the words \"is it in yet?\"",
+      "renderHtml": false
+    },
+    {
+      "text": "Finding your cousin frustratingly attractive.",
+      "renderHtml": false
+    },
+    {
+      "text": "Finger stuff.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting kinky with your pinky.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting laid.",
+      "renderHtml": false
+    },
+    {
+      "text": "Girls with small hands.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hand to gland combat.",
+      "renderHtml": false
+    },
+    {
+      "text": "Human werewolf syndrome.",
+      "renderHtml": false
+    },
+    {
+      "text": "Incest",
+      "renderHtml": false
+    },
+    {
+      "text": "Industrial strength laxatives.",
+      "renderHtml": false
+    },
+    {
+      "text": "Inserting one's finger into the vestibule of the vagina.",
+      "renderHtml": false
+    },
+    {
+      "text": "Kleenex®.",
+      "renderHtml": false
+    },
+    {
+      "text": "Masturbatory assistance from your mom.",
+      "renderHtml": false
+    },
+    {
+      "text": "Mediocrity.",
+      "renderHtml": false
+    },
+    {
+      "text": "My internet search history.",
+      "renderHtml": false
+    },
+    {
+      "text": "My rod of justice.",
+      "renderHtml": false
+    },
+    {
+      "text": "Our little secret.",
+      "renderHtml": false
+    },
+    {
+      "text": "Paying a dominatrix for 'the cheese grater' experience.",
+      "renderHtml": false
+    },
+    {
+      "text": "Penis puppetry.",
+      "renderHtml": false
+    },
+    {
+      "text": "Playing with your bearded clam.",
+      "renderHtml": false
+    },
+    {
+      "text": "Poontang.",
+      "renderHtml": false
+    },
+    {
+      "text": "Post-sex funk.",
+      "renderHtml": false
+    },
+    {
+      "text": "Reaping what you sow.",
+      "renderHtml": false
+    },
+    {
+      "text": "Rimjobs.",
+      "renderHtml": false
+    },
+    {
+      "text": "Rubbing one out.",
+      "renderHtml": false
+    },
+    {
+      "text": "Scarlett Johansson.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sexy kids.",
+      "renderHtml": false
+    },
+    {
+      "text": "Shit happens.",
+      "renderHtml": false
+    },
+    {
+      "text": "Single mom Barbie.",
+      "renderHtml": false
+    },
+    {
+      "text": "Smashing the back doors in.",
+      "renderHtml": false
+    },
+    {
+      "text": "Something fishy.",
+      "renderHtml": false
+    },
+    {
+      "text": "Space docking.",
+      "renderHtml": false
+    },
+    {
+      "text": "Tantric yoga.",
+      "renderHtml": false
+    },
+    {
+      "text": "The acrid smell of a burning child.",
+      "renderHtml": false
+    },
+    {
+      "text": "The African myth that sex with a virgin can cure AIDS.",
+      "renderHtml": false
+    },
+    {
+      "text": "The dance without pants.",
+      "renderHtml": false
+    },
+    {
+      "text": "The fickle finger of fate.",
+      "renderHtml": false
+    },
+    {
+      "text": "The God particle.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Holocaust.",
+      "renderHtml": false
+    },
+    {
+      "text": "The internal moral debate on whether it's OK to sleep with your stepsister.",
+      "renderHtml": false
+    },
+    {
+      "text": "The money shot.",
+      "renderHtml": false
+    },
+    {
+      "text": "The old beaver cleaver.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Special People's Games.",
+      "renderHtml": false
+    },
+    {
+      "text": "The superhuman strength of retards.",
+      "renderHtml": false
+    },
+    {
+      "text": "Titties in my face.",
+      "renderHtml": false
+    },
+    {
+      "text": "Trying the taste of you own, somewhat cloudy semen.",
+      "renderHtml": false
+    },
+    {
+      "text": "Unorthodox sexual positions.",
+      "renderHtml": false
+    },
+    {
+      "text": "Unprotected sex.",
+      "renderHtml": false
+    },
+    {
+      "text": "Using the scratch and sniff method to identify mysterious stains.",
+      "renderHtml": false
+    },
+    {
+      "text": "Vaginal flatulence.",
+      "renderHtml": false
+    },
+    {
+      "text": "Wandering in the desert.",
+      "renderHtml": false
+    },
+    {
+      "text": "When something turns you off so much that your vagina throws up.",
+      "renderHtml": false
+    }
+  ]
+}

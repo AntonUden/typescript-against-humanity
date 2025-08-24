@@ -1,0 +1,961 @@
+{
+  "order": 93,
+  "displayName": "Cards About Toronto",
+  "name": "Cards_About_Toronto",
+  "whiteCards": [
+    {
+      "text": "_ will always get you laid in Toronto",
+      "pick": 1
+    },
+    {
+      "text": "_? There's an app for that!",
+      "pick": 1
+    },
+    {
+      "text": "After a night of drinking, I found _ in my back pocket",
+      "pick": 1
+    },
+    {
+      "text": "Before deciding on the EdgeWalk, the CN Tower is considered _ as a new attraction",
+      "pick": 1
+    },
+    {
+      "text": "Captain John's Seafood Restaurant really closed because of _",
+      "pick": 1
+    },
+    {
+      "text": "Cash strapped City Hall has decided to implement a tax on _ immediately",
+      "pick": 1
+    },
+    {
+      "text": "Come to Toronto for the _, stay for the _",
+      "pick": 2
+    },
+    {
+      "text": "HGTV presents its newest home improvement series titled _",
+      "pick": 1
+    },
+    {
+      "text": "I blamed the streetcar but I was really late because of _",
+      "pick": 1
+    },
+    {
+      "text": "I don't have enough money to eat this month because I spent my last ten bucks on _",
+      "pick": 1
+    },
+    {
+      "text": "I forgot to vote because I was too distracted with _",
+      "pick": 1
+    },
+    {
+      "text": "I have enough _ to eat at home",
+      "pick": 1
+    },
+    {
+      "text": "I never met a _ I didn't like",
+      "pick": 1
+    },
+    {
+      "text": "I picked up _ on the night bus",
+      "pick": 1
+    },
+    {
+      "text": "If you miss the last boat back to the mainland from Toronto Island, prepare for a long night of _",
+      "pick": 1
+    },
+    {
+      "text": "In Toronto, the phrase \"Going to City Hall\" is actually slang for _",
+      "pick": 1
+    },
+    {
+      "text": "Margaret Atwood's next book is a thriller titled _",
+      "pick": 1
+    },
+    {
+      "text": "My contribution to the potluck was _",
+      "pick": 1
+    },
+    {
+      "text": "My family would be shocked to hear about _ in my eulogy",
+      "pick": 1
+    },
+    {
+      "text": "New Canadians are not being forced to pledge their allegiance to _",
+      "pick": 1
+    },
+    {
+      "text": "One in then TTC late night drivers will accept _ in lieu of the proper fare",
+      "pick": 1
+    },
+    {
+      "text": "Play three, make a poem",
+      "pick": 1
+    },
+    {
+      "text": "The last time I went to Honest Ed's I walked out with _",
+      "pick": 1
+    },
+    {
+      "text": "The Mayor was really smoking _ in that video",
+      "pick": 1
+    },
+    {
+      "text": "The most used app on my cell phone is for _",
+      "pick": 1
+    },
+    {
+      "text": "The newest bar in the Junction features _ on the menu",
+      "pick": 1
+    },
+    {
+      "text": "The only thing to fear is _",
+      "pick": 1
+    },
+    {
+      "text": "The worst birthday gift I ever received was _",
+      "pick": 1
+    },
+    {
+      "text": "The worst blind date I ever went on invovled _ and ended with _",
+      "pick": 2
+    },
+    {
+      "text": "The worst thing in my Google search history is _",
+      "pick": 1
+    },
+    {
+      "text": "This best describes my night each time the power fails in Toronto.",
+      "pick": 1
+    },
+    {
+      "text": "To improve customer safety, the TTC will be banning _ from all trains",
+      "pick": 1
+    },
+    {
+      "text": "Today on Bodybreak, Hal Johnson and Joanne Mcleod introduce a new workout routine called _",
+      "pick": 1
+    },
+    {
+      "text": "Toronto City Council has voted to cancel the Scarborough subway to better fund _",
+      "pick": 1
+    },
+    {
+      "text": "What do you get the person who has everything?",
+      "pick": 1
+    },
+    {
+      "text": "What does everyone playing this game has in common?",
+      "pick": 1
+    },
+    {
+      "text": "What inspired my mother to choose my first name?",
+      "pick": 1
+    },
+    {
+      "text": "What ruined the Santa Claus Day parade this year?",
+      "pick": 1
+    },
+    {
+      "text": "What you do not want to see when the subway doors open?",
+      "pick": 1
+    },
+    {
+      "text": "Yorkville's latest fad diet is called _",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "A Captain John's Seafood Dinner",
+      "renderHtml": false
+    },
+    {
+      "text": "A Christmas Day bathhouse visit",
+      "renderHtml": false
+    },
+    {
+      "text": "A Doug Ford shaped pinata",
+      "renderHtml": false
+    },
+    {
+      "text": "A drunk girl getting banged on a pile of garbage bags",
+      "renderHtml": false
+    },
+    {
+      "text": "A kickstarter campaign to pay your rent",
+      "renderHtml": false
+    },
+    {
+      "text": "A loud fart that you thought would be a quiet fart",
+      "renderHtml": false
+    },
+    {
+      "text": "A now-homeless Much Music VJ",
+      "renderHtml": false
+    },
+    {
+      "text": "A Polar Vortex",
+      "renderHtml": false
+    },
+    {
+      "text": "a purse stashed with condoms and dental dams",
+      "renderHtml": false
+    },
+    {
+      "text": "A thirteen minute make-out session with Kathleen Wynne",
+      "renderHtml": false
+    },
+    {
+      "text": "A walk of shame",
+      "renderHtml": false
+    },
+    {
+      "text": "A warm sack of foreskins",
+      "renderHtml": false
+    },
+    {
+      "text": "Adult bed-wetting",
+      "renderHtml": false
+    },
+    {
+      "text": "Alcohol-free art gallery openings",
+      "renderHtml": false
+    },
+    {
+      "text": "An Ossington hipster who really lives in Oakville",
+      "renderHtml": false
+    },
+    {
+      "text": "Anonymous after dark anilingus",
+      "renderHtml": false
+    },
+    {
+      "text": "Another blackout",
+      "renderHtml": false
+    },
+    {
+      "text": "Another goddamn cupcake shop",
+      "renderHtml": false
+    },
+    {
+      "text": "Another year of therapy",
+      "renderHtml": false
+    },
+    {
+      "text": "Asian parents",
+      "renderHtml": false
+    },
+    {
+      "text": "Auto-fellatio asphyxiation",
+      "renderHtml": false
+    },
+    {
+      "text": "Autocorrect",
+      "renderHtml": false
+    },
+    {
+      "text": "Backhanded compliments",
+      "renderHtml": false
+    },
+    {
+      "text": "Bacon substitutes",
+      "renderHtml": false
+    },
+    {
+      "text": "Bed bugs",
+      "renderHtml": false
+    },
+    {
+      "text": "Being forced to compliment an ugly baby",
+      "renderHtml": false
+    },
+    {
+      "text": "Being the next contestant on the Cash Cab",
+      "renderHtml": false
+    },
+    {
+      "text": "Being the only high person at the party",
+      "renderHtml": false
+    },
+    {
+      "text": "Being the third wheel",
+      "renderHtml": false
+    },
+    {
+      "text": "Believing vaccines cause Autism",
+      "renderHtml": false
+    },
+    {
+      "text": "Bieber Fever",
+      "renderHtml": false
+    },
+    {
+      "text": "Bike lanes on Bloor",
+      "renderHtml": false
+    },
+    {
+      "text": "Blaming amalgamation",
+      "renderHtml": false
+    },
+    {
+      "text": "Blaming the CBC",
+      "renderHtml": false
+    },
+    {
+      "text": "Blood fisting",
+      "renderHtml": false
+    },
+    {
+      "text": "Books I'll never read",
+      "renderHtml": false
+    },
+    {
+      "text": "Butt pirates",
+      "renderHtml": false
+    },
+    {
+      "text": "Buying discount hoop earrings in Scarborough",
+      "renderHtml": false
+    },
+    {
+      "text": "Buying underwear in Chinatown",
+      "renderHtml": false
+    },
+    {
+      "text": "Calling the Rogers Centre the Skydome",
+      "renderHtml": false
+    },
+    {
+      "text": "CAMH",
+      "renderHtml": false
+    },
+    {
+      "text": "Casual racism",
+      "renderHtml": false
+    },
+    {
+      "text": "Casually mentioning having herpes",
+      "renderHtml": false
+    },
+    {
+      "text": "Catholic guilt",
+      "renderHtml": false
+    },
+    {
+      "text": "Celine Dion keeping her baby warm in the microwave",
+      "renderHtml": false
+    },
+    {
+      "text": "Chocolate covered Plan B morning after pills",
+      "renderHtml": false
+    },
+    {
+      "text": "Cineplex's Time Play app",
+      "renderHtml": false
+    },
+    {
+      "text": "Coffee Time patrons",
+      "renderHtml": false
+    },
+    {
+      "text": "Conversations about gluten",
+      "renderHtml": false
+    },
+    {
+      "text": "Craigslist missed connections",
+      "renderHtml": false
+    },
+    {
+      "text": "Cross-dressing dads coming out to their adult children",
+      "renderHtml": false
+    },
+    {
+      "text": "Deadbeat dads",
+      "renderHtml": false
+    },
+    {
+      "text": "Death by a tsunami of used condoms",
+      "renderHtml": false
+    },
+    {
+      "text": "Defending Etobicoke's right to exist",
+      "renderHtml": false
+    },
+    {
+      "text": "Degrassi High",
+      "renderHtml": false
+    },
+    {
+      "text": "Dining at the CNE",
+      "renderHtml": false
+    },
+    {
+      "text": "Double penetration",
+      "renderHtml": false
+    },
+    {
+      "text": "Drake's latest album",
+      "renderHtml": false
+    },
+    {
+      "text": "Drunk dialing",
+      "renderHtml": false
+    },
+    {
+      "text": "Duckfaced selfies",
+      "renderHtml": false
+    },
+    {
+      "text": "Ed the Sock",
+      "renderHtml": false
+    },
+    {
+      "text": "Failing as an aesthetician",
+      "renderHtml": false
+    },
+    {
+      "text": "Falling asleep on the bus and waking up in Islingtontown",
+      "renderHtml": false
+    },
+    {
+      "text": "Feelings",
+      "renderHtml": false
+    },
+    {
+      "text": "Female-to-male transsexual chest hair",
+      "renderHtml": false
+    },
+    {
+      "text": "Flash dance magic pants",
+      "renderHtml": false
+    },
+    {
+      "text": "Ford Nation",
+      "renderHtml": false
+    },
+    {
+      "text": "Forty-somethings wearing Uggs",
+      "renderHtml": false
+    },
+    {
+      "text": "Freezing poop to make  dildo",
+      "renderHtml": false
+    },
+    {
+      "text": "Gangnam style",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting lost in Honest Ed's",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting photobombed by Gian Gomeshii",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting shot at Caribana",
+      "renderHtml": false
+    },
+    {
+      "text": "Glory holes",
+      "renderHtml": false
+    },
+    {
+      "text": "Gonorrhoea... gift wrapped",
+      "renderHtml": false
+    },
+    {
+      "text": "Grandparents constantly asking why I'm single",
+      "renderHtml": false
+    },
+    {
+      "text": "Grocery shopping at Dollarama",
+      "renderHtml": false
+    },
+    {
+      "text": "Hand feeding Rob Ford Cheez-its",
+      "renderHtml": false
+    },
+    {
+      "text": "Hanlan's Point Clothing Optional Beach",
+      "renderHtml": false
+    },
+    {
+      "text": "Happy Hour at Zanzibar",
+      "renderHtml": false
+    },
+    {
+      "text": "Harry Potter male pregnancy fan fiction",
+      "renderHtml": false
+    },
+    {
+      "text": "Hashtags on Facebook",
+      "renderHtml": false
+    },
+    {
+      "text": "Hassle-free clinic test results",
+      "renderHtml": false
+    },
+    {
+      "text": "Having a 647 phone number",
+      "renderHtml": false
+    },
+    {
+      "text": "High Park after dark",
+      "renderHtml": false
+    },
+    {
+      "text": "Hipsters serving brunch",
+      "renderHtml": false
+    },
+    {
+      "text": "Hoarder marathons on Netflix",
+      "renderHtml": false
+    },
+    {
+      "text": "Hostile eye contact",
+      "renderHtml": false
+    },
+    {
+      "text": "Hot guys named Todd",
+      "renderHtml": false
+    },
+    {
+      "text": "Ignoring the elephant in the room",
+      "renderHtml": false
+    },
+    {
+      "text": "Intercourse with a hollowed out watermelon",
+      "renderHtml": false
+    },
+    {
+      "text": "iTumes terms and conditions",
+      "renderHtml": false
+    },
+    {
+      "text": "Jane and Finch",
+      "renderHtml": false
+    },
+    {
+      "text": "Jungle fever",
+      "renderHtml": false
+    },
+    {
+      "text": "Kale chips",
+      "renderHtml": false
+    },
+    {
+      "text": "Kensington hippies",
+      "renderHtml": false
+    },
+    {
+      "text": "King's Crown Nachos at Sneaky Dee's",
+      "renderHtml": false
+    },
+    {
+      "text": "Knitted toe-socks",
+      "renderHtml": false
+    },
+    {
+      "text": "Lip-syncing for your life",
+      "renderHtml": false
+    },
+    {
+      "text": "Madonna On Ice: The Musical",
+      "renderHtml": false
+    },
+    {
+      "text": "Making really bad \"Don Valley Parking-Lot\" jokes",
+      "renderHtml": false
+    },
+    {
+      "text": "Manscaping",
+      "renderHtml": false
+    },
+    {
+      "text": "Margaret Atwood's unconditional love",
+      "renderHtml": false
+    },
+    {
+      "text": "Marilyn Denis' face",
+      "renderHtml": false
+    },
+    {
+      "text": "McDonald's coffee",
+      "renderHtml": false
+    },
+    {
+      "text": "Medical marijuana",
+      "renderHtml": false
+    },
+    {
+      "text": "Menstruating in white jeans",
+      "renderHtml": false
+    },
+    {
+      "text": "Microwave cooking for one",
+      "renderHtml": false
+    },
+    {
+      "text": "Mistaking carjacker for valet parking",
+      "renderHtml": false
+    },
+    {
+      "text": "Modrobes",
+      "renderHtml": false
+    },
+    {
+      "text": "Multicultural television",
+      "renderHtml": false
+    },
+    {
+      "text": "NMBYism",
+      "renderHtml": false
+    },
+    {
+      "text": "No Pants Day",
+      "renderHtml": false
+    },
+    {
+      "text": "NoJetsTO",
+      "renderHtml": false
+    },
+    {
+      "text": "Nooooooooooobody!",
+      "renderHtml": false
+    },
+    {
+      "text": "Not giving a shit about peanut allergies",
+      "renderHtml": false
+    },
+    {
+      "text": "Not going north of Bloor Street",
+      "renderHtml": false
+    },
+    {
+      "text": "Olivia Chow falling down an escalator, forever",
+      "renderHtml": false
+    },
+    {
+      "text": "Olivia Chow hogtied",
+      "renderHtml": false
+    },
+    {
+      "text": "Parkdale",
+      "renderHtml": false
+    },
+    {
+      "text": "Parking in a disabled space without a permit",
+      "renderHtml": false
+    },
+    {
+      "text": "Pass the gravy I got a double abortion",
+      "renderHtml": false
+    },
+    {
+      "text": "Passive aggressive Facebook updates",
+      "renderHtml": false
+    },
+    {
+      "text": "Pegging",
+      "renderHtml": false
+    },
+    {
+      "text": "People who live on Toronto Island",
+      "renderHtml": false
+    },
+    {
+      "text": "Playing the race card",
+      "renderHtml": false
+    },
+    {
+      "text": "Post-drunken depression",
+      "renderHtml": false
+    },
+    {
+      "text": "Pretending the Distillery District is as cool as Montreal",
+      "renderHtml": false
+    },
+    {
+      "text": "Pretending to not shop at Walmart",
+      "renderHtml": false
+    },
+    {
+      "text": "Pretentious latte art",
+      "renderHtml": false
+    },
+    {
+      "text": "Priority neighbourhoods",
+      "renderHtml": false
+    },
+    {
+      "text": "Purchasing something you don't need to use a restroom",
+      "renderHtml": false
+    },
+    {
+      "text": "Raccoon: The other, other dark meat",
+      "renderHtml": false
+    },
+    {
+      "text": "Racist grandparents",
+      "renderHtml": false
+    },
+    {
+      "text": "Referring to outsiders as \"905ers\"",
+      "renderHtml": false
+    },
+    {
+      "text": "Resentment",
+      "renderHtml": false
+    },
+    {
+      "text": "Rick The Temp",
+      "renderHtml": false
+    },
+    {
+      "text": "Rob Ford re-elected",
+      "renderHtml": false
+    },
+    {
+      "text": "Rogers wireless customer service representatives",
+      "renderHtml": false
+    },
+    {
+      "text": "Santorum",
+      "renderHtml": false
+    },
+    {
+      "text": "SARS",
+      "renderHtml": false
+    },
+    {
+      "text": "Saying \"Nuit Blanche was better last year\"",
+      "renderHtml": false
+    },
+    {
+      "text": "Saying sorry too much",
+      "renderHtml": false
+    },
+    {
+      "text": "Scarborough problems",
+      "renderHtml": false
+    },
+    {
+      "text": "Sexting the wrong person",
+      "renderHtml": false
+    },
+    {
+      "text": "Shawn Desmond CDs",
+      "renderHtml": false
+    },
+    {
+      "text": "Shopper's Optimum Points",
+      "renderHtml": false
+    },
+    {
+      "text": "Signal problems at track level",
+      "renderHtml": false
+    },
+    {
+      "text": "Smacking snotty looking blonde children",
+      "renderHtml": false
+    },
+    {
+      "text": "Snorting coke off the back of a toilet",
+      "renderHtml": false
+    },
+    {
+      "text": "So You Think You Can Dance Canada",
+      "renderHtml": false
+    },
+    {
+      "text": "Sook-Yin Lee",
+      "renderHtml": false
+    },
+    {
+      "text": "Speaker's Corner",
+      "renderHtml": false
+    },
+    {
+      "text": "Spooning with an erection",
+      "renderHtml": false
+    },
+    {
+      "text": "Spraying oneself with Febreeze in lieu of a shower",
+      "renderHtml": false
+    },
+    {
+      "text": "Standing on the left side of the escalator",
+      "renderHtml": false
+    },
+    {
+      "text": "Standing too close to someone at the urinal",
+      "renderHtml": false
+    },
+    {
+      "text": "Steven & Chris both blindfolded in a leather sling",
+      "renderHtml": false
+    },
+    {
+      "text": "Still caring about the G-20",
+      "renderHtml": false
+    },
+    {
+      "text": "Stopping an actual gravy train",
+      "renderHtml": false
+    },
+    {
+      "text": "Straight pride parades",
+      "renderHtml": false
+    },
+    {
+      "text": "Street meat",
+      "renderHtml": false
+    },
+    {
+      "text": "Streetcar short turns",
+      "renderHtml": false
+    },
+    {
+      "text": "Strippers who work the day shift",
+      "renderHtml": false
+    },
+    {
+      "text": "Subways!\nSubways!\nSubways!",
+      "renderHtml": false
+    },
+    {
+      "text": "Taking Jack Layton's name in vain",
+      "renderHtml": false
+    },
+    {
+      "text": "Taking out payday loans to pay off other payday loans",
+      "renderHtml": false
+    },
+    {
+      "text": "Taking the TTC to Scarborough",
+      "renderHtml": false
+    },
+    {
+      "text": "Thai lady boys",
+      "renderHtml": false
+    },
+    {
+      "text": "That smell in the NE corner of High Park",
+      "renderHtml": false
+    },
+    {
+      "text": "That woman on the GO train that clears her throat every five seconds",
+      "renderHtml": false
+    },
+    {
+      "text": "That's what she said",
+      "renderHtml": false
+    },
+    {
+      "text": "The animatronic bears playing musical instruments at Chuck E. Cheese",
+      "renderHtml": false
+    },
+    {
+      "text": "The biggest booty shakin' float at Caribana",
+      "renderHtml": false
+    },
+    {
+      "text": "The Christie Pits groper",
+      "renderHtml": false
+    },
+    {
+      "text": "The Dufferin bus",
+      "renderHtml": false
+    },
+    {
+      "text": "The Ikea monkey",
+      "renderHtml": false
+    },
+    {
+      "text": "The LCBO",
+      "renderHtml": false
+    },
+    {
+      "text": "The media",
+      "renderHtml": false
+    },
+    {
+      "text": "The Roncevalles MILF Association",
+      "renderHtml": false
+    },
+    {
+      "text": "The sound of Adam Vaughan giving birth to a child",
+      "renderHtml": false
+    },
+    {
+      "text": "The Toronto Maple Leafs",
+      "renderHtml": false
+    },
+    {
+      "text": "Those old people who live in the Manulife Centre",
+      "renderHtml": false
+    },
+    {
+      "text": "Tim Horton's Rrroll Up The Rim To Win Contest",
+      "renderHtml": false
+    },
+    {
+      "text": "Tits",
+      "renderHtml": false
+    },
+    {
+      "text": "Traditional gender roles",
+      "renderHtml": false
+    },
+    {
+      "text": "Trolling the comment section on The Toronto Star",
+      "renderHtml": false
+    },
+    {
+      "text": "Truly believing Electric Circus was cool",
+      "renderHtml": false
+    },
+    {
+      "text": "Twelve disgruntled Filipino nannies",
+      "renderHtml": false
+    },
+    {
+      "text": "Twenty-five dollar martinis",
+      "renderHtml": false
+    },
+    {
+      "text": "Twerking",
+      "renderHtml": false
+    },
+    {
+      "text": "Unfulfilled sext-pectations",
+      "renderHtml": false
+    },
+    {
+      "text": "Vegan bakeries",
+      "renderHtml": false
+    },
+    {
+      "text": "Waving to someone who doesn't see you",
+      "renderHtml": false
+    },
+    {
+      "text": "Weddings held in Mississauga",
+      "renderHtml": false
+    },
+    {
+      "text": "When someone doesn't say \"bleess you\" after you sneeze",
+      "renderHtml": false
+    },
+    {
+      "text": "White Squirrels of Trinity Bellwoods",
+      "renderHtml": false
+    },
+    {
+      "text": "Zanta!",
+      "renderHtml": false
+    }
+  ]
+}

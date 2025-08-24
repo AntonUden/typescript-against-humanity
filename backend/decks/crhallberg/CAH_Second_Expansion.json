@@ -1,0 +1,457 @@
+{
+  "order": 23,
+  "displayName": "CAH: Second Expansion",
+  "name": "CAH_Second_Expansion",
+  "whiteCards": [
+    {
+      "text": "_ would be woefully incomplete without _.",
+      "pick": 2
+    },
+    {
+      "text": "A remarkable new study has shown that chimps have evolved their own primitive version of _.",
+      "pick": 1
+    },
+    {
+      "text": "After months of debate, the Occupy Wall Street General Assembly could only agree on \"More _!\"",
+      "pick": 1
+    },
+    {
+      "text": "Before _, all we had was _.",
+      "pick": 2
+    },
+    {
+      "text": "Before I run for president, I must destroy all evidence of my involvement with _.",
+      "pick": 1
+    },
+    {
+      "text": "Charades was ruined for me forever when my mom had to act out _.",
+      "pick": 1
+    },
+    {
+      "text": "During his midlife crisis, my dad got really into _.",
+      "pick": 1
+    },
+    {
+      "text": "Everyone down on the ground! We don't want to hurt anyone. We're just here for _.",
+      "pick": 1
+    },
+    {
+      "text": "I spent my whole life working toward _, only to have it ruined by _.",
+      "pick": 2
+    },
+    {
+      "text": "I went from _ to _, all thanks to _.",
+      "pick": 3
+    },
+    {
+      "text": "If God didn't want us to enjoy _, he wouldn't have given us _.",
+      "pick": 2
+    },
+    {
+      "text": "In his newest and most difficult stunt, David Blaine must escape from _.",
+      "pick": 1
+    },
+    {
+      "text": "Little Miss Muffet Sat on a tuffet, Eating her curds and _.",
+      "pick": 1
+    },
+    {
+      "text": "Members of New York's social elite are paying thousands of dollars just to experience _.",
+      "pick": 1
+    },
+    {
+      "text": "My country, 'tis of thee, sweet land of _.",
+      "pick": 1
+    },
+    {
+      "text": "My mom freaked out when she looked at my browser history and found _.com/_.",
+      "pick": 2
+    },
+    {
+      "text": "My new favorite porn star is Joey \"_\" McGee.",
+      "pick": 1
+    },
+    {
+      "text": "Next time on Dr. Phil: How to talk to your child about _.",
+      "pick": 1
+    },
+    {
+      "text": "Only two things in life are certain: death and _.",
+      "pick": 1
+    },
+    {
+      "text": "The Five Stages of Grief: denial, anger, bargaining, _, acceptance.",
+      "pick": 1
+    },
+    {
+      "text": "The healing process began when I joined a support group for victims of _.",
+      "pick": 1
+    },
+    {
+      "text": "The votes are in, and the new high school mascot is _.",
+      "pick": 1
+    },
+    {
+      "text": "This is your captain speaking. Fasten your seatbelts and prepare for _.",
+      "pick": 1
+    },
+    {
+      "text": "This month's Cosmo: \"Spice up your sex life by bringing _ into the bedroom.\"",
+      "pick": 1
+    },
+    {
+      "text": "Tonight on 20/20: What you don't know about _ could kill you.",
+      "pick": 1
+    },
+    {
+      "text": "What's harshing my mellow, man?",
+      "pick": 1
+    },
+    {
+      "text": "You haven't truly lived until you've experienced _ and _ at the same time.",
+      "pick": 2
+    },
+    {
+      "text": "Your persistence is admirable, my dear Prince. But you cannot win my heart with _ alone.",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "A 55-gallon drum of lube.",
+      "renderHtml": false
+    },
+    {
+      "text": "A bigger, blacker dick.",
+      "renderHtml": false
+    },
+    {
+      "text": "A Burmese tiger pit.",
+      "renderHtml": false
+    },
+    {
+      "text": "A dollop of sour cream.",
+      "renderHtml": false
+    },
+    {
+      "text": "A fortuitous turnip harvest.",
+      "renderHtml": false
+    },
+    {
+      "text": "A magic hippie love cloud.",
+      "renderHtml": false
+    },
+    {
+      "text": "A man in yoga pants with a ponytail and feather earrings.",
+      "renderHtml": false
+    },
+    {
+      "text": "A pinata full of scorpions.",
+      "renderHtml": false
+    },
+    {
+      "text": "A sad fat dragon with no friends.",
+      "renderHtml": false
+    },
+    {
+      "text": "A slightly shittier parallel universe.",
+      "renderHtml": false
+    },
+    {
+      "text": "A sofa that says \"I have style, but I like to be comfortable.\"",
+      "renderHtml": false
+    },
+    {
+      "text": "A soulful rendition of \"Ol' Man River.\"",
+      "renderHtml": false
+    },
+    {
+      "text": "A squadron of moles wearing aviator goggles.",
+      "renderHtml": false
+    },
+    {
+      "text": "A sweaty, panting leather daddy.",
+      "renderHtml": false
+    },
+    {
+      "text": "A sweet spaceship.",
+      "renderHtml": false
+    },
+    {
+      "text": "All of this blood.",
+      "renderHtml": false
+    },
+    {
+      "text": "An army of skeletons.",
+      "renderHtml": false
+    },
+    {
+      "text": "An ether-soaked rag.",
+      "renderHtml": false
+    },
+    {
+      "text": "An unhinged ferris wheel rolling toward the sea.",
+      "renderHtml": false
+    },
+    {
+      "text": "Another shot of morphine.",
+      "renderHtml": false
+    },
+    {
+      "text": "Basic human decency.",
+      "renderHtml": false
+    },
+    {
+      "text": "Beefin' over turf.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being awesome at sex.",
+      "renderHtml": false
+    },
+    {
+      "text": "Boris the Soviet Love Hammer.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bullshit.",
+      "renderHtml": false
+    },
+    {
+      "text": "Catastrophic urethral trauma.",
+      "renderHtml": false
+    },
+    {
+      "text": "Crabapples all over the fucking sidewalk.",
+      "renderHtml": false
+    },
+    {
+      "text": "Crushing Mr. Peanut's brittle body.",
+      "renderHtml": false
+    },
+    {
+      "text": "Daddy's belt.",
+      "renderHtml": false
+    },
+    {
+      "text": "Death by Steven Seagal.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dennis the Menace.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dining with cardboard cutouts of the cast of \"Friends.\"",
+      "renderHtml": false
+    },
+    {
+      "text": "Double penetration.",
+      "renderHtml": false
+    },
+    {
+      "text": "Existing.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fetal alcohol syndrome.",
+      "renderHtml": false
+    },
+    {
+      "text": "Finding Waldo.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fuck Mountain.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting hilariously gang-banged by the Blue Man Group.",
+      "renderHtml": false
+    },
+    {
+      "text": "Grandpa's ashes.",
+      "renderHtml": false
+    },
+    {
+      "text": "Graphic violence, adult language, and some sexual content.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hillary Clinton.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hillary Clinton's death stare.",
+      "renderHtml": false
+    },
+    {
+      "text": "Intimacy problems.",
+      "renderHtml": false
+    },
+    {
+      "text": "Jeff Goldblum.",
+      "renderHtml": false
+    },
+    {
+      "text": "Living in a trashcan.",
+      "renderHtml": false
+    },
+    {
+      "text": "Loki, the trickster god.",
+      "renderHtml": false
+    },
+    {
+      "text": "Making a friend.",
+      "renderHtml": false
+    },
+    {
+      "text": "Maximal insertion.",
+      "renderHtml": false
+    },
+    {
+      "text": "Me.",
+      "renderHtml": false
+    },
+    {
+      "text": "Mild autism.",
+      "renderHtml": false
+    },
+    {
+      "text": "Mooing.",
+      "renderHtml": false
+    },
+    {
+      "text": "My first kill.",
+      "renderHtml": false
+    },
+    {
+      "text": "Nunchuck moves.",
+      "renderHtml": false
+    },
+    {
+      "text": "Oncoming traffic.",
+      "renderHtml": false
+    },
+    {
+      "text": "One Ring to rule them all.",
+      "renderHtml": false
+    },
+    {
+      "text": "Power.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pretty Pretty Princess Dress-Up Board Game®.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pumping out a baby every nine months.",
+      "renderHtml": false
+    },
+    {
+      "text": "Rising from the grave.",
+      "renderHtml": false
+    },
+    {
+      "text": "Scrotal frostbite.",
+      "renderHtml": false
+    },
+    {
+      "text": "Some really fucked-up shit.",
+      "renderHtml": false
+    },
+    {
+      "text": "Special musical guest, Cher.",
+      "renderHtml": false
+    },
+    {
+      "text": "Spring break!",
+      "renderHtml": false
+    },
+    {
+      "text": "Subduing a grizzly bear and making her your wife.",
+      "renderHtml": false
+    },
+    {
+      "text": "Survivor's guilt.",
+      "renderHtml": false
+    },
+    {
+      "text": "Swiftly achieving orgasm.",
+      "renderHtml": false
+    },
+    {
+      "text": "Taking a man's eyes and balls out and putting his eyes where his balls go and then his balls in the eye holes.",
+      "renderHtml": false
+    },
+    {
+      "text": "The black Power Ranger.",
+      "renderHtml": false
+    },
+    {
+      "text": "The corporations.",
+      "renderHtml": false
+    },
+    {
+      "text": "The day the birds attacked.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Google.",
+      "renderHtml": false
+    },
+    {
+      "text": "The grey nutrient broth that sustains Mitt Romney.",
+      "renderHtml": false
+    },
+    {
+      "text": "The hose.",
+      "renderHtml": false
+    },
+    {
+      "text": "The human body.",
+      "renderHtml": false
+    },
+    {
+      "text": "The mere concept of Applebee's®.",
+      "renderHtml": false
+    },
+    {
+      "text": "The mixing of the races.",
+      "renderHtml": false
+    },
+    {
+      "text": "The new Radiohead album.",
+      "renderHtml": false
+    },
+    {
+      "text": "Tiny nipples.",
+      "renderHtml": false
+    },
+    {
+      "text": "Tongue.",
+      "renderHtml": false
+    },
+    {
+      "text": "Upgrading homeless people to mobile hotspots.",
+      "renderHtml": false
+    },
+    {
+      "text": "Weapons-grade plutonium.",
+      "renderHtml": false
+    },
+    {
+      "text": "Wearing an octopus for a hat.",
+      "renderHtml": false
+    },
+    {
+      "text": "Whining like a little bitch.",
+      "renderHtml": false
+    },
+    {
+      "text": "Whipping a disobedient slave.",
+      "renderHtml": false
+    }
+  ]
+}

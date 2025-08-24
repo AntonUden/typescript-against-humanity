@@ -1,0 +1,1909 @@
+{
+  "order": 75,
+  "displayName": "Bards Dispense Profanity",
+  "name": "Bards_Dispense_Profanity",
+  "whiteCards": [
+    {
+      "text": "_ is the new _.",
+      "pick": 2
+    },
+    {
+      "text": "_ guaranteed, or your money back!",
+      "pick": 1
+    },
+    {
+      "text": "[POINT TO ANY PLAYER.]\n\nMy friendship with this person is based entirely on _.",
+      "pick": 1
+    },
+    {
+      "text": "[POINT TO THE PERSON TO YOUR LEFT.]\n\nI have this person to thank for introducing me to _.",
+      "pick": 1
+    },
+    {
+      "text": "[POINT TO THE PERSON TO YOUR LEFT.]\n\nWhat is this person's guilty pleasure?",
+      "pick": 1
+    },
+    {
+      "text": "[POINT TO THE PERSON TO YOUR RIGHT.]\n\nWhat does this person prefer in the bedroom?",
+      "pick": 1
+    },
+    {
+      "text": "A bird in the hand is worth _.",
+      "pick": 1
+    },
+    {
+      "text": "A euphemism for the sex act that you would least like to discuss with your parents:",
+      "pick": 1
+    },
+    {
+      "text": "A horse!\na horse!\n_ for a horse!",
+      "pick": 1
+    },
+    {
+      "text": "A million dollars isn't cool.\nYou know what's cool? _.",
+      "pick": 1
+    },
+    {
+      "text": "A rabbi, _, and _ walk into a bar.",
+      "pick": 2
+    },
+    {
+      "text": "A vote for Donald Trump is a vote to Make America _ Again.",
+      "pick": 1
+    },
+    {
+      "text": "Absence makes the heart grow _.",
+      "pick": 1
+    },
+    {
+      "text": "Actions speak louder than _.",
+      "pick": 1
+    },
+    {
+      "text": "After the final book was published, J.K. Rowling confirmed that Dumbledore was _.",
+      "pick": 1
+    },
+    {
+      "text": "After the show it's the afterparty, and after the party it's _.",
+      "pick": 1
+    },
+    {
+      "text": "All the world's a stage, and all the men and women merely _.",
+      "pick": 1
+    },
+    {
+      "text": "As everyone knows, after shooting Lincoln, John Wilkes Booth jumped onto the stage and yelled \"_,\"",
+      "pick": 1
+    },
+    {
+      "text": "Ask not what your country can do for you; ask what you can do for _.",
+      "pick": 1
+    },
+    {
+      "text": "Behind every successful man is _.",
+      "pick": 1
+    },
+    {
+      "text": "By the age of four, male children already display a preference for _.",
+      "pick": 1
+    },
+    {
+      "text": "Cowards die many times before their deaths; the valiant never taste _.",
+      "pick": 1
+    },
+    {
+      "text": "Creepiest ride ever: my Uber driver was _.",
+      "pick": 1
+    },
+    {
+      "text": "DRILL SERGEANT:\nWhat the hell are you doing, private?\n\nPRIVATE:\nSir, _, sir!",
+      "pick": 1
+    },
+    {
+      "text": "Fear is the path to the dark side. Fear leads to anger; anger leads to hate; hate leads to _.",
+      "pick": 1
+    },
+    {
+      "text": "For every $1 that men receive, women receive _.",
+      "pick": 1
+    },
+    {
+      "text": "Give me liberty, or give me _.",
+      "pick": 1
+    },
+    {
+      "text": "God helps those who help _.",
+      "pick": 1
+    },
+    {
+      "text": "Good night, good night! _ is such sweet sorrow.",
+      "pick": 1
+    },
+    {
+      "text": "History is written by _.",
+      "pick": 1
+    },
+    {
+      "text": "How will I keep myself busy after I retire?",
+      "pick": 1
+    },
+    {
+      "text": "I believe it was Winston Churchill who said: \"Never in the field of human conflict was so much owed by so many to _.\"",
+      "pick": 1
+    },
+    {
+      "text": "I could never marry someone who supports banning _.",
+      "pick": 1
+    },
+    {
+      "text": "I don't consider myself religious, but I do believe in _.",
+      "pick": 1
+    },
+    {
+      "text": "I got my dog from a shelter.\nShe was rescued from _.",
+      "pick": 1
+    },
+    {
+      "text": "I have a dream that one day this nation wil rise up and live out the true meaning of _.",
+      "pick": 1
+    },
+    {
+      "text": "I love the smell of _ in the morning",
+      "pick": 1
+    },
+    {
+      "text": "I majored in business, but I minored in _.",
+      "pick": 1
+    },
+    {
+      "text": "I think, therefore I am _.",
+      "pick": 1
+    },
+    {
+      "text": "I'll get you, my pretty, and _ too!",
+      "pick": 1
+    },
+    {
+      "text": "I'm getting a degree in English. It's basically four years of _.",
+      "pick": 1
+    },
+    {
+      "text": "I'm just a girl, standing in front of a boy, asking for _.",
+      "pick": 1
+    },
+    {
+      "text": "I'm sorry, this table is reserved for _.",
+      "pick": 1
+    },
+    {
+      "text": "I'm thinking about getting a lower-back tattoo of _.",
+      "pick": 1
+    },
+    {
+      "text": "I've got _ in low places.",
+      "pick": 1
+    },
+    {
+      "text": "If a creepy guy won't leave me alone at a bar, I just start talking about _ until he leaves. Works every time.",
+      "pick": 1
+    },
+    {
+      "text": "If music be the food of _, play on.",
+      "pick": 1
+    },
+    {
+      "text": "In the land of the blind, the one-eyed man is _.",
+      "pick": 1
+    },
+    {
+      "text": "It's always darkest before _.",
+      "pick": 1
+    },
+    {
+      "text": "KEEP CALM AND CARRY _",
+      "pick": 1
+    },
+    {
+      "text": "Key to a healthy marriage: _.",
+      "pick": 1
+    },
+    {
+      "text": "Life is a tale told by an idiot, full of sound and fury, signifying _.",
+      "pick": 1
+    },
+    {
+      "text": "My high school diary has a BUNCH of entries about _.",
+      "pick": 1
+    },
+    {
+      "text": "My road rage really gets out of control when the other driver is _.",
+      "pick": 1
+    },
+    {
+      "text": "O say, does _ yet wave\n\no'er the land of the fre and the home of the brave?",
+      "pick": 1
+    },
+    {
+      "text": "Oh yeah? Well I graduated from the University of _!",
+      "pick": 1
+    },
+    {
+      "text": "On the twelfth day of Christmas, my true love gave to me _.",
+      "pick": 1
+    },
+    {
+      "text": "One weird trick for beautiful, clear skin:",
+      "pick": 1
+    },
+    {
+      "text": "Our next speaker is a distinguished professor of _ at the University of Chicago.",
+      "pick": 1
+    },
+    {
+      "text": "Pediatricians now recommend that all children receive each morning.",
+      "pick": 1
+    },
+    {
+      "text": "Plot twist: they were _ the whole time!",
+      "pick": 1
+    },
+    {
+      "text": "PRINCE HARRY CAUGHT IN _ SCANDAL",
+      "pick": 1
+    },
+    {
+      "text": "Romeo, Romeo! Wherefore art thou _?",
+      "pick": 1
+    },
+    {
+      "text": "SCARLETT:\nWhere shall I go? What shall I do?\n\nRHETT:\nFrankly, my dear, I don't give _.",
+      "pick": 1
+    },
+    {
+      "text": "Scholars have discovered a previously unknown Sherlock Holmes story called \"The Adventure of _.\"",
+      "pick": 1
+    },
+    {
+      "text": "Some are born great, some achieve greatness, and some have _.",
+      "pick": 1
+    },
+    {
+      "text": "Some conspiracists belive that Shakespeare's plays were actually written by _.",
+      "pick": 1
+    },
+    {
+      "text": "Thanks, everyone, for coming out tonight.\nThis next song is called \"_.\"",
+      "pick": 1
+    },
+    {
+      "text": "The course of _ never did run smooth.",
+      "pick": 1
+    },
+    {
+      "text": "The eyes are windows to _.",
+      "pick": 1
+    },
+    {
+      "text": "The latest Westboro Baptist Church sign:\n\nGOD HATES _.",
+      "pick": 1
+    },
+    {
+      "text": "The pen is mightier than _.",
+      "pick": 1
+    },
+    {
+      "text": "The sign of true adult maturity:",
+      "pick": 1
+    },
+    {
+      "text": "There's a theory that Shakespeare was actually _.",
+      "pick": 1
+    },
+    {
+      "text": "These days the kids are calling it \"_.\"",
+      "pick": 1
+    },
+    {
+      "text": "This year's trendiest card game:\n\n\"_ Against _.\"",
+      "pick": 2
+    },
+    {
+      "text": "Throw _ in the air like you just don't care!",
+      "pick": 1
+    },
+    {
+      "text": "Title of a bestselling memoir later revealed to be fabricated:",
+      "pick": 1
+    },
+    {
+      "text": "Title of a film that's trying to win an Oscar:",
+      "pick": 1
+    },
+    {
+      "text": "To be, or not to be: that is _.",
+      "pick": 1
+    },
+    {
+      "text": "Twas the night before Christmas, and all through the house,\n\nnot a creature was stirring, not even _.",
+      "pick": 1
+    },
+    {
+      "text": "Ugh, I just sat through this dude mansplaining _ to me for a half hour.",
+      "pick": 1
+    },
+    {
+      "text": "We'll be holding you in an isolation chamber until we can rule out _ Syndrome.",
+      "pick": 1
+    },
+    {
+      "text": "Well, you know what they say: big hands, _.",
+      "pick": 1
+    },
+    {
+      "text": "What defines my brand of feminism?",
+      "pick": 1
+    },
+    {
+      "text": "What if _ is just, like, in your mind, you know?",
+      "pick": 1
+    },
+    {
+      "text": "What is this world coming to? I'll tell you what it's coming to:",
+      "pick": 1
+    },
+    {
+      "text": "What new trend has parents of teenagers worried?",
+      "pick": 1
+    },
+    {
+      "text": "What topic is glaringly absent from the Sex Ed curriculum?",
+      "pick": 1
+    },
+    {
+      "text": "What will finally bring our civilization to an end?",
+      "pick": 1
+    },
+    {
+      "text": "What's in a name? _ by any other name would smell as sweet.",
+      "pick": 1
+    },
+    {
+      "text": "What's my ideal first date?",
+      "pick": 1
+    },
+    {
+      "text": "What's the sexiest thing ever?",
+      "pick": 1
+    },
+    {
+      "text": "When life gives you lemons, make _.",
+      "pick": 1
+    },
+    {
+      "text": "When told that the people had no bread to eat, Marie Antoinette is said to have suggested: \"Let them eat _.\"",
+      "pick": 1
+    },
+    {
+      "text": "With my skills in _, and your knowledge in _, we could rule the world!",
+      "pick": 2
+    },
+    {
+      "text": "Yes, I have a question. Well, not so much a question as _.",
+      "pick": 1
+    },
+    {
+      "text": "You:\nPlay Rediohead.\n\nSiri:\nSorry. I don't know what \"_\" means.",
+      "pick": 1
+    },
+    {
+      "text": "You're seeing a therapist for the first time. The therapist asks why you've come.\n\nYour answer:",
+      "pick": 1
+    },
+    {
+      "text": "Your call is very important to us. Please stay on the line and we'll be _.",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "a baboon's blood",
+      "renderHtml": false
+    },
+    {
+      "text": "a barber's chair that fits all buttocks",
+      "renderHtml": false
+    },
+    {
+      "text": "a barren sister",
+      "renderHtml": false
+    },
+    {
+      "text": "a boil,\na plague-sore,\nan embossed carbuncle",
+      "renderHtml": false
+    },
+    {
+      "text": "a bolt of nothing, shot at nothing",
+      "renderHtml": false
+    },
+    {
+      "text": "a butter-woman's mouth",
+      "renderHtml": false
+    },
+    {
+      "text": "a care-crazed mother of many children",
+      "renderHtml": false
+    },
+    {
+      "text": "a certain convocation of politic worms",
+      "renderHtml": false
+    },
+    {
+      "text": "a Christmas comedy",
+      "renderHtml": false
+    },
+    {
+      "text": "a cock that nobody can match",
+      "renderHtml": false
+    },
+    {
+      "text": "a codpiece to stick pins on",
+      "renderHtml": false
+    },
+    {
+      "text": "a combless cock",
+      "renderHtml": false
+    },
+    {
+      "text": "a couch for luxury and damned incest",
+      "renderHtml": false
+    },
+    {
+      "text": "a cow in June",
+      "renderHtml": false
+    },
+    {
+      "text": "a deploring dump",
+      "renderHtml": false
+    },
+    {
+      "text": "a dog as big as ten of yours",
+      "renderHtml": false
+    },
+    {
+      "text": "a double tongue; there's two tongues",
+      "renderHtml": false
+    },
+    {
+      "text": "a dumb innocent",
+      "renderHtml": false
+    },
+    {
+      "text": "a Dutchman today,\n\na Frenchman to-morrow",
+      "renderHtml": false
+    },
+    {
+      "text": "a Dutchman's beard",
+      "renderHtml": false
+    },
+    {
+      "text": "a fat tripe finely broiled",
+      "renderHtml": false
+    },
+    {
+      "text": "a father cruel, and a step-dame false",
+      "renderHtml": false
+    },
+    {
+      "text": "a foutre for the world",
+      "renderHtml": false
+    },
+    {
+      "text": "a gentleman and a gamester, sir",
+      "renderHtml": false
+    },
+    {
+      "text": "a German from the waist downward",
+      "renderHtml": false
+    },
+    {
+      "text": "a great eater of beef",
+      "renderHtml": false
+    },
+    {
+      "text": "a gross lout, a mindless slave, or else a hovering temporizer",
+      "renderHtml": false
+    },
+    {
+      "text": "a hand that kings have lipped",
+      "renderHtml": false
+    },
+    {
+      "text": "a hot friend",
+      "renderHtml": false
+    },
+    {
+      "text": "a hot-house, which, I think, is a very ill house too",
+      "renderHtml": false
+    },
+    {
+      "text": "a hundred bastards",
+      "renderHtml": false
+    },
+    {
+      "text": "a husband with a beard on his face",
+      "renderHtml": false
+    },
+    {
+      "text": "a jewel that too casually hath left mine arm",
+      "renderHtml": false
+    },
+    {
+      "text": "A Kate conformable as other household Kates",
+      "renderHtml": false
+    },
+    {
+      "text": "a kind of excellent dumb discourse",
+      "renderHtml": false
+    },
+    {
+      "text": "a kind of yesty collection",
+      "renderHtml": false
+    },
+    {
+      "text": "a king transformed to a gnat",
+      "renderHtml": false
+    },
+    {
+      "text": "a knack,\na toy,\na trick,\na baby's cap",
+      "renderHtml": false
+    },
+    {
+      "text": "a lewd day-bed",
+      "renderHtml": false
+    },
+    {
+      "text": "a liberal rewarder of his friends",
+      "renderHtml": false
+    },
+    {
+      "text": "a mess of Russians",
+      "renderHtml": false
+    },
+    {
+      "text": "a modern ecstasy",
+      "renderHtml": false
+    },
+    {
+      "text": "a most notorious pirate",
+      "renderHtml": false
+    },
+    {
+      "text": "a new hat",
+      "renderHtml": false
+    },
+    {
+      "text": "a pair of reechy kisses",
+      "renderHtml": false
+    },
+    {
+      "text": "a pair of stainless maidenhoods",
+      "renderHtml": false
+    },
+    {
+      "text": "a piece of beef and mustard",
+      "renderHtml": false
+    },
+    {
+      "text": "a plentiful lack of wit,\n\ntogether with most weak hams",
+      "renderHtml": false
+    },
+    {
+      "text": "a poor, bare, forked animal",
+      "renderHtml": false
+    },
+    {
+      "text": "a pretty piece of flesh",
+      "renderHtml": false
+    },
+    {
+      "text": "a puppy greyhound",
+      "renderHtml": false
+    },
+    {
+      "text": "a rare parrot-teacher",
+      "renderHtml": false
+    },
+    {
+      "text": "a rat without a tail",
+      "renderHtml": false
+    },
+    {
+      "text": "a robustious periwig-pated fellow",
+      "renderHtml": false
+    },
+    {
+      "text": "a shrewd thrust at your belly",
+      "renderHtml": false
+    },
+    {
+      "text": "a small grey-coated gnat",
+      "renderHtml": false
+    },
+    {
+      "text": "a strange invisible perfume",
+      "renderHtml": false
+    },
+    {
+      "text": "a supersublte Venetian",
+      "renderHtml": false
+    },
+    {
+      "text": "a tale told by an idiot",
+      "renderHtml": false
+    },
+    {
+      "text": "a taller man than I",
+      "renderHtml": false
+    },
+    {
+      "text": "a tender ass",
+      "renderHtml": false
+    },
+    {
+      "text": "a thousand noses",
+      "renderHtml": false
+    },
+    {
+      "text": "a tooth-picker from the furthest inch of Asia",
+      "renderHtml": false
+    },
+    {
+      "text": "a very good bowler",
+      "renderHtml": false
+    },
+    {
+      "text": "a very good whore",
+      "renderHtml": false
+    },
+    {
+      "text": "a very mean meaning",
+      "renderHtml": false
+    },
+    {
+      "text": "a virtuous and Christian-like conclusion",
+      "renderHtml": false
+    },
+    {
+      "text": "a wealthy Hebrew",
+      "renderHtml": false
+    },
+    {
+      "text": "a whole school of tongues in this belly of mine",
+      "renderHtml": false
+    },
+    {
+      "text": "a wonder, if you talk of a wonder",
+      "renderHtml": false
+    },
+    {
+      "text": "a wood woman",
+      "renderHtml": false
+    },
+    {
+      "text": "Adam,\nRalph,\nand Gregory",
+      "renderHtml": false
+    },
+    {
+      "text": "Alexander the Pig",
+      "renderHtml": false
+    },
+    {
+      "text": "all kinds of sores and shames on my bare hand",
+      "renderHtml": false
+    },
+    {
+      "text": "all the hot bloods",
+      "renderHtml": false
+    },
+    {
+      "text": "all the pleasures of the world",
+      "renderHtml": false
+    },
+    {
+      "text": "an asshead",
+      "renderHtml": false
+    },
+    {
+      "text": "an evil diet",
+      "renderHtml": false
+    },
+    {
+      "text": "an Hebrew, a Jew",
+      "renderHtml": false
+    },
+    {
+      "text": "an index obscure prologue to the history of lust and foul thoughts",
+      "renderHtml": false
+    },
+    {
+      "text": "an invisible baldrick",
+      "renderHtml": false
+    },
+    {
+      "text": "an old trot with ne'er a tooth in her head",
+      "renderHtml": false
+    },
+    {
+      "text": "an unstanched wench",
+      "renderHtml": false
+    },
+    {
+      "text": "anunauthorized kiss",
+      "renderHtml": false
+    },
+    {
+      "text": "asaucy stranger",
+      "renderHtml": false
+    },
+    {
+      "text": "bastard Normans,\n\nNorman bastards!",
+      "renderHtml": false
+    },
+    {
+      "text": "bellowing like bulls",
+      "renderHtml": false
+    },
+    {
+      "text": "blasting in the bud",
+      "renderHtml": false
+    },
+    {
+      "text": "blowing him down again",
+      "renderHtml": false
+    },
+    {
+      "text": "blubbering and weeping,\n\nweeping and blubbering",
+      "renderHtml": false
+    },
+    {
+      "text": "bold and saucy",
+      "renderHtml": false
+    },
+    {
+      "text": "both the Blunts",
+      "renderHtml": false
+    },
+    {
+      "text": "Bottom's Dream",
+      "renderHtml": false
+    },
+    {
+      "text": "boys with bugs",
+      "renderHtml": false
+    },
+    {
+      "text": "brawling in French",
+      "renderHtml": false
+    },
+    {
+      "text": "bully-monster",
+      "renderHtml": false
+    },
+    {
+      "text": "clamorous whining",
+      "renderHtml": false
+    },
+    {
+      "text": "converting Jews to Christians",
+      "renderHtml": false
+    },
+    {
+      "text": "cony-catching",
+      "renderHtml": false
+    },
+    {
+      "text": "Crab, my dog",
+      "renderHtml": false
+    },
+    {
+      "text": "cracking nuts",
+      "renderHtml": false
+    },
+    {
+      "text": "Cupid's butt-shaft",
+      "renderHtml": false
+    },
+    {
+      "text": "dismal thinkings",
+      "renderHtml": false
+    },
+    {
+      "text": "drinking,\nfencing,\nswearing,\nquarrelling",
+      "renderHtml": false
+    },
+    {
+      "text": "dumb jewels",
+      "renderHtml": false
+    },
+    {
+      "text": "eahc actor on his ass",
+      "renderHtml": false
+    },
+    {
+      "text": "eat a crocodile?",
+      "renderHtml": false
+    },
+    {
+      "text": "eight wild-boars roasted whole at breakfast",
+      "renderHtml": false
+    },
+    {
+      "text": "elephants with holes",
+      "renderHtml": false
+    },
+    {
+      "text": "engines of lust",
+      "renderHtml": false
+    },
+    {
+      "text": "every dream, each buzz",
+      "renderHtml": false
+    },
+    {
+      "text": "fat bull-beeves",
+      "renderHtml": false
+    },
+    {
+      "text": "fear and niceness -- the handmaids of all women",
+      "renderHtml": false
+    },
+    {
+      "text": "fighting o' days and foining o' nights",
+      "renderHtml": false
+    },
+    {
+      "text": "fingering, so; we'll try with tongue too",
+      "renderHtml": false
+    },
+    {
+      "text": "foul sluttish hairs",
+      "renderHtml": false
+    },
+    {
+      "text": "general assault",
+      "renderHtml": false
+    },
+    {
+      "text": "general woe",
+      "renderHtml": false
+    },
+    {
+      "text": "good bushes",
+      "renderHtml": false
+    },
+    {
+      "text": "good strawberies in your garden there",
+      "renderHtml": false
+    },
+    {
+      "text": "grease that's sweaten from the murderer's gibbet",
+      "renderHtml": false
+    },
+    {
+      "text": "greasy Joan",
+      "renderHtml": false
+    },
+    {
+      "text": "greater than great, great, great, great",
+      "renderHtml": false
+    },
+    {
+      "text": "groaning every hour",
+      "renderHtml": false
+    },
+    {
+      "text": "groping for trouts in a peculiar river",
+      "renderHtml": false
+    },
+    {
+      "text": "growing feathers",
+      "renderHtml": false
+    },
+    {
+      "text": "he that hath killed my king and whored my mother",
+      "renderHtml": false
+    },
+    {
+      "text": "head, and butt!",
+      "renderHtml": false
+    },
+    {
+      "text": "headstrong women",
+      "renderHtml": false
+    },
+    {
+      "text": "her C's,\nher U's,\nand her T's",
+      "renderHtml": false
+    },
+    {
+      "text": "her fine foot, straight leg, and quivering thigh\n\nand the demesnes that there adjacent lie",
+      "renderHtml": false
+    },
+    {
+      "text": "her lamb when it baes",
+      "renderHtml": false
+    },
+    {
+      "text": "her virgin-knot",
+      "renderHtml": false
+    },
+    {
+      "text": "here, sir!\nhere, sir!\nhere, sir!\nhere, sir!",
+      "renderHtml": false
+    },
+    {
+      "text": "hiding the grossness",
+      "renderHtml": false
+    },
+    {
+      "text": "his beaver",
+      "renderHtml": false
+    },
+    {
+      "text": "his dog-heartefd daughters",
+      "renderHtml": false
+    },
+    {
+      "text": "his goatish disposition",
+      "renderHtml": false
+    },
+    {
+      "text": "his huge legs",
+      "renderHtml": false
+    },
+    {
+      "text": "his Jewish heart",
+      "renderHtml": false
+    },
+    {
+      "text": "his love-shaft",
+      "renderHtml": false
+    },
+    {
+      "text": "his own petard",
+      "renderHtml": false
+    },
+    {
+      "text": "honeying and making love over the nasty sty",
+      "renderHtml": false
+    },
+    {
+      "text": "horsing foot on foot",
+      "renderHtml": false
+    },
+    {
+      "text": "hot love on the wing",
+      "renderHtml": false
+    },
+    {
+      "text": "how virgins might blow up men",
+      "renderHtml": false
+    },
+    {
+      "text": "ill-shaped fishes",
+      "renderHtml": false
+    },
+    {
+      "text": "Jew hands",
+      "renderHtml": false
+    },
+    {
+      "text": "kicky-wicky",
+      "renderHtml": false
+    },
+    {
+      "text": "kissing with inside lip",
+      "renderHtml": false
+    },
+    {
+      "text": "knocking out his brains",
+      "renderHtml": false
+    },
+    {
+      "text": "laming the shrine of Venus",
+      "renderHtml": false
+    },
+    {
+      "text": "little tidy Bartholomew boar-pig",
+      "renderHtml": false
+    },
+    {
+      "text": "living dully sluggardized at home",
+      "renderHtml": false
+    },
+    {
+      "text": "longing, as I said, for prunes",
+      "renderHtml": false
+    },
+    {
+      "text": "love's quick pants",
+      "renderHtml": false
+    },
+    {
+      "text": "lovers' brains",
+      "renderHtml": false
+    },
+    {
+      "text": "Madam, this glove",
+      "renderHtml": false
+    },
+    {
+      "text": "Madam,' and nothing else",
+      "renderHtml": false
+    },
+    {
+      "text": "making him egregiously as ass",
+      "renderHtml": false
+    },
+    {
+      "text": "making the beast with two backs",
+      "renderHtml": false
+    },
+    {
+      "text": "marrying a punk",
+      "renderHtml": false
+    },
+    {
+      "text": "Master Fang",
+      "renderHtml": false
+    },
+    {
+      "text": "meditating on virginity",
+      "renderHtml": false
+    },
+    {
+      "text": "meeting noses",
+      "renderHtml": false
+    },
+    {
+      "text": "men whose heads do grow beneath their shoulders",
+      "renderHtml": false
+    },
+    {
+      "text": "men-children",
+      "renderHtml": false
+    },
+    {
+      "text": "mine eye-strings",
+      "renderHtml": false
+    },
+    {
+      "text": "Monsieur Love",
+      "renderHtml": false
+    },
+    {
+      "text": "more than one husband",
+      "renderHtml": false
+    },
+    {
+      "text": "much throwing about of brains",
+      "renderHtml": false
+    },
+    {
+      "text": "my accursed womb, the bed of death!",
+      "renderHtml": false
+    },
+    {
+      "text": "my bastardizing",
+      "renderHtml": false
+    },
+    {
+      "text": "my familiar sin with maids",
+      "renderHtml": false
+    },
+    {
+      "text": "my father with his bleeding rings",
+      "renderHtml": false
+    },
+    {
+      "text": "my house,\nmy household\nstuff, my field,\nmy barn,\nmy horse,\nmy ox,\nmy ass,\nmy any thing",
+      "renderHtml": false
+    },
+    {
+      "text": "my Jewish gaberdine",
+      "renderHtml": false
+    },
+    {
+      "text": "my knife in your mouldy chaps",
+      "renderHtml": false
+    },
+    {
+      "text": "my little body",
+      "renderHtml": false
+    },
+    {
+      "text": "my mellow hangings, nay, my leaves",
+      "renderHtml": false
+    },
+    {
+      "text": "my mother weeping, my father wailing, my sister crying, our maid howling, our cat wringing her hands",
+      "renderHtml": false
+    },
+    {
+      "text": "my pump well flowered",
+      "renderHtml": false
+    },
+    {
+      "text": "my uncle Clarence",
+      "renderHtml": false
+    },
+    {
+      "text": "My uncle-father and aunt-mother",
+      "renderHtml": false
+    },
+    {
+      "text": "my wedding sheets",
+      "renderHtml": false
+    },
+    {
+      "text": "my well-known body",
+      "renderHtml": false
+    },
+    {
+      "text": "my wife's liver",
+      "renderHtml": false
+    },
+    {
+      "text": "Nathaniel,\nJoseph,\nNicholas,\nPhilip,\nWalter,\nSugarsop\nand the rest",
+      "renderHtml": false
+    },
+    {
+      "text": "nine years a-killing",
+      "renderHtml": false
+    },
+    {
+      "text": "no bottom, none",
+      "renderHtml": false
+    },
+    {
+      "text": "no cock of mine",
+      "renderHtml": false
+    },
+    {
+      "text": "no more brain than a stone",
+      "renderHtml": false
+    },
+    {
+      "text": "no wars without doors",
+      "renderHtml": false
+    },
+    {
+      "text": "nose-painting, sleep, and urine",
+      "renderHtml": false
+    },
+    {
+      "text": "nothing but high shoes",
+      "renderHtml": false
+    },
+    {
+      "text": "nothing but males",
+      "renderHtml": false
+    },
+    {
+      "text": "nothing but the word 'noddy'",
+      "renderHtml": false
+    },
+    {
+      "text": "on her left breast, a mole",
+      "renderHtml": false
+    },
+    {
+      "text": "one grape",
+      "renderHtml": false
+    },
+    {
+      "text": "our carnal stings",
+      "renderHtml": false
+    },
+    {
+      "text": "our external parts",
+      "renderHtml": false
+    },
+    {
+      "text": "our o'erhasty marriage",
+      "renderHtml": false
+    },
+    {
+      "text": "our raging motions",
+      "renderHtml": false
+    },
+    {
+      "text": "our synagogue",
+      "renderHtml": false
+    },
+    {
+      "text": "our thighs packed with wax",
+      "renderHtml": false
+    },
+    {
+      "text": "paddling in your neck with his damned fingers",
+      "renderHtml": false
+    },
+    {
+      "text": "parsley to stuff a rabbit",
+      "renderHtml": false
+    },
+    {
+      "text": "penetrable stuff",
+      "renderHtml": false
+    },
+    {
+      "text": "pent-up guilts",
+      "renderHtml": false
+    },
+    {
+      "text": "pretty dimpled boys",
+      "renderHtml": false
+    },
+    {
+      "text": "private time",
+      "renderHtml": false
+    },
+    {
+      "text": "quaffing and drinking",
+      "renderHtml": false
+    },
+    {
+      "text": "rank and not-to-be-endured riots",
+      "renderHtml": false
+    },
+    {
+      "text": "ratsbane in my mouth",
+      "renderHtml": false
+    },
+    {
+      "text": "reputation,\nreputation,\nreputation",
+      "renderHtml": false
+    },
+    {
+      "text": "ridiculous smiling",
+      "renderHtml": false
+    },
+    {
+      "text": "rings and things",
+      "renderHtml": false
+    },
+    {
+      "text": "rustling in unpaid-for silk",
+      "renderHtml": false
+    },
+    {
+      "text": "saving your manhoods",
+      "renderHtml": false
+    },
+    {
+      "text": "scaring the ladies like a crow-keeper",
+      "renderHtml": false
+    },
+    {
+      "text": "seventy senators that died",
+      "renderHtml": false
+    },
+    {
+      "text": "sighs and groans and shrieks",
+      "renderHtml": false
+    },
+    {
+      "text": "Sir Smile",
+      "renderHtml": false
+    },
+    {
+      "text": "sisters!\nsisters!\nshame of ladies!\nsisters!",
+      "renderHtml": false
+    },
+    {
+      "text": "sitting in my Dolphin-chamber",
+      "renderHtml": false
+    },
+    {
+      "text": "sitting on a close-stool",
+      "renderHtml": false
+    },
+    {
+      "text": "so troublesome a bedfellow",
+      "renderHtml": false
+    },
+    {
+      "text": "some Dick",
+      "renderHtml": false
+    },
+    {
+      "text": "some enforced chastity",
+      "renderHtml": false
+    },
+    {
+      "text": "some forlorn and naked hermitage",
+      "renderHtml": false
+    },
+    {
+      "text": "some minx's token",
+      "renderHtml": false
+    },
+    {
+      "text": "some more mightier member",
+      "renderHtml": false
+    },
+    {
+      "text": "some natural notes about her body",
+      "renderHtml": false
+    },
+    {
+      "text": "some never-heard-of torture",
+      "renderHtml": false
+    },
+    {
+      "text": "some sack, Francis",
+      "renderHtml": false
+    },
+    {
+      "text": "some strange eruption",
+      "renderHtml": false
+    },
+    {
+      "text": "some strange pastime",
+      "renderHtml": false
+    },
+    {
+      "text": "some tardy cripple",
+      "renderHtml": false
+    },
+    {
+      "text": "some vicious mole",
+      "renderHtml": false
+    },
+    {
+      "text": "some wine, ho!",
+      "renderHtml": false
+    },
+    {
+      "text": "such bugs and goblins in my life",
+      "renderHtml": false
+    },
+    {
+      "text": "super-dainty Kate",
+      "renderHtml": false
+    },
+    {
+      "text": "talking with deceiving father of a deceitful son",
+      "renderHtml": false
+    },
+    {
+      "text": "ten thousand dollars",
+      "renderHtml": false
+    },
+    {
+      "text": "ten thousand men that fishes gnawed upon",
+      "renderHtml": false
+    },
+    {
+      "text": "tennis balls, my liege",
+      "renderHtml": false
+    },
+    {
+      "text": "that drug-damned Italy",
+      "renderHtml": false
+    },
+    {
+      "text": "that eyeless head of thine",
+      "renderHtml": false
+    },
+    {
+      "text": "that goose look",
+      "renderHtml": false
+    },
+    {
+      "text": "that great baby you see there",
+      "renderHtml": false
+    },
+    {
+      "text": "that Greekish whoremasterly villian with the sleeve",
+      "renderHtml": false
+    },
+    {
+      "text": "that oozy bed where my son lies",
+      "renderHtml": false
+    },
+    {
+      "text": "that poisonous bunchbacked toad",
+      "renderHtml": false
+    },
+    {
+      "text": "that same young Trojan ass that loves the whore there",
+      "renderHtml": false
+    },
+    {
+      "text": "the best-regarded virgins",
+      "renderHtml": false
+    },
+    {
+      "text": "the buttery-bar",
+      "renderHtml": false
+    },
+    {
+      "text": "the cement of our love",
+      "renderHtml": false
+    },
+    {
+      "text": "the change of man and boy",
+      "renderHtml": false
+    },
+    {
+      "text": "the circumcised dog",
+      "renderHtml": false
+    },
+    {
+      "text": "the cost of the erection",
+      "renderHtml": false
+    },
+    {
+      "text": "the cutting of my garments",
+      "renderHtml": false
+    },
+    {
+      "text": "the door of a brothel-house",
+      "renderHtml": false
+    },
+    {
+      "text": "the dribbling dart of love",
+      "renderHtml": false
+    },
+    {
+      "text": "the entertainment of death",
+      "renderHtml": false
+    },
+    {
+      "text": "the fellow with the great belly",
+      "renderHtml": false
+    },
+    {
+      "text": "the first cock",
+      "renderHtml": false
+    },
+    {
+      "text": "the flower that's like thy face",
+      "renderHtml": false
+    },
+    {
+      "text": "the foot of a flea",
+      "renderHtml": false
+    },
+    {
+      "text": "the four,\nor the three,\nor the two",
+      "renderHtml": false
+    },
+    {
+      "text": "the French lord, Monsieur Le Bon",
+      "renderHtml": false
+    },
+    {
+      "text": "the frozen bosom of the north",
+      "renderHtml": false
+    },
+    {
+      "text": "the green-eyed monster",
+      "renderHtml": false
+    },
+    {
+      "text": "the guts of a beggar",
+      "renderHtml": false
+    },
+    {
+      "text": "the heads of the maids",
+      "renderHtml": false
+    },
+    {
+      "text": "the heat of a luxurious bed",
+      "renderHtml": false
+    },
+    {
+      "text": "the holes where eyes should be",
+      "renderHtml": false
+    },
+    {
+      "text": "the hot duke",
+      "renderHtml": false
+    },
+    {
+      "text": "the imminent death of twenty thousand men",
+      "renderHtml": false
+    },
+    {
+      "text": "the inaudible and noiseless foot of Time",
+      "renderHtml": false
+    },
+    {
+      "text": "the incestuous pleasure of his bed",
+      "renderHtml": false
+    },
+    {
+      "text": "the infections that the sun sucks up",
+      "renderHtml": false
+    },
+    {
+      "text": "the innocent mansion of my love",
+      "renderHtml": false
+    },
+    {
+      "text": "the jerks of invention",
+      "renderHtml": false
+    },
+    {
+      "text": "the jewels of our father",
+      "renderHtml": false
+    },
+    {
+      "text": "the lascivious pleasing of a lute",
+      "renderHtml": false
+    },
+    {
+      "text": "the little hangman",
+      "renderHtml": false
+    },
+    {
+      "text": "the loose encounters of lascivious men",
+      "renderHtml": false
+    },
+    {
+      "text": "the maiden's organ,\nshrill and sound",
+      "renderHtml": false
+    },
+    {
+      "text": "the meaning, pretty ingenious?",
+      "renderHtml": false
+    },
+    {
+      "text": "the mere effusion of thy proper loins",
+      "renderHtml": false
+    },
+    {
+      "text": "the moist star",
+      "renderHtml": false
+    },
+    {
+      "text": "the most profound sciatica",
+      "renderHtml": false
+    },
+    {
+      "text": "the natural gates and alleys of the body",
+      "renderHtml": false
+    },
+    {
+      "text": "the negro's belly",
+      "renderHtml": false
+    },
+    {
+      "text": "the niggardly rascally sheep-biter",
+      "renderHtml": false
+    },
+    {
+      "text": "the nimble marmoset",
+      "renderHtml": false
+    },
+    {
+      "text": "the oily darling",
+      "renderHtml": false
+    },
+    {
+      "text": "the ousel cock so black of hue",
+      "renderHtml": false
+    },
+    {
+      "text": "the overscutched huswives",
+      "renderHtml": false
+    },
+    {
+      "text": "the owner of a foul disease",
+      "renderHtml": false
+    },
+    {
+      "text": "the pillow, there the bolster, this way the coverlet, another way the sheets",
+      "renderHtml": false
+    },
+    {
+      "text": "the pin-buttock,\n\nthe quatch-buttock,\n\nthe brawn buttock,\n\nor any buttock",
+      "renderHtml": false
+    },
+    {
+      "text": "the posterior of the day",
+      "renderHtml": false
+    },
+    {
+      "text": "the pregnant hinges of the knee",
+      "renderHtml": false
+    },
+    {
+      "text": "the prettier fellow of the two",
+      "renderHtml": false
+    },
+    {
+      "text": "the rack of this tough world",
+      "renderHtml": false
+    },
+    {
+      "text": "the sick tune",
+      "renderHtml": false
+    },
+    {
+      "text": "the silliest stuff that ever I heard",
+      "renderHtml": false
+    },
+    {
+      "text": "the son and heir of a mongrel bitch",
+      "renderHtml": false
+    },
+    {
+      "text": "the sooty bosom",
+      "renderHtml": false
+    },
+    {
+      "text": "the spongy south",
+      "renderHtml": false
+    },
+    {
+      "text": "the stinking elder",
+      "renderHtml": false
+    },
+    {
+      "text": "the strong and swelling evil of my conception",
+      "renderHtml": false
+    },
+    {
+      "text": "the studious universities",
+      "renderHtml": false
+    },
+    {
+      "text": "the sweetest morsel of the night",
+      "renderHtml": false
+    },
+    {
+      "text": "the thick rotundity o' the world!",
+      "renderHtml": false
+    },
+    {
+      "text": "the three weird sisters",
+      "renderHtml": false
+    },
+    {
+      "text": "the waggling of your head",
+      "renderHtml": false
+    },
+    {
+      "text": "the wall of a jakes",
+      "renderHtml": false
+    },
+    {
+      "text": "the wall's hole, not your lips at all",
+      "renderHtml": false
+    },
+    {
+      "text": "the wet sea-boy",
+      "renderHtml": false
+    },
+    {
+      "text": "the word 'three'",
+      "renderHtml": false
+    },
+    {
+      "text": "the wronger of her and you",
+      "renderHtml": false
+    },
+    {
+      "text": "their beetle",
+      "renderHtml": false
+    },
+    {
+      "text": "their numbed and mortified bare arms",
+      "renderHtml": false
+    },
+    {
+      "text": "their slimy jaws",
+      "renderHtml": false
+    },
+    {
+      "text": "their wormy beds",
+      "renderHtml": false
+    },
+    {
+      "text": "these fatal holes",
+      "renderHtml": false
+    },
+    {
+      "text": "these profound heaves",
+      "renderHtml": false
+    },
+    {
+      "text": "this bird you aimed at",
+      "renderHtml": false
+    },
+    {
+      "text": "this crack of your love",
+      "renderHtml": false
+    },
+    {
+      "text": "this flock of drunkards",
+      "renderHtml": false
+    },
+    {
+      "text": "This is the worst.",
+      "renderHtml": false
+    },
+    {
+      "text": "This is too long.",
+      "renderHtml": false
+    },
+    {
+      "text": "this ridiculous boldness",
+      "renderHtml": false
+    },
+    {
+      "text": "this sweet lass of France",
+      "renderHtml": false
+    },
+    {
+      "text": "this weak and writhled shrimp",
+      "renderHtml": false
+    },
+    {
+      "text": "this young quat",
+      "renderHtml": false
+    },
+    {
+      "text": "those pampered animals that rage in savage sensuality",
+      "renderHtml": false
+    },
+    {
+      "text": "thy father's moral parts",
+      "renderHtml": false
+    },
+    {
+      "text": "thy foot-licker",
+      "renderHtml": false
+    },
+    {
+      "text": "toes unplagued with corns",
+      "renderHtml": false
+    },
+    {
+      "text": "topping your white ewe",
+      "renderHtml": false
+    },
+    {
+      "text": "toys of desperation",
+      "renderHtml": false
+    },
+    {
+      "text": "turbulent and dangerous lunacy",
+      "renderHtml": false
+    },
+    {
+      "text": "twenty, watchful, weary, tedious, nights",
+      "renderHtml": false
+    },
+    {
+      "text": "two blushing pilgrims",
+      "renderHtml": false
+    },
+    {
+      "text": "two thieves kissing",
+      "renderHtml": false
+    },
+    {
+      "text": "unknown loins",
+      "renderHtml": false
+    },
+    {
+      "text": "vile jelly",
+      "renderHtml": false
+    },
+    {
+      "text": "virginity being blown down",
+      "renderHtml": false
+    },
+    {
+      "text": "wars with the women",
+      "renderHtml": false
+    },
+    {
+      "text": "waxen thighs",
+      "renderHtml": false
+    },
+    {
+      "text": "Welcome, ass.",
+      "renderHtml": false
+    },
+    {
+      "text": "what have we here?\n\na man or a fish?",
+      "renderHtml": false
+    },
+    {
+      "text": "what o' clock I say it is",
+      "renderHtml": false
+    },
+    {
+      "text": "what these dastard Frenchman dare",
+      "renderHtml": false
+    },
+    {
+      "text": "what woman is, yea",
+      "renderHtml": false
+    },
+    {
+      "text": "What, Jessica!",
+      "renderHtml": false
+    },
+    {
+      "text": "what's this?\nmutton?",
+      "renderHtml": false
+    },
+    {
+      "text": "when I wash my brain",
+      "renderHtml": false
+    },
+    {
+      "text": "where air comes out",
+      "renderHtml": false
+    },
+    {
+      "text": "where the bee sucks",
+      "renderHtml": false
+    },
+    {
+      "text": "whoremaster man",
+      "renderHtml": false
+    },
+    {
+      "text": "woman in a seeming man",
+      "renderHtml": false
+    },
+    {
+      "text": "yellow chapless skulls",
+      "renderHtml": false
+    },
+    {
+      "text": "you, that did void your rheum upon my beard",
+      "renderHtml": false
+    },
+    {
+      "text": "your beauty, ladies",
+      "renderHtml": false
+    },
+    {
+      "text": "your bum",
+      "renderHtml": false
+    },
+    {
+      "text": "your hands again upon my sword",
+      "renderHtml": false
+    },
+    {
+      "text": "your love's hot fire",
+      "renderHtml": false
+    },
+    {
+      "text": "your purpled hands",
+      "renderHtml": false
+    },
+    {
+      "text": "your tongue's sweet melody",
+      "renderHtml": false
+    },
+    {
+      "text": "your wives, your daughters, your matrons and your maids",
+      "renderHtml": false
+    },
+    {
+      "text": "youth blasted with ecstasy",
+      "renderHtml": false
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "order": 50,
+  "displayName": "PAX Prime 2015 Food Pack A (Mango)",
+  "name": "PAX_Prime_2015_Food_Pack_A_(Mango)",
+  "whiteCards": [
+    {
+      "text": "I'm Bobby Flay, and if you can't stand _, get out of the kitchen!",
+      "pick": 1
+    },
+    {
+      "text": "It's not delivery.\nIt's _.",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "A soccer ball to the crotch.",
+      "renderHtml": false
+    },
+    {
+      "text": "Golden Girls re-runs.",
+      "renderHtml": false
+    },
+    {
+      "text": "Kale.",
+      "renderHtml": false
+    },
+    {
+      "text": "Licking the flavor off of Doritos so you can reuse them as tortilla chips for your salsa.",
+      "renderHtml": false
+    },
+    {
+      "text": "Real News.",
+      "renderHtml": false
+    },
+    {
+      "text": "Switching bodies with mom for a day.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Diary of Anne Spank: An XXX Parody.",
+      "renderHtml": false
+    },
+    {
+      "text": "What we think is meatloaf",
+      "renderHtml": false
+    }
+  ]
+}

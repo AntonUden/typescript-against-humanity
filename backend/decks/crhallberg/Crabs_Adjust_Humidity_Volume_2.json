@@ -1,0 +1,513 @@
+{
+  "order": 121,
+  "displayName": "Crabs Adjust Humidity: Volume 2",
+  "name": "Crabs_Adjust_Humidity_Volume_2",
+  "whiteCards": [
+    {
+      "text": "_: it's magically delicious.",
+      "pick": 1
+    },
+    {
+      "text": "_?\n\nThat's what she said.",
+      "pick": 1
+    },
+    {
+      "text": "\"You have my sword.\"\n\n\"And you have my bow.\"\n\n\"And my _!\"",
+      "pick": 1
+    },
+    {
+      "text": "A new Russian dash-cam video shows _, right there in the middle of the street!",
+      "pick": 1
+    },
+    {
+      "text": "An ounce of _ is worth a pound of _.",
+      "pick": 2
+    },
+    {
+      "text": "Apple® has announced a new device that promises to revolutionize the way we think about _.",
+      "pick": 1
+    },
+    {
+      "text": "Audiences at Sundance were traumatized by Lars von Trier's controversial new film, \"_.\"",
+      "pick": 1
+    },
+    {
+      "text": "Bentley's® latest ultra-high-end luxury sedan comes complete with _, _ and _.",
+      "pick": 3
+    },
+    {
+      "text": "Dear Dan Savage, Please help.  I am unable to achieve orgasm without _.",
+      "pick": 1
+    },
+    {
+      "text": "Dear, your father and I found _ and _ in your bedroom.\n\nI'm shocked, and frankly just a little disappointed.",
+      "pick": 2
+    },
+    {
+      "text": "Experts say that without careful management and conservation, _ will disappear within our lifetimes.",
+      "pick": 1
+    },
+    {
+      "text": "From the people who brought you Sharktopus and Sharknado, Syfy's® next horror film combines sharks with _.",
+      "pick": 1
+    },
+    {
+      "text": "Having abandoned his pleas for a return to the gold standard, Ron Paul is now promoting a _-based economy.",
+      "pick": 1
+    },
+    {
+      "text": "Hey man, you gonna come check out my show tonight?  My new band is called \"_.\"",
+      "pick": 1
+    },
+    {
+      "text": "I don't care what people say, _ is not a crime.",
+      "pick": 1
+    },
+    {
+      "text": "I got some strange looks in the checkout line when the cashier noticed _, _ and _ in my cart.",
+      "pick": 3
+    },
+    {
+      "text": "I have to admit... it took me a while to agree to it, but incorporating _ into our wedding ceremony is a decision I will never regret.",
+      "pick": 1
+    },
+    {
+      "text": "I quit my job as a bartender the night some jackass left me _ as a tip.",
+      "pick": 1
+    },
+    {
+      "text": "I think I need to take Fluffums to puppy training: he has this terrible habit of _.",
+      "pick": 1
+    },
+    {
+      "text": "I wish it were something simple--like peanuts or shellfish--but my doctor tells me I'm actually allergic to _.",
+      "pick": 1
+    },
+    {
+      "text": "If people wouldn't be so quick to judge, I would give _ to the person on my left in a heartbeat.",
+      "pick": 1
+    },
+    {
+      "text": "Michelle Obama outraged conservatives when she implied that _ maybe wasn't such a bad thing.",
+      "pick": 1
+    },
+    {
+      "text": "My tour of the White House radically escalated when Secret Service caught a glimpse of _ in my bag.",
+      "pick": 1
+    },
+    {
+      "text": "Netflix's® new original series is a sitcom based around _ and _.",
+      "pick": 2
+    },
+    {
+      "text": "Now that he has retired, Pope Benedict can finally devote time to his true passion: _.",
+      "pick": 1
+    },
+    {
+      "text": "Oh, so you think you're too good for us now, little \"Miss _!\"",
+      "pick": 1
+    },
+    {
+      "text": "The NSA wants to talk to me about an email I sent containing these key phrases:",
+      "pick": 1
+    },
+    {
+      "text": "WANTED: a clean, well-lit place for _.",
+      "pick": 1
+    },
+    {
+      "text": "What I gotta give my Boo to get outta the doghouse?",
+      "pick": 1
+    },
+    {
+      "text": "When I've seriously fucked up and need to make amends, what can I give my significant other to show them I am truly remorseful?",
+      "pick": 1
+    },
+    {
+      "text": "When you play the Game Of _, you win or you die.",
+      "pick": 1
+    },
+    {
+      "text": "Why won't anyone sit with me?",
+      "pick": 1
+    },
+    {
+      "text": "Yea, though I walk through the valley of _, I will fear no _.",
+      "pick": 2
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "A 5 lb. bag of gummy bears.",
+      "renderHtml": false
+    },
+    {
+      "text": "A bachelor's degree in communication.",
+      "renderHtml": false
+    },
+    {
+      "text": "A bit o' the ol' slap and tickle.",
+      "renderHtml": false
+    },
+    {
+      "text": "A bitchin' Camaro.",
+      "renderHtml": false
+    },
+    {
+      "text": "A blanket with a hole in it.",
+      "renderHtml": false
+    },
+    {
+      "text": "A breakfast sausage with serious emotional problems.",
+      "renderHtml": false
+    },
+    {
+      "text": "A chair that likes to rape people.",
+      "renderHtml": false
+    },
+    {
+      "text": "A cunning stunt.",
+      "renderHtml": false
+    },
+    {
+      "text": "A good schtupping.",
+      "renderHtml": false
+    },
+    {
+      "text": "A gratuitous claymation sequence.",
+      "renderHtml": false
+    },
+    {
+      "text": "A hairshirt.",
+      "renderHtml": false
+    },
+    {
+      "text": "A husband bulge.",
+      "renderHtml": false
+    },
+    {
+      "text": "A jury of your peers.",
+      "renderHtml": false
+    },
+    {
+      "text": "A sense of resignation.",
+      "renderHtml": false
+    },
+    {
+      "text": "A slack-jawed yokel.",
+      "renderHtml": false
+    },
+    {
+      "text": "A stinky pinky.",
+      "renderHtml": false
+    },
+    {
+      "text": "A tender rodgering.",
+      "renderHtml": false
+    },
+    {
+      "text": "A warm, gently fragrant biscuit.",
+      "renderHtml": false
+    },
+    {
+      "text": "A were-salmon.",
+      "renderHtml": false
+    },
+    {
+      "text": "A younger, vastly more attractive spouse.",
+      "renderHtml": false
+    },
+    {
+      "text": "Agent Orange.",
+      "renderHtml": false
+    },
+    {
+      "text": "An angry little man.",
+      "renderHtml": false
+    },
+    {
+      "text": "An effeminate southern homophobe.",
+      "renderHtml": false
+    },
+    {
+      "text": "Applying to a new guild.",
+      "renderHtml": false
+    },
+    {
+      "text": "Barfing into a tiny, bejeweled handbag.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being able to name all of the different kinds of olives.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being able to name all the different kinds of olives.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being circumcised with a deli slicer.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being small but perfectly well formed.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bitch tits.",
+      "renderHtml": false
+    },
+    {
+      "text": "Biting my toenails.",
+      "renderHtml": false
+    },
+    {
+      "text": "Blistering barnacles!",
+      "renderHtml": false
+    },
+    {
+      "text": "Bourbon pong.",
+      "renderHtml": false
+    },
+    {
+      "text": "Choking.",
+      "renderHtml": false
+    },
+    {
+      "text": "Cockissimo Fantastico, the legendary lover with the wondrous wang.",
+      "renderHtml": false
+    },
+    {
+      "text": "Cockulous Maximus, tremendous tallywacker of Tripoli.",
+      "renderHtml": false
+    },
+    {
+      "text": "Firm buttocks.",
+      "renderHtml": false
+    },
+    {
+      "text": "Gazpacho tactics.",
+      "renderHtml": false
+    },
+    {
+      "text": "Giving your pet lamb a Brazilian.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hakuna matata, motherfucker.",
+      "renderHtml": false
+    },
+    {
+      "text": "Her dry, scaly hands.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hiroshima.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hooking up at a Tegan & Sarah concert.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hooking up at a Tegan and Sara concert.",
+      "renderHtml": false
+    },
+    {
+      "text": "Japanese rope technique.",
+      "renderHtml": false
+    },
+    {
+      "text": "Kentucky Fried Children.",
+      "renderHtml": false
+    },
+    {
+      "text": "Killing hobos.",
+      "renderHtml": false
+    },
+    {
+      "text": "Making vigorous love to a Taco Bell® Beefy 5-Layer Burrito™.",
+      "renderHtml": false
+    },
+    {
+      "text": "Mesothelioma.",
+      "renderHtml": false
+    },
+    {
+      "text": "Mining accidents.",
+      "renderHtml": false
+    },
+    {
+      "text": "Mongolian \"beef.\"",
+      "renderHtml": false
+    },
+    {
+      "text": "More dots!",
+      "renderHtml": false
+    },
+    {
+      "text": "My evil twin.",
+      "renderHtml": false
+    },
+    {
+      "text": "Not being too smelly, you know, in the cellar.  Down Below.",
+      "renderHtml": false
+    },
+    {
+      "text": "One Direction.",
+      "renderHtml": false
+    },
+    {
+      "text": "One whose nether regions are vast and beckoning, like unto a corridor down which a frankfurter might be thrown.",
+      "renderHtml": false
+    },
+    {
+      "text": "Opening for Sigur Ros.",
+      "renderHtml": false
+    },
+    {
+      "text": "Painal.",
+      "renderHtml": false
+    },
+    {
+      "text": "Paula Deen's dietitian.",
+      "renderHtml": false
+    },
+    {
+      "text": "Poop soup.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pooping in public.",
+      "renderHtml": false
+    },
+    {
+      "text": "Reptilians.",
+      "renderHtml": false
+    },
+    {
+      "text": "Rich Corinthian leather.",
+      "renderHtml": false
+    },
+    {
+      "text": "Rock bottom.",
+      "renderHtml": false
+    },
+    {
+      "text": "Running around like a guy with his chicken cut off.",
+      "renderHtml": false
+    },
+    {
+      "text": "Self-medicating.",
+      "renderHtml": false
+    },
+    {
+      "text": "Self-replicating fudge.",
+      "renderHtml": false
+    },
+    {
+      "text": "Slowly waving an oversized Jamaican flag.",
+      "renderHtml": false
+    },
+    {
+      "text": "Some minor bruising.",
+      "renderHtml": false
+    },
+    {
+      "text": "Something Elon Musk thought up while floating six inches above the floor in a meditative trance.",
+      "renderHtml": false
+    },
+    {
+      "text": "Spiking the juice at AA.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sploosh!",
+      "renderHtml": false
+    },
+    {
+      "text": "Swallowing a cue ball.",
+      "renderHtml": false
+    },
+    {
+      "text": "Tacos.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ted Nugent's cold, dead hands.",
+      "renderHtml": false
+    },
+    {
+      "text": "That thing with the spoon.",
+      "renderHtml": false
+    },
+    {
+      "text": "The cliterati.",
+      "renderHtml": false
+    },
+    {
+      "text": "The creative use of a pool noodle.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Friend Zone",
+      "renderHtml": false
+    },
+    {
+      "text": "The reek of shame.",
+      "renderHtml": false
+    },
+    {
+      "text": "The smooth, unblemished skin of a child.",
+      "renderHtml": false
+    },
+    {
+      "text": "The soft love-honks of a lusty goose.",
+      "renderHtml": false
+    },
+    {
+      "text": "The whole goddamned thing.",
+      "renderHtml": false
+    },
+    {
+      "text": "The WNBA.",
+      "renderHtml": false
+    },
+    {
+      "text": "Those creamy atheist thighs.",
+      "renderHtml": false
+    },
+    {
+      "text": "Titty sprinkles.",
+      "renderHtml": false
+    },
+    {
+      "text": "Treason.",
+      "renderHtml": false
+    },
+    {
+      "text": "Tufted ears.",
+      "renderHtml": false
+    },
+    {
+      "text": "Uncontrollably retching at the mere mention of mayonnaise.",
+      "renderHtml": false
+    },
+    {
+      "text": "Using a zip-tie as an impromptu cock-ring.",
+      "renderHtml": false
+    },
+    {
+      "text": "Using tears as lubricant.",
+      "renderHtml": false
+    },
+    {
+      "text": "Wearing a blue fox fursuit on Casual Friday.",
+      "renderHtml": false
+    },
+    {
+      "text": "Wearing your IUD into an MRI.",
+      "renderHtml": false
+    }
+  ]
+}

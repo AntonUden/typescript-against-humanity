@@ -1,0 +1,153 @@
+{
+  "order": 167,
+  "displayName": "Knitters Against Swatches First Edition",
+  "name": "Knitters_Against_Swatches_First_Edition",
+  "whiteCards": [
+    {
+      "text": "_, it's what happens at SNB.",
+      "pick": 1
+    },
+    {
+      "text": "Next up in my Ravelry queue _.",
+      "pick": 1
+    },
+    {
+      "text": "Step 1: _\nStep 2: _\nStep 3: A cozy new sweater!",
+      "pick": 2
+    },
+    {
+      "text": "Stitch marker? Who needs a stitch marker when you have _?",
+      "pick": 1
+    },
+    {
+      "text": "What's keeping me from knitting?",
+      "pick": 1
+    },
+    {
+      "text": "You can find a pattern for almost anything on Ravelry. For instance, _.",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "50 skeins of acrylic yarn.",
+      "renderHtml": false
+    },
+    {
+      "text": "A 70 y/o woman wearing a neon Stephen West shawl.",
+      "renderHtml": false
+    },
+    {
+      "text": "A bigger, blacker knitting bag.",
+      "renderHtml": false
+    },
+    {
+      "text": "A cat sweater knit from handspun cat hair.",
+      "renderHtml": false
+    },
+    {
+      "text": "A drunken night of knitting.",
+      "renderHtml": false
+    },
+    {
+      "text": "A faux taxidermied unicorn head.",
+      "renderHtml": false
+    },
+    {
+      "text": "A giant cocoon made entirely out of Malabrigo.",
+      "renderHtml": false
+    },
+    {
+      "text": "A KAL that only two people finish.",
+      "renderHtml": false
+    },
+    {
+      "text": "A knitted merkin.",
+      "renderHtml": false
+    },
+    {
+      "text": "Blacking out and losing 4 hours on Ravelry.",
+      "renderHtml": false
+    },
+    {
+      "text": "Blushing anytime I say fingering.",
+      "renderHtml": false
+    },
+    {
+      "text": "Casting 600 stitches onto the wrong size needle.",
+      "renderHtml": false
+    },
+    {
+      "text": "Finding glitter in my vagina.",
+      "renderHtml": false
+    },
+    {
+      "text": "Going into the LYS for one set of needles and coming out with $200 worth of yarn.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hiding yarn purchases from my significant other.",
+      "renderHtml": false
+    },
+    {
+      "text": "Knitting myself a new hymen.",
+      "renderHtml": false
+    },
+    {
+      "text": "Knitting naughty items in public.",
+      "renderHtml": false
+    },
+    {
+      "text": "Knowing that s1, k2tog, psso is the same as sk2p.",
+      "renderHtml": false
+    },
+    {
+      "text": "Men who knit.",
+      "renderHtml": false
+    },
+    {
+      "text": "My stash.",
+      "renderHtml": false
+    },
+    {
+      "text": "People who can't tel the difference between knitting and crochet.",
+      "renderHtml": false
+    },
+    {
+      "text": "Recklessly abandoning the guage swatch.",
+      "renderHtml": false
+    },
+    {
+      "text": "Seven single socks waiting for their mates to be knit.",
+      "renderHtml": false
+    },
+    {
+      "text": "Solving all of your problems with cashmere and a bottle of wine.",
+      "renderHtml": false
+    },
+    {
+      "text": "Swants.",
+      "renderHtml": false
+    },
+    {
+      "text": "The calm in knowing my knitting needles can double as weapons.",
+      "renderHtml": false
+    },
+    {
+      "text": "The curse of the boyfriend sweater.",
+      "renderHtml": false
+    },
+    {
+      "text": "The number of unworn shawls in my house.",
+      "renderHtml": false
+    },
+    {
+      "text": "The surprise color in a skein of Noro.",
+      "renderHtml": false
+    },
+    {
+      "text": "Using fabric scissors to cut paper.",
+      "renderHtml": false
+    }
+  ]
+}

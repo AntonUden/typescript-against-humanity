@@ -1,0 +1,65 @@
+{
+  "order": 17,
+  "displayName": "Mass Effect Pack",
+  "name": "xyzzy_mass_effect_pack",
+  "whiteCards": [
+    {
+      "text": "Coming this spring from BioWare, <i>Mass Effect: ____.</i>",
+      "pick": 1
+    },
+    {
+      "text": "I'm Commander Shepard, and this is my favorite place for ____ on the Citadel.",
+      "pick": 1
+    },
+    {
+      "text": "It turns out The Reapers didn't want to destroy the galaxy. They just wanted ____.",
+      "pick": 1
+    },
+    {
+      "text": "We were the best hand-to-hand combatants on the ship. I had reach, but she had ____.",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "Falling in actual love with a video game character.",
+      "renderHtml": false
+    },
+    {
+      "text": "My complicated backstory that you will soon learn about.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Genophage.",
+      "renderHtml": false
+    },
+    {
+      "text": "Totally fuckable aliens.",
+      "renderHtml": false
+    },
+    {
+      "text": "Running a few errands before saving the galaxy.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bone-shattering sex with a metal woman.",
+      "renderHtml": false
+    },
+    {
+      "text": "Space racism.",
+      "renderHtml": false
+    },
+    {
+      "text": "An emergency induction port.",
+      "renderHtml": false
+    },
+    {
+      "text": "An armored Krogan war-clitoris.",
+      "renderHtml": false
+    },
+    {
+      "text": "An extremely long elevator ride.",
+      "renderHtml": false
+    }
+  ]
+}

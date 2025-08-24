@@ -1,0 +1,49 @@
+{
+  "order": 21,
+  "displayName": "PAX East 2013 Pack A",
+  "name": "xyzzy_pax_east_2013_pack_a",
+  "whiteCards": [
+    {
+      "text": "You have been waylaid by ____ and must defend yourself.",
+      "pick": 1
+    },
+    {
+      "text": "I have an idea even better than Kickstarter, and it's called ____starter.",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "An immediately regrettable $9 hot dog from the Boston Convention Center.",
+      "renderHtml": false
+    },
+    {
+      "text": "Paying the iron price.",
+      "renderHtml": false
+    },
+    {
+      "text": "Casting Magic Missile at a bully.",
+      "renderHtml": false
+    },
+    {
+      "text": "Rotating shapes in mid-air so that they fit into other shapes when they fall.",
+      "renderHtml": false
+    },
+    {
+      "text": "Firefly: Season 2.",
+      "renderHtml": false
+    },
+    {
+      "text": "Jiggle physics.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting bitch slapped by Dhalsim.",
+      "renderHtml": false
+    },
+    {
+      "text": "Running out of stamina.",
+      "renderHtml": false
+    }
+  ]
+}

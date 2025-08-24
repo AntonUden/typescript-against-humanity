@@ -1,0 +1,129 @@
+{
+  "order": 29,
+  "displayName": "Period Pack",
+  "name": "xyzzy_period_pack",
+  "whiteCards": [
+    {
+      "text": "My vagina's angry. My vagina's furious and it needs to talk. It needs to talk about ____.",
+      "pick": 1
+    },
+    {
+      "text": "Can a woman really have it all? A career <i>and ____?</i>",
+      "pick": 1
+    },
+    {
+      "text": "Tampax&reg;: Don't let your period ruin ____.",
+      "pick": 1
+    },
+    {
+      "text": "New from Mattel, it's ____ Barbie!",
+      "pick": 1
+    },
+    {
+      "text": "What gets me wet?",
+      "pick": 1
+    },
+    {
+      "text": "My body, my voice! ____, my choice!",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "Period globs.",
+      "renderHtml": false
+    },
+    {
+      "text": "Always&reg; Infinity Extra Heavy Overnight Pads with Wings.",
+      "renderHtml": false
+    },
+    {
+      "text": "Wringing out a sopping wet maxi pad in Donald Trump's mouth.",
+      "renderHtml": false
+    },
+    {
+      "text": "Playing with my pussy while I watch TV.",
+      "renderHtml": false
+    },
+    {
+      "text": "An emotionally draining friendship.",
+      "renderHtml": false
+    },
+    {
+      "text": "Post-partum depression.",
+      "renderHtml": false
+    },
+    {
+      "text": "Full bush.",
+      "renderHtml": false
+    },
+    {
+      "text": "Drinking Beyonce's DivaCup and becoming immortal.",
+      "renderHtml": false
+    },
+    {
+      "text": "Feeling lots of feelings.",
+      "renderHtml": false
+    },
+    {
+      "text": "Carrying a fetus to term.",
+      "renderHtml": false
+    },
+    {
+      "text": "Eating three sleeves of Chips Ahoy!",
+      "renderHtml": false
+    },
+    {
+      "text": "Destroying a pair of underwear.",
+      "renderHtml": false
+    },
+    {
+      "text": "Masturbating with a Sonicare.",
+      "renderHtml": false
+    },
+    {
+      "text": "How bloody that dick's about to be.",
+      "renderHtml": false
+    },
+    {
+      "text": "The vagina hole.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dancing carefree in white linen pants.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pussy lips of all shapes and sizes.",
+      "renderHtml": false
+    },
+    {
+      "text": "Using a Smucker's Uncrustable&trade; as a maxi pad.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pulling out a never-ending tampon.",
+      "renderHtml": false
+    },
+    {
+      "text": "Catching a whiff of my vag.",
+      "renderHtml": false
+    },
+    {
+      "text": "A diverse group of female friends casually discussing the side effects of birth control.",
+      "renderHtml": false
+    },
+    {
+      "text": "A woman president.",
+      "renderHtml": false
+    },
+    {
+      "text": "Driving my daughter to her abortion.",
+      "renderHtml": false
+    },
+    {
+      "text": "Feeling bloaty and crampy.",
+      "renderHtml": false
+    }
+  ]
+}

@@ -1,0 +1,2161 @@
+{
+  "order": 116,
+  "displayName": "Conspiracy Theory",
+  "name": "Conspiracy_Theory",
+  "whiteCards": [
+    {
+      "text": "_ are out to get me.",
+      "pick": 1
+    },
+    {
+      "text": "_ bought 100 million rounds of ammunition last year because of _.",
+      "pick": 2
+    },
+    {
+      "text": "_ is covering up the zombification of the population of Kansas.",
+      "pick": 1
+    },
+    {
+      "text": "_ is getting rich smuggling _.",
+      "pick": 2
+    },
+    {
+      "text": "_ is merely a puppet of _.",
+      "pick": 2
+    },
+    {
+      "text": "_ is reporting to Putin right now.",
+      "pick": 1
+    },
+    {
+      "text": "_ is subverting the natural order with _.",
+      "pick": 2
+    },
+    {
+      "text": "_ is the tool of _ to reduce world population.",
+      "pick": 2
+    },
+    {
+      "text": "_ puts tranquilizers in the canned beer, because of _.",
+      "pick": 2
+    },
+    {
+      "text": "_ tried to suppress this game!",
+      "pick": 1
+    },
+    {
+      "text": "_ will make you sterile.",
+      "pick": 1
+    },
+    {
+      "text": "87 % of _ believe in _.",
+      "pick": 2
+    },
+    {
+      "text": "98% of all _ fail safety testing.",
+      "pick": 1
+    },
+    {
+      "text": "Airport scanners are really looking for _.",
+      "pick": 1
+    },
+    {
+      "text": "California universities now offer a degree in _.",
+      "pick": 1
+    },
+    {
+      "text": "Computer dating services have brought together _ and _.",
+      "pick": 2
+    },
+    {
+      "text": "Eat the rich, but spare _.",
+      "pick": 1
+    },
+    {
+      "text": "Flashing web pages force you to love _.",
+      "pick": 1
+    },
+    {
+      "text": "Fluoridation was the first step. Next in our water: _.",
+      "pick": 1
+    },
+    {
+      "text": "Fossil evidence shows that _ existed before humanity.",
+      "pick": 1
+    },
+    {
+      "text": "Half of all _ are below average.",
+      "pick": 1
+    },
+    {
+      "text": "Home schooling is a plot by _ for _.",
+      "pick": 2
+    },
+    {
+      "text": "How do you explain crop circles?",
+      "pick": 1
+    },
+    {
+      "text": "I am being followed by _.",
+      "pick": 1
+    },
+    {
+      "text": "I no longer believe in _.",
+      "pick": 1
+    },
+    {
+      "text": "If we could eat _, we could end world hunger.",
+      "pick": 1
+    },
+    {
+      "text": "In my nightmares I'm being chased by _.",
+      "pick": 1
+    },
+    {
+      "text": "Join _ and help wipe out _!",
+      "pick": 2
+    },
+    {
+      "text": "Keep _ away from my _!",
+      "pick": 2
+    },
+    {
+      "text": "Money from state lotteries goes to _ to buy _.",
+      "pick": 2
+    },
+    {
+      "text": "My relatives won't shut up about _ at Thanksgiving.",
+      "pick": 1
+    },
+    {
+      "text": "My tinfoil hat blocks out _.",
+      "pick": 1
+    },
+    {
+      "text": "Nanotech! All it does is make _ smaller.",
+      "pick": 1
+    },
+    {
+      "text": "Next up: a wall to keep out _.",
+      "pick": 1
+    },
+    {
+      "text": "Nine out of ten dentists agree that _ causes cavities.",
+      "pick": 1
+    },
+    {
+      "text": "No one expects the _!",
+      "pick": 1
+    },
+    {
+      "text": "Once you put your head under a hairdresser's helmet, your brain belongs to _.",
+      "pick": 1
+    },
+    {
+      "text": "One good thing about climate change -- it'll wipe out _.",
+      "pick": 1
+    },
+    {
+      "text": "Really! Vaccines are responsible for _!",
+      "pick": 1
+    },
+    {
+      "text": "Thanks to _, everything tastes like _.",
+      "pick": 2
+    },
+    {
+      "text": "Thanks to _, we are all hip deep in sheep dip.",
+      "pick": 1
+    },
+    {
+      "text": "The drones that deliver groceries today wil carry _ tomorrow.",
+      "pick": 1
+    },
+    {
+      "text": "The final protector of law and order wil be _.",
+      "pick": 1
+    },
+    {
+      "text": "The firefighters have secret orders to let _ burn.",
+      "pick": 1
+    },
+    {
+      "text": "The greatest force for destruction of the 21st century is _.",
+      "pick": 1
+    },
+    {
+      "text": "The Mayan calendar predicts _, starting about 20 minutes ago.",
+      "pick": 1
+    },
+    {
+      "text": "The New World Order is really just _ on steroids.",
+      "pick": 1
+    },
+    {
+      "text": "The next big scandal will be _ gate.",
+      "pick": 1
+    },
+    {
+      "text": "The next travel ban will be aimed at _.",
+      "pick": 1
+    },
+    {
+      "text": "The secret agenda of the _ is _.",
+      "pick": 2
+    },
+    {
+      "text": "There's no gold in Fort Knox! It's full of _.",
+      "pick": 1
+    },
+    {
+      "text": "They're calling up the National Guard to deal with _.",
+      "pick": 1
+    },
+    {
+      "text": "They've discovered an exoplanet capable of supporting _.",
+      "pick": 1
+    },
+    {
+      "text": "We can look forward, someday, to a kinder and gentler _.",
+      "pick": 1
+    },
+    {
+      "text": "We'd all be safer if _ would take their _ and go home.",
+      "pick": 2
+    },
+    {
+      "text": "What do the Illuminati use to influence your mind? _",
+      "pick": 1
+    },
+    {
+      "text": "What does the CIA want you NOT to think about? _",
+      "pick": 1
+    },
+    {
+      "text": "What is Donald Trump's endgame?",
+      "pick": 1
+    },
+    {
+      "text": "What is the best thing in life?",
+      "pick": 1
+    },
+    {
+      "text": "What stopped the NSA from building those prison camps in Oklahoma? _",
+      "pick": 1
+    },
+    {
+      "text": "What will defeat _? Only _.",
+      "pick": 2
+    },
+    {
+      "text": "What's in Area 51 besides airplanes?",
+      "pick": 1
+    },
+    {
+      "text": "What's in the Bermuda Triangle? _",
+      "pick": 1
+    },
+    {
+      "text": "What's on the black helicopters? _",
+      "pick": 1
+    },
+    {
+      "text": "What's the latest cargo on the secret military space shuttle?",
+      "pick": 1
+    },
+    {
+      "text": "What's under the bed RIGHT NOW? _",
+      "pick": 1
+    },
+    {
+      "text": "Who killed the Kennedys and why?",
+      "pick": 1
+    },
+    {
+      "text": "Who knows the secrets that Man was not meant to know? _ knows.",
+      "pick": 1
+    },
+    {
+      "text": "Whose subliminal messages are in the ads on TV?_",
+      "pick": 1
+    },
+    {
+      "text": "Within our borders are three million illegal agents of _!",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "#occupy or #octopi, whichever",
+      "renderHtml": false
+    },
+    {
+      "text": "Abraham Lincoln's ghost",
+      "renderHtml": false
+    },
+    {
+      "text": "Acid rain",
+      "renderHtml": false
+    },
+    {
+      "text": "Adult cartoons",
+      "renderHtml": false
+    },
+    {
+      "text": "Al Gore",
+      "renderHtml": false
+    },
+    {
+      "text": "Albino alligators",
+      "renderHtml": false
+    },
+    {
+      "text": "Alcoholic beverages",
+      "renderHtml": false
+    },
+    {
+      "text": "Alien abductions",
+      "renderHtml": false
+    },
+    {
+      "text": "Alien technology",
+      "renderHtml": false
+    },
+    {
+      "text": "All human life",
+      "renderHtml": false
+    },
+    {
+      "text": "Alternative facts",
+      "renderHtml": false
+    },
+    {
+      "text": "Amazon®",
+      "renderHtml": false
+    },
+    {
+      "text": "Amendments and Commandments, whichever",
+      "renderHtml": false
+    },
+    {
+      "text": "American flags",
+      "renderHtml": false
+    },
+    {
+      "text": "Ancient artifacts",
+      "renderHtml": false
+    },
+    {
+      "text": "Animal testing labs",
+      "renderHtml": false
+    },
+    {
+      "text": "Anonymous",
+      "renderHtml": false
+    },
+    {
+      "text": "Anthrax or ant tracks, whichever",
+      "renderHtml": false
+    },
+    {
+      "text": "Anti-whale sonar",
+      "renderHtml": false
+    },
+    {
+      "text": "Antiwar activists",
+      "renderHtml": false
+    },
+    {
+      "text": "Apple®",
+      "renderHtml": false
+    },
+    {
+      "text": "Area 51",
+      "renderHtml": false
+    },
+    {
+      "text": "Arms dealers",
+      "renderHtml": false
+    },
+    {
+      "text": "Artifical sweeteners",
+      "renderHtml": false
+    },
+    {
+      "text": "Artificial intelligences",
+      "renderHtml": false
+    },
+    {
+      "text": "Augmented reality",
+      "renderHtml": false
+    },
+    {
+      "text": "Australia",
+      "renderHtml": false
+    },
+    {
+      "text": "Backwards recordings",
+      "renderHtml": false
+    },
+    {
+      "text": "Bad public art",
+      "renderHtml": false
+    },
+    {
+      "text": "Bar codes",
+      "renderHtml": false
+    },
+    {
+      "text": "Barack Obama",
+      "renderHtml": false
+    },
+    {
+      "text": "Benefit concerts",
+      "renderHtml": false
+    },
+    {
+      "text": "Big Media",
+      "renderHtml": false
+    },
+    {
+      "text": "Big Oil",
+      "renderHtml": false
+    },
+    {
+      "text": "Big summer movies",
+      "renderHtml": false
+    },
+    {
+      "text": "Big Tobacco",
+      "renderHtml": false
+    },
+    {
+      "text": "Bill Clinton",
+      "renderHtml": false
+    },
+    {
+      "text": "Bill Gates",
+      "renderHtml": false
+    },
+    {
+      "text": "Bird flu",
+      "renderHtml": false
+    },
+    {
+      "text": "Bitcoin",
+      "renderHtml": false
+    },
+    {
+      "text": "Black cards",
+      "renderHtml": false
+    },
+    {
+      "text": "Black helicopters",
+      "renderHtml": false
+    },
+    {
+      "text": "Black ops",
+      "renderHtml": false
+    },
+    {
+      "text": "Bloggers",
+      "renderHtml": false
+    },
+    {
+      "text": "Blue states",
+      "renderHtml": false
+    },
+    {
+      "text": "Body odor",
+      "renderHtml": false
+    },
+    {
+      "text": "Brain transplants",
+      "renderHtml": false
+    },
+    {
+      "text": "Brazil",
+      "renderHtml": false
+    },
+    {
+      "text": "Breakfast cereal",
+      "renderHtml": false
+    },
+    {
+      "text": "Bribery",
+      "renderHtml": false
+    },
+    {
+      "text": "Bullfrogs",
+      "renderHtml": false
+    },
+    {
+      "text": "Bumper stickers",
+      "renderHtml": false
+    },
+    {
+      "text": "Bureaucrats",
+      "renderHtml": false
+    },
+    {
+      "text": "Buzzwords",
+      "renderHtml": false
+    },
+    {
+      "text": "Cable TV",
+      "renderHtml": false
+    },
+    {
+      "text": "California",
+      "renderHtml": false
+    },
+    {
+      "text": "Canada",
+      "renderHtml": false
+    },
+    {
+      "text": "Candy manufacturers",
+      "renderHtml": false
+    },
+    {
+      "text": "Cattle mutilators",
+      "renderHtml": false
+    },
+    {
+      "text": "Celebrity spokesmodels",
+      "renderHtml": false
+    },
+    {
+      "text": "Cellular towers",
+      "renderHtml": false
+    },
+    {
+      "text": "Chemical warfare",
+      "renderHtml": false
+    },
+    {
+      "text": "Chemtrails",
+      "renderHtml": false
+    },
+    {
+      "text": "Child abuse",
+      "renderHtml": false
+    },
+    {
+      "text": "Children",
+      "renderHtml": false
+    },
+    {
+      "text": "China",
+      "renderHtml": false
+    },
+    {
+      "text": "Chinese instructions in our electronic equipment",
+      "renderHtml": false
+    },
+    {
+      "text": "Chris Christie",
+      "renderHtml": false
+    },
+    {
+      "text": "Christmas",
+      "renderHtml": false
+    },
+    {
+      "text": "Cigarette package warnings",
+      "renderHtml": false
+    },
+    {
+      "text": "Civil War II",
+      "renderHtml": false
+    },
+    {
+      "text": "Clones",
+      "renderHtml": false
+    },
+    {
+      "text": "Cocaine",
+      "renderHtml": false
+    },
+    {
+      "text": "Coded tweets",
+      "renderHtml": false
+    },
+    {
+      "text": "Coffee",
+      "renderHtml": false
+    },
+    {
+      "text": "Comic books",
+      "renderHtml": false
+    },
+    {
+      "text": "Concealed weapons",
+      "renderHtml": false
+    },
+    {
+      "text": "Congress",
+      "renderHtml": false
+    },
+    {
+      "text": "Console games",
+      "renderHtml": false
+    },
+    {
+      "text": "Conspiracy theorists",
+      "renderHtml": false
+    },
+    {
+      "text": "Convenience stores",
+      "renderHtml": false
+    },
+    {
+      "text": "Corruption",
+      "renderHtml": false
+    },
+    {
+      "text": "Cover bands or cover-ups, whichever",
+      "renderHtml": false
+    },
+    {
+      "text": "Craft beer",
+      "renderHtml": false
+    },
+    {
+      "text": "Crazy talk",
+      "renderHtml": false
+    },
+    {
+      "text": "Creation science",
+      "renderHtml": false
+    },
+    {
+      "text": "Cult leaders",
+      "renderHtml": false
+    },
+    {
+      "text": "Cyborg killers",
+      "renderHtml": false
+    },
+    {
+      "text": "Cycle gangs",
+      "renderHtml": false
+    },
+    {
+      "text": "Day care",
+      "renderHtml": false
+    },
+    {
+      "text": "Dead voters",
+      "renderHtml": false
+    },
+    {
+      "text": "Death",
+      "renderHtml": false
+    },
+    {
+      "text": "Deus Vult!",
+      "renderHtml": false
+    },
+    {
+      "text": "Dick Cheney",
+      "renderHtml": false
+    },
+    {
+      "text": "Direct-to-video sequels",
+      "renderHtml": false
+    },
+    {
+      "text": "Dollar bils",
+      "renderHtml": false
+    },
+    {
+      "text": "Donald Trump Blow Up Dolls.",
+      "renderHtml": false
+    },
+    {
+      "text": "Drone missiles",
+      "renderHtml": false
+    },
+    {
+      "text": "Drug factories",
+      "renderHtml": false
+    },
+    {
+      "text": "Duct tape",
+      "renderHtml": false
+    },
+    {
+      "text": "E-cigarettes",
+      "renderHtml": false
+    },
+    {
+      "text": "Earthquake projectors",
+      "renderHtml": false
+    },
+    {
+      "text": "eBay®",
+      "renderHtml": false
+    },
+    {
+      "text": "Ebola",
+      "renderHtml": false
+    },
+    {
+      "text": "Eco-guerillas",
+      "renderHtml": false
+    },
+    {
+      "text": "El Nino",
+      "renderHtml": false
+    },
+    {
+      "text": "Embezzling",
+      "renderHtml": false
+    },
+    {
+      "text": "Enemies or enemas, whichever",
+      "renderHtml": false
+    },
+    {
+      "text": "Energy drinks",
+      "renderHtml": false
+    },
+    {
+      "text": "England",
+      "renderHtml": false
+    },
+    {
+      "text": "Eternal night",
+      "renderHtml": false
+    },
+    {
+      "text": "Executive orders or execution orders, whichever",
+      "renderHtml": false
+    },
+    {
+      "text": "Exercise or exorcism, whichever",
+      "renderHtml": false
+    },
+    {
+      "text": "Explosive runes or runs, whichever",
+      "renderHtml": false
+    },
+    {
+      "text": "Facebook® ads",
+      "renderHtml": false
+    },
+    {
+      "text": "Fact checkers",
+      "renderHtml": false
+    },
+    {
+      "text": "Fake charities",
+      "renderHtml": false
+    },
+    {
+      "text": "Fake moon landings",
+      "renderHtml": false
+    },
+    {
+      "text": "Fake news",
+      "renderHtml": false
+    },
+    {
+      "text": "False advertising",
+      "renderHtml": false
+    },
+    {
+      "text": "False flag operations",
+      "renderHtml": false
+    },
+    {
+      "text": "Family values",
+      "renderHtml": false
+    },
+    {
+      "text": "Fanatics",
+      "renderHtml": false
+    },
+    {
+      "text": "Fast food",
+      "renderHtml": false
+    },
+    {
+      "text": "Federal aid",
+      "renderHtml": false
+    },
+    {
+      "text": "Federal budgeting",
+      "renderHtml": false
+    },
+    {
+      "text": "Federal law",
+      "renderHtml": false
+    },
+    {
+      "text": "Files or flies, whichever",
+      "renderHtml": false
+    },
+    {
+      "text": "Flaming apparitions",
+      "renderHtml": false
+    },
+    {
+      "text": "Flesh-eating bacteria",
+      "renderHtml": false
+    },
+    {
+      "text": "Flower power",
+      "renderHtml": false
+    },
+    {
+      "text": "Flying saucers",
+      "renderHtml": false
+    },
+    {
+      "text": "Flying submarines",
+      "renderHtml": false
+    },
+    {
+      "text": "Flyover states",
+      "renderHtml": false
+    },
+    {
+      "text": "Forbidden rituals",
+      "renderHtml": false
+    },
+    {
+      "text": "foreign aid",
+      "renderHtml": false
+    },
+    {
+      "text": "Foreign parts or foreign particles, whichever",
+      "renderHtml": false
+    },
+    {
+      "text": "Form 1040",
+      "renderHtml": false
+    },
+    {
+      "text": "Fox News®",
+      "renderHtml": false
+    },
+    {
+      "text": "Fracking",
+      "renderHtml": false
+    },
+    {
+      "text": "France",
+      "renderHtml": false
+    },
+    {
+      "text": "Frankenfood",
+      "renderHtml": false
+    },
+    {
+      "text": "Free beer",
+      "renderHtml": false
+    },
+    {
+      "text": "Freud or fraud, whichever",
+      "renderHtml": false
+    },
+    {
+      "text": "Gamers",
+      "renderHtml": false
+    },
+    {
+      "text": "Gay marriage",
+      "renderHtml": false
+    },
+    {
+      "text": "Gene testing",
+      "renderHtml": false
+    },
+    {
+      "text": "Generation Xers",
+      "renderHtml": false
+    },
+    {
+      "text": "Genetically modified organisms",
+      "renderHtml": false
+    },
+    {
+      "text": "George H.W. Bush",
+      "renderHtml": false
+    },
+    {
+      "text": "George W. Bush",
+      "renderHtml": false
+    },
+    {
+      "text": "Giant killer robots",
+      "renderHtml": false
+    },
+    {
+      "text": "Global warming",
+      "renderHtml": false
+    },
+    {
+      "text": "Google®",
+      "renderHtml": false
+    },
+    {
+      "text": "Grassroots support",
+      "renderHtml": false
+    },
+    {
+      "text": "Greenhouse gas",
+      "renderHtml": false
+    },
+    {
+      "text": "Guerillas or gorillas, whichever",
+      "renderHtml": false
+    },
+    {
+      "text": "Gun control activists",
+      "renderHtml": false
+    },
+    {
+      "text": "Guns",
+      "renderHtml": false
+    },
+    {
+      "text": "H. Ross Perot",
+      "renderHtml": false
+    },
+    {
+      "text": "Hackers",
+      "renderHtml": false
+    },
+    {
+      "text": "Hashtag activism",
+      "renderHtml": false
+    },
+    {
+      "text": "Head transplants",
+      "renderHtml": false
+    },
+    {
+      "text": "Heartless extortion",
+      "renderHtml": false
+    },
+    {
+      "text": "Hillary Clinton",
+      "renderHtml": false
+    },
+    {
+      "text": "Hints and allegations",
+      "renderHtml": false
+    },
+    {
+      "text": "Hipsters",
+      "renderHtml": false
+    },
+    {
+      "text": "Hitler",
+      "renderHtml": false
+    },
+    {
+      "text": "Hitler's brain",
+      "renderHtml": false
+    },
+    {
+      "text": "Hollywood",
+      "renderHtml": false
+    },
+    {
+      "text": "Holy water",
+      "renderHtml": false
+    },
+    {
+      "text": "Homeland Security",
+      "renderHtml": false
+    },
+    {
+      "text": "Hotel room Bibles",
+      "renderHtml": false
+    },
+    {
+      "text": "Huge walls",
+      "renderHtml": false
+    },
+    {
+      "text": "Human sacrifice",
+      "renderHtml": false
+    },
+    {
+      "text": "Human shields",
+      "renderHtml": false
+    },
+    {
+      "text": "Hurricanes",
+      "renderHtml": false
+    },
+    {
+      "text": "Hush money",
+      "renderHtml": false
+    },
+    {
+      "text": "Identity theft",
+      "renderHtml": false
+    },
+    {
+      "text": "Idiots",
+      "renderHtml": false
+    },
+    {
+      "text": "Illegal immigrants",
+      "renderHtml": false
+    },
+    {
+      "text": "Income inequality",
+      "renderHtml": false
+    },
+    {
+      "text": "Incriminating photos",
+      "renderHtml": false
+    },
+    {
+      "text": "Insurance fraud",
+      "renderHtml": false
+    },
+    {
+      "text": "Intelligence tests",
+      "renderHtml": false
+    },
+    {
+      "text": "Intelligent design",
+      "renderHtml": false
+    },
+    {
+      "text": "Internet porn",
+      "renderHtml": false
+    },
+    {
+      "text": "Invasive species",
+      "renderHtml": false
+    },
+    {
+      "text": "iPhones®",
+      "renderHtml": false
+    },
+    {
+      "text": "Iranian nukes",
+      "renderHtml": false
+    },
+    {
+      "text": "Israel",
+      "renderHtml": false
+    },
+    {
+      "text": "Jackbooted thugs",
+      "renderHtml": false
+    },
+    {
+      "text": "Japan",
+      "renderHtml": false
+    },
+    {
+      "text": "Jimmy Carter",
+      "renderHtml": false
+    },
+    {
+      "text": "Junk food",
+      "renderHtml": false
+    },
+    {
+      "text": "Junk mail",
+      "renderHtml": false
+    },
+    {
+      "text": "Junk science",
+      "renderHtml": false
+    },
+    {
+      "text": "Junk websites",
+      "renderHtml": false
+    },
+    {
+      "text": "Kiler bees",
+      "renderHtml": false
+    },
+    {
+      "text": "Kneecapping",
+      "renderHtml": false
+    },
+    {
+      "text": "Land mines or gold mines, whichever",
+      "renderHtml": false
+    },
+    {
+      "text": "Las Vegas",
+      "renderHtml": false
+    },
+    {
+      "text": "Laser sharks",
+      "renderHtml": false
+    },
+    {
+      "text": "Law and order",
+      "renderHtml": false
+    },
+    {
+      "text": "Lawsuits",
+      "renderHtml": false
+    },
+    {
+      "text": "Lead in the water",
+      "renderHtml": false
+    },
+    {
+      "text": "Lepers or leopards, whichever",
+      "renderHtml": false
+    },
+    {
+      "text": "Lies",
+      "renderHtml": false
+    },
+    {
+      "text": "Life",
+      "renderHtml": false
+    },
+    {
+      "text": "Lizards impersonating humans",
+      "renderHtml": false
+    },
+    {
+      "text": "Local school boards",
+      "renderHtml": false
+    },
+    {
+      "text": "Lone gunmen",
+      "renderHtml": false
+    },
+    {
+      "text": "Low-carb diets",
+      "renderHtml": false
+    },
+    {
+      "text": "Madison Avenue",
+      "renderHtml": false
+    },
+    {
+      "text": "Malicious Wikipedia® edits",
+      "renderHtml": false
+    },
+    {
+      "text": "Market manipulation",
+      "renderHtml": false
+    },
+    {
+      "text": "Mars rovers",
+      "renderHtml": false
+    },
+    {
+      "text": "Martial law",
+      "renderHtml": false
+    },
+    {
+      "text": "Mas executions",
+      "renderHtml": false
+    },
+    {
+      "text": "Masive spam campaigns",
+      "renderHtml": false
+    },
+    {
+      "text": "Mass deportations",
+      "renderHtml": false
+    },
+    {
+      "text": "Mass destruction or mass distraction, whichever",
+      "renderHtml": false
+    },
+    {
+      "text": "Mass hallucinations",
+      "renderHtml": false
+    },
+    {
+      "text": "Mattress tags",
+      "renderHtml": false
+    },
+    {
+      "text": "Medical marijuana clincs",
+      "renderHtml": false
+    },
+    {
+      "text": "Medicare",
+      "renderHtml": false
+    },
+    {
+      "text": "Memes",
+      "renderHtml": false
+    },
+    {
+      "text": "Men in Black",
+      "renderHtml": false
+    },
+    {
+      "text": "Mercenaries",
+      "renderHtml": false
+    },
+    {
+      "text": "Mexican cartels",
+      "renderHtml": false
+    },
+    {
+      "text": "Microsoft®",
+      "renderHtml": false
+    },
+    {
+      "text": "Midnight tweets",
+      "renderHtml": false
+    },
+    {
+      "text": "Military dolphins",
+      "renderHtml": false
+    },
+    {
+      "text": "Militias",
+      "renderHtml": false
+    },
+    {
+      "text": "Millenials",
+      "renderHtml": false
+    },
+    {
+      "text": "Missile silos",
+      "renderHtml": false
+    },
+    {
+      "text": "Money laundering",
+      "renderHtml": false
+    },
+    {
+      "text": "My pocket Constitution",
+      "renderHtml": false
+    },
+    {
+      "text": "NAFTA",
+      "renderHtml": false
+    },
+    {
+      "text": "Napoleon",
+      "renderHtml": false
+    },
+    {
+      "text": "NASA",
+      "renderHtml": false
+    },
+    {
+      "text": "NATO",
+      "renderHtml": false
+    },
+    {
+      "text": "Natural stupidity",
+      "renderHtml": false
+    },
+    {
+      "text": "Nazis",
+      "renderHtml": false
+    },
+    {
+      "text": "Nerve gas",
+      "renderHtml": false
+    },
+    {
+      "text": "Nervous laughter",
+      "renderHtml": false
+    },
+    {
+      "text": "Newsweek® or news leaks, whichever",
+      "renderHtml": false
+    },
+    {
+      "text": "Newt Gingrich",
+      "renderHtml": false
+    },
+    {
+      "text": "Ninjas",
+      "renderHtml": false
+    },
+    {
+      "text": "Nobel prizes",
+      "renderHtml": false
+    },
+    {
+      "text": "North Korea",
+      "renderHtml": false
+    },
+    {
+      "text": "NPR",
+      "renderHtml": false
+    },
+    {
+      "text": "Nuclear testing",
+      "renderHtml": false
+    },
+    {
+      "text": "Obamacare",
+      "renderHtml": false
+    },
+    {
+      "text": "Obscene profits",
+      "renderHtml": false
+    },
+    {
+      "text": "Offshore banks",
+      "renderHtml": false
+    },
+    {
+      "text": "Oil spills",
+      "renderHtml": false
+    },
+    {
+      "text": "Ones and zeroes",
+      "renderHtml": false
+    },
+    {
+      "text": "OPEC",
+      "renderHtml": false
+    },
+    {
+      "text": "Orbital mind control lasers",
+      "renderHtml": false
+    },
+    {
+      "text": "Organic foods",
+      "renderHtml": false
+    },
+    {
+      "text": "Osama or Obama, whichever",
+      "renderHtml": false
+    },
+    {
+      "text": "Paparazzi",
+      "renderHtml": false
+    },
+    {
+      "text": "Paranoids",
+      "renderHtml": false
+    },
+    {
+      "text": "Peanut butter",
+      "renderHtml": false
+    },
+    {
+      "text": "Pesticides",
+      "renderHtml": false
+    },
+    {
+      "text": "PETA",
+      "renderHtml": false
+    },
+    {
+      "text": "Pi or pie, whichever",
+      "renderHtml": false
+    },
+    {
+      "text": "Pirate radio stations",
+      "renderHtml": false
+    },
+    {
+      "text": "Plutonium",
+      "renderHtml": false
+    },
+    {
+      "text": "Polls",
+      "renderHtml": false
+    },
+    {
+      "text": "Pollsters",
+      "renderHtml": false
+    },
+    {
+      "text": "Prefessional sports",
+      "renderHtml": false
+    },
+    {
+      "text": "Preppers or preppies, whichever",
+      "renderHtml": false
+    },
+    {
+      "text": "Prince Charles",
+      "renderHtml": false
+    },
+    {
+      "text": "Prosecutors or persecutors, whichever",
+      "renderHtml": false
+    },
+    {
+      "text": "Psychiatrists",
+      "renderHtml": false
+    },
+    {
+      "text": "Public libraries",
+      "renderHtml": false
+    },
+    {
+      "text": "Public toilets",
+      "renderHtml": false
+    },
+    {
+      "text": "Purple states",
+      "renderHtml": false
+    },
+    {
+      "text": "Pyramid schemes",
+      "renderHtml": false
+    },
+    {
+      "text": "Queen Elizabeth II",
+      "renderHtml": false
+    },
+    {
+      "text": "Radio-sensitive tooth fillings",
+      "renderHtml": false
+    },
+    {
+      "text": "Random attacks",
+      "renderHtml": false
+    },
+    {
+      "text": "Reality TV",
+      "renderHtml": false
+    },
+    {
+      "text": "Red and blue pills",
+      "renderHtml": false
+    },
+    {
+      "text": "Red light cameras",
+      "renderHtml": false
+    },
+    {
+      "text": "Red mercury",
+      "renderHtml": false
+    },
+    {
+      "text": "Red states",
+      "renderHtml": false
+    },
+    {
+      "text": "Regime change",
+      "renderHtml": false
+    },
+    {
+      "text": "Revolution",
+      "renderHtml": false
+    },
+    {
+      "text": "Rigged elections",
+      "renderHtml": false
+    },
+    {
+      "text": "Road rage",
+      "renderHtml": false
+    },
+    {
+      "text": "Robocalls",
+      "renderHtml": false
+    },
+    {
+      "text": "Robot sea monsters",
+      "renderHtml": false
+    },
+    {
+      "text": "Russia",
+      "renderHtml": false
+    },
+    {
+      "text": "Russian spies",
+      "renderHtml": false
+    },
+    {
+      "text": "Sanctuary cities",
+      "renderHtml": false
+    },
+    {
+      "text": "Sarah Palin",
+      "renderHtml": false
+    },
+    {
+      "text": "Satanists",
+      "renderHtml": false
+    },
+    {
+      "text": "Saturday Night Live®",
+      "renderHtml": false
+    },
+    {
+      "text": "Scandals",
+      "renderHtml": false
+    },
+    {
+      "text": "Scary clowns",
+      "renderHtml": false
+    },
+    {
+      "text": "School prayer",
+      "renderHtml": false
+    },
+    {
+      "text": "Science deniers",
+      "renderHtml": false
+    },
+    {
+      "text": "Second Amendment activists",
+      "renderHtml": false
+    },
+    {
+      "text": "Secret campaign donors",
+      "renderHtml": false
+    },
+    {
+      "text": "Secret government files or flies, whichever",
+      "renderHtml": false
+    },
+    {
+      "text": "Secret police",
+      "renderHtml": false
+    },
+    {
+      "text": "Secret underground bunkers or debunkers, whichever",
+      "renderHtml": false
+    },
+    {
+      "text": "Self-driving cars",
+      "renderHtml": false
+    },
+    {
+      "text": "Serial killers",
+      "renderHtml": false
+    },
+    {
+      "text": "Seven secret herbs and spices",
+      "renderHtml": false
+    },
+    {
+      "text": "Shock jocks",
+      "renderHtml": false
+    },
+    {
+      "text": "Shooters or sliders, whichever",
+      "renderHtml": false
+    },
+    {
+      "text": "Silicon Valley",
+      "renderHtml": false
+    },
+    {
+      "text": "Skools that don't teech speling",
+      "renderHtml": false
+    },
+    {
+      "text": "Slave-labor factories",
+      "renderHtml": false
+    },
+    {
+      "text": "Slush funds",
+      "renderHtml": false
+    },
+    {
+      "text": "Smart bombs or smart phones, whichever",
+      "renderHtml": false
+    },
+    {
+      "text": "Smoking bans",
+      "renderHtml": false
+    },
+    {
+      "text": "Smuggling tunnels",
+      "renderHtml": false
+    },
+    {
+      "text": "Soft drinks",
+      "renderHtml": false
+    },
+    {
+      "text": "Sovereign citizens",
+      "renderHtml": false
+    },
+    {
+      "text": "Soy products",
+      "renderHtml": false
+    },
+    {
+      "text": "Spin doctors",
+      "renderHtml": false
+    },
+    {
+      "text": "Spontaneous combustion",
+      "renderHtml": false
+    },
+    {
+      "text": "Spy satellites",
+      "renderHtml": false
+    },
+    {
+      "text": "Stalkers",
+      "renderHtml": false
+    },
+    {
+      "text": "Starbucks®",
+      "renderHtml": false
+    },
+    {
+      "text": "Stem cells or STEM courses, whichever",
+      "renderHtml": false
+    },
+    {
+      "text": "Stephen Hawking",
+      "renderHtml": false
+    },
+    {
+      "text": "Subliminal messages",
+      "renderHtml": false
+    },
+    {
+      "text": "Suicide bombers",
+      "renderHtml": false
+    },
+    {
+      "text": "Suitcase nukes",
+      "renderHtml": false
+    },
+    {
+      "text": "Superheroes",
+      "renderHtml": false
+    },
+    {
+      "text": "Supervillians",
+      "renderHtml": false
+    },
+    {
+      "text": "Sushi",
+      "renderHtml": false
+    },
+    {
+      "text": "SWAT teams",
+      "renderHtml": false
+    },
+    {
+      "text": "Swine flu",
+      "renderHtml": false
+    },
+    {
+      "text": "Tabloid papers",
+      "renderHtml": false
+    },
+    {
+      "text": "Talk radio",
+      "renderHtml": false
+    },
+    {
+      "text": "Targeted meteor strikes",
+      "renderHtml": false
+    },
+    {
+      "text": "Tax \"reform\"",
+      "renderHtml": false
+    },
+    {
+      "text": "Tax resisters",
+      "renderHtml": false
+    },
+    {
+      "text": "Ted Cruz or Tom Cruise, whichever",
+      "renderHtml": false
+    },
+    {
+      "text": "Telephone psychics",
+      "renderHtml": false
+    },
+    {
+      "text": "Terrorists",
+      "renderHtml": false
+    },
+    {
+      "text": "Texas",
+      "renderHtml": false
+    },
+    {
+      "text": "The 1%",
+      "renderHtml": false
+    },
+    {
+      "text": "The 1% of the 1%",
+      "renderHtml": false
+    },
+    {
+      "text": "The administration or abomination, whichever",
+      "renderHtml": false
+    },
+    {
+      "text": "The airlines",
+      "renderHtml": false
+    },
+    {
+      "text": "The all-seeing eye",
+      "renderHtml": false
+    },
+    {
+      "text": "The alt-right",
+      "renderHtml": false
+    },
+    {
+      "text": "The Antichrist",
+      "renderHtml": false
+    },
+    {
+      "text": "The Ark of the Covenant",
+      "renderHtml": false
+    },
+    {
+      "text": "The Bavarian Illuminati",
+      "renderHtml": false
+    },
+    {
+      "text": "The Better Business Bureau",
+      "renderHtml": false
+    },
+    {
+      "text": "The billionaires",
+      "renderHtml": false
+    },
+    {
+      "text": "The bomb",
+      "renderHtml": false
+    },
+    {
+      "text": "The Boy Scouts",
+      "renderHtml": false
+    },
+    {
+      "text": "The Centers for Disease Control",
+      "renderHtml": false
+    },
+    {
+      "text": "The Chief Justice",
+      "renderHtml": false
+    },
+    {
+      "text": "The Church of Elvis",
+      "renderHtml": false
+    },
+    {
+      "text": "The CIA",
+      "renderHtml": false
+    },
+    {
+      "text": "The conservative media",
+      "renderHtml": false
+    },
+    {
+      "text": "The criminal justice system",
+      "renderHtml": false
+    },
+    {
+      "text": "The Crystal Skull",
+      "renderHtml": false
+    },
+    {
+      "text": "The Deep State or the Deep Ones, whichever",
+      "renderHtml": false
+    },
+    {
+      "text": "The Democrats",
+      "renderHtml": false
+    },
+    {
+      "text": "The Druids",
+      "renderHtml": false
+    },
+    {
+      "text": "The Electoral College",
+      "renderHtml": false
+    },
+    {
+      "text": "The end of the world",
+      "renderHtml": false
+    },
+    {
+      "text": "The EPA",
+      "renderHtml": false
+    },
+    {
+      "text": "The European Union",
+      "renderHtml": false
+    },
+    {
+      "text": "The FBI",
+      "renderHtml": false
+    },
+    {
+      "text": "The Federal Reserve",
+      "renderHtml": false
+    },
+    {
+      "text": "The gold standard",
+      "renderHtml": false
+    },
+    {
+      "text": "The gospel of prosperity",
+      "renderHtml": false
+    },
+    {
+      "text": "The Green Party",
+      "renderHtml": false
+    },
+    {
+      "text": "The gun lobby",
+      "renderHtml": false
+    },
+    {
+      "text": "The health food lobby",
+      "renderHtml": false
+    },
+    {
+      "text": "The Holy Grail",
+      "renderHtml": false
+    },
+    {
+      "text": "The idiocracy",
+      "renderHtml": false
+    },
+    {
+      "text": "The Internet",
+      "renderHtml": false
+    },
+    {
+      "text": "The Internet of Things",
+      "renderHtml": false
+    },
+    {
+      "text": "The IRS",
+      "renderHtml": false
+    },
+    {
+      "text": "The liberal media",
+      "renderHtml": false
+    },
+    {
+      "text": "The Libertarian Party",
+      "renderHtml": false
+    },
+    {
+      "text": "The Loch Ness Monster",
+      "renderHtml": false
+    },
+    {
+      "text": "The Mafia",
+      "renderHtml": false
+    },
+    {
+      "text": "The Man",
+      "renderHtml": false
+    },
+    {
+      "text": "The medical lobby",
+      "renderHtml": false
+    },
+    {
+      "text": "The military-industrial complex",
+      "renderHtml": false
+    },
+    {
+      "text": "The Moral Minority",
+      "renderHtml": false
+    },
+    {
+      "text": "The national debt",
+      "renderHtml": false
+    },
+    {
+      "text": "The National Guard",
+      "renderHtml": false
+    },
+    {
+      "text": "The National Security or Insecurity Advisor, whichever",
+      "renderHtml": false
+    },
+    {
+      "text": "The Necronomicon",
+      "renderHtml": false
+    },
+    {
+      "text": "The Northern Lights",
+      "renderHtml": false
+    },
+    {
+      "text": "The NSA",
+      "renderHtml": false
+    },
+    {
+      "text": "The nuclear football",
+      "renderHtml": false
+    },
+    {
+      "text": "The nuclear power companies",
+      "renderHtml": false
+    },
+    {
+      "text": "The Pentagon",
+      "renderHtml": false
+    },
+    {
+      "text": "The phone company",
+      "renderHtml": false
+    },
+    {
+      "text": "The Pope",
+      "renderHtml": false
+    },
+    {
+      "text": "The Post Office",
+      "renderHtml": false
+    },
+    {
+      "text": "The President of the United States",
+      "renderHtml": false
+    },
+    {
+      "text": "The recording industry",
+      "renderHtml": false
+    },
+    {
+      "text": "The Republicans",
+      "renderHtml": false
+    },
+    {
+      "text": "The Russian mob",
+      "renderHtml": false
+    },
+    {
+      "text": "The secret court system",
+      "renderHtml": false
+    },
+    {
+      "text": "The secret moon base",
+      "renderHtml": false
+    },
+    {
+      "text": "The Secret Service",
+      "renderHtml": false
+    },
+    {
+      "text": "The Secretary-General of the UN",
+      "renderHtml": false
+    },
+    {
+      "text": "The shadow government",
+      "renderHtml": false
+    },
+    {
+      "text": "The Shroud of Turin",
+      "renderHtml": false
+    },
+    {
+      "text": "The Supreme Court",
+      "renderHtml": false
+    },
+    {
+      "text": "The truth",
+      "renderHtml": false
+    },
+    {
+      "text": "The U.S. Chamber of Commerce or Horrors, whichever",
+      "renderHtml": false
+    },
+    {
+      "text": "The United Nations",
+      "renderHtml": false
+    },
+    {
+      "text": "The Warsaw Pact",
+      "renderHtml": false
+    },
+    {
+      "text": "Them new-fangled moving pictures",
+      "renderHtml": false
+    },
+    {
+      "text": "Third Amendment activists",
+      "renderHtml": false
+    },
+    {
+      "text": "This game",
+      "renderHtml": false
+    },
+    {
+      "text": "Those bar codes on the back of highway signs",
+      "renderHtml": false
+    },
+    {
+      "text": "Tiny but fierce aliens",
+      "renderHtml": false
+    },
+    {
+      "text": "Tl;dr",
+      "renderHtml": false
+    },
+    {
+      "text": "Tooth decay",
+      "renderHtml": false
+    },
+    {
+      "text": "Toxic waste",
+      "renderHtml": false
+    },
+    {
+      "text": "Trekkies",
+      "renderHtml": false
+    },
+    {
+      "text": "TV preachers",
+      "renderHtml": false
+    },
+    {
+      "text": "TV repairmen",
+      "renderHtml": false
+    },
+    {
+      "text": "Twitter®",
+      "renderHtml": false
+    },
+    {
+      "text": "Uber®",
+      "renderHtml": false
+    },
+    {
+      "text": "Uber® drivers",
+      "renderHtml": false
+    },
+    {
+      "text": "Ultrasound photos",
+      "renderHtml": false
+    },
+    {
+      "text": "Unconventional typography",
+      "renderHtml": false
+    },
+    {
+      "text": "Unindicted co-conspirators",
+      "renderHtml": false
+    },
+    {
+      "text": "Universal surveillance",
+      "renderHtml": false
+    },
+    {
+      "text": "Urban legends",
+      "renderHtml": false
+    },
+    {
+      "text": "Vaccinations",
+      "renderHtml": false
+    },
+    {
+      "text": "VAT",
+      "renderHtml": false
+    },
+    {
+      "text": "Vegans",
+      "renderHtml": false
+    },
+    {
+      "text": "Vegetarians or humanitarians, whichever",
+      "renderHtml": false
+    },
+    {
+      "text": "Vladminir Putin",
+      "renderHtml": false
+    },
+    {
+      "text": "Vle secretions",
+      "renderHtml": false
+    },
+    {
+      "text": "Voodoo",
+      "renderHtml": false
+    },
+    {
+      "text": "Wal-Mart®",
+      "renderHtml": false
+    },
+    {
+      "text": "Wall Street",
+      "renderHtml": false
+    },
+    {
+      "text": "Warren Buffett",
+      "renderHtml": false
+    },
+    {
+      "text": "Washington",
+      "renderHtml": false
+    },
+    {
+      "text": "Whistleblowers",
+      "renderHtml": false
+    },
+    {
+      "text": "White cards",
+      "renderHtml": false
+    },
+    {
+      "text": "Wikipedia®",
+      "renderHtml": false
+    },
+    {
+      "text": "Wind turbines",
+      "renderHtml": false
+    },
+    {
+      "text": "Wiretapping",
+      "renderHtml": false
+    },
+    {
+      "text": "World hunger",
+      "renderHtml": false
+    },
+    {
+      "text": "World jihad",
+      "renderHtml": false
+    },
+    {
+      "text": "World War III",
+      "renderHtml": false
+    },
+    {
+      "text": "Wrong numbers",
+      "renderHtml": false
+    },
+    {
+      "text": "XXX-rated movies",
+      "renderHtml": false
+    },
+    {
+      "text": "Your local police",
+      "renderHtml": false
+    },
+    {
+      "text": "Your reflection",
+      "renderHtml": false
+    },
+    {
+      "text": "YouTube® videos",
+      "renderHtml": false
+    },
+    {
+      "text": "Zero tolerance",
+      "renderHtml": false
+    },
+    {
+      "text": "Zika",
+      "renderHtml": false
+    }
+  ]
+}

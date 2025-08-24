@@ -1,0 +1,421 @@
+{
+  "order": 24,
+  "displayName": "CAH: Sixth Expansion",
+  "name": "CAH_Sixth_Expansion",
+  "whiteCards": [
+    {
+      "text": "\"This workplace has been 0 days without _.\"",
+      "pick": 1
+    },
+    {
+      "text": "Angelina Jolie will now be special envoy for _.",
+      "pick": 1
+    },
+    {
+      "text": "Behind every successful man is _.",
+      "pick": 1
+    },
+    {
+      "text": "Come to Toronto for the _, stay for the _",
+      "pick": 2
+    },
+    {
+      "text": "Don't worry, _ is not as hard as it seems.",
+      "pick": 1
+    },
+    {
+      "text": "Everyday has 86,400 seconds. And I'm always a second away from _.",
+      "pick": 1
+    },
+    {
+      "text": "I have an agreement with my significant other, if we meet _, I am allowed to have sex with them with no consequences.",
+      "pick": 1
+    },
+    {
+      "text": "I went to the desert and ate of the peyote cactus. Turns out my spirit animal is _.",
+      "pick": 1
+    },
+    {
+      "text": "I would be on board with Scientology if it weren't for _.",
+      "pick": 1
+    },
+    {
+      "text": "I'm never going to be rich and famous because I'm too busy _.",
+      "pick": 1
+    },
+    {
+      "text": "I'm sorry, Professor, but I couldn't complete my homework because of _.",
+      "pick": 1
+    },
+    {
+      "text": "If you had to pay me for sex, what would you do first? _.",
+      "pick": 1
+    },
+    {
+      "text": "Jellicle Cats come out tonight, Jellicle Cats come one, come all, the time for _ is now, Jellicles come to the Jellicle Ball.",
+      "pick": 1
+    },
+    {
+      "text": "Listen son, your mother and I are getting a divorce, and it's because of _.",
+      "pick": 1
+    },
+    {
+      "text": "My grandkids need _.",
+      "pick": 1
+    },
+    {
+      "text": "Puff the Magic _.",
+      "pick": 1
+    },
+    {
+      "text": "The six things I could never do without: oxygen, facebook, chocolate, netflix, friends, and _ LOL!",
+      "pick": 1
+    },
+    {
+      "text": "This is an absolutely hilarious video. Please share it! #_",
+      "pick": 1
+    },
+    {
+      "text": "To boost morale after Hurricane Harvey, President Trump gave a guy in a pick-up truck _.",
+      "pick": 1
+    },
+    {
+      "text": "Tonight's Final Jeopardy category is _.",
+      "pick": 1
+    },
+    {
+      "text": "When I was a little girl I always wanted to _.",
+      "pick": 1
+    },
+    {
+      "text": "Why would I want _ stuffed down my throat?",
+      "pick": 1
+    },
+    {
+      "text": "YAAAAAAS! You are serving me _ realness!",
+      "pick": 1
+    },
+    {
+      "text": "You are under arrest for _, again!",
+      "pick": 1
+    },
+    {
+      "text": "You like my cupcakes? I made them myself. The secret ingredient is _.",
+      "pick": 1
+    },
+    {
+      "text": "You won't find this in textbooks, but _ is the real reason the US entered World War II.",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "A bathroom only for poop.",
+      "renderHtml": false
+    },
+    {
+      "text": "A bowl of gourds.",
+      "renderHtml": false
+    },
+    {
+      "text": "A button that when you press it, there's jazz.",
+      "renderHtml": false
+    },
+    {
+      "text": "A constant, deafening queef.",
+      "renderHtml": false
+    },
+    {
+      "text": "a man who isn't afraid to talk about his feelings",
+      "renderHtml": false
+    },
+    {
+      "text": "A phantasmagoria of anal delights.",
+      "renderHtml": false
+    },
+    {
+      "text": "A plan to kill everyone you meet.",
+      "renderHtml": false
+    },
+    {
+      "text": "A post-deployment RED HORSE troop fucking everyone and everything in their path.",
+      "renderHtml": false
+    },
+    {
+      "text": "A selfie",
+      "renderHtml": false
+    },
+    {
+      "text": "A turkey baster",
+      "renderHtml": false
+    },
+    {
+      "text": "A whole new kind of \"play date\"",
+      "renderHtml": false
+    },
+    {
+      "text": "An orcgasm.",
+      "renderHtml": false
+    },
+    {
+      "text": "An overworked Chippendales® dancer.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bathing naked in a moonlit grove.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being a total Miranda.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being judged not by the color of your skin, but by the content of your character.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being pregnant with dolphin babies.",
+      "renderHtml": false
+    },
+    {
+      "text": "Below the Waist",
+      "renderHtml": false
+    },
+    {
+      "text": "Breastfeeding a ten-year-old.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bullfrogs",
+      "renderHtml": false
+    },
+    {
+      "text": "Cancerous USAF leadership.",
+      "renderHtml": false
+    },
+    {
+      "text": "Cooties",
+      "renderHtml": false
+    },
+    {
+      "text": "Crippling status anxiety.",
+      "renderHtml": false
+    },
+    {
+      "text": "Crying babies.",
+      "renderHtml": false
+    },
+    {
+      "text": "Cute cat videos",
+      "renderHtml": false
+    },
+    {
+      "text": "Eating Tom Selleck's mustache to gain his powers.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ejaculating into ham slices and sticking them all over a woman",
+      "renderHtml": false
+    },
+    {
+      "text": "every robust healthy boy",
+      "renderHtml": false
+    },
+    {
+      "text": "Filling every orifice with butterscotch pudding.",
+      "renderHtml": false
+    },
+    {
+      "text": "Forgetting grandma's first name.",
+      "renderHtml": false
+    },
+    {
+      "text": "Generation Xers",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting all the good dick.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting skin cancer after 5 minutes at Takapuna beach",
+      "renderHtml": false
+    },
+    {
+      "text": "Growing up in Catholic school and not being better for it.",
+      "renderHtml": false
+    },
+    {
+      "text": "Gymnastic leotards that slide up your butt.",
+      "renderHtml": false
+    },
+    {
+      "text": "Impeaching \"The View.\"",
+      "renderHtml": false
+    },
+    {
+      "text": "Important votes from Down Syndrome community.",
+      "renderHtml": false
+    },
+    {
+      "text": "Kamikaze pilots.",
+      "renderHtml": false
+    },
+    {
+      "text": "likes to my facebook post",
+      "renderHtml": false
+    },
+    {
+      "text": "measureless sobbing",
+      "renderHtml": false
+    },
+    {
+      "text": "MORTAL KOMBAT.",
+      "renderHtml": false
+    },
+    {
+      "text": "Never nude orgies.",
+      "renderHtml": false
+    },
+    {
+      "text": "No more beersies",
+      "renderHtml": false
+    },
+    {
+      "text": "One weird lookin' toe.",
+      "renderHtml": false
+    },
+    {
+      "text": "our o'erhasty marriage",
+      "renderHtml": false
+    },
+    {
+      "text": "Owning and operating a Chili's franchise.",
+      "renderHtml": false
+    },
+    {
+      "text": "Peeing into everyone's mouth.",
+      "renderHtml": false
+    },
+    {
+      "text": "Put breastmilk on it.",
+      "renderHtml": false
+    },
+    {
+      "text": "Raccoon: The other, other dark meat",
+      "renderHtml": false
+    },
+    {
+      "text": "Reading the entire Harry Potter series in one week",
+      "renderHtml": false
+    },
+    {
+      "text": "Ripping fat vapes.",
+      "renderHtml": false
+    },
+    {
+      "text": "Robots with human faces",
+      "renderHtml": false
+    },
+    {
+      "text": "Setting someone on fire at Burning Man.",
+      "renderHtml": false
+    },
+    {
+      "text": "Shapeshifters.",
+      "renderHtml": false
+    },
+    {
+      "text": "Shitting an adult diaper.",
+      "renderHtml": false
+    },
+    {
+      "text": "Such a nasty group of people.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sucking all the oil out of the planet and fucking off to Mars.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sudden Poop Explosion Disease.",
+      "renderHtml": false
+    },
+    {
+      "text": "Teaching a politician how to tell the truth.",
+      "renderHtml": false
+    },
+    {
+      "text": "Texting \"lol\" to express self-consciousness.",
+      "renderHtml": false
+    },
+    {
+      "text": "The all-seeing eye",
+      "renderHtml": false
+    },
+    {
+      "text": "The amount of medals I have.",
+      "renderHtml": false
+    },
+    {
+      "text": "The color guard team captain",
+      "renderHtml": false
+    },
+    {
+      "text": "The Denver Satanic Gardens.",
+      "renderHtml": false
+    },
+    {
+      "text": "the Elder Wand",
+      "renderHtml": false
+    },
+    {
+      "text": "The Hawaiian goddess Kapo and her flying detachable vagina.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Man",
+      "renderHtml": false
+    },
+    {
+      "text": "The Pre-Nup of Allegiance.",
+      "renderHtml": false
+    },
+    {
+      "text": "The sweet sound of snot right before a cup of hot chocolate.",
+      "renderHtml": false
+    },
+    {
+      "text": "Throwing the baby out with the bathwater.",
+      "renderHtml": false
+    },
+    {
+      "text": "Totaling a manual-transmission car two seconds after trying to drive it.",
+      "renderHtml": false
+    },
+    {
+      "text": "Treating a Chihuahua like a small child and putting it in a stroller.",
+      "renderHtml": false
+    },
+    {
+      "text": "turning tricks",
+      "renderHtml": false
+    },
+    {
+      "text": "Two words: on sale",
+      "renderHtml": false
+    },
+    {
+      "text": "Unsolicited anal pleasure.",
+      "renderHtml": false
+    },
+    {
+      "text": "Walking into a room and forgetting what you were looking for.",
+      "renderHtml": false
+    },
+    {
+      "text": "Whatever, who even gives a shit.",
+      "renderHtml": false
+    }
+  ]
+}

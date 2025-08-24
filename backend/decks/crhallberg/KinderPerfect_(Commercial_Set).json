@@ -1,0 +1,1585 @@
+{
+  "order": 160,
+  "displayName": "KinderPerfect (Commercial Set)",
+  "name": "KinderPerfect_(Commercial_Set)",
+  "whiteCards": [
+    {
+      "text": "_ and _ make for the best family vacations.",
+      "pick": 2
+    },
+    {
+      "text": "_ is a timeless symbol of parenthood.",
+      "pick": 1
+    },
+    {
+      "text": "_ is the best birth control.",
+      "pick": 1
+    },
+    {
+      "text": "_ is why I am a failure as a parent.",
+      "pick": 1
+    },
+    {
+      "text": "_ is worse than _.",
+      "pick": 2
+    },
+    {
+      "text": "_ is worse than stepping on a Lego.",
+      "pick": 1
+    },
+    {
+      "text": "All I want for Christmas is a day without _.",
+      "pick": 1
+    },
+    {
+      "text": "Before kids, I never thought about _.",
+      "pick": 1
+    },
+    {
+      "text": "Box of diapers: $40.\nFood for the week: $200.\n_: priceless.",
+      "pick": 1
+    },
+    {
+      "text": "Brown bear,\nbrown bear,\nwhat do\nyou see?",
+      "pick": 1
+    },
+    {
+      "text": "Caution! _ leads to _.",
+      "pick": 2
+    },
+    {
+      "text": "Daddy's worst nightmare.",
+      "pick": 1
+    },
+    {
+      "text": "Don't judge me because of _.",
+      "pick": 1
+    },
+    {
+      "text": "Don't tell Daddy about _.",
+      "pick": 1
+    },
+    {
+      "text": "First there was a war on drugs, then a war on terrorism, what we really need is a war on _.",
+      "pick": 1
+    },
+    {
+      "text": "Have kids they said, it'll be fun they said. Instead, we got _.",
+      "pick": 1
+    },
+    {
+      "text": "How we got your little brother.",
+      "pick": 1
+    },
+    {
+      "text": "I call this hairstyle _.",
+      "pick": 1
+    },
+    {
+      "text": "I htought we were done with _.",
+      "pick": 1
+    },
+    {
+      "text": "I lie to my children about _.",
+      "pick": 1
+    },
+    {
+      "text": "I wish I could unsee _.",
+      "pick": 1
+    },
+    {
+      "text": "I would pay for someone to explain _.",
+      "pick": 1
+    },
+    {
+      "text": "I'd rather deal with _ than _.",
+      "pick": 2
+    },
+    {
+      "text": "I'm an asshole parent because _.",
+      "pick": 1
+    },
+    {
+      "text": "Junior's favorite cockblock.",
+      "pick": 1
+    },
+    {
+      "text": "My best parenting advice involves _.",
+      "pick": 1
+    },
+    {
+      "text": "My college degree did not prepare me for _.",
+      "pick": 1
+    },
+    {
+      "text": "My daughter should never know about _.",
+      "pick": 1
+    },
+    {
+      "text": "My most recent gray hair is from _.",
+      "pick": 1
+    },
+    {
+      "text": "My mother was right about _.",
+      "pick": 1
+    },
+    {
+      "text": "Next up, Daniel Tiger sings a catchy tune about _.",
+      "pick": 1
+    },
+    {
+      "text": "Normally I can cope, but _ broke me.",
+      "pick": 1
+    },
+    {
+      "text": "Oh no! The school principal just called about _.",
+      "pick": 1
+    },
+    {
+      "text": "Our code name for sex is _.",
+      "pick": 1
+    },
+    {
+      "text": "Our perfect date night ended with an argument over _.",
+      "pick": 1
+    },
+    {
+      "text": "Our perfect family evening was ruined by _.",
+      "pick": 1
+    },
+    {
+      "text": "Please don't put _ in your mouth.",
+      "pick": 1
+    },
+    {
+      "text": "Please stop _.",
+      "pick": 1
+    },
+    {
+      "text": "Pregnancy: the end of _ and the start of _.",
+      "pick": 2
+    },
+    {
+      "text": "School guidelines now prohibit _.",
+      "pick": 1
+    },
+    {
+      "text": "Sesame Street should have a show about _.",
+      "pick": 1
+    },
+    {
+      "text": "Signs that you are THAT family.",
+      "pick": 1
+    },
+    {
+      "text": "The best bedtime stories include _.",
+      "pick": 1
+    },
+    {
+      "text": "The best birthday parties have _.",
+      "pick": 1
+    },
+    {
+      "text": "The best part of being a stay-at-home parent is _.",
+      "pick": 1
+    },
+    {
+      "text": "The school field trip was ruined by _.",
+      "pick": 1
+    },
+    {
+      "text": "The two secrets to stress-free parenting are _ and _.",
+      "pick": 2
+    },
+    {
+      "text": "The two things that happen at every family reunion.",
+      "pick": 1
+    },
+    {
+      "text": "There is a new smartphone app to help with _.",
+      "pick": 1
+    },
+    {
+      "text": "Today's epic parenting fail.",
+      "pick": 1
+    },
+    {
+      "text": "Today's parenting win!",
+      "pick": 1
+    },
+    {
+      "text": "Trying to get pregnant? Try _!",
+      "pick": 1
+    },
+    {
+      "text": "We were late to school today because of _.",
+      "pick": 1
+    },
+    {
+      "text": "We were perfect parents until _.",
+      "pick": 1
+    },
+    {
+      "text": "What is keeping mommy up at night?",
+      "pick": 1
+    },
+    {
+      "text": "What is making things awkward at the PTA meeting?",
+      "pick": 1
+    },
+    {
+      "text": "What is that smell?",
+      "pick": 1
+    },
+    {
+      "text": "What the f**k is that?",
+      "pick": 1
+    },
+    {
+      "text": "What's Mom's best friend?",
+      "pick": 1
+    },
+    {
+      "text": "When I look into my child's eyes, I see _.",
+      "pick": 1
+    },
+    {
+      "text": "When my kids are grown, I will not miss _.",
+      "pick": 1
+    },
+    {
+      "text": "Why did Mommy lock herself in the bathroom?",
+      "pick": 1
+    },
+    {
+      "text": "Why didn't someone warn me about _?!",
+      "pick": 1
+    },
+    {
+      "text": "Why does Mommy drink?",
+      "pick": 1
+    },
+    {
+      "text": "Why I need therapy.",
+      "pick": 1
+    },
+    {
+      "text": "Why is Daddy in time out again?",
+      "pick": 1
+    },
+    {
+      "text": "Why is Mommy crying?",
+      "pick": 1
+    },
+    {
+      "text": "Why we are banned from Disneyland.",
+      "pick": 1
+    },
+    {
+      "text": "Why we don't want any more kids.",
+      "pick": 1
+    },
+    {
+      "text": "Why? Because _ causes _, that's why?",
+      "pick": 2
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "1am drink requests",
+      "renderHtml": false
+    },
+    {
+      "text": "1st grade social calendars",
+      "renderHtml": false
+    },
+    {
+      "text": "3 positive pregnancy tests and still not convinced",
+      "renderHtml": false
+    },
+    {
+      "text": "48 hour labor",
+      "renderHtml": false
+    },
+    {
+      "text": "6 year old with a smartphone",
+      "renderHtml": false
+    },
+    {
+      "text": "7 shoes, no pairs",
+      "renderHtml": false
+    },
+    {
+      "text": "A 3-year-old nudist",
+      "renderHtml": false
+    },
+    {
+      "text": "A Band-Aid obsession",
+      "renderHtml": false
+    },
+    {
+      "text": "A broken condom",
+      "renderHtml": false
+    },
+    {
+      "text": "A car seat covered in crushed Cheerios",
+      "renderHtml": false
+    },
+    {
+      "text": "A cheap ass Tooth Fairy",
+      "renderHtml": false
+    },
+    {
+      "text": "A crowning selfie",
+      "renderHtml": false
+    },
+    {
+      "text": "A double shot",
+      "renderHtml": false
+    },
+    {
+      "text": "A dozen toddlers on a sugar high",
+      "renderHtml": false
+    },
+    {
+      "text": "A finger-waving, hip-swaying 6-year-old princess",
+      "renderHtml": false
+    },
+    {
+      "text": "A formal goldfish funeral",
+      "renderHtml": false
+    },
+    {
+      "text": "A freezer full of breastmilk",
+      "renderHtml": false
+    },
+    {
+      "text": "A good night's sleep",
+      "renderHtml": false
+    },
+    {
+      "text": "A half-assed drawing taped to the refrigerator",
+      "renderHtml": false
+    },
+    {
+      "text": "A headless Barbie doll",
+      "renderHtml": false
+    },
+    {
+      "text": "A hot Brazilian nanny",
+      "renderHtml": false
+    },
+    {
+      "text": "A leaky vasectomy",
+      "renderHtml": false
+    },
+    {
+      "text": "A massage. Just a massage.",
+      "renderHtml": false
+    },
+    {
+      "text": "A misplaced IUD",
+      "renderHtml": false
+    },
+    {
+      "text": "A misplaced pee-pee teepee",
+      "renderHtml": false
+    },
+    {
+      "text": "A night alone with the kids",
+      "renderHtml": false
+    },
+    {
+      "text": "A participation trophy",
+      "renderHtml": false
+    },
+    {
+      "text": "A permanent marker Picasso",
+      "renderHtml": false
+    },
+    {
+      "text": "A permission slip signed in crayon",
+      "renderHtml": false
+    },
+    {
+      "text": "A Pinterest fail",
+      "renderHtml": false
+    },
+    {
+      "text": "A poop mural",
+      "renderHtml": false
+    },
+    {
+      "text": "A poopy finger",
+      "renderHtml": false
+    },
+    {
+      "text": "A poorly-planned quickie",
+      "renderHtml": false
+    },
+    {
+      "text": "A positive paternity test",
+      "renderHtml": false
+    },
+    {
+      "text": "A sea of puzzle pieces",
+      "renderHtml": false
+    },
+    {
+      "text": "A sexy fertility doctor",
+      "renderHtml": false
+    },
+    {
+      "text": "A sippy cup full of curdled milk",
+      "renderHtml": false
+    },
+    {
+      "text": "A six-month-old bag of Halloween candy",
+      "renderHtml": false
+    },
+    {
+      "text": "A smartphone in the toilet",
+      "renderHtml": false
+    },
+    {
+      "text": "A sneaky little devil",
+      "renderHtml": false
+    },
+    {
+      "text": "A sticky remote control",
+      "renderHtml": false
+    },
+    {
+      "text": "A sugar-high rampage",
+      "renderHtml": false
+    },
+    {
+      "text": "A tween who knows everything",
+      "renderHtml": false
+    },
+    {
+      "text": "A well-hung toddler",
+      "renderHtml": false
+    },
+    {
+      "text": "Accepting a Google Calendarinvite for date night",
+      "renderHtml": false
+    },
+    {
+      "text": "Adderall and apple juice",
+      "renderHtml": false
+    },
+    {
+      "text": "An angel at school and a devil at home",
+      "renderHtml": false
+    },
+    {
+      "text": "An awkward silence",
+      "renderHtml": false
+    },
+    {
+      "text": "An endless mountain of dirty clothes",
+      "renderHtml": false
+    },
+    {
+      "text": "An extra hour of screen time",
+      "renderHtml": false
+    },
+    {
+      "text": "An undescended testicle",
+      "renderHtml": false
+    },
+    {
+      "text": "Anatomically correct dolls",
+      "renderHtml": false
+    },
+    {
+      "text": "Another box of Girl Scout Cookies",
+      "renderHtml": false
+    },
+    {
+      "text": "Another damn fundraiser",
+      "renderHtml": false
+    },
+    {
+      "text": "Another damn stuffed animal",
+      "renderHtml": false
+    },
+    {
+      "text": "Another day without a bath",
+      "renderHtml": false
+    },
+    {
+      "text": "Another failed family photo",
+      "renderHtml": false
+    },
+    {
+      "text": "Another positive pregnancy test",
+      "renderHtml": false
+    },
+    {
+      "text": "Another unflushed toilet",
+      "renderHtml": false
+    },
+    {
+      "text": "Anti-vax parents",
+      "renderHtml": false
+    },
+    {
+      "text": "Baby daddy drama",
+      "renderHtml": false
+    },
+    {
+      "text": "Baby wipes for everything",
+      "renderHtml": false
+    },
+    {
+      "text": "Baking nut-free, gluten-free, vegan cupcakes at 2 AM.",
+      "renderHtml": false
+    },
+    {
+      "text": "Because I said so, dammit!",
+      "renderHtml": false
+    },
+    {
+      "text": "Beer cooler at the birthday party",
+      "renderHtml": false
+    },
+    {
+      "text": "Being someone's full-time snack bitch.",
+      "renderHtml": false
+    },
+    {
+      "text": "Benadryl at bedtime",
+      "renderHtml": false
+    },
+    {
+      "text": "Binge watching Netflix",
+      "renderHtml": false
+    },
+    {
+      "text": "Black market breastmilk",
+      "renderHtml": false
+    },
+    {
+      "text": "Blasting the radio to drown out the whining",
+      "renderHtml": false
+    },
+    {
+      "text": "Braces: the $4,000 smile",
+      "renderHtml": false
+    },
+    {
+      "text": "Breast milk coffee creamer",
+      "renderHtml": false
+    },
+    {
+      "text": "Breastfeeding in a moving car",
+      "renderHtml": false
+    },
+    {
+      "text": "Bribing your way into preschool",
+      "renderHtml": false
+    },
+    {
+      "text": "Bringing home a puppy",
+      "renderHtml": false
+    },
+    {
+      "text": "Butt cream for everything",
+      "renderHtml": false
+    },
+    {
+      "text": "Buying milk, eggs, and vodka at the grocery store",
+      "renderHtml": false
+    },
+    {
+      "text": "Buying pregnancy tests from the dollar store",
+      "renderHtml": false
+    },
+    {
+      "text": "Buying the toy to get out of the store",
+      "renderHtml": false
+    },
+    {
+      "text": "Buying your daughter's first tampons",
+      "renderHtml": false
+    },
+    {
+      "text": "Caillou, that whiny bitch",
+      "renderHtml": false
+    },
+    {
+      "text": "Catching puke with your bare hands",
+      "renderHtml": false
+    },
+    {
+      "text": "Cereal for dinner",
+      "renderHtml": false
+    },
+    {
+      "text": "Changing a diaper one-handed",
+      "renderHtml": false
+    },
+    {
+      "text": "Chasing poop in the bathtub ... again!",
+      "renderHtml": false
+    },
+    {
+      "text": "Chocolate or poop?",
+      "renderHtml": false
+    },
+    {
+      "text": "Choosing pet food over my carefully prepared dinner",
+      "renderHtml": false
+    },
+    {
+      "text": "Co-sleeping till college",
+      "renderHtml": false
+    },
+    {
+      "text": "Cockblocking bayb cries",
+      "renderHtml": false
+    },
+    {
+      "text": "Coffee, gin, and Xanax",
+      "renderHtml": false
+    },
+    {
+      "text": "Coitus interruptus",
+      "renderHtml": false
+    },
+    {
+      "text": "Common Core math",
+      "renderHtml": false
+    },
+    {
+      "text": "Conceiving on the first date",
+      "renderHtml": false
+    },
+    {
+      "text": "Crayon-colored vomit",
+      "renderHtml": false
+    },
+    {
+      "text": "Crying over spilled breast milk",
+      "renderHtml": false
+    },
+    {
+      "text": "Curse words in church",
+      "renderHtml": false
+    },
+    {
+      "text": "Daddy",
+      "renderHtml": false
+    },
+    {
+      "text": "Daddy said I could",
+      "renderHtml": false
+    },
+    {
+      "text": "Daddy's Grindr account",
+      "renderHtml": false
+    },
+    {
+      "text": "Daughter drama",
+      "renderHtml": false
+    },
+    {
+      "text": "Day drinking with Daddy",
+      "renderHtml": false
+    },
+    {
+      "text": "Day-old dirty diapers",
+      "renderHtml": false
+    },
+    {
+      "text": "Debating cartoon logic",
+      "renderHtml": false
+    },
+    {
+      "text": "Debating circumcision",
+      "renderHtml": false
+    },
+    {
+      "text": "Demon spawn",
+      "renderHtml": false
+    },
+    {
+      "text": "Diaper cream EVERYWHERE!",
+      "renderHtml": false
+    },
+    {
+      "text": "Doing child drop-off in your pajamas",
+      "renderHtml": false
+    },
+    {
+      "text": "Doing the bare ass minimum",
+      "renderHtml": false
+    },
+    {
+      "text": "Doing the Mickey Mouse Clubhouse \"Hot Dog Dance\"",
+      "renderHtml": false
+    },
+    {
+      "text": "Doing the Paw Patrol \"Pup Pup Boogie\"",
+      "renderHtml": false
+    },
+    {
+      "text": "Drinking from the dog bowl",
+      "renderHtml": false
+    },
+    {
+      "text": "Drop-off birthday parties",
+      "renderHtml": false
+    },
+    {
+      "text": "Dropping the F-bomb",
+      "renderHtml": false
+    },
+    {
+      "text": "Eating grandpa's Viagra",
+      "renderHtml": false
+    },
+    {
+      "text": "Eating the Cheerio in the toilet",
+      "renderHtml": false
+    },
+    {
+      "text": "Eating the last fruit snack",
+      "renderHtml": false
+    },
+    {
+      "text": "Eating their own weight in candy",
+      "renderHtml": false
+    },
+    {
+      "text": "Eau de baby vomit",
+      "renderHtml": false
+    },
+    {
+      "text": "Establishing playground dominance",
+      "renderHtml": false
+    },
+    {
+      "text": "Expecting a smile and getting a face full of puke",
+      "renderHtml": false
+    },
+    {
+      "text": "Explaining ejaculation",
+      "renderHtml": false
+    },
+    {
+      "text": "Explaining the Easter bunny",
+      "renderHtml": false
+    },
+    {
+      "text": "Eye rolls. So many eye rolls.",
+      "renderHtml": false
+    },
+    {
+      "text": "F**king cupcakes",
+      "renderHtml": false
+    },
+    {
+      "text": "F**king potty mouth kids",
+      "renderHtml": false
+    },
+    {
+      "text": "Farting in Target and blaming your child",
+      "renderHtml": false
+    },
+    {
+      "text": "Fifty shades of quiet",
+      "renderHtml": false
+    },
+    {
+      "text": "Finding out your nanny is a stripper",
+      "renderHtml": false
+    },
+    {
+      "text": "Flashing",
+      "renderHtml": false
+    },
+    {
+      "text": "Fluency in child gibberish",
+      "renderHtml": false
+    },
+    {
+      "text": "Flying with toddlers",
+      "renderHtml": false
+    },
+    {
+      "text": "Forgetting it's dress-up day at school",
+      "renderHtml": false
+    },
+    {
+      "text": "Forgetting to move the damn Elf on the Shelf",
+      "renderHtml": false
+    },
+    {
+      "text": "Four-week-olf French fries",
+      "renderHtml": false
+    },
+    {
+      "text": "Free birth control",
+      "renderHtml": false
+    },
+    {
+      "text": "Free range children",
+      "renderHtml": false
+    },
+    {
+      "text": "Functional alcoholism",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting caught mid-quickie",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting grandma drunk for a peaceful holiday meal",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting high before a playdate",
+      "renderHtml": false
+    },
+    {
+      "text": "Giving him the middle finger behind his back",
+      "renderHtml": false
+    },
+    {
+      "text": "Giving my child a drum set",
+      "renderHtml": false
+    },
+    {
+      "text": "Go the f**k to sleep",
+      "renderHtml": false
+    },
+    {
+      "text": "Going to Target for a mini-vacation",
+      "renderHtml": false
+    },
+    {
+      "text": "Grocery store cookies for the school bake sale",
+      "renderHtml": false
+    },
+    {
+      "text": "Handmade, locally grown organic baby food",
+      "renderHtml": false
+    },
+    {
+      "text": "Having the Tabernacle off to the side.",
+      "renderHtml": false
+    },
+    {
+      "text": "Head lice",
+      "renderHtml": false
+    },
+    {
+      "text": "Helicopter parents",
+      "renderHtml": false
+    },
+    {
+      "text": "Her first boyfriend",
+      "renderHtml": false
+    },
+    {
+      "text": "Her first period",
+      "renderHtml": false
+    },
+    {
+      "text": "Higher standards for first borns",
+      "renderHtml": false
+    },
+    {
+      "text": "Hostile dinner negotiations",
+      "renderHtml": false
+    },
+    {
+      "text": "I want to do it by myseeeeeeelf!",
+      "renderHtml": false
+    },
+    {
+      "text": "Ignoring the chore list",
+      "renderHtml": false
+    },
+    {
+      "text": "Impromptu sex education at the zoo",
+      "renderHtml": false
+    },
+    {
+      "text": "Inappropriate show and tell",
+      "renderHtml": false
+    },
+    {
+      "text": "iPad babysitter",
+      "renderHtml": false
+    },
+    {
+      "text": "It was just a concussion",
+      "renderHtml": false
+    },
+    {
+      "text": "Jack and Coke",
+      "renderHtml": false
+    },
+    {
+      "text": "Juggling ballet, soccer, swimming, and dinner on the same night",
+      "renderHtml": false
+    },
+    {
+      "text": "Kidz Bop on endless repeat",
+      "renderHtml": false
+    },
+    {
+      "text": "Lego landmines",
+      "renderHtml": false
+    },
+    {
+      "text": "Lint covered gummy bears",
+      "renderHtml": false
+    },
+    {
+      "text": "Little boy pee",
+      "renderHtml": false
+    },
+    {
+      "text": "Living on Goldfish and broken dreams",
+      "renderHtml": false
+    },
+    {
+      "text": "Losing the last of the baby weight",
+      "renderHtml": false
+    },
+    {
+      "text": "Losing their little minds over socksLying about Santa Claus",
+      "renderHtml": false
+    },
+    {
+      "text": "Mac and cheese for dinner ... again",
+      "renderHtml": false
+    },
+    {
+      "text": "Matching family outfits",
+      "renderHtml": false
+    },
+    {
+      "text": "Messy hair, don't care",
+      "renderHtml": false
+    },
+    {
+      "text": "Mimosas at the playdate",
+      "renderHtml": false
+    },
+    {
+      "text": "Mom, mommy, mommy, mom, mom, mommy, mom, MOM",
+      "renderHtml": false
+    },
+    {
+      "text": "Mommy brain",
+      "renderHtml": false
+    },
+    {
+      "text": "Mommy guilt",
+      "renderHtml": false
+    },
+    {
+      "text": "Mommy juice",
+      "renderHtml": false
+    },
+    {
+      "text": "Mommy time",
+      "renderHtml": false
+    },
+    {
+      "text": "Mommy's special toy",
+      "renderHtml": false
+    },
+    {
+      "text": "More glitter than a stripper",
+      "renderHtml": false
+    },
+    {
+      "text": "Morning wood",
+      "renderHtml": false
+    },
+    {
+      "text": "Mother-in-law advice",
+      "renderHtml": false
+    },
+    {
+      "text": "My fantasy social life",
+      "renderHtml": false
+    },
+    {
+      "text": "My non-existent sex life",
+      "renderHtml": false
+    },
+    {
+      "text": "My resting bitch face",
+      "renderHtml": false
+    },
+    {
+      "text": "My shattered dreams and aspirations",
+      "renderHtml": false
+    },
+    {
+      "text": "My unfinished baby book",
+      "renderHtml": false
+    },
+    {
+      "text": "Nap-trapped in the car",
+      "renderHtml": false
+    },
+    {
+      "text": "Never pooping alone",
+      "renderHtml": false
+    },
+    {
+      "text": "Never wanting them to grow up",
+      "renderHtml": false
+    },
+    {
+      "text": "Ninja like moves to get a toddler into their car seat",
+      "renderHtml": false
+    },
+    {
+      "text": "Niplash",
+      "renderHtml": false
+    },
+    {
+      "text": "Not giving a sh*t about the 3 second rule",
+      "renderHtml": false
+    },
+    {
+      "text": "Nothing. Absolutely nothing.",
+      "renderHtml": false
+    },
+    {
+      "text": "One too many damn kids",
+      "renderHtml": false
+    },
+    {
+      "text": "Parental advice from childless friends",
+      "renderHtml": false
+    },
+    {
+      "text": "Parenting advice from celebrities",
+      "renderHtml": false
+    },
+    {
+      "text": "Passive aggressive PTA parents",
+      "renderHtml": false
+    },
+    {
+      "text": "Paw Patrol plot holes",
+      "renderHtml": false
+    },
+    {
+      "text": "Peanut free zones",
+      "renderHtml": false
+    },
+    {
+      "text": "Peeing when you laugh",
+      "renderHtml": false
+    },
+    {
+      "text": "Peeing with an audience",
+      "renderHtml": false
+    },
+    {
+      "text": "Picture-perfect Pinterest moms",
+      "renderHtml": false
+    },
+    {
+      "text": "Placenta smoothie",
+      "renderHtml": false
+    },
+    {
+      "text": "Playground throwdown",
+      "renderHtml": false
+    },
+    {
+      "text": "Playing doctor",
+      "renderHtml": false
+    },
+    {
+      "text": "Poop. So much poop.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pooping in the car seat",
+      "renderHtml": false
+    },
+    {
+      "text": "Poopspolsions",
+      "renderHtml": false
+    },
+    {
+      "text": "Pot brownies at the PTA meeting",
+      "renderHtml": false
+    },
+    {
+      "text": "Potty training failure",
+      "renderHtml": false
+    },
+    {
+      "text": "Pregnancy sex",
+      "renderHtml": false
+    },
+    {
+      "text": "Premeditated meltdowns",
+      "renderHtml": false
+    },
+    {
+      "text": "Preschool social hierarchy",
+      "renderHtml": false
+    },
+    {
+      "text": "Pretending to give a damn",
+      "renderHtml": false
+    },
+    {
+      "text": "Pretending you're asleep so someone else will get the baby",
+      "renderHtml": false
+    },
+    {
+      "text": "Pretending your screaming kid does not belong to you",
+      "renderHtml": false
+    },
+    {
+      "text": "Projectile vomiting",
+      "renderHtml": false
+    },
+    {
+      "text": "Pumping in an airport bathroom",
+      "renderHtml": false
+    },
+    {
+      "text": "Quiet. Absolute quiet. For just five minutes.",
+      "renderHtml": false
+    },
+    {
+      "text": "Realizing your child will never earn an athletic scholarship",
+      "renderHtml": false
+    },
+    {
+      "text": "Recognizable fruit in the diaper",
+      "renderHtml": false
+    },
+    {
+      "text": "Revenge gifting annoying toys",
+      "renderHtml": false
+    },
+    {
+      "text": "Saggy post-pregnancy boobies",
+      "renderHtml": false
+    },
+    {
+      "text": "Sanctimommies",
+      "renderHtml": false
+    },
+    {
+      "text": "Saying \"I love you\" with puppy dog eyes",
+      "renderHtml": false
+    },
+    {
+      "text": "Saying no to having another child",
+      "renderHtml": false
+    },
+    {
+      "text": "School politics",
+      "renderHtml": false
+    },
+    {
+      "text": "Secretly coveting a minivan",
+      "renderHtml": false
+    },
+    {
+      "text": "Seeing Grandpa naked",
+      "renderHtml": false
+    },
+    {
+      "text": "Senseless YouTube videos",
+      "renderHtml": false
+    },
+    {
+      "text": "Shamelessly sniffing a child's butt in public",
+      "renderHtml": false
+    },
+    {
+      "text": "Sharpie lipstick",
+      "renderHtml": false
+    },
+    {
+      "text": "Shaving",
+      "renderHtml": false
+    },
+    {
+      "text": "Shaving the dog",
+      "renderHtml": false
+    },
+    {
+      "text": "Shopkins. So many Shopkins.",
+      "renderHtml": false
+    },
+    {
+      "text": "Single people sex life",
+      "renderHtml": false
+    },
+    {
+      "text": "Sketchy school bus drivers",
+      "renderHtml": false
+    },
+    {
+      "text": "Skidmark undies",
+      "renderHtml": false
+    },
+    {
+      "text": "Skipping bath time",
+      "renderHtml": false
+    },
+    {
+      "text": "Sleep deprivation",
+      "renderHtml": false
+    },
+    {
+      "text": "Smiling and pooping at the same time",
+      "renderHtml": false
+    },
+    {
+      "text": "Snot. Yeah, I think that's snot.",
+      "renderHtml": false
+    },
+    {
+      "text": "Some princess sh*t",
+      "renderHtml": false
+    },
+    {
+      "text": "Spitting up right into your open mouth",
+      "renderHtml": false
+    },
+    {
+      "text": "Stay-at-home dads",
+      "renderHtml": false
+    },
+    {
+      "text": "Staying up late to do your child's project for them",
+      "renderHtml": false
+    },
+    {
+      "text": "Sticky fingers",
+      "renderHtml": false
+    },
+    {
+      "text": "Stinky farts",
+      "renderHtml": false
+    },
+    {
+      "text": "Stop licking your sister!",
+      "renderHtml": false
+    },
+    {
+      "text": "Stop playing with your penis!",
+      "renderHtml": false
+    },
+    {
+      "text": "Stranger danger.",
+      "renderHtml": false
+    },
+    {
+      "text": "Stripping to \"Let it Go\"",
+      "renderHtml": false
+    },
+    {
+      "text": "Sunday hangovers",
+      "renderHtml": false
+    },
+    {
+      "text": "Surprise lactation",
+      "renderHtml": false
+    },
+    {
+      "text": "Taking pride in your child's grammatically correct swearing",
+      "renderHtml": false
+    },
+    {
+      "text": "Teaching a child how to hock a loogie",
+      "renderHtml": false
+    },
+    {
+      "text": "Teaching the kids how to flick boogers",
+      "renderHtml": false
+    },
+    {
+      "text": "Tequila shots before the PTA meeting",
+      "renderHtml": false
+    },
+    {
+      "text": "That crusty sock",
+      "renderHtml": false
+    },
+    {
+      "text": "That f**king Elf on a Shelf",
+      "renderHtml": false
+    },
+    {
+      "text": "That first gray pubic hair",
+      "renderHtml": false
+    },
+    {
+      "text": "That one kid. You know the one. That one.",
+      "renderHtml": false
+    },
+    {
+      "text": "That one mom. You know the one. That one.",
+      "renderHtml": false
+    },
+    {
+      "text": "That time I ran out of baby wipes",
+      "renderHtml": false
+    },
+    {
+      "text": "The \"oops child\"",
+      "renderHtml": false
+    },
+    {
+      "text": "The American Girl store",
+      "renderHtml": false
+    },
+    {
+      "text": "The apocalyptic results of a granola bar in the hands of a toddler",
+      "renderHtml": false
+    },
+    {
+      "text": "The babysitter's lip gloss",
+      "renderHtml": false
+    },
+    {
+      "text": "The back to school happy dance",
+      "renderHtml": false
+    },
+    {
+      "text": "The bedside toddler zombie stare",
+      "renderHtml": false
+    },
+    {
+      "text": "The brilliant idea to buy white carpet",
+      "renderHtml": false
+    },
+    {
+      "text": "The cost of college in 2030",
+      "renderHtml": false
+    },
+    {
+      "text": "The count of three",
+      "renderHtml": false
+    },
+    {
+      "text": "The daily power struggle",
+      "renderHtml": false
+    },
+    {
+      "text": "The dreams your mother gave up to have you",
+      "renderHtml": false
+    },
+    {
+      "text": "The emptiness where parental love should be",
+      "renderHtml": false
+    },
+    {
+      "text": "The eternal question: \"Why?\"",
+      "renderHtml": false
+    },
+    {
+      "text": "The fallout of the first crush",
+      "renderHtml": false
+    },
+    {
+      "text": "The fallout when someone steals your baby name",
+      "renderHtml": false
+    },
+    {
+      "text": "The family restroom",
+      "renderHtml": false
+    },
+    {
+      "text": "The humiliation of a child teaching me how to use an iPad",
+      "renderHtml": false
+    },
+    {
+      "text": "The last of my inheritance",
+      "renderHtml": false
+    },
+    {
+      "text": "The lies we tell our children",
+      "renderHtml": false
+    },
+    {
+      "text": "The logistics of planning a family holiday",
+      "renderHtml": false
+    },
+    {
+      "text": "The magic of Minecraft",
+      "renderHtml": false
+    },
+    {
+      "text": "The milkman's baby",
+      "renderHtml": false
+    },
+    {
+      "text": "The nightmare of 2 under 2",
+      "renderHtml": false
+    },
+    {
+      "text": "The pantsless wonder",
+      "renderHtml": false
+    },
+    {
+      "text": "The Rolls Royce of strollers",
+      "renderHtml": false
+    },
+    {
+      "text": "The second bottle of wine",
+      "renderHtml": false
+    },
+    {
+      "text": "The sex talk",
+      "renderHtml": false
+    },
+    {
+      "text": "The smug cloth diaper parent",
+      "renderHtml": false
+    },
+    {
+      "text": "The soul shattering lack of sleep",
+      "renderHtml": false
+    },
+    {
+      "text": "The sudden realization I've become my mother",
+      "renderHtml": false
+    },
+    {
+      "text": "The sweaty hand of a child",
+      "renderHtml": false
+    },
+    {
+      "text": "Their first sleepover",
+      "renderHtml": false
+    },
+    {
+      "text": "Those three magic words: \"They're at Grandma's.\"",
+      "renderHtml": false
+    },
+    {
+      "text": "Threenagers",
+      "renderHtml": false
+    },
+    {
+      "text": "Tickle fights at bedtime",
+      "renderHtml": false
+    },
+    {
+      "text": "Tiny terrorists",
+      "renderHtml": false
+    },
+    {
+      "text": "Toddler bribery",
+      "renderHtml": false
+    },
+    {
+      "text": "Toddler erections",
+      "renderHtml": false
+    },
+    {
+      "text": "Toddler leashes",
+      "renderHtml": false
+    },
+    {
+      "text": "Toilet bowl fishing",
+      "renderHtml": false
+    },
+    {
+      "text": "Toy inequality",
+      "renderHtml": false
+    },
+    {
+      "text": "Training bra shopping with dad",
+      "renderHtml": false
+    },
+    {
+      "text": "Trying again for a son",
+      "renderHtml": false
+    },
+    {
+      "text": "Tween sass",
+      "renderHtml": false
+    },
+    {
+      "text": "Two bottles of wine and a broken condom",
+      "renderHtml": false
+    },
+    {
+      "text": "Unrealistic expectations",
+      "renderHtml": false
+    },
+    {
+      "text": "Unsolicited parental advice",
+      "renderHtml": false
+    },
+    {
+      "text": "Urine fountains",
+      "renderHtml": false
+    },
+    {
+      "text": "Using the wrong sippy cup",
+      "renderHtml": false
+    },
+    {
+      "text": "Vodka bottle in the diaper bag",
+      "renderHtml": false
+    },
+    {
+      "text": "Wanting to punch Peppa Pig",
+      "renderHtml": false
+    },
+    {
+      "text": "Wanting to strangle the imaginary friend",
+      "renderHtml": false
+    },
+    {
+      "text": "Weeping with joy over the sweet sound of silence",
+      "renderHtml": false
+    },
+    {
+      "text": "Whipping out a boob",
+      "renderHtml": false
+    },
+    {
+      "text": "Wine and cheese Lunchables",
+      "renderHtml": false
+    },
+    {
+      "text": "Wine tasting after Sunday school",
+      "renderHtml": false
+    },
+    {
+      "text": "Winning the Charter School lottery",
+      "renderHtml": false
+    },
+    {
+      "text": "Wiping butts",
+      "renderHtml": false
+    },
+    {
+      "text": "Wishing you could just make a donation instead",
+      "renderHtml": false
+    },
+    {
+      "text": "Yoga pants as formal wear",
+      "renderHtml": false
+    }
+  ]
+}

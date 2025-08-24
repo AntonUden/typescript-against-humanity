@@ -1,0 +1,225 @@
+{
+  "order": 187,
+  "displayName": "The Catholic Card Game: Generations Expansion Pack",
+  "name": "The_Catholic_Card_Game_Generations_Expansion_Pack",
+  "whiteCards": [
+    {
+      "text": "_ fixed the Church after the mess that was the 1970's.",
+      "pick": 1
+    },
+    {
+      "text": "_ gets me the most likes on Instagram.",
+      "pick": 1
+    },
+    {
+      "text": "Bishop Robert Barron is lit because of _.",
+      "pick": 1
+    },
+    {
+      "text": "I cannot support _ because of its support of _.",
+      "pick": 2
+    },
+    {
+      "text": "I want to travel the country to speak about _.",
+      "pick": 1
+    },
+    {
+      "text": "I will intercede for they who are _.",
+      "pick": 1
+    },
+    {
+      "text": "I'm a pretentious Catholic because of _.",
+      "pick": 1
+    },
+    {
+      "text": "My earlybird breakfast club discusses _.",
+      "pick": 1
+    },
+    {
+      "text": "My grandkids need _.",
+      "pick": 1
+    },
+    {
+      "text": "My kid, Zedediah, always cries at church because of _.",
+      "pick": 1
+    },
+    {
+      "text": "Please, just stop _.",
+      "pick": 1
+    },
+    {
+      "text": "The bake sale goes to support _.",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "Being afraid of the word sex.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being at every daily Mass.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being married for 50 years.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being obessed with board games.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being raised up on eagles wings.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bringing my parents back to Mass.",
+      "renderHtml": false
+    },
+    {
+      "text": "Calling my body a Cathedral.",
+      "renderHtml": false
+    },
+    {
+      "text": "Catholic Feminism.",
+      "renderHtml": false
+    },
+    {
+      "text": "Chrism smelling laundry soap.",
+      "renderHtml": false
+    },
+    {
+      "text": "Clericalism.",
+      "renderHtml": false
+    },
+    {
+      "text": "Complaining.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dancing in the forest and playing in the fields.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dating strictly for marriage.",
+      "renderHtml": false
+    },
+    {
+      "text": "Felt Joy Joy Joy banners.",
+      "renderHtml": false
+    },
+    {
+      "text": "Growing up in Catholic school and not being better for it.",
+      "renderHtml": false
+    },
+    {
+      "text": "Having an eligible daughter.",
+      "renderHtml": false
+    },
+    {
+      "text": "Having carpel tunnel from too many Rosaries.",
+      "renderHtml": false
+    },
+    {
+      "text": "Having the Tabernacle off to the side.",
+      "renderHtml": false
+    },
+    {
+      "text": "Jan from the parish office.",
+      "renderHtml": false
+    },
+    {
+      "text": "Living in an old rectory with other singles.",
+      "renderHtml": false
+    },
+    {
+      "text": "Not wanting the \"Catholic\" label.",
+      "renderHtml": false
+    },
+    {
+      "text": "Overpaying for a youth ministry degree.",
+      "renderHtml": false
+    },
+    {
+      "text": "Parades for Our Lady.",
+      "renderHtml": false
+    },
+    {
+      "text": "Playing irrelevant songs at Christmas Mass.",
+      "renderHtml": false
+    },
+    {
+      "text": "Praying with my hands in the air (like I just don't care).",
+      "renderHtml": false
+    },
+    {
+      "text": "Singing Salve Regina as a lullaby.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sitting at the end of the pew so late people can't get in.",
+      "renderHtml": false
+    },
+    {
+      "text": "Starting another apostolate.",
+      "renderHtml": false
+    },
+    {
+      "text": "Starting fights with other Catholics.",
+      "renderHtml": false
+    },
+    {
+      "text": "Starting the collection during the Consecration.",
+      "renderHtml": false
+    },
+    {
+      "text": "Taking liberties in the liturgy.",
+      "renderHtml": false
+    },
+    {
+      "text": "Televangelists.",
+      "renderHtml": false
+    },
+    {
+      "text": "The forgettable Gen Xers.",
+      "renderHtml": false
+    },
+    {
+      "text": "The incredible lack of eligible men.",
+      "renderHtml": false
+    },
+    {
+      "text": "The sacristan that knows where everything is.",
+      "renderHtml": false
+    },
+    {
+      "text": "Thiniking the Latin Mass is outdated.",
+      "renderHtml": false
+    },
+    {
+      "text": "Thinking I am so profound.",
+      "renderHtml": false
+    },
+    {
+      "text": "Thinking the Novus Ordo is invalid.",
+      "renderHtml": false
+    },
+    {
+      "text": "Traveling to Jerusalem.",
+      "renderHtml": false
+    },
+    {
+      "text": "Vlogging.",
+      "renderHtml": false
+    },
+    {
+      "text": "Watching the Mass on TV.",
+      "renderHtml": false
+    },
+    {
+      "text": "Yoga to the Sorrowful Mysteries.",
+      "renderHtml": false
+    }
+  ]
+}

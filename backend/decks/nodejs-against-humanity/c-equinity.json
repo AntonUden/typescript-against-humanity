@@ -1,0 +1,802 @@
+{
+  "source": 0,
+  "order": 27,
+  "displayName": "[C] Cards Against Equinity",
+  "name": "c-equinity",
+  "whiteCards": [
+    {
+      "text": "_. That is my fetish.",
+      "pick": 1
+    },
+    {
+      "text": "When Spike is asleep, Twilight likes to read books about _.",
+      "pick": 1
+    },
+    {
+      "text": "When Luna got to the moon, she was greeted with _.",
+      "pick": 1
+    },
+    {
+      "text": "Twilight Sparkle owns far more books on _ than she'd like to admit.",
+      "pick": 1
+    },
+    {
+      "text": "Twilight got bored with the magic of friendship, and now studies the magic of _.",
+      "pick": 1
+    },
+    {
+      "text": "Today, Mayor Mare announced her official campaign position on _ and _. No pony was the least bit surprised.",
+      "pick": 2
+    },
+    {
+      "text": "To much controversy, Princess Celestia made _ illegal.",
+      "pick": 1
+    },
+    {
+      "text": "The worst mishap caused by Princess Cadance was when she made _ and _ fall in love.",
+      "pick": 2
+    },
+    {
+      "text": "The only way to get Opal in the bath is with _.",
+      "pick": 1
+    },
+    {
+      "text": "The national anthem of Equestria is _.",
+      "pick": 1
+    },
+    {
+      "text": "The Everfree forest is full of _.",
+      "pick": 1
+    },
+    {
+      "text": "The Elements of Harmony were originally the Elements of _.",
+      "pick": 1
+    },
+    {
+      "text": "Surprisingly, Canterlot has a museum of _.",
+      "pick": 1
+    },
+    {
+      "text": "Should the Elements of Harmony fail, _ is to be used as a last resort.",
+      "pick": 1
+    },
+    {
+      "text": "Super Speedy _ Squeezy 5000.",
+      "pick": 1
+    },
+    {
+      "text": "Rarity was supposed to have a song about _, but it was cut.",
+      "pick": 1
+    },
+    {
+      "text": "Rarity's latest dress design was inspired by _.",
+      "pick": 1
+    },
+    {
+      "text": "Rarity has a long forgotten line of clothing inspired by _.",
+      "pick": 1
+    },
+    {
+      "text": "Rainbow Dash received a concussion after flying into _.",
+      "pick": 1
+    },
+    {
+      "text": "Rainbow Dash is the only pony in all of Equestria who can _.",
+      "pick": 1
+    },
+    {
+      "text": "_ should _ _.",
+      "pick": 3
+    },
+    {
+      "text": "_ is best pony.",
+      "pick": 1
+    },
+    {
+      "text": "_ has won the national Equestrian award for _.",
+      "pick": 2
+    },
+    {
+      "text": "Aloe and Lotus have been experimenting with a radical treatment that utilizes the therapeutic properties of _.",
+      "pick": 1
+    },
+    {
+      "text": "After living for thousands of years Celestia can only find pleasure in _.",
+      "pick": 1
+    },
+    {
+      "text": "After a wild night of partying, Fluttershy awakens to find _ in her bed.",
+      "pick": 1
+    },
+    {
+      "text": "_? That's future Spike's problem.",
+      "pick": 1
+    },
+    {
+      "text": "After a wild night of crusading, Applebloom learned that _ was her super special talent.",
+      "pick": 1
+    },
+    {
+      "text": "CUTIE MARK CRUSADERS; _! YAY!",
+      "pick": 1
+    },
+    {
+      "text": "BUY SOME _!",
+      "pick": 1
+    },
+    {
+      "text": "Without any warning, Pinkie Pie burst into a song about _.",
+      "pick": 1
+    },
+    {
+      "text": "You're a human transported to Equestria! The first thing you'd look for is _.",
+      "pick": 1
+    },
+    {
+      "text": "Big Mac sleeps soundly whenever _ is with him.",
+      "pick": 1
+    },
+    {
+      "text": "Zecora is a well known supplier of _ and _.",
+      "pick": 2
+    },
+    {
+      "text": "And that's how Equestria was made!",
+      "pick": 1
+    },
+    {
+      "text": "Inexplicably, the only thing the parasprites wouldn't eat was _.",
+      "pick": 1
+    },
+    {
+      "text": "In a world without humans, saddles are actually made for _.",
+      "pick": 1
+    },
+    {
+      "text": "It's not a boulder! It's _!",
+      "pick": 1
+    },
+    {
+      "text": "It turns out Hitler's favorite pony was _.",
+      "pick": 1
+    },
+    {
+      "text": "I'd like to be _.",
+      "pick": 1
+    },
+    {
+      "text": "In a stroke of unparalleled evil, Discord turned _ into _.",
+      "pick": 2
+    },
+    {
+      "text": "In a fit of rage, Princess Celestia sent _ to the _ for _.",
+      "pick": 3
+    },
+    {
+      "text": "Everypony was shocked to discover that Scootaloo's cutie mark was _.",
+      "pick": 1
+    },
+    {
+      "text": "Every Morning, Princess Celestia Rises _.",
+      "pick": 1
+    },
+    {
+      "text": "I never knew what _ could be, until you all shared its _ with me.",
+      "pick": 2
+    },
+    {
+      "text": "Giggle at _!",
+      "pick": 1
+    },
+    {
+      "text": "Dear Princess Celestia, Today I learned about _. ",
+      "pick": 1
+    },
+    {
+      "text": "Daring Do and the quest for _.",
+      "pick": 1
+    },
+    {
+      "text": "Equestrian researchers have discovered that _ is The 7th Element of Harmony.",
+      "pick": 1
+    },
+    {
+      "text": "Despite everypony's expectations, Sweetie Belle's cutie mark ended up being _.",
+      "pick": 1
+    },
+    {
+      "text": "Prince Blueblood's cutie mark represents _.",
+      "pick": 1
+    },
+    {
+      "text": "Rainbow Dash has always wanted _.",
+      "pick": 1
+    },
+    {
+      "text": "Nothing makes Pinkie smile more than _.",
+      "pick": 1
+    },
+    {
+      "text": "Once upon a time, the land of Equestria was ruled by _ and _.",
+      "pick": 2
+    },
+    {
+      "text": "Ponyville is widely known for _.",
+      "pick": 1
+    },
+    {
+      "text": "Ponyville was shocked to discover _ in Fluttershy's shed.",
+      "pick": 1
+    },
+    {
+      "text": "Lauren Faust was shocked to find _ in her mailbox.",
+      "pick": 1
+    },
+    {
+      "text": "Luna didn't help in the fight against Chrysalis because she was too busy with _.",
+      "pick": 1
+    },
+    {
+      "text": "My cutie mark would be _.",
+      "pick": 1
+    },
+    {
+      "text": "Not many people know that Tara Strong is also the voice of _.",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "A giant horse cock.",
+      "renderHtml": false
+    },
+    {
+      "text": "A juice box.",
+      "renderHtml": false
+    },
+    {
+      "text": "Lesbians.",
+      "renderHtml": false
+    },
+    {
+      "text": "A tree.",
+      "renderHtml": false
+    },
+    {
+      "text": "Horn Necrosis.",
+      "renderHtml": false
+    },
+    {
+      "text": "Having hot pony sex with Bloomberg.",
+      "renderHtml": false
+    },
+    {
+      "text": "Gypsies.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting 20% cooler!",
+      "renderHtml": false
+    },
+    {
+      "text": "Gently stroking the horn.",
+      "renderHtml": false
+    },
+    {
+      "text": "Gabby Gums.",
+      "renderHtml": false
+    },
+    {
+      "text": "Futaloo.",
+      "renderHtml": false
+    },
+    {
+      "text": "Friendship.",
+      "renderHtml": false
+    },
+    {
+      "text": "Foal abuse.",
+      "renderHtml": false
+    },
+    {
+      "text": "Foodmanes.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fluttertree.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fluttershy's Shed.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Rainbow Factory.",
+      "renderHtml": false
+    },
+    {
+      "text": "My OC.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Pegasus Master Race.",
+      "renderHtml": false
+    },
+    {
+      "text": "Nightmare Moon.",
+      "renderHtml": false
+    },
+    {
+      "text": "Molestia's sex dungeon.",
+      "renderHtml": false
+    },
+    {
+      "text": "Twilight's secret clop stash.",
+      "renderHtml": false
+    },
+    {
+      "text": "THE ROYAL CANTERLOT VOICE.",
+      "renderHtml": false
+    },
+    {
+      "text": "Twilight Sparkle.",
+      "renderHtml": false
+    },
+    {
+      "text": "Manehatten.",
+      "renderHtml": false
+    },
+    {
+      "text": "Two fillies shitting into a bucket.",
+      "renderHtml": false
+    },
+    {
+      "text": "Mare Supremacy.",
+      "renderHtml": false
+    },
+    {
+      "text": "Twist.",
+      "renderHtml": false
+    },
+    {
+      "text": "Vinyl Scratch / DJ Pon-3.",
+      "renderHtml": false
+    },
+    {
+      "text": "Whipping the Earth Pony slaves.",
+      "renderHtml": false
+    },
+    {
+      "text": "Man Spike.",
+      "renderHtml": false
+    },
+    {
+      "text": "Unicorn Privilege.",
+      "renderHtml": false
+    },
+    {
+      "text": "Wolfieshy.",
+      "renderHtml": false
+    },
+    {
+      "text": "Winter Wrap Up.",
+      "renderHtml": false
+    },
+    {
+      "text": "Making Magic.",
+      "renderHtml": false
+    },
+    {
+      "text": "Wincest.",
+      "renderHtml": false
+    },
+    {
+      "text": "Zecora's meth lab.",
+      "renderHtml": false
+    },
+    {
+      "text": "Lyra Heartstrings.",
+      "renderHtml": false
+    },
+    {
+      "text": "Worst pony.",
+      "renderHtml": false
+    },
+    {
+      "text": "Magic.",
+      "renderHtml": false
+    },
+    {
+      "text": "Jappleack.",
+      "renderHtml": false
+    },
+    {
+      "text": "Joe's Donut Hole.",
+      "renderHtml": false
+    },
+    {
+      "text": "John Joseco.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hugging a pony non-sexually.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being trapped on the Moon for 1000 years.",
+      "renderHtml": false
+    },
+    {
+      "text": "Banned From Equestria (Daily).",
+      "renderHtml": false
+    },
+    {
+      "text": "Big Macintosh.",
+      "renderHtml": false
+    },
+    {
+      "text": "Best Pony.",
+      "renderHtml": false
+    },
+    {
+      "text": "Applejack.",
+      "renderHtml": false
+    },
+    {
+      "text": "Applebucking.",
+      "renderHtml": false
+    },
+    {
+      "text": "Another doughnut! With extra sprinkles!",
+      "renderHtml": false
+    },
+    {
+      "text": "Baked Bads.",
+      "renderHtml": false
+    },
+    {
+      "text": "Avasting Fluttershy's Ass.",
+      "renderHtml": false
+    },
+    {
+      "text": "Actually cumming inside Rainbow Dash.",
+      "renderHtml": false
+    },
+    {
+      "text": "An extremely horny Granny Smith.",
+      "renderHtml": false
+    },
+    {
+      "text": "An epic pony war in the distant future.",
+      "renderHtml": false
+    },
+    {
+      "text": "A sock fetish.",
+      "renderHtml": false
+    },
+    {
+      "text": "A sexy saddle.",
+      "renderHtml": false
+    },
+    {
+      "text": "A tactical sonic rainnuke.",
+      "renderHtml": false
+    },
+    {
+      "text": "A Sonic Raingasm.",
+      "renderHtml": false
+    },
+    {
+      "text": "Equestria.",
+      "renderHtml": false
+    },
+    {
+      "text": "Discord.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fillidelphia.",
+      "renderHtml": false
+    },
+    {
+      "text": "Facehoofing.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fluffy Pony.",
+      "renderHtml": false
+    },
+    {
+      "text": "Filly fiddling.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fluttershy's secret stash.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fluttershy.",
+      "renderHtml": false
+    },
+    {
+      "text": "Cupcakes.",
+      "renderHtml": false
+    },
+    {
+      "text": "Da Magicks.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dark Magicks.",
+      "renderHtml": false
+    },
+    {
+      "text": "Daring Do fanfiction.",
+      "renderHtml": false
+    },
+    {
+      "text": "Diamond Dog roleplay.",
+      "renderHtml": false
+    },
+    {
+      "text": "Derpy Hooves.",
+      "renderHtml": false
+    },
+    {
+      "text": "Cider.",
+      "renderHtml": false
+    },
+    {
+      "text": "Clopfics.",
+      "renderHtml": false
+    },
+    {
+      "text": "Clopping.",
+      "renderHtml": false
+    },
+    {
+      "text": "Crippled foals.",
+      "renderHtml": false
+    },
+    {
+      "text": "BonBon.",
+      "renderHtml": false
+    },
+    {
+      "text": "Books.",
+      "renderHtml": false
+    },
+    {
+      "text": "Celestia's Hoof.",
+      "renderHtml": false
+    },
+    {
+      "text": "Celestia's massive harem of foals.",
+      "renderHtml": false
+    },
+    {
+      "text": "A decorative toaster cozy.",
+      "renderHtml": false
+    },
+    {
+      "text": "A daisy sandwich.",
+      "renderHtml": false
+    },
+    {
+      "text": "A cutie mark.",
+      "renderHtml": false
+    },
+    {
+      "text": "A human fetish.",
+      "renderHtml": false
+    },
+    {
+      "text": "A horny stallion.",
+      "renderHtml": false
+    },
+    {
+      "text": "A hoof in the ass.",
+      "renderHtml": false
+    },
+    {
+      "text": "A racially pure Cloudsdale.",
+      "renderHtml": false
+    },
+    {
+      "text": "A mare in heat.",
+      "renderHtml": false
+    },
+    {
+      "text": "A juice box fetish.",
+      "renderHtml": false
+    },
+    {
+      "text": "Surprise.",
+      "renderHtml": false
+    },
+    {
+      "text": "Stretching those glutes.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sweetie Belle.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pinkie Pie in full latex.",
+      "renderHtml": false
+    },
+    {
+      "text": "Plot.",
+      "renderHtml": false
+    },
+    {
+      "text": "Spike's understanding of biology.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pinkie Pie.",
+      "renderHtml": false
+    },
+    {
+      "text": "Steven Magnets.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ponies wearing clothes.",
+      "renderHtml": false
+    },
+    {
+      "text": "Speaking Fancy.",
+      "renderHtml": false
+    },
+    {
+      "text": "Poison Joke.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ponies with fricken' laser beams attached to their heads!",
+      "renderHtml": false
+    },
+    {
+      "text": "Shaking Dat Plot.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sloppy clop.",
+      "renderHtml": false
+    },
+    {
+      "text": "Shipping.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pants.",
+      "renderHtml": false
+    },
+    {
+      "text": "Orphaned foals.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Moon.",
+      "renderHtml": false
+    },
+    {
+      "text": "Octavia.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Friendship Express.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pegasus wing deformities.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Grand Galloping Gala.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Great and Powerful Trixie Lulamoon.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pinkamena's hacksaw.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Cakes.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Chocolate Mousse Moose.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pinkamena Diane Pie.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sweetie Belle's virgin marshmallow pussy.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sweetie Bot.",
+      "renderHtml": false
+    },
+    {
+      "text": "That Lyra plushie.",
+      "renderHtml": false
+    },
+    {
+      "text": "That squee noise.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ponies.",
+      "renderHtml": false
+    },
+    {
+      "text": "Secretly being a changeling all along.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pony racism.",
+      "renderHtml": false
+    },
+    {
+      "text": "Scootabuse.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pony-Griffon marriage.",
+      "renderHtml": false
+    },
+    {
+      "text": "Scoot, Scoot-A-Loo.",
+      "renderHtml": false
+    },
+    {
+      "text": "Rainbow Dash.",
+      "renderHtml": false
+    },
+    {
+      "text": "Rarity.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ponychan.",
+      "renderHtml": false
+    },
+    {
+      "text": "Rainbow Crash.",
+      "renderHtml": false
+    },
+    {
+      "text": "Queen Chrysalis.",
+      "renderHtml": false
+    },
+    {
+      "text": "Raging wingboners.",
+      "renderHtml": false
+    },
+    {
+      "text": "Princess Celestia.",
+      "renderHtml": false
+    },
+    {
+      "text": "Princess Molestia.",
+      "renderHtml": false
+    },
+    {
+      "text": "Princess Luna.",
+      "renderHtml": false
+    },
+    {
+      "text": "Princess Mi Amore Cadenza.",
+      "renderHtml": false
+    }
+  ]
+}

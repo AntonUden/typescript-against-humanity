@@ -1,0 +1,658 @@
+{
+  "source": 0,
+  "order": 48,
+  "displayName": "[C] Ridiculously Stupid",
+  "name": "c-stupid",
+  "whiteCards": [
+    {
+      "text": "Who let the dogs out?",
+      "pick": 1
+    },
+    {
+      "text": "In his next movie, Will Smith saves the world from _.",
+      "pick": 1
+    },
+    {
+      "text": "_ and _ are the new hot couple.",
+      "pick": 2
+    },
+    {
+      "text": "When North Korea gets _, it will be the end of the world.",
+      "pick": 1
+    },
+    {
+      "text": "Plan a three course meal.",
+      "pick": 3
+    },
+    {
+      "text": "Tastes like _.",
+      "pick": 1
+    },
+    {
+      "text": "What will Xyzzy take over the world with?",
+      "pick": 1
+    },
+    {
+      "text": "Dustin Browder demands more _ in StarCraft&reg;.",
+      "pick": 1
+    },
+    {
+      "text": "Welcome to my secret lair on _.",
+      "pick": 1
+    },
+    {
+      "text": "Praise _!",
+      "pick": 1
+    },
+    {
+      "text": "What can you always find in between the couch cushions?",
+      "pick": 1
+    },
+    {
+      "text": "What is the next great Kickstarter project?",
+      "pick": 1
+    },
+    {
+      "text": "My life for _!",
+      "pick": 1
+    },
+    {
+      "text": "In a news conference, Obama pulled out _, to everyone's surprise.",
+      "pick": 1
+    },
+    {
+      "text": "Nights filled with _.",
+      "pick": 1
+    },
+    {
+      "text": "_ Game of the Year Edition.",
+      "pick": 1
+    },
+    {
+      "text": "What was going through Osama Bin Laden's head before he died?",
+      "pick": 1
+    },
+    {
+      "text": "The lion, the witch, and _.",
+      "pick": 1
+    },
+    {
+      "text": "In the next episode, SpongeBob gets introduced to _. ",
+      "pick": 1
+    },
+    {
+      "text": "Justin Beiber's new song is all about _.",
+      "pick": 1
+    },
+    {
+      "text": "Keith Richards enjoys _ on his food.",
+      "pick": 1
+    },
+    {
+      "text": "The new fad diet is all about making people do _ and eat _.",
+      "pick": 2
+    },
+    {
+      "text": "Grand Theft Auto&trade;: _.",
+      "pick": 1
+    },
+    {
+      "text": "The victim was found with _.",
+      "pick": 1
+    },
+    {
+      "text": "I whip my _ back and forth.",
+      "pick": 1
+    },
+    {
+      "text": "What is love without _?",
+      "pick": 1
+    },
+    {
+      "text": "_ 2012.",
+      "pick": 1
+    },
+    {
+      "text": "What is Curious George so curious about?",
+      "pick": 1
+    },
+    {
+      "text": "What is the next big sideshow attraction?",
+      "pick": 1
+    },
+    {
+      "text": "Lady Gaga has revealed her new dress will be made of _.",
+      "pick": 1
+    },
+    {
+      "text": "_ ruined many people's childhood.",
+      "pick": 1
+    },
+    {
+      "text": "Who needs college when you have _.",
+      "pick": 1
+    },
+    {
+      "text": "When short on money, you can always _.",
+      "pick": 1
+    },
+    {
+      "text": "What is literally worse than Hitler?",
+      "pick": 1
+    },
+    {
+      "text": "I wouldn't fuck _ with _'s dick.",
+      "pick": 2
+    },
+    {
+      "text": "The next Assassin's Creed game will take place in _.",
+      "pick": 1
+    },
+    {
+      "text": "In the next Punch Out!!, _ will be the secret final boss.",
+      "pick": 1
+    },
+    {
+      "text": "One does not simply walk into _.",
+      "pick": 1
+    },
+    {
+      "text": "The next pokemon will combine _ and _.",
+      "pick": 2
+    },
+    {
+      "text": "Instead of playing Cards Against Humanity, you could be _.",
+      "pick": 1
+    },
+    {
+      "text": "Who is GLaDOS's next test subject?",
+      "pick": 1
+    },
+    {
+      "text": "In his second term, Obama will rid America of _.",
+      "pick": 1
+    },
+    {
+      "text": "I never thought _ would be so enjoyable.",
+      "pick": 1
+    },
+    {
+      "text": "In the future, _ will fuel our cars.",
+      "pick": 1
+    },
+    {
+      "text": "What is Japan's national pastime?",
+      "pick": 1
+    },
+    {
+      "text": "I've got the whole world in my _.",
+      "pick": 1
+    },
+    {
+      "text": "What is the answer to life's question?",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "Mr. Fancy Pants.",
+      "renderHtml": false
+    },
+    {
+      "text": "TotalBiscuit's top hat.",
+      "renderHtml": false
+    },
+    {
+      "text": "Skullcrusher Mountain.",
+      "renderHtml": false
+    },
+    {
+      "text": "Penn and Teller.",
+      "renderHtml": false
+    },
+    {
+      "text": "An 8-ball.",
+      "renderHtml": false
+    },
+    {
+      "text": "Rule 34.",
+      "renderHtml": false
+    },
+    {
+      "text": "The smallest, whitest dick.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fruit Fuckers.",
+      "renderHtml": false
+    },
+    {
+      "text": "Beer Pong.",
+      "renderHtml": false
+    },
+    {
+      "text": "Using hot sauce as lube.",
+      "renderHtml": false
+    },
+    {
+      "text": "Smooth jazz.",
+      "renderHtml": false
+    },
+    {
+      "text": "Soviet Russia.",
+      "renderHtml": false
+    },
+    {
+      "text": "Indiana Jones.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hentai.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Columbine Shooting.",
+      "renderHtml": false
+    },
+    {
+      "text": "Mr. Hankey the Christmas Poo.",
+      "renderHtml": false
+    },
+    {
+      "text": "Two midgets stacked up pretending to be one person.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Bible.",
+      "renderHtml": false
+    },
+    {
+      "text": "Xyzzy playing around with gender roles.",
+      "renderHtml": false
+    },
+    {
+      "text": "Four Loko.",
+      "renderHtml": false
+    },
+    {
+      "text": "Mario brutally murdering Sonic.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sonic brutally murdering Mario.",
+      "renderHtml": false
+    },
+    {
+      "text": "The world's tallest midget.",
+      "renderHtml": false
+    },
+    {
+      "text": "The brown note.",
+      "renderHtml": false
+    },
+    {
+      "text": "Tits.",
+      "renderHtml": false
+    },
+    {
+      "text": "Rainbows and magic.",
+      "renderHtml": false
+    },
+    {
+      "text": "Monkeys throwing shit.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hitler's mustache.",
+      "renderHtml": false
+    },
+    {
+      "text": "ALL the things!",
+      "renderHtml": false
+    },
+    {
+      "text": "Sheepskin Condoms.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hump Day.",
+      "renderHtml": false
+    },
+    {
+      "text": "Yankee Stadium.",
+      "renderHtml": false
+    },
+    {
+      "text": "Air Bud.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hordes of zombies.",
+      "renderHtml": false
+    },
+    {
+      "text": "Donkey Shows.",
+      "renderHtml": false
+    },
+    {
+      "text": "The DK Rap.",
+      "renderHtml": false
+    },
+    {
+      "text": "Cranky Kong.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Eiffel Tower.",
+      "renderHtml": false
+    },
+    {
+      "text": "Chicken and Waffles.",
+      "renderHtml": false
+    },
+    {
+      "text": "Shag carpeting.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dirty hippies.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hey Arnold!",
+      "renderHtml": false
+    },
+    {
+      "text": "The Oculus Rift.",
+      "renderHtml": false
+    },
+    {
+      "text": "Banana Hammocks.",
+      "renderHtml": false
+    },
+    {
+      "text": "Nessie.",
+      "renderHtml": false
+    },
+    {
+      "text": "Princess Peach's Cake.",
+      "renderHtml": false
+    },
+    {
+      "text": "Shitting on the White House lawn.",
+      "renderHtml": false
+    },
+    {
+      "text": "Mountain Dew&reg; Baja Blast.",
+      "renderHtml": false
+    },
+    {
+      "text": "The tears of a college student.",
+      "renderHtml": false
+    },
+    {
+      "text": "Apples to Apples&reg;.",
+      "renderHtml": false
+    },
+    {
+      "text": "Snorting Pixie Stix.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting high on bath salts.",
+      "renderHtml": false
+    },
+    {
+      "text": "The final circle of Hell.",
+      "renderHtml": false
+    },
+    {
+      "text": "Poorly written Star Wars&reg; fan fiction.",
+      "renderHtml": false
+    },
+    {
+      "text": "Borat's one piece.",
+      "renderHtml": false
+    },
+    {
+      "text": "A 1971 Ford Pinto.",
+      "renderHtml": false
+    },
+    {
+      "text": "LOOK AT THIS PHOTOGRAPH!",
+      "renderHtml": false
+    },
+    {
+      "text": "Master Chief.",
+      "renderHtml": false
+    },
+    {
+      "text": "The shitty remains of Taco Bell&reg;.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sponge baths.",
+      "renderHtml": false
+    },
+    {
+      "text": "Walt Disney's frozen head.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hoola hoops.",
+      "renderHtml": false
+    },
+    {
+      "text": "Canadian Kindness.",
+      "renderHtml": false
+    },
+    {
+      "text": "A walrus with a beret.",
+      "renderHtml": false
+    },
+    {
+      "text": "Speedrunning life.",
+      "renderHtml": false
+    },
+    {
+      "text": "Demi Moore's bush.",
+      "renderHtml": false
+    },
+    {
+      "text": "Eating 120 White Castle burgers&reg;.",
+      "renderHtml": false
+    },
+    {
+      "text": "Blowing the President.",
+      "renderHtml": false
+    },
+    {
+      "text": "Indentured servants.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sex in your mouth.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bong hits for Jesus.",
+      "renderHtml": false
+    },
+    {
+      "text": "Quiznos&reg;.",
+      "renderHtml": false
+    },
+    {
+      "text": "Scotsmen marrying their sheep.",
+      "renderHtml": false
+    },
+    {
+      "text": "The truffle shuffle.",
+      "renderHtml": false
+    },
+    {
+      "text": "Nurse Joy.",
+      "renderHtml": false
+    },
+    {
+      "text": "Barney's rape dungeon.",
+      "renderHtml": false
+    },
+    {
+      "text": "Tickle Me Elmo.",
+      "renderHtml": false
+    },
+    {
+      "text": "Viking Metal.",
+      "renderHtml": false
+    },
+    {
+      "text": "Teh Urn.",
+      "renderHtml": false
+    },
+    {
+      "text": "Spanish soap operas.",
+      "renderHtml": false
+    },
+    {
+      "text": "Made-for-TV movies.",
+      "renderHtml": false
+    },
+    {
+      "text": "Terabytes of horse porn.",
+      "renderHtml": false
+    },
+    {
+      "text": "The hero of time.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ringworm.",
+      "renderHtml": false
+    },
+    {
+      "text": "Rich, chocolatey Ovaltine&reg;.",
+      "renderHtml": false
+    },
+    {
+      "text": "Abusive fathers.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hungry Hungry Hippos.",
+      "renderHtml": false
+    },
+    {
+      "text": "Canadian tuxedo.",
+      "renderHtml": false
+    },
+    {
+      "text": "Insane Clown Posse.",
+      "renderHtml": false
+    },
+    {
+      "text": "Nu Metal.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Wiggles.",
+      "renderHtml": false
+    },
+    {
+      "text": "Blue's Clues.",
+      "renderHtml": false
+    },
+    {
+      "text": "Kaizo Mario.",
+      "renderHtml": false
+    },
+    {
+      "text": "FrankerZ.",
+      "renderHtml": false
+    },
+    {
+      "text": "Spontaneous Combustion.",
+      "renderHtml": false
+    },
+    {
+      "text": "Kappa.",
+      "renderHtml": false
+    },
+    {
+      "text": "Blowing your hand off with a firework.",
+      "renderHtml": false
+    },
+    {
+      "text": "Duke Nukem Forever.",
+      "renderHtml": false
+    },
+    {
+      "text": "Mating season.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Ouya.",
+      "renderHtml": false
+    },
+    {
+      "text": "Jew-Fros.",
+      "renderHtml": false
+    },
+    {
+      "text": "Catdog.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hipsters on their iPhones at Starbucks.",
+      "renderHtml": false
+    },
+    {
+      "text": "A boat load of cocaine.",
+      "renderHtml": false
+    },
+    {
+      "text": "Song of Storms.",
+      "renderHtml": false
+    },
+    {
+      "text": "Gerudo Valley.",
+      "renderHtml": false
+    },
+    {
+      "text": "A giant purple dildo sword.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bill Gates pissing on Steve Jobs's grave.",
+      "renderHtml": false
+    },
+    {
+      "text": "Outsourcing jobs to India.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Mushroom Kingdom.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Hokey Pokey.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hooters.",
+      "renderHtml": false
+    },
+    {
+      "text": "Blue Waffles.",
+      "renderHtml": false
+    },
+    {
+      "text": "Lemon grenades.",
+      "renderHtml": false
+    },
+    {
+      "text": "360 no scopes.",
+      "renderHtml": false
+    }
+  ]
+}

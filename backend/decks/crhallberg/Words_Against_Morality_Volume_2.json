@@ -1,0 +1,449 @@
+{
+  "order": 202,
+  "displayName": "Words Against Morality: Volume 2",
+  "name": "Words_Against_Morality_Volume_2",
+  "whiteCards": [
+    {
+      "text": "_ has been scientifically proven to cause cancer.",
+      "pick": 1
+    },
+    {
+      "text": "_. The best way to spice up your sex life.",
+      "pick": 1
+    },
+    {
+      "text": "Amazingly, Japanese toy manufacturers have managed to make _ irresistibly cute.",
+      "pick": 1
+    },
+    {
+      "text": "Bankrupt governments around the world are turning to _ to generate additional revenue.",
+      "pick": 1
+    },
+    {
+      "text": "Brace yourselves, _ is coming.",
+      "pick": 1
+    },
+    {
+      "text": "Christian Dior's radical new perfume was inspired by the smell of _.",
+      "pick": 1
+    },
+    {
+      "text": "Don't Google _. You're gonna regret it.",
+      "pick": 1
+    },
+    {
+      "text": "Drunk Me bought _ online. Sober Me says thanks!",
+      "pick": 1
+    },
+    {
+      "text": "Exposure to _ scarred me for life.",
+      "pick": 1
+    },
+    {
+      "text": "For your crimes against the people, I hereby sentence you to _.",
+      "pick": 1
+    },
+    {
+      "text": "Friends don't let friends try _.",
+      "pick": 1
+    },
+    {
+      "text": "I blew all my money on _.",
+      "pick": 1
+    },
+    {
+      "text": "I tried baking a cake, but the directions were unclear. I ended up with _.",
+      "pick": 1
+    },
+    {
+      "text": "I was no surprised to see _ at the trailer park.",
+      "pick": 1
+    },
+    {
+      "text": "In war, there is no substitute for _.",
+      "pick": 1
+    },
+    {
+      "text": "It's dangerous to go alone! Take _.",
+      "pick": 1
+    },
+    {
+      "text": "Kids, don't talk to strangers. Especially the ones who try to give you _.",
+      "pick": 1
+    },
+    {
+      "text": "My fortune cookie said: \"_ is in your future.\"",
+      "pick": 1
+    },
+    {
+      "text": "My shrink told me _ would broaden my horizons.",
+      "pick": 1
+    },
+    {
+      "text": "Nobody knows how, or why, _ became wildly popular in Iceland.",
+      "pick": 1
+    },
+    {
+      "text": "Pixar had to cut _ from their latest movie in order to keep it G-rated.",
+      "pick": 1
+    },
+    {
+      "text": "Straight outta _.",
+      "pick": 1
+    },
+    {
+      "text": "Video games taught me important lessons about _.",
+      "pick": 1
+    },
+    {
+      "text": "What did I regrettably buy from a street vendor?",
+      "pick": 1
+    },
+    {
+      "text": "What do I not want to find in my Hot Pocket.",
+      "pick": 1
+    },
+    {
+      "text": "What is Helen Keller surprisingly good at?",
+      "pick": 1
+    },
+    {
+      "text": "What made things awkward during the orgy?",
+      "pick": 1
+    },
+    {
+      "text": "What's my fantasy?",
+      "pick": 1
+    },
+    {
+      "text": "You like my cupcakes? I made them myself. The secret ingredient is _.",
+      "pick": 1
+    },
+    {
+      "text": "You. Me. _. Now.",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "A bag of hammers.",
+      "renderHtml": false
+    },
+    {
+      "text": "A blow-up sex doll that really likes you, but just wants to be friends.",
+      "renderHtml": false
+    },
+    {
+      "text": "A box filled with horse shit.",
+      "renderHtml": false
+    },
+    {
+      "text": "A career-ending blowjob.",
+      "renderHtml": false
+    },
+    {
+      "text": "A chick whose carpet doesn't match the drapes.",
+      "renderHtml": false
+    },
+    {
+      "text": "A craigslist hook-up that went better than expected.",
+      "renderHtml": false
+    },
+    {
+      "text": "A cricket trained to chirp during awkward silences.",
+      "renderHtml": false
+    },
+    {
+      "text": "A game of Cards Against Humanity that turns into an orgy.",
+      "renderHtml": false
+    },
+    {
+      "text": "A gay security guard getting fired from his job at the sperm bank for drinking on the job.",
+      "renderHtml": false
+    },
+    {
+      "text": "A hat so nice it classes up the rest of your shitty wardrobe.",
+      "renderHtml": false
+    },
+    {
+      "text": "A light switch that doesn't do a goddamn thing.",
+      "renderHtml": false
+    },
+    {
+      "text": "A massive swastika tattoo.",
+      "renderHtml": false
+    },
+    {
+      "text": "A mobile abortion clinic.",
+      "renderHtml": false
+    },
+    {
+      "text": "A musical salute to sideboob.",
+      "renderHtml": false
+    },
+    {
+      "text": "A near-fatal pumpkin spice overdose.",
+      "renderHtml": false
+    },
+    {
+      "text": "A pregnant person.",
+      "renderHtml": false
+    },
+    {
+      "text": "a shirt that hides my man boobs",
+      "renderHtml": false
+    },
+    {
+      "text": "Accidentally shooting your girlfriend through a bathroom door.",
+      "renderHtml": false
+    },
+    {
+      "text": "An Asian invasion.",
+      "renderHtml": false
+    },
+    {
+      "text": "An ass with more dimples than a golf ball.",
+      "renderHtml": false
+    },
+    {
+      "text": "An insensitive opinion that violates your safe space.",
+      "renderHtml": false
+    },
+    {
+      "text": "Apologizing without knowing what I'm apologizing for.",
+      "renderHtml": false
+    },
+    {
+      "text": "Asking an Auschwitz survivor for her digits.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being all classy and shit.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being arrested and beaten by the fashion police for wearing white after Labor Day.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being so cool they kick you out of school.",
+      "renderHtml": false
+    },
+    {
+      "text": "Blaming whitey.",
+      "renderHtml": false
+    },
+    {
+      "text": "Booing at the Special Olympics.",
+      "renderHtml": false
+    },
+    {
+      "text": "Butt-dialing someone and leaving a voice mail consisting of farts.",
+      "renderHtml": false
+    },
+    {
+      "text": "Charles Barkley's bald head.",
+      "renderHtml": false
+    },
+    {
+      "text": "Crushing people's hopes and dreams, just for fun.",
+      "renderHtml": false
+    },
+    {
+      "text": "Crying racism every time some asks for their coffee black. (sic)",
+      "renderHtml": false
+    },
+    {
+      "text": "Crying racism when you don't get your way.",
+      "renderHtml": false
+    },
+    {
+      "text": "Darth Vader ass-fucking Leia while yelling, \"Who's your daddy?\"",
+      "renderHtml": false
+    },
+    {
+      "text": "Disastrously misunderstanding the purpose of a whale's blowhole.",
+      "renderHtml": false
+    },
+    {
+      "text": "Discovering you have a latex allergy while losing your virginity.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dismembering your business partner in the basement with a chainsaw.",
+      "renderHtml": false
+    },
+    {
+      "text": "Drinking milk on a warm summer day.",
+      "renderHtml": false
+    },
+    {
+      "text": "Driving a busload of senior citizens to the Gran Canyon.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ethiopian Hunger Strike.",
+      "renderHtml": false
+    },
+    {
+      "text": "Finding pubes in your toothpaste.",
+      "renderHtml": false
+    },
+    {
+      "text": "Finding the droids you were looking for.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fucking Communists.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting divorced over a game of Monopoly.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting hammered on vanilla extract.",
+      "renderHtml": false
+    },
+    {
+      "text": "Going to Paris to eat snails, but getting filled with slugs instead.",
+      "renderHtml": false
+    },
+    {
+      "text": "Harvesting the organs of the homeless.",
+      "renderHtml": false
+    },
+    {
+      "text": "Having your sexual partner wear a horse mask because you're not ready for real bestiality yet.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hitler's lost art school acceptance letter.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hitting it until it works.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hobbit porn starring Dildo Backends.",
+      "renderHtml": false
+    },
+    {
+      "text": "Holding in a fart on a crowded airplane.",
+      "renderHtml": false
+    },
+    {
+      "text": "Insuring your own ass.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ladies, gentlemen, and the undecided.",
+      "renderHtml": false
+    },
+    {
+      "text": "Leaving \"get a better job\" as a tip.",
+      "renderHtml": false
+    },
+    {
+      "text": "Masturbating furiously to the goriest episode of \"Attack on Titan.\"",
+      "renderHtml": false
+    },
+    {
+      "text": "My Internet search history",
+      "renderHtml": false
+    },
+    {
+      "text": "Neighbors with Benefits.",
+      "renderHtml": false
+    },
+    {
+      "text": "Only listening to Christian music.",
+      "renderHtml": false
+    },
+    {
+      "text": "Painting a house with only a potato gun and a bucket full of gerbils.",
+      "renderHtml": false
+    },
+    {
+      "text": "Parking like an asshole.",
+      "renderHtml": false
+    },
+    {
+      "text": "Peeing in two directions due to dried semen.",
+      "renderHtml": false
+    },
+    {
+      "text": "Permanent duckface.",
+      "renderHtml": false
+    },
+    {
+      "text": "Playing Spin The Bottle at a family reunion.",
+      "renderHtml": false
+    },
+    {
+      "text": "Putting glass shards in your ex's Fleshlight.",
+      "renderHtml": false
+    },
+    {
+      "text": "Rapping with a speech impediment.",
+      "renderHtml": false
+    },
+    {
+      "text": "Seeing Daddy blowing Santa Claus underneath the mistletoe.",
+      "renderHtml": false
+    },
+    {
+      "text": "Selena Gomez.",
+      "renderHtml": false
+    },
+    {
+      "text": "Setting a hobo on fire just to feel something again.",
+      "renderHtml": false
+    },
+    {
+      "text": "Setting someone on fire at Burning Man.",
+      "renderHtml": false
+    },
+    {
+      "text": "Singing \"Beauty and the Beast\" in a Mexican accent.",
+      "renderHtml": false
+    },
+    {
+      "text": "Slapping the dick right out of someone's mouth.",
+      "renderHtml": false
+    },
+    {
+      "text": "Socially acceptable genocide.",
+      "renderHtml": false
+    },
+    {
+      "text": "The countless times the Toy Story toy were forced to watch Andy masturbate.",
+      "renderHtml": false
+    },
+    {
+      "text": "The feeling of being utterly worthless.",
+      "renderHtml": false
+    },
+    {
+      "text": "The middle of a cruel winter.",
+      "renderHtml": false
+    },
+    {
+      "text": "The token white guy on any NBA team.",
+      "renderHtml": false
+    },
+    {
+      "text": "When only one half of a pair of Siamese twins wants sex.",
+      "renderHtml": false
+    },
+    {
+      "text": "Your life expectancy dropping to \"next week.\"",
+      "renderHtml": false
+    },
+    {
+      "text": "Your Mom!",
+      "renderHtml": false
+    }
+  ]
+}

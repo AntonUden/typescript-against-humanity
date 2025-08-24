@@ -1,0 +1,1933 @@
+{
+  "order": 185,
+  "displayName": "The Catholic Card Game: Base Deck",
+  "name": "The_Catholic_Card_Game_Base_Deck",
+  "whiteCards": [
+    {
+      "text": "_ helps Parish priests relax.",
+      "pick": 1
+    },
+    {
+      "text": "_ keeps me from prayer.",
+      "pick": 1
+    },
+    {
+      "text": "_ led me to _.",
+      "pick": 2
+    },
+    {
+      "text": "_, a near occasion of sin.",
+      "pick": 1
+    },
+    {
+      "text": "_, the number one reason for staying chaste.",
+      "pick": 1
+    },
+    {
+      "text": "_: the hit Catholic musical.",
+      "pick": 1
+    },
+    {
+      "text": "A Catholic's secret guilty pleasure.",
+      "pick": 1
+    },
+    {
+      "text": "A denied Gospel spoke about _.",
+      "pick": 1
+    },
+    {
+      "text": "A lesser-known Bible story is about _.",
+      "pick": 1
+    },
+    {
+      "text": "A nun's favorite thing about her order is _.",
+      "pick": 1
+    },
+    {
+      "text": "Ain't no party like a Catholic party because a Catholic party has _.",
+      "pick": 1
+    },
+    {
+      "text": "An EWTN Original Series: _.",
+      "pick": 1
+    },
+    {
+      "text": "And they'll know we are Christians by our _.",
+      "pick": 1
+    },
+    {
+      "text": "Another reason Saul was knocked off his horse on his way to Damascus.",
+      "pick": 1
+    },
+    {
+      "text": "Being Catholic is the best because of _.",
+      "pick": 1
+    },
+    {
+      "text": "Catechsism #2866 talks about _.",
+      "pick": 1
+    },
+    {
+      "text": "Catholic millenials are known for _.",
+      "pick": 1
+    },
+    {
+      "text": "Catholics are tired of talking about _ with non-Catholics.",
+      "pick": 1
+    },
+    {
+      "text": "Contemplating _ takes up a lot of my prayer time.",
+      "pick": 1
+    },
+    {
+      "text": "David's secret weapon to defeat Goliath was _.",
+      "pick": 1
+    },
+    {
+      "text": "Doubting Thomas wished he was known for _.",
+      "pick": 1
+    },
+    {
+      "text": "Every Catholic girl's dream.",
+      "pick": 1
+    },
+    {
+      "text": "I am guilty of _.",
+      "pick": 1
+    },
+    {
+      "text": "I got seven deadly sins but _ ain't one.",
+      "pick": 1
+    },
+    {
+      "text": "I hope my tithe goes to providing _ to the Church.",
+      "pick": 1
+    },
+    {
+      "text": "I saw visions of _ after _.",
+      "pick": 2
+    },
+    {
+      "text": "I will be canonized for _.",
+      "pick": 1
+    },
+    {
+      "text": "I would be the Patron Saint of _.",
+      "pick": 1
+    },
+    {
+      "text": "I would like _ for Christmas.",
+      "pick": 1
+    },
+    {
+      "text": "I'm a bad Catholic because of _.",
+      "pick": 1
+    },
+    {
+      "text": "If I started an order, it would focus on _.",
+      "pick": 1
+    },
+    {
+      "text": "In his youth, St. Augustine struggled with _.",
+      "pick": 1
+    },
+    {
+      "text": "Jesus performed the miracle of _ but it was never recorded.",
+      "pick": 1
+    },
+    {
+      "text": "Jesus specialized in _ before his public ministry.",
+      "pick": 1
+    },
+    {
+      "text": "Jesus would never be caught _.",
+      "pick": 1
+    },
+    {
+      "text": "Lord, give me purity, just not _.",
+      "pick": 1
+    },
+    {
+      "text": "Lord, I need _.",
+      "pick": 1
+    },
+    {
+      "text": "Love is patient, love is kind, love is _.",
+      "pick": 1
+    },
+    {
+      "text": "Martin Luther just couldn't wrap his head around _.",
+      "pick": 1
+    },
+    {
+      "text": "Mea Culpa, Father, I couldn't make it Mass because of _.",
+      "pick": 1
+    },
+    {
+      "text": "Mel Gibson's newest movie is titled: \"_\".",
+      "pick": 1
+    },
+    {
+      "text": "Michelangelo's newest painting is titled _.",
+      "pick": 1
+    },
+    {
+      "text": "My old, Catholic grandma is known for _.",
+      "pick": 1
+    },
+    {
+      "text": "NET Ministries uses _ to liven up their retreats.",
+      "pick": 1
+    },
+    {
+      "text": "Next, on Catholic radio, we will be talking about _.",
+      "pick": 1
+    },
+    {
+      "text": "On the 8th day, God created _.",
+      "pick": 1
+    },
+    {
+      "text": "Other things Abraham could have sacrificed.",
+      "pick": 1
+    },
+    {
+      "text": "Priests think about _ in their free time.",
+      "pick": 1
+    },
+    {
+      "text": "Records of _ are found in the Secret Vatican Archives.",
+      "pick": 1
+    },
+    {
+      "text": "Saints pray for people who struggle with _.",
+      "pick": 1
+    },
+    {
+      "text": "Seminarins talk about _ after class.",
+      "pick": 1
+    },
+    {
+      "text": "St. Nicholas brought _ to kids for Christmas for the first time.",
+      "pick": 1
+    },
+    {
+      "text": "St. Patrick didn't just drive the snakes out of Ireland, he also drove out _.",
+      "pick": 1
+    },
+    {
+      "text": "The 11th commandment is about _.",
+      "pick": 1
+    },
+    {
+      "text": "The 1th plague: _.",
+      "pick": 1
+    },
+    {
+      "text": "The best pilgrimages offer _ to its pilgrims.",
+      "pick": 1
+    },
+    {
+      "text": "The Easter Vigil Mass is so long because of _.",
+      "pick": 1
+    },
+    {
+      "text": "The hills are alive, with the sound of _!",
+      "pick": 1
+    },
+    {
+      "text": "The New Evangelizatiopn's greatest tool is _.",
+      "pick": 1
+    },
+    {
+      "text": "The newest Catholic podcast talks entirely about _.",
+      "pick": 1
+    },
+    {
+      "text": "The newest hit hymn to hit the Church is called _.",
+      "pick": 1
+    },
+    {
+      "text": "The next Council will be in response to _.",
+      "pick": 1
+    },
+    {
+      "text": "The next shrine will be built for _.",
+      "pick": 1
+    },
+    {
+      "text": "The pope is writing about _ right now.",
+      "pick": 1
+    },
+    {
+      "text": "The real reason for the Orthodox schism.",
+      "pick": 1
+    },
+    {
+      "text": "The stained glass window in the back of church is about _.",
+      "pick": 1
+    },
+    {
+      "text": "The topic of the next Paypal Encyclical.",
+      "pick": 1
+    },
+    {
+      "text": "The Youth Minister has a tattoo of _.",
+      "pick": 1
+    },
+    {
+      "text": "There will be _ in eternity.",
+      "pick": 1
+    },
+    {
+      "text": "Thing Jesus never spoke about.",
+      "pick": 1
+    },
+    {
+      "text": "We were taught about _ in Religious Ed as kids.",
+      "pick": 1
+    },
+    {
+      "text": "What Catholics are most known for to non-Catholics.",
+      "pick": 1
+    },
+    {
+      "text": "What did I bring back from Rome?",
+      "pick": 1
+    },
+    {
+      "text": "What is CS Lewis' next book about?",
+      "pick": 1
+    },
+    {
+      "text": "What is talked about at the pub?",
+      "pick": 1
+    },
+    {
+      "text": "What priests really want to talk about in the homilies.",
+      "pick": 1
+    },
+    {
+      "text": "What should I give up for Lent?",
+      "pick": 1
+    },
+    {
+      "text": "When Jesus comes again, he will talk about _ first.",
+      "pick": 1
+    },
+    {
+      "text": "You know you're Catholic when you love talking about _.",
+      "pick": 1
+    },
+    {
+      "text": "You'll find this in Heaven.",
+      "pick": 1
+    },
+    {
+      "text": "Youth Ministers love talking about _.",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "A baby dressed as the Pope,",
+      "renderHtml": false
+    },
+    {
+      "text": "A blinged out consecration bracelet.",
+      "renderHtml": false
+    },
+    {
+      "text": "A camel trying to fit through the eye of the needle.",
+      "renderHtml": false
+    },
+    {
+      "text": "A chatty cloistered nun.",
+      "renderHtml": false
+    },
+    {
+      "text": "A Christian fish tattoo.",
+      "renderHtml": false
+    },
+    {
+      "text": "A Church coordinator that rules with an iron fist.",
+      "renderHtml": false
+    },
+    {
+      "text": "A church with a broken air conditioner.",
+      "renderHtml": false
+    },
+    {
+      "text": "A dating fast.",
+      "renderHtml": false
+    },
+    {
+      "text": "A fig tree.",
+      "renderHtml": false
+    },
+    {
+      "text": "A friend who only prays in Latin.",
+      "renderHtml": false
+    },
+    {
+      "text": "A glow in the dark Rosary.",
+      "renderHtml": false
+    },
+    {
+      "text": "A grumpy spiritual director.",
+      "renderHtml": false
+    },
+    {
+      "text": "A homeschool conference.",
+      "renderHtml": false
+    },
+    {
+      "text": "A homily that goes on forever.",
+      "renderHtml": false
+    },
+    {
+      "text": "A humongous scapu;ar.",
+      "renderHtml": false
+    },
+    {
+      "text": "A lazy sacristan.",
+      "renderHtml": false
+    },
+    {
+      "text": "A Mama's boy.",
+      "renderHtml": false
+    },
+    {
+      "text": "A Mass themed tie for Dad.",
+      "renderHtml": false
+    },
+    {
+      "text": "A mom who prays to St. Jude for her child.",
+      "renderHtml": false
+    },
+    {
+      "text": "A nun who gives massages.",
+      "renderHtml": false
+    },
+    {
+      "text": "A poorly made Christian movie.",
+      "renderHtml": false
+    },
+    {
+      "text": "A prayer bouquet.",
+      "renderHtml": false
+    },
+    {
+      "text": "A private audience with the Pope.",
+      "renderHtml": false
+    },
+    {
+      "text": "A rich Franciscan.",
+      "renderHtml": false
+    },
+    {
+      "text": "A semester in Rome.",
+      "renderHtml": false
+    },
+    {
+      "text": "A short penance.",
+      "renderHtml": false
+    },
+    {
+      "text": "A silent retreat.",
+      "renderHtml": false
+    },
+    {
+      "text": "A spiffy new cardigan.",
+      "renderHtml": false
+    },
+    {
+      "text": "A super mode3st wedding dress.",
+      "renderHtml": false
+    },
+    {
+      "text": "A technicolor coat.",
+      "renderHtml": false
+    },
+    {
+      "text": "A thumbs up from St. Catherine of Siena.",
+      "renderHtml": false
+    },
+    {
+      "text": "A vow of poverty.",
+      "renderHtml": false
+    },
+    {
+      "text": "A walking Rosary.",
+      "renderHtml": false
+    },
+    {
+      "text": "Abrahams facial reaction learning he has to circumcies himself.",
+      "renderHtml": false
+    },
+    {
+      "text": "ABU fabric purses that are equal parts shame and embarrassment.",
+      "renderHtml": false
+    },
+    {
+      "text": "Accidentally doing the Sign of the Cross before a meeting at work.",
+      "renderHtml": false
+    },
+    {
+      "text": "Accidentally licking the priest's thumb.",
+      "renderHtml": false
+    },
+    {
+      "text": "Adam and Eve's wardrobe.",
+      "renderHtml": false
+    },
+    {
+      "text": "Adding a new icon to the collection.",
+      "renderHtml": false
+    },
+    {
+      "text": "Adventures in Odyssey.",
+      "renderHtml": false
+    },
+    {
+      "text": "An American saint.",
+      "renderHtml": false
+    },
+    {
+      "text": "An ATM at the back of the church.",
+      "renderHtml": false
+    },
+    {
+      "text": "An energetic church band.",
+      "renderHtml": false
+    },
+    {
+      "text": "An extra long confession.",
+      "renderHtml": false
+    },
+    {
+      "text": "An incorruptable pinky toe.",
+      "renderHtml": false
+    },
+    {
+      "text": "An overcrowded Chapel.",
+      "renderHtml": false
+    },
+    {
+      "text": "Anthony Hopkins.",
+      "renderHtml": false
+    },
+    {
+      "text": "Arguing about when the 12 days of Christmas actually occur.",
+      "renderHtml": false
+    },
+    {
+      "text": "Avoiding eye contact with the person with the collection basket.",
+      "renderHtml": false
+    },
+    {
+      "text": "Avoiding the sick during the sign of peace.",
+      "renderHtml": false
+    },
+    {
+      "text": "Baby Moses floating down the Nile.",
+      "renderHtml": false
+    },
+    {
+      "text": "Beautiful European churches.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being a fish during the parting of the Red Sea.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being afraid of snakes.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being allergic to incense.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being devoured by lions.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being first in line to board Noah's Ark.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being holier than thou.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being in 6 weddings in one year.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being in the state of Grace.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being jealous of those that know more Bible verses.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being married with 11 kids.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being named John Paul along with every other boy in the class.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being obsessed with babies.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being one flesh.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being the oldest of 9.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being the only person in the choir under 65.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being too of the world.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bishop Robert Barron.",
+      "renderHtml": false
+    },
+    {
+      "text": "Blaming Eve.",
+      "renderHtml": false
+    },
+    {
+      "text": "Blaring trumpets.",
+      "renderHtml": false
+    },
+    {
+      "text": "Blessed is She brunch.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bob the tomato.",
+      "renderHtml": false
+    },
+    {
+      "text": "Braided hair.",
+      "renderHtml": false
+    },
+    {
+      "text": "Breathing on my friends.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bringing  a sword to the earth.",
+      "renderHtml": false
+    },
+    {
+      "text": "Canonization.",
+      "renderHtml": false
+    },
+    {
+      "text": "Carpentry.",
+      "renderHtml": false
+    },
+    {
+      "text": "Casually having a wall of crucifixes as decoration.",
+      "renderHtml": false
+    },
+    {
+      "text": "Catholic memes.",
+      "renderHtml": false
+    },
+    {
+      "text": "Catholic school uniforms.",
+      "renderHtml": false
+    },
+    {
+      "text": "Catholic School.",
+      "renderHtml": false
+    },
+    {
+      "text": "CatholicMatch®",
+      "renderHtml": false
+    },
+    {
+      "text": "Causing scandal to pious ears.",
+      "renderHtml": false
+    },
+    {
+      "text": "Chalice chippers.",
+      "renderHtml": false
+    },
+    {
+      "text": "Chanting during Mass.",
+      "renderHtml": false
+    },
+    {
+      "text": "Chewing gum before Mass.",
+      "renderHtml": false
+    },
+    {
+      "text": "Christian rap.",
+      "renderHtml": false
+    },
+    {
+      "text": "Christmas and Easter Catholics.",
+      "renderHtml": false
+    },
+    {
+      "text": "Circumcisior.",
+      "renderHtml": false
+    },
+    {
+      "text": "Cold baptismal water.",
+      "renderHtml": false
+    },
+    {
+      "text": "Confirmation season.",
+      "renderHtml": false
+    },
+    {
+      "text": "Constantly being pregnant.",
+      "renderHtml": false
+    },
+    {
+      "text": "Consummation.",
+      "renderHtml": false
+    },
+    {
+      "text": "Craving Church wine.",
+      "renderHtml": false
+    },
+    {
+      "text": "Credit scores above 700.",
+      "renderHtml": false
+    },
+    {
+      "text": "Crushing on the Youth Minister.",
+      "renderHtml": false
+    },
+    {
+      "text": "Crying kids in Church.",
+      "renderHtml": false
+    },
+    {
+      "text": "Cutting of the guard's ear.",
+      "renderHtml": false
+    },
+    {
+      "text": "Daily Mass at 6:30 am.",
+      "renderHtml": false
+    },
+    {
+      "text": "Daniel in the lion's den.",
+      "renderHtml": false
+    },
+    {
+      "text": "Denial.",
+      "renderHtml": false
+    },
+    {
+      "text": "Descartes.",
+      "renderHtml": false
+    },
+    {
+      "text": "Deus Vult!",
+      "renderHtml": false
+    },
+    {
+      "text": "Dipping out after Communion.",
+      "renderHtml": false
+    },
+    {
+      "text": "Donut Sunday.",
+      "renderHtml": false
+    },
+    {
+      "text": "Drinking beer.",
+      "renderHtml": false
+    },
+    {
+      "text": "Driving a Fiat.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dropping out of seminary.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dropping the Host.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dying but miraculously getting brought back to life.",
+      "renderHtml": false
+    },
+    {
+      "text": "Eating a slice of humble pie after reading the life of any saint.",
+      "renderHtml": false
+    },
+    {
+      "text": "Eating bacon.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ending emails with a Latin sign-off.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ephesians 5.",
+      "renderHtml": false
+    },
+    {
+      "text": "Exorcism.",
+      "renderHtml": false
+    },
+    {
+      "text": "Falling asleep in the Chapel.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fasting.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fearing the Jews.",
+      "renderHtml": false
+    },
+    {
+      "text": "Feeling holy with a Bible app on my phone.",
+      "renderHtml": false
+    },
+    {
+      "text": "Finding the perfect first communion gown.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fish fries in the basement.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fishers of men.",
+      "renderHtml": false
+    },
+    {
+      "text": "Flipping tables.",
+      "renderHtml": false
+    },
+    {
+      "text": "Flirting in Catechism class.",
+      "renderHtml": false
+    },
+    {
+      "text": "Floating during prayer.",
+      "renderHtml": false
+    },
+    {
+      "text": "FOCUS missionaries.",
+      "renderHtml": false
+    },
+    {
+      "text": "Forgetting about the Novena on day 4.",
+      "renderHtml": false
+    },
+    {
+      "text": "Forgetting it's Friday right after the first bite of the burger.",
+      "renderHtml": false
+    },
+    {
+      "text": "Forgetting the words to the Apostle's Creed.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fr. Mike Schmitz.",
+      "renderHtml": false
+    },
+    {
+      "text": "Friar Tuck.",
+      "renderHtml": false
+    },
+    {
+      "text": "Gandalf's perfectly shaped eyebrows.",
+      "renderHtml": false
+    },
+    {
+      "text": "Genuflecting at the movie theater.",
+      "renderHtml": false
+    },
+    {
+      "text": "George Bailey's wonderful life.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting a new Bible.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting food poisoning after a seder meal.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting married at 21.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting my foot caught under the kneeler.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting my MRS degree.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting slain by the Spirit.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting that \"ring by spring.\"",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting to the tomb first.",
+      "renderHtml": false
+    },
+    {
+      "text": "Giving up chocolate for Lent.",
+      "renderHtml": false
+    },
+    {
+      "text": "Glooooooooooooooooooooria.",
+      "renderHtml": false
+    },
+    {
+      "text": "Gluten free Communion.",
+      "renderHtml": false
+    },
+    {
+      "text": "Going on a mission trip.",
+      "renderHtml": false
+    },
+    {
+      "text": "Gregorian Chant.",
+      "renderHtml": false
+    },
+    {
+      "text": "Gregory Peck.",
+      "renderHtml": false
+    },
+    {
+      "text": "Haivng the goal of martyrdom.",
+      "renderHtml": false
+    },
+    {
+      "text": "Having 147 prayer cards that I just can't throw away.",
+      "renderHtml": false
+    },
+    {
+      "text": "Having a day as bad as Tobit's.",
+      "renderHtml": false
+    },
+    {
+      "text": "Having a minor in Catholic Studies.",
+      "renderHtml": false
+    },
+    {
+      "text": "Having no one to shake hands with at the sign of peace.",
+      "renderHtml": false
+    },
+    {
+      "text": "Having too many Nativity sets.",
+      "renderHtml": false
+    },
+    {
+      "text": "Having visions.",
+      "renderHtml": false
+    },
+    {
+      "text": "Henry the Eighth's wives.",
+      "renderHtml": false
+    },
+    {
+      "text": "HERESY!",
+      "renderHtml": false
+    },
+    {
+      "text": "High water pants.",
+      "renderHtml": false
+    },
+    {
+      "text": "Holding hands with my crush during the Lord's prayer.",
+      "renderHtml": false
+    },
+    {
+      "text": "Holy tax collectors.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hunting for a wife.",
+      "renderHtml": false
+    },
+    {
+      "text": "Identifying too closely to young St. Augustine.",
+      "renderHtml": false
+    },
+    {
+      "text": "Inappropriate applause during Mass.",
+      "renderHtml": false
+    },
+    {
+      "text": "Invoking St. Anthony Every morning to find the keys.",
+      "renderHtml": false
+    },
+    {
+      "text": "Invoking St. Joseph of Cupertino rather than studying.",
+      "renderHtml": false
+    },
+    {
+      "text": "Isaac bargaining with Abraham to scrifice other things.",
+      "renderHtml": false
+    },
+    {
+      "text": "Jason and Crystalina Evert.",
+      "renderHtml": false
+    },
+    {
+      "text": "Jean skirts.",
+      "renderHtml": false
+    },
+    {
+      "text": "Jesuits.",
+      "renderHtml": false
+    },
+    {
+      "text": "Jesus taking the wheel.",
+      "renderHtml": false
+    },
+    {
+      "text": "Jim Caviezel.",
+      "renderHtml": false
+    },
+    {
+      "text": "John 3:16.",
+      "renderHtml": false
+    },
+    {
+      "text": "John Paul the Great Catholic University.",
+      "renderHtml": false
+    },
+    {
+      "text": "Josephite marriage.",
+      "renderHtml": false
+    },
+    {
+      "text": "Kneeling to receive communion making everyone else feel interior.",
+      "renderHtml": false
+    },
+    {
+      "text": "Knowing all the lines of The Lord of the Rings movies.",
+      "renderHtml": false
+    },
+    {
+      "text": "Knowing all the words of Silly Songs with Larry.",
+      "renderHtml": false
+    },
+    {
+      "text": "Knowing the newlyweds are no longer virgins.",
+      "renderHtml": false
+    },
+    {
+      "text": "Knowing the sign language of Jesus Loves Me.",
+      "renderHtml": false
+    },
+    {
+      "text": "Lazarus.",
+      "renderHtml": false
+    },
+    {
+      "text": "Leaving Mass early to watch the football game.",
+      "renderHtml": false
+    },
+    {
+      "text": "Leaving my mother and father and clinging to my wife.",
+      "renderHtml": false
+    },
+    {
+      "text": "Leaving room for the Holy Spirit.",
+      "renderHtml": false
+    },
+    {
+      "text": "Life Teen.",
+      "renderHtml": false
+    },
+    {
+      "text": "Listening to Matt Maher.",
+      "renderHtml": false
+    },
+    {
+      "text": "Literally having a log in my eye.",
+      "renderHtml": false
+    },
+    {
+      "text": "Little Cathiolic bookstores.",
+      "renderHtml": false
+    },
+    {
+      "text": "Liturgical dancing.",
+      "renderHtml": false
+    },
+    {
+      "text": "Liturgy of the hours.",
+      "renderHtml": false
+    },
+    {
+      "text": "Living at my parent's house until marriage.",
+      "renderHtml": false
+    },
+    {
+      "text": "Living by the motto \"modset is bottest.\"",
+      "renderHtml": false
+    },
+    {
+      "text": "Living in Community.",
+      "renderHtml": false
+    },
+    {
+      "text": "Living on a missionary budget.",
+      "renderHtml": false
+    },
+    {
+      "text": "Living under a rock.",
+      "renderHtml": false
+    },
+    {
+      "text": "Looking like an old baseball mitt.",
+      "renderHtml": false
+    },
+    {
+      "text": "Losing a WWJD bracelet and knowing that Jesus wouldn't have done that.",
+      "renderHtml": false
+    },
+    {
+      "text": "Losing count on my decade of the Rosary.",
+      "renderHtml": false
+    },
+    {
+      "text": "Loudly dropping the pew.",
+      "renderHtml": false
+    },
+    {
+      "text": "Making $5/hr as a babysitter.",
+      "renderHtml": false
+    },
+    {
+      "text": "Making a public confession.",
+      "renderHtml": false
+    },
+    {
+      "text": "Making cord Rosaries.",
+      "renderHtml": false
+    },
+    {
+      "text": "Making sure everyone knows about the Cross I bear.",
+      "renderHtml": false
+    },
+    {
+      "text": "Marian consecration.",
+      "renderHtml": false
+    },
+    {
+      "text": "Mark Wahlberg.",
+      "renderHtml": false
+    },
+    {
+      "text": "Mass lasting longer than an hour.",
+      "renderHtml": false
+    },
+    {
+      "text": "Mean people",
+      "renderHtml": false
+    },
+    {
+      "text": "Meeting the mother of the woman of my dreams.",
+      "renderHtml": false
+    },
+    {
+      "text": "Minivan envy.",
+      "renderHtml": false
+    },
+    {
+      "text": "Mistakenly asking a seminarians for confession.",
+      "renderHtml": false
+    },
+    {
+      "text": "Mom groups.",
+      "renderHtml": false
+    },
+    {
+      "text": "Mortification.",
+      "renderHtml": false
+    },
+    {
+      "text": "Mother Angelica.",
+      "renderHtml": false
+    },
+    {
+      "text": "Mother's Day.",
+      "renderHtml": false
+    },
+    {
+      "text": "Mr. Tumnus.",
+      "renderHtml": false
+    },
+    {
+      "text": "My creepy Godfather.",
+      "renderHtml": false
+    },
+    {
+      "text": "Naming kids after obscure saints no one's ever heard of.",
+      "renderHtml": false
+    },
+    {
+      "text": "Naming my grill St. Lawrence.",
+      "renderHtml": false
+    },
+    {
+      "text": "Naming twins Cain and Abel and wondering how it will turn out.",
+      "renderHtml": false
+    },
+    {
+      "text": "Natural Family Planning.",
+      "renderHtml": false
+    },
+    {
+      "text": "Needing a bigger cell phone family plan.",
+      "renderHtml": false
+    },
+    {
+      "text": "Neing trapped in the belly of a whale.",
+      "renderHtml": false
+    },
+    {
+      "text": "No intervisitation in college dorms.",
+      "renderHtml": false
+    },
+    {
+      "text": "Not being able to hear the Sermon on the Mount.",
+      "renderHtml": false
+    },
+    {
+      "text": "Not being allowed to go Trick-or-Treating.",
+      "renderHtml": false
+    },
+    {
+      "text": "Not being an animal person at the parish pet blessing.",
+      "renderHtml": false
+    },
+    {
+      "text": "Not dating within the youth group.",
+      "renderHtml": false
+    },
+    {
+      "text": "Not drinking the wine because of germs.",
+      "renderHtml": false
+    },
+    {
+      "text": "Not focusing during a Rosary.",
+      "renderHtml": false
+    },
+    {
+      "text": "Not getting exactly what I pray for.",
+      "renderHtml": false
+    },
+    {
+      "text": "Not having extra cash for the second collection.",
+      "renderHtml": false
+    },
+    {
+      "text": "Not knowing if I should hug during the sign of peace.",
+      "renderHtml": false
+    },
+    {
+      "text": "Not knowing the words of Praise and Worship songs.",
+      "renderHtml": false
+    },
+    {
+      "text": "Not wanting to be a lamb around Passover.",
+      "renderHtml": false
+    },
+    {
+      "text": "Offering it up.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pagans.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pancake breakfasts.",
+      "renderHtml": false
+    },
+    {
+      "text": "Passover.",
+      "renderHtml": false
+    },
+    {
+      "text": "Paul Ryan.",
+      "renderHtml": false
+    },
+    {
+      "text": "Peach fuzz.",
+      "renderHtml": false
+    },
+    {
+      "text": "People who pray two words ahead of everyone else.",
+      "renderHtml": false
+    },
+    {
+      "text": "Perpetual adoration.",
+      "renderHtml": false
+    },
+    {
+      "text": "Philip Rivers.",
+      "renderHtml": false
+    },
+    {
+      "text": "Plucking my eye out.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pope Emeritus Benedict XVI.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pope Francis.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pope memorabilia.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pope Peter's pinnacle papacy.",
+      "renderHtml": false
+    },
+    {
+      "text": "Praying for a future spouse.",
+      "renderHtml": false
+    },
+    {
+      "text": "Praying for an ex.",
+      "renderHtml": false
+    },
+    {
+      "text": "Praying in tongues.",
+      "renderHtml": false
+    },
+    {
+      "text": "Praying the Chaplet because it's shorter than a Rosary.",
+      "renderHtml": false
+    },
+    {
+      "text": "Praying the wrong Glory Be.",
+      "renderHtml": false
+    },
+    {
+      "text": "Praying to the saints.",
+      "renderHtml": false
+    },
+    {
+      "text": "Preparing for the flood.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pronouncing names wrong in the Prayers of the Faithful.",
+      "renderHtml": false
+    },
+    {
+      "text": "Providing and protecting.",
+      "renderHtml": false
+    },
+    {
+      "text": "Punching heretics.",
+      "renderHtml": false
+    },
+    {
+      "text": "Purgatory shortening engagements.",
+      "renderHtml": false
+    },
+    {
+      "text": "Purity rings.",
+      "renderHtml": false
+    },
+    {
+      "text": "Putting blood on the door because I am an Original Israelite.",
+      "renderHtml": false
+    },
+    {
+      "text": "Raking in cash for Confirmation.",
+      "renderHtml": false
+    },
+    {
+      "text": "Rameses.",
+      "renderHtml": false
+    },
+    {
+      "text": "Reading the Song of Solomon with my parents.",
+      "renderHtml": false
+    },
+    {
+      "text": "Realizing I left the Savior behind in the Temple.",
+      "renderHtml": false
+    },
+    {
+      "text": "Receiving Last Rites multiple times.",
+      "renderHtml": false
+    },
+    {
+      "text": "Referencing the Catechism",
+      "renderHtml": false
+    },
+    {
+      "text": "Refusing to scrifice to pagan gods.",
+      "renderHtml": false
+    },
+    {
+      "text": "Relationship milestones in the Adoration chapel.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ripping the technicolor coat.",
+      "renderHtml": false
+    },
+    {
+      "text": "Rose scented Rosaries.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sacrilege.",
+      "renderHtml": false
+    },
+    {
+      "text": "Salt of the earth.",
+      "renderHtml": false
+    },
+    {
+      "text": "Saying hi to Jesus for a friend.",
+      "renderHtml": false
+    },
+    {
+      "text": "Saying yes to the habit.",
+      "renderHtml": false
+    },
+    {
+      "text": "Scott Hahn.",
+      "renderHtml": false
+    },
+    {
+      "text": "Scouting the Church before I sit.",
+      "renderHtml": false
+    },
+    {
+      "text": "Secretly loving trashy TV.",
+      "renderHtml": false
+    },
+    {
+      "text": "Seeing a dove in Rome.",
+      "renderHtml": false
+    },
+    {
+      "text": "Seeing a saint statue in the neighbor's yard.",
+      "renderHtml": false
+    },
+    {
+      "text": "Seeing Adam naked for the first time.",
+      "renderHtml": false
+    },
+    {
+      "text": "Seeing the Transfigured Jesus and deciding to build a tent.",
+      "renderHtml": false
+    },
+    {
+      "text": "Seeing the white smoke.",
+      "renderHtml": false
+    },
+    {
+      "text": "Selling my youngest sibling for a profit.",
+      "renderHtml": false
+    },
+    {
+      "text": "Shaking the dust off my feet.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sheep locators for all those lost sheep.",
+      "renderHtml": false
+    },
+    {
+      "text": "Showing off my new prayer journal.",
+      "renderHtml": false
+    },
+    {
+      "text": "Showing up to Mass after the first reading.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sitting for the \"few\" announcements.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sitting in the back of the Church.",
+      "renderHtml": false
+    },
+    {
+      "text": "Skiing with JPII.",
+      "renderHtml": false
+    },
+    {
+      "text": "Skillet.",
+      "renderHtml": false
+    },
+    {
+      "text": "Smoking a pipe with G. K. Chesterton.",
+      "renderHtml": false
+    },
+    {
+      "text": "Socks with Birkenstocksd.",
+      "renderHtml": false
+    },
+    {
+      "text": "Speaking in a Scottish accent after watching Braveheart.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sports jerseys at Mass.",
+      "renderHtml": false
+    },
+    {
+      "text": "St. Valentine's bitter attitude towards Hallmark.",
+      "renderHtml": false
+    },
+    {
+      "text": "Standing during the Palm Sunday Gospel reading.",
+      "renderHtml": false
+    },
+    {
+      "text": "Starting a blog.",
+      "renderHtml": false
+    },
+    {
+      "text": "Stay at home dads.",
+      "renderHtml": false
+    },
+    {
+      "text": "Stealing Grandma's Magnificat.",
+      "renderHtml": false
+    },
+    {
+      "text": "Still saying \"and also with you.\"",
+      "renderHtml": false
+    },
+    {
+      "text": "Striving for holiness.",
+      "renderHtml": false
+    },
+    {
+      "text": "Striving to convert the Protestant evangelists at the door.",
+      "renderHtml": false
+    },
+    {
+      "text": "Suffocating from the incense.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sunday School.",
+      "renderHtml": false
+    },
+    {
+      "text": "Superhero movies.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sweaty hands at the Sign of Peace.",
+      "renderHtml": false
+    },
+    {
+      "text": "Taking full advantage of Fat Tuesday.",
+      "renderHtml": false
+    },
+    {
+      "text": "Taking the Bible literally.",
+      "renderHtml": false
+    },
+    {
+      "text": "Tellig personal Jesus stories.",
+      "renderHtml": false
+    },
+    {
+      "text": "The \"Friend Zone.\"",
+      "renderHtml": false
+    },
+    {
+      "text": "The altar boy who can't stay awake.",
+      "renderHtml": false
+    },
+    {
+      "text": "The attractive seminarian.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Big Bang Theory.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Book of James.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Boondock Saints.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Burning Bush.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Byzantine Rite.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Cardinal who is yearning to be Pope.",
+      "renderHtml": false
+    },
+    {
+      "text": "The catacombs.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Charismatic Renewal.",
+      "renderHtml": false
+    },
+    {
+      "text": "The choir director who loves the sound of their own voice.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Church being represesnted accurately in the news.",
+      "renderHtml": false
+    },
+    {
+      "text": "The crown of creation.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Crusades.",
+      "renderHtml": false
+    },
+    {
+      "text": "The cry room at Church.",
+      "renderHtml": false
+    },
+    {
+      "text": "The donkey wondering what on earth is happening in his manger.",
+      "renderHtml": false
+    },
+    {
+      "text": "The extraordinary form of Mass.",
+      "renderHtml": false
+    },
+    {
+      "text": "The fast dinner blessing.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Filet O'Fish™.",
+      "renderHtml": false
+    },
+    {
+      "text": "The first Lord's day dinner with future in-laws.",
+      "renderHtml": false
+    },
+    {
+      "text": "The flirt to convert movement.",
+      "renderHtml": false
+    },
+    {
+      "text": "The golden calf.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Good Samaritan.",
+      "renderHtml": false
+    },
+    {
+      "text": "The indistinguishable Ash Wednesday cross.",
+      "renderHtml": false
+    },
+    {
+      "text": "The infectious Rosary yawn.",
+      "renderHtml": false
+    },
+    {
+      "text": "The kid that stares at me in Mass.",
+      "renderHtml": false
+    },
+    {
+      "text": "The King James Bible.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Last Supper.",
+      "renderHtml": false
+    },
+    {
+      "text": "The March for Life.",
+      "renderHtml": false
+    },
+    {
+      "text": "The narrow path.",
+      "renderHtml": false
+    },
+    {
+      "text": "The one whom Jesus loved.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Passion of Christ.",
+      "renderHtml": false
+    },
+    {
+      "text": "The passive-aggressive Church lady.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Popemobile.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Prince of Egypt.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Protestant Reformation.",
+      "renderHtml": false
+    },
+    {
+      "text": "The real father.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Resurrection.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Rock of the Church.",
+      "renderHtml": false
+    },
+    {
+      "text": "The sacrifical giving talk during a homily.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Scarlet and the Black.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Second Vatican Council.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Sex Talk.",
+      "renderHtml": false
+    },
+    {
+      "text": "The sin of Simony.",
+      "renderHtml": false
+    },
+    {
+      "text": "The statue of David.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Summa Theologica.",
+      "renderHtml": false
+    },
+    {
+      "text": "The three wise men getting into a scuffle.",
+      "renderHtml": false
+    },
+    {
+      "text": "The tomb of St. Peter.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Tower of Babel.",
+      "renderHtml": false
+    },
+    {
+      "text": "The visiting priest that barely speaks English.",
+      "renderHtml": false
+    },
+    {
+      "text": "The walls of Jericho.",
+      "renderHtml": false
+    },
+    {
+      "text": "The woman who sings loudly out of key.",
+      "renderHtml": false
+    },
+    {
+      "text": "The worm that ate Jonah's plant.",
+      "renderHtml": false
+    },
+    {
+      "text": "The youth.",
+      "renderHtml": false
+    },
+    {
+      "text": "Theologians with beards.",
+      "renderHtml": false
+    },
+    {
+      "text": "Theology on Tap.",
+      "renderHtml": false
+    },
+    {
+      "text": "Thinking Brother Sun, Sister Moon was a good movie.",
+      "renderHtml": false
+    },
+    {
+      "text": "Thinking Harry Potter is the devil.",
+      "renderHtml": false
+    },
+    {
+      "text": "Thomas Aquinas' haircut.",
+      "renderHtml": false
+    },
+    {
+      "text": "Tithing less than 10%.",
+      "renderHtml": false
+    },
+    {
+      "text": "Too much holy water on my fingers.",
+      "renderHtml": false
+    },
+    {
+      "text": "Transubstantiation.",
+      "renderHtml": false
+    },
+    {
+      "text": "Tripping while bringing up the gifts.",
+      "renderHtml": false
+    },
+    {
+      "text": "Trying not to stare at the Knights of Columbus feather hats.",
+      "renderHtml": false
+    },
+    {
+      "text": "Trying to explain the Trinity.",
+      "renderHtml": false
+    },
+    {
+      "text": "Trying to stay in the state of grace in the parking lot.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ugy Church websites.",
+      "renderHtml": false
+    },
+    {
+      "text": "Using a big rock altar on retreat.",
+      "renderHtml": false
+    },
+    {
+      "text": "Vacation Bible School.",
+      "renderHtml": false
+    },
+    {
+      "text": "Val Kilmer as God.",
+      "renderHtml": false
+    },
+    {
+      "text": "Voting got a thrid-party.",
+      "renderHtml": false
+    },
+    {
+      "text": "Waiting for the flower after finishing the Novena to St. Therese.",
+      "renderHtml": false
+    },
+    {
+      "text": "Waking up at 5 am to pray.",
+      "renderHtml": false
+    },
+    {
+      "text": "Walking on water.",
+      "renderHtml": false
+    },
+    {
+      "text": "Walking the Camino.",
+      "renderHtml": false
+    },
+    {
+      "text": "Wandering in the desert.",
+      "renderHtml": false
+    },
+    {
+      "text": "Wanting more descendants than stars in the sky.",
+      "renderHtml": false
+    },
+    {
+      "text": "Wanting the birthright of the firstborn.",
+      "renderHtml": false
+    },
+    {
+      "text": "Wanting the stigmata, but not really.",
+      "renderHtml": false
+    },
+    {
+      "text": "Washing feet with toe fungus.",
+      "renderHtml": false
+    },
+    {
+      "text": "Watching the Exorcist while babysitting.",
+      "renderHtml": false
+    },
+    {
+      "text": "Weak Church coffee.",
+      "renderHtml": false
+    },
+    {
+      "text": "Wearing so many miraculous medals it causes a headache.",
+      "renderHtml": false
+    },
+    {
+      "text": "Whispering \"sinner\" at people on the street.",
+      "renderHtml": false
+    },
+    {
+      "text": "Winning a goldfish at the church festival.",
+      "renderHtml": false
+    },
+    {
+      "text": "Wondering where dinosaurs fit in with the Creation story.",
+      "renderHtml": false
+    },
+    {
+      "text": "Zacchaeus.",
+      "renderHtml": false
+    },
+    {
+      "text": "Zmoses' pet quail.",
+      "renderHtml": false
+    }
+  ]
+}

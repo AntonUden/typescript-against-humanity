@@ -1,0 +1,1438 @@
+{
+  "source": 0,
+  "order": 37,
+  "displayName": "[C] Hackers Against Humanity",
+  "name": "HACK",
+  "whiteCards": [
+    {
+      "text": "/r/ _.",
+      "pick": 1
+    },
+    {
+      "text": "The Ada Initiative is now attacking _.",
+      "pick": 1
+    },
+    {
+      "text": "Not another _ in the hotel elevator!",
+      "pick": 1
+    },
+    {
+      "text": "Closing Ceremonies drinking game: Every time _ is mentioned... DRINK!",
+      "pick": 1
+    },
+    {
+      "text": "In a Congressional hearing, US CYBERCOM commander Gen. Alexander claimed the latest data breach was due to _.",
+      "pick": 1
+    },
+    {
+      "text": "The Maker Faire was unexpectedly interrupted by _.",
+      "pick": 1
+    },
+    {
+      "text": "Do you even _?",
+      "pick": 1
+    },
+    {
+      "text": "Come to the dark side, we have _.",
+      "pick": 1
+    },
+    {
+      "text": "Y U NO _!!!!!",
+      "pick": 1
+    },
+    {
+      "text": "While alone in the server room I _.",
+      "pick": 1
+    },
+    {
+      "text": "When I get drunk I am an expert on _",
+      "pick": 1
+    },
+    {
+      "text": "Well, guess what? I've got a fever, and the only prescription is more _.",
+      "pick": 1
+    },
+    {
+      "text": "We should take _ and push it _.",
+      "pick": 2
+    },
+    {
+      "text": "We decided to _ to raise money for the EFF.",
+      "pick": 1
+    },
+    {
+      "text": "TSA wouldn't allow me through because of my _.",
+      "pick": 1
+    },
+    {
+      "text": "Tonight's Final Hacker Jeopardy category will be _!",
+      "pick": 1
+    },
+    {
+      "text": "Today's PaulDotCom podcast featured _.",
+      "pick": 1
+    },
+    {
+      "text": "These are not the _ you are looking for.",
+      "pick": 1
+    },
+    {
+      "text": "The snozberries taste like _.",
+      "pick": 1
+    },
+    {
+      "text": "The only winning move is to _.",
+      "pick": 1
+    },
+    {
+      "text": "The next cyber war will feature _.",
+      "pick": 1
+    },
+    {
+      "text": "The best part of Alexis Park was all the _.",
+      "pick": 1
+    },
+    {
+      "text": "So long and thanks for all the _.",
+      "pick": 1
+    },
+    {
+      "text": "Security through obscurity is better than _.",
+      "pick": 1
+    },
+    {
+      "text": "Rule 34 _.",
+      "pick": 1
+    },
+    {
+      "text": "Rock, Paper, Scissors, Lizard, _.",
+      "pick": 1
+    },
+    {
+      "text": "Our most powerful weapon for the Zombie Apocalypse will be _.",
+      "pick": 1
+    },
+    {
+      "text": "Only half of programming is coding. The other 90% is _.",
+      "pick": 1
+    },
+    {
+      "text": "One does not simply _.",
+      "pick": 1
+    },
+    {
+      "text": "On the Internet, no one can tell you're _.",
+      "pick": 1
+    },
+    {
+      "text": "Occupy _.",
+      "pick": 1
+    },
+    {
+      "text": "Next year's scavenger hunt is rumored to include finding a _ with a _.",
+      "pick": 2
+    },
+    {
+      "text": "Next time we meet we should _.",
+      "pick": 1
+    },
+    {
+      "text": "My extremely large _ is what makes me better than you.",
+      "pick": 1
+    },
+    {
+      "text": "My _ brings all the _ to the yard.",
+      "pick": 2
+    },
+    {
+      "text": "Most hackers smell like _.",
+      "pick": 1
+    },
+    {
+      "text": "Las Vegas is best known for _.",
+      "pick": 1
+    },
+    {
+      "text": "Keep calm and _.",
+      "pick": 1
+    },
+    {
+      "text": "It's dangerous to go alone. Take _.",
+      "pick": 1
+    },
+    {
+      "text": "It smells like _ in this room.",
+      "pick": 1
+    },
+    {
+      "text": "In a shocking move Archive.org decided to NOT back up _.",
+      "pick": 1
+    },
+    {
+      "text": "I'mma let you finish but _ is the best _ of all time.",
+      "pick": 2
+    },
+    {
+      "text": "I'm fucking tired of hearing about _.",
+      "pick": 1
+    },
+    {
+      "text": "I would be doing more with my life, except for this _ in the way.",
+      "pick": 1
+    },
+    {
+      "text": "I work 80 hours a week and still can't afford a _.",
+      "pick": 1
+    },
+    {
+      "text": "I used to be a hacker like you, until I took a(n) _ to the knee.",
+      "pick": 1
+    },
+    {
+      "text": "I use _ to secure all of my personal data.",
+      "pick": 1
+    },
+    {
+      "text": "I spotted the fed and all I got was _.",
+      "pick": 1
+    },
+    {
+      "text": "I look like a geeky hacker, but I don't know anything about _.",
+      "pick": 1
+    },
+    {
+      "text": "I have the biggest _, ever!",
+      "pick": 1
+    },
+    {
+      "text": "I find your lack of _ disturbing.",
+      "pick": 1
+    },
+    {
+      "text": "I can't believe they rejected my talk on _.",
+      "pick": 1
+    },
+    {
+      "text": "I can haz _.",
+      "pick": 1
+    },
+    {
+      "text": "HOLY _ BATMAN!!",
+      "pick": 1
+    },
+    {
+      "text": "High Tech start-up company combines _ with _.",
+      "pick": 2
+    },
+    {
+      "text": "Go home _, you're drunk.",
+      "pick": 1
+    },
+    {
+      "text": "Go Go Gadget _!",
+      "pick": 1
+    },
+    {
+      "text": "Drink all the _. Hack all the _.",
+      "pick": 2
+    },
+    {
+      "text": "Def Con Kids will now focus on teaching young hackers _.",
+      "pick": 1
+    },
+    {
+      "text": "Confession Bear Says: _",
+      "pick": 1
+    },
+    {
+      "text": "But does _ run NetBSD?",
+      "pick": 1
+    },
+    {
+      "text": "Am I the only one around here who _.",
+      "pick": 1
+    },
+    {
+      "text": "All I did was _ but someone gave me a red card.",
+      "pick": 1
+    },
+    {
+      "text": "35% of all hackers have to deal with _.",
+      "pick": 1
+    },
+    {
+      "text": "_. There's an app for that.",
+      "pick": 1
+    },
+    {
+      "text": "_. This is why I can't have nice things!",
+      "pick": 1
+    },
+    {
+      "text": "_: You keep using that term. I do not think it means what you think it means.",
+      "pick": 1
+    },
+    {
+      "text": "_ is now outsourced to call centers in India.",
+      "pick": 1
+    },
+    {
+      "text": "_ shot first.",
+      "pick": 1
+    },
+    {
+      "text": "_ Killed the barrel roll",
+      "pick": 1
+    },
+    {
+      "text": "_ A'int Nobody Got Time For Dat!!",
+      "pick": 1
+    },
+    {
+      "text": "_ Put a bird on it!",
+      "pick": 1
+    },
+    {
+      "text": "_ makes me puke rainbows.",
+      "pick": 1
+    },
+    {
+      "text": "_ is also monitored by Prism.",
+      "pick": 1
+    },
+    {
+      "text": "_ is what keeps us together.",
+      "pick": 1
+    },
+    {
+      "text": "_ is a better replacement for crypto.",
+      "pick": 1
+    },
+    {
+      "text": "_ riding a Segway",
+      "pick": 1
+    },
+    {
+      "text": "One day, over my fireplace, I'm going to have a massive painting of _. You know, to remind me where I came from.",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "Zero F**K's Given!",
+      "renderHtml": false
+    },
+    {
+      "text": "Windows update",
+      "renderHtml": false
+    },
+    {
+      "text": "Wilfrord Brimley's Mustache",
+      "renderHtml": false
+    },
+    {
+      "text": "Wikileaks",
+      "renderHtml": false
+    },
+    {
+      "text": "Why not Zoidberg?!",
+      "renderHtml": false
+    },
+    {
+      "text": "White Shirt",
+      "renderHtml": false
+    },
+    {
+      "text": "Warp core breach",
+      "renderHtml": false
+    },
+    {
+      "text": "W.O.P.R.",
+      "renderHtml": false
+    },
+    {
+      "text": "Vinyl Vanna",
+      "renderHtml": false
+    },
+    {
+      "text": "Vegas 2.0",
+      "renderHtml": false
+    },
+    {
+      "text": "Using 4Chan for parenting advice",
+      "renderHtml": false
+    },
+    {
+      "text": "User Error",
+      "renderHtml": false
+    },
+    {
+      "text": "Undercover NBC DateLine Reporter",
+      "renderHtml": false
+    },
+    {
+      "text": "UDP Handshake",
+      "renderHtml": false
+    },
+    {
+      "text": "Two Girls One Cup",
+      "renderHtml": false
+    },
+    {
+      "text": "Truffle Shuffle",
+      "renderHtml": false
+    },
+    {
+      "text": "Trigger word",
+      "renderHtml": false
+    },
+    {
+      "text": "Tractor Beam",
+      "renderHtml": false
+    },
+    {
+      "text": "Toxic BBQ",
+      "renderHtml": false
+    },
+    {
+      "text": "I'm a text",
+      "renderHtml": false
+    },
+    {
+      "text": "Tongue punch that fart box, boy",
+      "renderHtml": false
+    },
+    {
+      "text": "TL;DR",
+      "renderHtml": false
+    },
+    {
+      "text": "Threat modeling",
+      "renderHtml": false
+    },
+    {
+      "text": "Throat Punching",
+      "renderHtml": false
+    },
+    {
+      "text": "There's talks at DEF CON?",
+      "renderHtml": false
+    },
+    {
+      "text": "The Spanish Inquisition",
+      "renderHtml": false
+    },
+    {
+      "text": "The smell of glitter and lost dreams",
+      "renderHtml": false
+    },
+    {
+      "text": "The plan was to crowd source a plan",
+      "renderHtml": false
+    },
+    {
+      "text": "The fractured elements of her psyche reassembled themselves into an exact likeness of a snarling ferret and she self-destructed",
+      "renderHtml": false
+    },
+    {
+      "text": "The asshole sitting to my right.",
+      "renderHtml": false
+    },
+    {
+      "text": "The asshole sitting to my left",
+      "renderHtml": false
+    },
+    {
+      "text": "That's What ~ She",
+      "renderHtml": false
+    },
+    {
+      "text": "That's Racist!",
+      "renderHtml": false
+    },
+    {
+      "text": "That place where I put that thing that time.",
+      "renderHtml": false
+    },
+    {
+      "text": "That just happened and we let that happen.",
+      "renderHtml": false
+    },
+    {
+      "text": "Tentacle Porn",
+      "renderHtml": false
+    },
+    {
+      "text": "TARDIS",
+      "renderHtml": false
+    },
+    {
+      "text": "Sweat, anger and shame",
+      "renderHtml": false
+    },
+    {
+      "text": "Stolen laptops",
+      "renderHtml": false
+    },
+    {
+      "text": "Sticky keyboard",
+      "renderHtml": false
+    },
+    {
+      "text": "Steve Wozniak",
+      "renderHtml": false
+    },
+    {
+      "text": "Steampunk",
+      "renderHtml": false
+    },
+    {
+      "text": "SRDF (Self Righteous Dick Face)",
+      "renderHtml": false
+    },
+    {
+      "text": "Squirrel",
+      "renderHtml": false
+    },
+    {
+      "text": "Spyware",
+      "renderHtml": false
+    },
+    {
+      "text": "Spotting a FED",
+      "renderHtml": false
+    },
+    {
+      "text": "SPAM with Bacon",
+      "renderHtml": false
+    },
+    {
+      "text": "Something something danger zone. I know. I'm not even trying anymore.",
+      "renderHtml": false
+    },
+    {
+      "text": "Spacedicks",
+      "renderHtml": false
+    },
+    {
+      "text": "Slow Clap",
+      "renderHtml": false
+    },
+    {
+      "text": "Six gummy bears and some scotch",
+      "renderHtml": false
+    },
+    {
+      "text": "Situational awareness",
+      "renderHtml": false
+    },
+    {
+      "text": "Shut up and take my money",
+      "renderHtml": false
+    },
+    {
+      "text": "Schr&ouml;dinger's cat",
+      "renderHtml": false
+    },
+    {
+      "text": "Shenanigans",
+      "renderHtml": false
+    },
+    {
+      "text": "Security theater",
+      "renderHtml": false
+    },
+    {
+      "text": "Security Evangelist",
+      "renderHtml": false
+    },
+    {
+      "text": "Security by obscurity",
+      "renderHtml": false
+    },
+    {
+      "text": "Script kiddies",
+      "renderHtml": false
+    },
+    {
+      "text": "Said no one ever!",
+      "renderHtml": false
+    },
+    {
+      "text": "Sabu",
+      "renderHtml": false
+    },
+    {
+      "text": "Running backwards through a corn field",
+      "renderHtml": false
+    },
+    {
+      "text": "Rule 34",
+      "renderHtml": false
+    },
+    {
+      "text": "Ruby on Rails",
+      "renderHtml": false
+    },
+    {
+      "text": "Rolling Natural 20's",
+      "renderHtml": false
+    },
+    {
+      "text": "ROFLCOPTER",
+      "renderHtml": false
+    },
+    {
+      "text": "Riding a horse",
+      "renderHtml": false
+    },
+    {
+      "text": "Ridiculously Photogenic Guy",
+      "renderHtml": false
+    },
+    {
+      "text": "Ribbed for their pleasure",
+      "renderHtml": false
+    },
+    {
+      "text": "Restore from backups",
+      "renderHtml": false
+    },
+    {
+      "text": "Redbull without a cause",
+      "renderHtml": false
+    },
+    {
+      "text": "Red Shirts",
+      "renderHtml": false
+    },
+    {
+      "text": "ReCaptcha",
+      "renderHtml": false
+    },
+    {
+      "text": "Real men of Genius",
+      "renderHtml": false
+    },
+    {
+      "text": "Rainbow tables",
+      "renderHtml": false
+    },
+    {
+      "text": "Rageface",
+      "renderHtml": false
+    },
+    {
+      "text": "Rage quit",
+      "renderHtml": false
+    },
+    {
+      "text": "Put Kevin back",
+      "renderHtml": false
+    },
+    {
+      "text": "Put a bird on it",
+      "renderHtml": false
+    },
+    {
+      "text": "Purchasing challenge coins on eBay",
+      "renderHtml": false
+    },
+    {
+      "text": "Prism",
+      "renderHtml": false
+    },
+    {
+      "text": "Priest in a thong doing the Gangnam Style",
+      "renderHtml": false
+    },
+    {
+      "text": "Pressing the red button",
+      "renderHtml": false
+    },
+    {
+      "text": "Prenda Law",
+      "renderHtml": false
+    },
+    {
+      "text": "Prairie dogging during an interview",
+      "renderHtml": false
+    },
+    {
+      "text": "Practicing Gringo Warrior at home with baby oil. Naked.",
+      "renderHtml": false
+    },
+    {
+      "text": "P0rn",
+      "renderHtml": false
+    },
+    {
+      "text": "PORK CHOP SANDWICHES!",
+      "renderHtml": false
+    },
+    {
+      "text": "Pop, Pop, Ret",
+      "renderHtml": false
+    },
+    {
+      "text": "Pool2Girl",
+      "renderHtml": false
+    },
+    {
+      "text": "Please do the needful",
+      "renderHtml": false
+    },
+    {
+      "text": "Pirate Party",
+      "renderHtml": false
+    },
+    {
+      "text": "Pepper spray",
+      "renderHtml": false
+    },
+    {
+      "text": "PedoBear",
+      "renderHtml": false
+    },
+    {
+      "text": "Patrick Star",
+      "renderHtml": false
+    },
+    {
+      "text": "Pastebin password files",
+      "renderHtml": false
+    },
+    {
+      "text": "Passwords emailed in plain text",
+      "renderHtml": false
+    },
+    {
+      "text": "Password: Guest",
+      "renderHtml": false
+    },
+    {
+      "text": "0wning You",
+      "renderHtml": false
+    },
+    {
+      "text": "Online backups",
+      "renderHtml": false
+    },
+    {
+      "text": "One Salty Hash",
+      "renderHtml": false
+    },
+    {
+      "text": "OMGBTFBBQ",
+      "renderHtml": false
+    },
+    {
+      "text": "Obvious",
+      "renderHtml": false
+    },
+    {
+      "text": "NSA",
+      "renderHtml": false
+    },
+    {
+      "text": "Now I'm into something... Darker",
+      "renderHtml": false
+    },
+    {
+      "text": "Not a single fuck was given",
+      "renderHtml": false
+    },
+    {
+      "text": "North Korea's Twitter Account",
+      "renderHtml": false
+    },
+    {
+      "text": "No Starch Press",
+      "renderHtml": false
+    },
+    {
+      "text": "No Reason",
+      "renderHtml": false
+    },
+    {
+      "text": "Nmap",
+      "renderHtml": false
+    },
+    {
+      "text": "Ninjas, Pirates, Robots, and Zombies!",
+      "renderHtml": false
+    },
+    {
+      "text": "Ninja badge",
+      "renderHtml": false
+    },
+    {
+      "text": "Nigerian scammers",
+      "renderHtml": false
+    },
+    {
+      "text": "Neck beard",
+      "renderHtml": false
+    },
+    {
+      "text": "NAMBLA",
+      "renderHtml": false
+    },
+    {
+      "text": "Na-ah-ah You didn't say the magic word!",
+      "renderHtml": false
+    },
+    {
+      "text": "My sex robot Fisto Roboto",
+      "renderHtml": false
+    },
+    {
+      "text": "My massive SSD",
+      "renderHtml": false
+    },
+    {
+      "text": "My little Bronies",
+      "renderHtml": false
+    },
+    {
+      "text": "My first Prostate Exam",
+      "renderHtml": false
+    },
+    {
+      "text": "Mouth Hugs",
+      "renderHtml": false
+    },
+    {
+      "text": "Mega",
+      "renderHtml": false
+    },
+    {
+      "text": "Mega Upload",
+      "renderHtml": false
+    },
+    {
+      "text": "Math is hard. Lets go shopping!",
+      "renderHtml": false
+    },
+    {
+      "text": "Masturbating in a hot tub for a Ninja Badge",
+      "renderHtml": false
+    },
+    {
+      "text": "Mansplaining",
+      "renderHtml": false
+    },
+    {
+      "text": "Maniacally laughing while wearing a monocle",
+      "renderHtml": false
+    },
+    {
+      "text": "Making a sandwich",
+      "renderHtml": false
+    },
+    {
+      "text": "Maintaining the Ballmer Peak",
+      "renderHtml": false
+    },
+    {
+      "text": "Lock picks",
+      "renderHtml": false
+    },
+    {
+      "text": "Level 8 Portal",
+      "renderHtml": false
+    },
+    {
+      "text": "Lemon Party",
+      "renderHtml": false
+    },
+    {
+      "text": "Learning something at Con",
+      "renderHtml": false
+    },
+    {
+      "text": "Lady boner",
+      "renderHtml": false
+    },
+    {
+      "text": "L0pht",
+      "renderHtml": false
+    },
+    {
+      "text": "Keyloggers",
+      "renderHtml": false
+    },
+    {
+      "text": "Kevin Mitnick",
+      "renderHtml": false
+    },
+    {
+      "text": "Kegels",
+      "renderHtml": false
+    },
+    {
+      "text": "Just the Tip",
+      "renderHtml": false
+    },
+    {
+      "text": "Just a sniff",
+      "renderHtml": false
+    },
+    {
+      "text": "Julian Assange",
+      "renderHtml": false
+    },
+    {
+      "text": "John McAfee",
+      "renderHtml": false
+    },
+    {
+      "text": "It's just a bunch of ones and zeros",
+      "renderHtml": false
+    },
+    {
+      "text": "It blended!",
+      "renderHtml": false
+    },
+    {
+      "text": "Ingress",
+      "renderHtml": false
+    },
+    {
+      "text": "Infected email attachments",
+      "renderHtml": false
+    },
+    {
+      "text": "In the cloud",
+      "renderHtml": false
+    },
+    {
+      "text": "Implied Situational Consent",
+      "renderHtml": false
+    },
+    {
+      "text": "Ill-tempered sea bass",
+      "renderHtml": false
+    },
+    {
+      "text": "If you know what I mean",
+      "renderHtml": false
+    },
+    {
+      "text": "Identity theft",
+      "renderHtml": false
+    },
+    {
+      "text": "ICANN",
+      "renderHtml": false
+    },
+    {
+      "text": "I should buy a boat",
+      "renderHtml": false
+    },
+    {
+      "text": "Humperdink award",
+      "renderHtml": false
+    },
+    {
+      "text": "HuBot (Chatroom bot)",
+      "renderHtml": false
+    },
+    {
+      "text": "Hookers & Blow",
+      "renderHtml": false
+    },
+    {
+      "text": "Hashtag",
+      "renderHtml": false
+    },
+    {
+      "text": "Handcuffs",
+      "renderHtml": false
+    },
+    {
+      "text": "Grumpy Cat",
+      "renderHtml": false
+    },
+    {
+      "text": "Gray beard, gray balls",
+      "renderHtml": false
+    },
+    {
+      "text": "Grammar Nazi",
+      "renderHtml": false
+    },
+    {
+      "text": "Got it done!",
+      "renderHtml": false
+    },
+    {
+      "text": "Good Guy Greg",
+      "renderHtml": false
+    },
+    {
+      "text": "Golf cart",
+      "renderHtml": false
+    },
+    {
+      "text": "Glasshole",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting thrown the the pool by the Goons with all your tech",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting hammered in the ass so much you die of getting hammered in the ass",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting F'd in the A with a D",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting a sympathy boner",
+      "renderHtml": false
+    },
+    {
+      "text": "Fyodor",
+      "renderHtml": false
+    },
+    {
+      "text": "FX",
+      "renderHtml": false
+    },
+    {
+      "text": "Forking someone's repo",
+      "renderHtml": false
+    },
+    {
+      "text": "Forever Alone",
+      "renderHtml": false
+    },
+    {
+      "text": "FOIA Request",
+      "renderHtml": false
+    },
+    {
+      "text": "Floppy Disk",
+      "renderHtml": false
+    },
+    {
+      "text": "Flipping a table",
+      "renderHtml": false
+    },
+    {
+      "text": "Flesh light",
+      "renderHtml": false
+    },
+    {
+      "text": "Flame wars",
+      "renderHtml": false
+    },
+    {
+      "text": "Fist full of assholes",
+      "renderHtml": false
+    },
+    {
+      "text": "Fish fingers and custard",
+      "renderHtml": false
+    },
+    {
+      "text": "First World Problems",
+      "renderHtml": false
+    },
+    {
+      "text": "Finished it last week!",
+      "renderHtml": false
+    },
+    {
+      "text": "FemiNazi's",
+      "renderHtml": false
+    },
+    {
+      "text": "Fear Uncertainty Doubt (FUD)",
+      "renderHtml": false
+    },
+    {
+      "text": "Fapping while wearing a horse head mask",
+      "renderHtml": false
+    },
+    {
+      "text": "Fapping on the family computer",
+      "renderHtml": false
+    },
+    {
+      "text": "Fapped",
+      "renderHtml": false
+    },
+    {
+      "text": "Facepalm",
+      "renderHtml": false
+    },
+    {
+      "text": "EXIF data stalking",
+      "renderHtml": false
+    },
+    {
+      "text": "End User License Agreement",
+      "renderHtml": false
+    },
+    {
+      "text": "Electronic Frontier Foundation",
+      "renderHtml": false
+    },
+    {
+      "text": "Edward Snowden",
+      "renderHtml": false
+    },
+    {
+      "text": "Drunken Muppet",
+      "renderHtml": false
+    },
+    {
+      "text": "Drones",
+      "renderHtml": false
+    },
+    {
+      "text": "Double ROT13",
+      "renderHtml": false
+    },
+    {
+      "text": "Double Facepalm",
+      "renderHtml": false
+    },
+    {
+      "text": "Don't Blink",
+      "renderHtml": false
+    },
+    {
+      "text": "Dr. Who",
+      "renderHtml": false
+    },
+    {
+      "text": "Dongs",
+      "renderHtml": false
+    },
+    {
+      "text": "Doing the '(you are) NOT the father' dance",
+      "renderHtml": false
+    },
+    {
+      "text": "Digital Millennium Copyright Act (DMCA)",
+      "renderHtml": false
+    },
+    {
+      "text": "Die in a fire",
+      "renderHtml": false
+    },
+    {
+      "text": "Dick and/or Balls",
+      "renderHtml": false
+    },
+    {
+      "text": "derp.rar (yo.zip)",
+      "renderHtml": false
+    },
+    {
+      "text": "Def Con Wireless",
+      "renderHtml": false
+    },
+    {
+      "text": "Do not connect to this!",
+      "renderHtml": false
+    },
+    {
+      "text": "Deep C Phishing",
+      "renderHtml": false
+    },
+    {
+      "text": "Dark Tangent",
+      "renderHtml": false
+    },
+    {
+      "text": "Dan Kaminsky Password Generator",
+      "renderHtml": false
+    },
+    {
+      "text": "Dan Kaminsky",
+      "renderHtml": false
+    },
+    {
+      "text": "Daaaaaanger Zone!",
+      "renderHtml": false
+    },
+    {
+      "text": "Cyber war",
+      "renderHtml": false
+    },
+    {
+      "text": "Cyber-douchery",
+      "renderHtml": false
+    },
+    {
+      "text": "Cyber Punk",
+      "renderHtml": false
+    },
+    {
+      "text": "Crying over spilt milk",
+      "renderHtml": false
+    },
+    {
+      "text": "Crash Override",
+      "renderHtml": false
+    },
+    {
+      "text": "Copyright trolls",
+      "renderHtml": false
+    },
+    {
+      "text": "Coding while listening to whale songs",
+      "renderHtml": false
+    },
+    {
+      "text": "Clicking shit",
+      "renderHtml": false
+    },
+    {
+      "text": "Chuck Norris",
+      "renderHtml": false
+    },
+    {
+      "text": "China",
+      "renderHtml": false
+    },
+    {
+      "text": "Check a look at you later",
+      "renderHtml": false
+    },
+    {
+      "text": "Cat memes",
+      "renderHtml": false
+    },
+    {
+      "text": "Caressing a man's hairy chest",
+      "renderHtml": false
+    },
+    {
+      "text": "Captain Crunch (John Draper)",
+      "renderHtml": false
+    },
+    {
+      "text": "Butthurt",
+      "renderHtml": false
+    },
+    {
+      "text": "Butt chugging mom's boxed wine",
+      "renderHtml": false
+    },
+    {
+      "text": "But then I'd have to kill you",
+      "renderHtml": false
+    },
+    {
+      "text": "Big Dongles",
+      "renderHtml": false
+    },
+    {
+      "text": "Big Data",
+      "renderHtml": false
+    },
+    {
+      "text": "Being the big spoon",
+      "renderHtml": false
+    },
+    {
+      "text": "Being the little spoon",
+      "renderHtml": false
+    },
+    {
+      "text": "Being sexually aroused by the sight of TSA's gloves",
+      "renderHtml": false
+    },
+    {
+      "text": "Bath salts",
+      "renderHtml": false
+    },
+    {
+      "text": "Bacon",
+      "renderHtml": false
+    },
+    {
+      "text": "Babe caught me slippin'",
+      "renderHtml": false
+    },
+    {
+      "text": "Awkward mouth hugs",
+      "renderHtml": false
+    },
+    {
+      "text": "Awkward hugs",
+      "renderHtml": false
+    },
+    {
+      "text": "Asymmetric encryption",
+      "renderHtml": false
+    },
+    {
+      "text": "Arbitrary code execution",
+      "renderHtml": false
+    },
+    {
+      "text": "APT1",
+      "renderHtml": false
+    },
+    {
+      "text": "Anonymous",
+      "renderHtml": false
+    },
+    {
+      "text": "And then it died",
+      "renderHtml": false
+    },
+    {
+      "text": "And boom goes the dynamite",
+      "renderHtml": false
+    },
+    {
+      "text": "An arrow to the knee",
+      "renderHtml": false
+    },
+    {
+      "text": "Altair 8800",
+      "renderHtml": false
+    },
+    {
+      "text": "All the Things!",
+      "renderHtml": false
+    },
+    {
+      "text": "Alexis Park",
+      "renderHtml": false
+    },
+    {
+      "text": "Ain't nobody got time for dat!",
+      "renderHtml": false
+    },
+    {
+      "text": "Ada Initiative approved flesh-light with anti-rape condom included!",
+      "renderHtml": false
+    },
+    {
+      "text": "ACTII pr0n",
+      "renderHtml": false
+    },
+    {
+      "text": "A van down by the river",
+      "renderHtml": false
+    },
+    {
+      "text": "A town with no ducks",
+      "renderHtml": false
+    },
+    {
+      "text": "A series of explicit Post-It notes",
+      "renderHtml": false
+    },
+    {
+      "text": "A series of tubes",
+      "renderHtml": false
+    },
+    {
+      "text": "A Raspberry Pi",
+      "renderHtml": false
+    },
+    {
+      "text": "A Payphone",
+      "renderHtml": false
+    },
+    {
+      "text": "A Ninja-tel Phone",
+      "renderHtml": false
+    },
+    {
+      "text": "A Hak5 Pineapple",
+      "renderHtml": false
+    },
+    {
+      "text": "A Googly eyed blow job",
+      "renderHtml": false
+    },
+    {
+      "text": "A giant cup of STFU",
+      "renderHtml": false
+    },
+    {
+      "text": "A fake ID made from Kinko's",
+      "renderHtml": false
+    },
+    {
+      "text": "A baby's arm holding an apple",
+      "renderHtml": false
+    },
+    {
+      "text": "A 'Pair of Docs'",
+      "renderHtml": false
+    },
+    {
+      "text": "64 Bit Keys",
+      "renderHtml": false
+    },
+    {
+      "text": "503 Card Unavailable",
+      "renderHtml": false
+    },
+    {
+      "text": "501 Card Error",
+      "renderHtml": false
+    },
+    {
+      "text": "500 internal card error",
+      "renderHtml": false
+    },
+    {
+      "text": "406 Not Allowed",
+      "renderHtml": false
+    },
+    {
+      "text": "404 Not Found",
+      "renderHtml": false
+    },
+    {
+      "text": "403 Forbidden",
+      "renderHtml": false
+    },
+    {
+      "text": "401 Unauthorized",
+      "renderHtml": false
+    },
+    {
+      "text": "3D printed P0rn",
+      "renderHtml": false
+    },
+    {
+      "text": "302 Card Redirect",
+      "renderHtml": false
+    },
+    {
+      "text": "10,000 Canadian Pennies",
+      "renderHtml": false
+    },
+    {
+      "text": "1.21 Jigawatts",
+      "renderHtml": false
+    },
+    {
+      "text": "(wub) (wub) (wub)",
+      "renderHtml": false
+    },
+    {
+      "text": "'I Survived Ada Camp' Challenge Coin",
+      "renderHtml": false
+    },
+    {
+      "text": "1337 Sp3ak",
+      "renderHtml": false
+    }
+  ]
+}

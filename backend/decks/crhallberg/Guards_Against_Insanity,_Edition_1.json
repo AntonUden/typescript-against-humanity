@@ -1,0 +1,457 @@
+{
+  "order": 142,
+  "displayName": "Guards Against Insanity, Edition 1",
+  "name": "Guards_Against_Insanity,_Edition_1",
+  "whiteCards": [
+    {
+      "text": "_. The breakfast of champions.",
+      "pick": 1
+    },
+    {
+      "text": "_. The happiest place on earth.",
+      "pick": 1
+    },
+    {
+      "text": "_. The taste of paradise.",
+      "pick": 1
+    },
+    {
+      "text": "All compromise is based on give and take. But there can be no give and take on _.",
+      "pick": 1
+    },
+    {
+      "text": "And all because the lady loves _.",
+      "pick": 1
+    },
+    {
+      "text": "As far back as I can remember, I always wanted to be _.",
+      "pick": 1
+    },
+    {
+      "text": "Don't try teaching your Grandma to _.",
+      "pick": 1
+    },
+    {
+      "text": "During the sexual discrimination tribunal, I couldn't help noticing the female prosecutor's impressive _.",
+      "pick": 1
+    },
+    {
+      "text": "Genius is 1% inspiration and 99% _.",
+      "pick": 1
+    },
+    {
+      "text": "Here's a fact that might surprise you. _ is caused by _ and often leads to _.",
+      "pick": 3
+    },
+    {
+      "text": "Hey kids! Did you know that combining _ with _ is great for relieving _.",
+      "pick": 3
+    },
+    {
+      "text": "Holy crap?! I've just realized that my super-power causes _ to _.",
+      "pick": 2
+    },
+    {
+      "text": "How was the universe really created?",
+      "pick": 1
+    },
+    {
+      "text": "I managed to avoid _, all thanks to _.",
+      "pick": 2
+    },
+    {
+      "text": "I'm thankful to God for creating _ that love the taste of _.",
+      "pick": 2
+    },
+    {
+      "text": "If _ is wrong, I don't want to be right.",
+      "pick": 1
+    },
+    {
+      "text": "It takes both _ and _ to snatch victory from the jaws of defeat.",
+      "pick": 2
+    },
+    {
+      "text": "Last night, I used _ as lube. It didn't end well.",
+      "pick": 1
+    },
+    {
+      "text": "My scared oath has sworn me to protect _ from both _ and _.",
+      "pick": 3
+    },
+    {
+      "text": "Nature abhors _.",
+      "pick": 1
+    },
+    {
+      "text": "No pain, no _.",
+      "pick": 1
+    },
+    {
+      "text": "Nothing is certain but death and _.",
+      "pick": 1
+    },
+    {
+      "text": "On my signal, unleash _.",
+      "pick": 1
+    },
+    {
+      "text": "Statsically speaking, 9 out of 10 people enjoy _.",
+      "pick": 1
+    },
+    {
+      "text": "Test subject 37 will be the world's most deadly predator thanks to successfully combining _ with _.",
+      "pick": 2
+    },
+    {
+      "text": "The problem with society today is _ and their goddamn _.",
+      "pick": 2
+    },
+    {
+      "text": "The true art of seduction lies in using _ and _ in a way that ensures _.",
+      "pick": 3
+    },
+    {
+      "text": "There are two things I hate. Racism and _.",
+      "pick": 1
+    },
+    {
+      "text": "They never would have legalized marijuana in California without _.",
+      "pick": 1
+    },
+    {
+      "text": "This ancient Egyptian scroll contains one of the fundamental truths of life: _ cannot flourish without _.",
+      "pick": 2
+    },
+    {
+      "text": "What was the last thing I Googled?",
+      "pick": 1
+    },
+    {
+      "text": "Why do I always feel tired?",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "A 28 week abortion.",
+      "renderHtml": false
+    },
+    {
+      "text": "A big black dildo.",
+      "renderHtml": false
+    },
+    {
+      "text": "A dirty protest.",
+      "renderHtml": false
+    },
+    {
+      "text": "A downward spiral into suicidal self-destruction.",
+      "renderHtml": false
+    },
+    {
+      "text": "A full load.",
+      "renderHtml": false
+    },
+    {
+      "text": "A generation of obese kids.",
+      "renderHtml": false
+    },
+    {
+      "text": "A lying sack of shit.",
+      "renderHtml": false
+    },
+    {
+      "text": "A moist, creamy vaginal secretion.",
+      "renderHtml": false
+    },
+    {
+      "text": "A tub of Vaseline.",
+      "renderHtml": false
+    },
+    {
+      "text": "Accidental Mexican pointy boot sodomy.",
+      "renderHtml": false
+    },
+    {
+      "text": "An erection so hard that it hurts.",
+      "renderHtml": false
+    },
+    {
+      "text": "An unexpected donkey punch.",
+      "renderHtml": false
+    },
+    {
+      "text": "An unpleasant taste in my mouth.",
+      "renderHtml": false
+    },
+    {
+      "text": "Analingus.",
+      "renderHtml": false
+    },
+    {
+      "text": "Batting for both sides.",
+      "renderHtml": false
+    },
+    {
+      "text": "Because you touch yourself at night.",
+      "renderHtml": false
+    },
+    {
+      "text": "Beer goggles.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being fingered by the Card Czar.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being frigid.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being hung like a horse.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being sodomized.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bow-Chicka-Bow-Wow.",
+      "renderHtml": false
+    },
+    {
+      "text": "Camel toe.",
+      "renderHtml": false
+    },
+    {
+      "text": "Chemical dependency",
+      "renderHtml": false
+    },
+    {
+      "text": "Chief's expansive collection of 80's pornography.",
+      "renderHtml": false
+    },
+    {
+      "text": "Clown porn.",
+      "renderHtml": false
+    },
+    {
+      "text": "Cock blocking your best friend.",
+      "renderHtml": false
+    },
+    {
+      "text": "Crying during sex.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dead hookers.",
+      "renderHtml": false
+    },
+    {
+      "text": "Extremely sloppy seconds.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fellatio.",
+      "renderHtml": false
+    },
+    {
+      "text": "Forced sterilization of the mentally retarded.",
+      "renderHtml": false
+    },
+    {
+      "text": "Forgetting the words to the Apostle's Creed.",
+      "renderHtml": false
+    },
+    {
+      "text": "Freezing to death on a park bench.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fucking a girl so hard her nose bleeds.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fucking people over to get ahead in life.",
+      "renderHtml": false
+    },
+    {
+      "text": "Gagging on your girlfriend's pubic floss.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting caught staring at your sister's rack.",
+      "renderHtml": false
+    },
+    {
+      "text": "Giving your girlfriend a Dutch oven.",
+      "renderHtml": false
+    },
+    {
+      "text": "God Damn Mother-Fucking Shitty Fucking Shit Fuckers.",
+      "renderHtml": false
+    },
+    {
+      "text": "God's wrath.",
+      "renderHtml": false
+    },
+    {
+      "text": "Going all the way",
+      "renderHtml": false
+    },
+    {
+      "text": "Going full retard.",
+      "renderHtml": false
+    },
+    {
+      "text": "Heather Mills McCartney.",
+      "renderHtml": false
+    },
+    {
+      "text": "Imagining terrible, terrible things in order to sustain your erection.",
+      "renderHtml": false
+    },
+    {
+      "text": "Josef Fritzl.",
+      "renderHtml": false
+    },
+    {
+      "text": "Manning the fuck up.",
+      "renderHtml": false
+    },
+    {
+      "text": "My cold, dead hands.",
+      "renderHtml": false
+    },
+    {
+      "text": "My purple headed womb broom.",
+      "renderHtml": false
+    },
+    {
+      "text": "My sister's high school yearbook picture.",
+      "renderHtml": false
+    },
+    {
+      "text": "Never being able to look your dog in the eye again.",
+      "renderHtml": false
+    },
+    {
+      "text": "Never being able to un-see \"Two Girls One Cup\".",
+      "renderHtml": false
+    },
+    {
+      "text": "No strings attached casual sex.",
+      "renderHtml": false
+    },
+    {
+      "text": "Not taking a dump for 10 whole days.",
+      "renderHtml": false
+    },
+    {
+      "text": "Paying a hooker to knock your junk around.",
+      "renderHtml": false
+    },
+    {
+      "text": "Popping your cherry.",
+      "renderHtml": false
+    },
+    {
+      "text": "Premature foreclosure.",
+      "renderHtml": false
+    },
+    {
+      "text": "Rigor mortis.",
+      "renderHtml": false
+    },
+    {
+      "text": "Rinsing your cock in the bathroom sink to increase the chances of getting a blow job.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sentimental bullshit.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sharks with frickin' laser beams attached to their heads.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sienna Miller.",
+      "renderHtml": false
+    },
+    {
+      "text": "Six million Jews.",
+      "renderHtml": false
+    },
+    {
+      "text": "Society.",
+      "renderHtml": false
+    },
+    {
+      "text": "Some serious soul-searching.",
+      "renderHtml": false
+    },
+    {
+      "text": "Spermicidal lube.",
+      "renderHtml": false
+    },
+    {
+      "text": "Tentatively slipping a finger into your partner's asshole.",
+      "renderHtml": false
+    },
+    {
+      "text": "That not-so-fresh feeling.",
+      "renderHtml": false
+    },
+    {
+      "text": "The ability to suck a golf ball through 40 feet of garden hose.",
+      "renderHtml": false
+    },
+    {
+      "text": "The voices inside my head.",
+      "renderHtml": false
+    },
+    {
+      "text": "The walk of shame.",
+      "renderHtml": false
+    },
+    {
+      "text": "Touching cloth.",
+      "renderHtml": false
+    },
+    {
+      "text": "Touching myself while listening to my parents having sex.",
+      "renderHtml": false
+    },
+    {
+      "text": "Twinkies®.",
+      "renderHtml": false
+    },
+    {
+      "text": "Two in the pink and one in the stink.",
+      "renderHtml": false
+    },
+    {
+      "text": "Unwanted sexual penetration.",
+      "renderHtml": false
+    },
+    {
+      "text": "Using the poophole loophole to keep your virginity.",
+      "renderHtml": false
+    },
+    {
+      "text": "Vulnerable women with low self-esteem.",
+      "renderHtml": false
+    },
+    {
+      "text": "Walking around with an undeserved sense of accomplishment.",
+      "renderHtml": false
+    },
+    {
+      "text": "When the bullshit that comes out of a person's mouth reaches a point of absolute nonsense.",
+      "renderHtml": false
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "order": 27,
+  "displayName": "Cards Against Humanity Saves America Pack",
+  "name": "Cards_Against_Humanity_Saves_America_Pack",
+  "whiteCards": [
+    {
+      "text": "\"They're bringing drugs. They're bringing crime. They're rapists. And some, I assume, are _.\"",
+      "pick": 1
+    },
+    {
+      "text": "Cry havoc and let slip _!",
+      "pick": 1
+    },
+    {
+      "text": "Now is the winter of our discontent, made glorious summer by _.",
+      "pick": 1
+    },
+    {
+      "text": "The fault, dear Brutus, is not in our stars, but in _.",
+      "pick": 1
+    },
+    {
+      "text": "We want a pitcher, not _!",
+      "pick": 1
+    },
+    {
+      "text": "When asked about the biggest threat facing the nation, 60% of Americans said _.",
+      "pick": 1
+    },
+    {
+      "text": "You see, son, baseball is like _. Don't overthink it.",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "A $1,000 check from Cards Against Humanity!",
+      "renderHtml": false
+    },
+    {
+      "text": "A baby panda that just can't keep its eyes open.",
+      "renderHtml": false
+    },
+    {
+      "text": "A full refund from Cards Against Humanity, paid for by people richer than me.",
+      "renderHtml": false
+    },
+    {
+      "text": "A gay Republican somehow.",
+      "renderHtml": false
+    },
+    {
+      "text": "A laundry basket full of baby bunnies.",
+      "renderHtml": false
+    },
+    {
+      "text": "A really good dog.",
+      "renderHtml": false
+    },
+    {
+      "text": "A stack of puppies in a trench coat.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting deported.",
+      "renderHtml": false
+    },
+    {
+      "text": "Guacamole.",
+      "renderHtml": false
+    },
+    {
+      "text": "How easy it is to climb over a wall with a ladder.",
+      "renderHtml": false
+    },
+    {
+      "text": "Lou Gehrig's Disease.",
+      "renderHtml": false
+    },
+    {
+      "text": "Mexicans and Muslims.",
+      "renderHtml": false
+    },
+    {
+      "text": "My drunk father screaming from the bleachers.",
+      "renderHtml": false
+    },
+    {
+      "text": "My money stolen by Cards Against Humanity and redistributed to people poorer than me.",
+      "renderHtml": false
+    },
+    {
+      "text": "Our dumb asshole president.",
+      "renderHtml": false
+    },
+    {
+      "text": "Slowly shaking my head at a sad statistic.",
+      "renderHtml": false
+    },
+    {
+      "text": "Speaking in iambic pentameter.",
+      "renderHtml": false
+    },
+    {
+      "text": "Taking a minute to really unpack what Shakespeare is getting at in this scene.",
+      "renderHtml": false
+    },
+    {
+      "text": "Teaching my son to love the Red Sox and hate minorities.",
+      "renderHtml": false
+    },
+    {
+      "text": "The shocking stupidity of the American public.",
+      "renderHtml": false
+    },
+    {
+      "text": "The significance of eyes in King Lear.",
+      "renderHtml": false
+    },
+    {
+      "text": "The truth.",
+      "renderHtml": false
+    },
+    {
+      "text": "Two baby otters holding hands.",
+      "renderHtml": false
+    },
+    {
+      "text": "Two hamsters nibbling on a tiny burrito.",
+      "renderHtml": false
+    },
+    {
+      "text": "White people becoming a minority.",
+      "renderHtml": false
+    },
+    {
+      "text": "Yelling \"I got it, I got it!\"",
+      "renderHtml": false
+    }
+  ]
+}

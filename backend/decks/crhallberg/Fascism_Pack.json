@@ -1,0 +1,77 @@
+{
+  "order": 32,
+  "displayName": "Fascism Pack",
+  "name": "Fascism_Pack",
+  "whiteCards": [
+    {
+      "text": "Before swallowing his pride and a cyanide pill, Adolf whispered to Eva, \"Sorry about _\".",
+      "pick": 1
+    },
+    {
+      "text": "Leni Riefenstahl's last movie was called Triumph of _.",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "An orgasm so powerful you travel back in time and jizz in Hitler's face.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being open to new perspectives on the Holocaust.",
+      "renderHtml": false
+    },
+    {
+      "text": "Breaking news about what Hitler's penis was like.",
+      "renderHtml": false
+    },
+    {
+      "text": "Cloning Hitler.",
+      "renderHtml": false
+    },
+    {
+      "text": "Disco Mussolini.",
+      "renderHtml": false
+    },
+    {
+      "text": "Donald Trump's personal copy of Mein Kampf.",
+      "renderHtml": false
+    },
+    {
+      "text": "Electro-Stalin.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hitler's sound economic policies.",
+      "renderHtml": false
+    },
+    {
+      "text": "How cool Nazi airplanes are.",
+      "renderHtml": false
+    },
+    {
+      "text": "Presenting your documents at a checkpoint.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ruining an entire genre of moustaches.",
+      "renderHtml": false
+    },
+    {
+      "text": "Straight up fucking loving authority.",
+      "renderHtml": false
+    },
+    {
+      "text": "The cyanide pill you keep on your person at all times.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Yad Vashem World Center for Holocaust Research.",
+      "renderHtml": false
+    },
+    {
+      "text": "Whatever brave hero killed Hitler.",
+      "renderHtml": false
+    }
+  ]
+}

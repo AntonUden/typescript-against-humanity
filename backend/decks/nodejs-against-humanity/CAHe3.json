@@ -1,0 +1,410 @@
+{
+  "source": 0,
+  "order": 3,
+  "displayName": "The Third Expansion",
+  "name": "CAHe3",
+  "whiteCards": [
+    {
+      "text": "Hey baby, come back to my place and I'll show you _.",
+      "pick": 1
+    },
+    {
+      "text": "My gym teacher got fired for adding _ to the obstacle course.",
+      "pick": 1
+    },
+    {
+      "text": "Finally! A service that delivers _ right to your door.",
+      "pick": 1
+    },
+    {
+      "text": "To prepare for his upcoming role, Daniel Day-Lewis immersed himself in the world of _.",
+      "pick": 1
+    },
+    {
+      "text": "My life is ruled by a vicious cycle of _ and _.",
+      "pick": 2
+    },
+    {
+      "text": "During high school, I never really fit in until I found _ club.",
+      "pick": 1
+    },
+    {
+      "text": "Money can't buy me love, but it can buy me _.",
+      "pick": 1
+    },
+    {
+      "text": "Listen, son. If you want to get involved with _, I won't stop you. Just steer clear of _.",
+      "pick": 2
+    },
+    {
+      "text": "A successful job interview begins with a firm handshake and ends with _.",
+      "pick": 1
+    },
+    {
+      "text": "Call the law offices of Goldstein &amp; Goldstein, because no one should have to tolerate _ in the workplace.",
+      "pick": 1
+    },
+    {
+      "text": "Lovin' you is easy 'cause you're _.",
+      "pick": 1
+    },
+    {
+      "text": "The blind date was going horribly until we discovered our shared interest in _.",
+      "pick": 1
+    },
+    {
+      "text": "What left this stain on my couch?",
+      "pick": 1
+    },
+    {
+      "text": "Turns out that _-Man was neither the hero we needed nor wanted.",
+      "pick": 1
+    },
+    {
+      "text": "After months of practice with _, I think I'm finally ready for _.",
+      "pick": 2
+    },
+    {
+      "text": "In the seventh circle of Hell, sinners must endure _ for all eternity.",
+      "pick": 1
+    },
+    {
+      "text": "As part of his daily regimen, Anderson Cooper sets aside 15 minutes for _.",
+      "pick": 1
+    },
+    {
+      "text": "When you get right down to it, _ is just _.",
+      "pick": 2
+    },
+    {
+      "text": "Having problems with _? Try _!",
+      "pick": 2
+    },
+    {
+      "text": "And what did <i>you</i> bring for show and tell?",
+      "pick": 1
+    },
+    {
+      "text": "I'm not like the rest of you. I'm too rich and busy for _.",
+      "pick": 1
+    },
+    {
+      "text": "With enough time and pressure, _ will turn into _.",
+      "pick": 2
+    },
+    {
+      "text": "_: Hours of fun. Easy to use. Perfect for _!",
+      "pick": 2
+    },
+    {
+      "text": "_. Awesome in theory, kind of a mess in practice.",
+      "pick": 1
+    },
+    {
+      "text": "As part of his contract, Prince won't perform without _ in his dressing room.",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "All my friends dying.",
+      "renderHtml": false
+    },
+    {
+      "text": "Shutting the fuck up.",
+      "renderHtml": false
+    },
+    {
+      "text": "An ass disaster.",
+      "renderHtml": false
+    },
+    {
+      "text": "Some kind of bird-man.",
+      "renderHtml": false
+    },
+    {
+      "text": "The entire Internet.",
+      "renderHtml": false
+    },
+    {
+      "text": "Going around punching people.",
+      "renderHtml": false
+    },
+    {
+      "text": "A boo-boo.",
+      "renderHtml": false
+    },
+    {
+      "text": "Indescribable loneliness.",
+      "renderHtml": false
+    },
+    {
+      "text": "Having sex on top of a pizza.",
+      "renderHtml": false
+    },
+    {
+      "text": "Chugging a lava lamp.",
+      "renderHtml": false
+    },
+    {
+      "text": "Warm, velvety muppet sex.",
+      "renderHtml": false
+    },
+    {
+      "text": "Running naked through a mall, pissing and shitting everywhere.",
+      "renderHtml": false
+    },
+    {
+      "text": "Nothing.",
+      "renderHtml": false
+    },
+    {
+      "text": "Samuel L. Jackson.",
+      "renderHtml": false
+    },
+    {
+      "text": "Self-flagellation.",
+      "renderHtml": false
+    },
+    {
+      "text": "The systematic destruction of an entire people and their way of life.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Quesadilla Explosion Salad&trade; from Chili's&reg;.",
+      "renderHtml": false
+    },
+    {
+      "text": "Reverse cowgirl.",
+      "renderHtml": false
+    },
+    {
+      "text": "Vietnam flashbacks.",
+      "renderHtml": false
+    },
+    {
+      "text": "Actually getting shot, for real.",
+      "renderHtml": false
+    },
+    {
+      "text": "Not having sex.",
+      "renderHtml": false
+    },
+    {
+      "text": "Cock.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dying alone and in pain.",
+      "renderHtml": false
+    },
+    {
+      "text": "A cop who is also a dog.",
+      "renderHtml": false
+    },
+    {
+      "text": "The way white people is.",
+      "renderHtml": false
+    },
+    {
+      "text": "Gay aliens.",
+      "renderHtml": false
+    },
+    {
+      "text": "The primal, ball-slapping sex your parents are having right now.",
+      "renderHtml": false
+    },
+    {
+      "text": "A cat video so cute that your eyes roll back and your spine slides out of your anus.",
+      "renderHtml": false
+    },
+    {
+      "text": "A lamprey swimming up the toilet and latching onto your taint.",
+      "renderHtml": false
+    },
+    {
+      "text": "Slapping a racist old lady.",
+      "renderHtml": false
+    },
+    {
+      "text": "A black male in his early 20s, last seen wearing a hoodie.",
+      "renderHtml": false
+    },
+    {
+      "text": "Jumping out at people.",
+      "renderHtml": false
+    },
+    {
+      "text": "Three months in the hole.",
+      "renderHtml": false
+    },
+    {
+      "text": "Blood farts.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Land of Chocolate.",
+      "renderHtml": false
+    },
+    {
+      "text": "A botched circumcision.",
+      "renderHtml": false
+    },
+    {
+      "text": "My manservant, Claude.",
+      "renderHtml": false
+    },
+    {
+      "text": "Vomiting mid-blowjob.",
+      "renderHtml": false
+    },
+    {
+      "text": "Letting everyone down.",
+      "renderHtml": false
+    },
+    {
+      "text": "Having shotguns for legs.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bill Clinton, naked on a bearskin rug with a saxophone.",
+      "renderHtml": false
+    },
+    {
+      "text": "Mufasa's death scene.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Harlem Globetrotters.",
+      "renderHtml": false
+    },
+    {
+      "text": "Demonic possession.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fisting.",
+      "renderHtml": false
+    },
+    {
+      "text": "The thin veneer of situational causality that underlies porn.",
+      "renderHtml": false
+    },
+    {
+      "text": "Girls that always be textin'.",
+      "renderHtml": false
+    },
+    {
+      "text": "Blowing some dudes in an alley.",
+      "renderHtml": false
+    },
+    {
+      "text": "A spontaneous conga line.",
+      "renderHtml": false
+    },
+    {
+      "text": "A vagina that leads to another dimension.",
+      "renderHtml": false
+    },
+    {
+      "text": "Disco fever.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting your dick stuck in a Chinese finger trap with another dick.",
+      "renderHtml": false
+    },
+    {
+      "text": "Drinking ten 5-hour ENERGYs&reg; to get fifty continuous hours of energy.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sneezing, farting, and coming at the same time.",
+      "renderHtml": false
+    },
+    {
+      "text": "Some douche with an acoustic guitar.",
+      "renderHtml": false
+    },
+    {
+      "text": "Spending lots of money.",
+      "renderHtml": false
+    },
+    {
+      "text": "Putting an entire peanut butter and jelly sandwich into the VCR.",
+      "renderHtml": false
+    },
+    {
+      "text": "An unstoppable wave of fire ants.",
+      "renderHtml": false
+    },
+    {
+      "text": "A greased-up Matthew McConaughey.",
+      "renderHtml": false
+    },
+    {
+      "text": "Flying robots that kill people.",
+      "renderHtml": false
+    },
+    {
+      "text": "Unlimited soup, salad, and breadsticks.",
+      "renderHtml": false
+    },
+    {
+      "text": "Crying into the pages of Sylvia Plath.",
+      "renderHtml": false
+    },
+    {
+      "text": "The moist, demanding chasm of his mouth.",
+      "renderHtml": false
+    },
+    {
+      "text": "Filling every orifice with butterscotch pudding.",
+      "renderHtml": false
+    },
+    {
+      "text": "An all-midget production of Shakespeare's <i>Richard III</i>.",
+      "renderHtml": false
+    },
+    {
+      "text": "Screaming like a maniac.",
+      "renderHtml": false
+    },
+    {
+      "text": "Not contributing to society in any meaningful way.",
+      "renderHtml": false
+    },
+    {
+      "text": "A pile of squirming bodies.",
+      "renderHtml": false
+    },
+    {
+      "text": "Buying the right pants to be cool.",
+      "renderHtml": false
+    },
+    {
+      "text": "Roland the Farter, flatulist to the king.",
+      "renderHtml": false
+    },
+    {
+      "text": "That ass.",
+      "renderHtml": false
+    },
+    {
+      "text": "A surprising amount of hair.",
+      "renderHtml": false
+    },
+    {
+      "text": "Eating Tom Selleck's mustache to gain his powers.",
+      "renderHtml": false
+    },
+    {
+      "text": "Velcro&trade;.",
+      "renderHtml": false
+    },
+    {
+      "text": "A PowerPoint presentation.",
+      "renderHtml": false
+    }
+  ]
+}

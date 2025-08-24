@@ -1,0 +1,329 @@
+{
+  "order": 170,
+  "displayName": "Not Parent Approved Expansion Pack #1",
+  "name": "Not_Parent_Approved_Expansion_Pack_#1",
+  "whiteCards": [
+    {
+      "text": "_ builds trust between friends.",
+      "pick": 1
+    },
+    {
+      "text": "_ is a dying art form.",
+      "pick": 1
+    },
+    {
+      "text": "_ is a surprisingly tasty pizza topping.",
+      "pick": 1
+    },
+    {
+      "text": "_ is the secret ingredient in Coca-Cola®.",
+      "pick": 1
+    },
+    {
+      "text": "Dear Diary, my parents have no idea I spent the day _.",
+      "pick": 1
+    },
+    {
+      "text": "Elect me school president and I will get rid of _ forever!",
+      "pick": 1
+    },
+    {
+      "text": "Genius is one percent inspiration and ninety-nine percent _.",
+      "pick": 1
+    },
+    {
+      "text": "I found a mysterious clump of Play-Doh® in the shape of _.",
+      "pick": 1
+    },
+    {
+      "text": "I had a dream Wonder Woman™ and I were _.",
+      "pick": 1
+    },
+    {
+      "text": "I think I might nickname myself _.",
+      "pick": 1
+    },
+    {
+      "text": "I'm going to name my band _.",
+      "pick": 1
+    },
+    {
+      "text": "It's a good thing I am allergic to _.",
+      "pick": 1
+    },
+    {
+      "text": "Some days you wake up with an unexplainable desire for _.",
+      "pick": 1
+    },
+    {
+      "text": "The day I woke uyp and realized I was too old for _.",
+      "pick": 1
+    },
+    {
+      "text": "The hills are alive with the sound of _.",
+      "pick": 1
+    },
+    {
+      "text": "The sweet sensation of _.",
+      "pick": 1
+    },
+    {
+      "text": "What is Grandpa hiding from us?",
+      "pick": 1
+    },
+    {
+      "text": "When I'm pooping, I like to think about _.",
+      "pick": 1
+    },
+    {
+      "text": "When the bully asked for my lunch money, I gave 'em _ instead.",
+      "pick": 1
+    },
+    {
+      "text": "Why hasn't anyone created an emoji for _.",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "A block of cheese wearing sunglasses.",
+      "renderHtml": false
+    },
+    {
+      "text": "A chicken nugget eating contest.",
+      "renderHtml": false
+    },
+    {
+      "text": "A chunk of earwax on a toothpick.",
+      "renderHtml": false
+    },
+    {
+      "text": "A hard-boiled egg.",
+      "renderHtml": false
+    },
+    {
+      "text": "A lifetime supply of Polaroid film.",
+      "renderHtml": false
+    },
+    {
+      "text": "A Minecraft® marathon.",
+      "renderHtml": false
+    },
+    {
+      "text": "A scientific study stating that too much sugar is good for you.",
+      "renderHtml": false
+    },
+    {
+      "text": "A traumatic case of diarrhea.",
+      "renderHtml": false
+    },
+    {
+      "text": "Accidentally calling 911.",
+      "renderHtml": false
+    },
+    {
+      "text": "Acrobatic street-sign twirling with awesome dance moves.",
+      "renderHtml": false
+    },
+    {
+      "text": "Afternoons filled with binge-watching on Netflix®.",
+      "renderHtml": false
+    },
+    {
+      "text": "All you can eat mac and cheese.",
+      "renderHtml": false
+    },
+    {
+      "text": "An Oompa Loompa attack.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bacon.",
+      "renderHtml": false
+    },
+    {
+      "text": "Becoming a vegetarian.",
+      "renderHtml": false
+    },
+    {
+      "text": "Becoming the celebrity spokesperson for Bubblcious® Bubble Gum.",
+      "renderHtml": false
+    },
+    {
+      "text": "Belly dancers.",
+      "renderHtml": false
+    },
+    {
+      "text": "Blowing birthday money on arcade games.",
+      "renderHtml": false
+    },
+    {
+      "text": "Buffalo wing breath.",
+      "renderHtml": false
+    },
+    {
+      "text": "Cookies and Cream.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dabbing like there's no tomorrow.",
+      "renderHtml": false
+    },
+    {
+      "text": "Death by teddy bear.",
+      "renderHtml": false
+    },
+    {
+      "text": "Eating Bambi for dinner.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fidget spinner spinners everywhere uniting in world peace.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting the chills when you pee.",
+      "renderHtml": false
+    },
+    {
+      "text": "Having the coolest Pokemon® cards.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hiding the remote control from your dad on Super Bowl® Sunday.",
+      "renderHtml": false
+    },
+    {
+      "text": "Instant gratification.",
+      "renderHtml": false
+    },
+    {
+      "text": "Making superhero movies for a living.",
+      "renderHtml": false
+    },
+    {
+      "text": "Milking a cow with your toes.",
+      "renderHtml": false
+    },
+    {
+      "text": "Minions muttering mumbled messages madly at midnight.",
+      "renderHtml": false
+    },
+    {
+      "text": "My father snoring like a sick elephant all night.",
+      "renderHtml": false
+    },
+    {
+      "text": "Night vision goggles.",
+      "renderHtml": false
+    },
+    {
+      "text": "Nodding like you're listening.",
+      "renderHtml": false
+    },
+    {
+      "text": "Passing serious gas in a tub to create the jacuzzi effect.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pronouncing words wrong.",
+      "renderHtml": false
+    },
+    {
+      "text": "Putting your hands in the air like you just don't care.",
+      "renderHtml": false
+    },
+    {
+      "text": "Refusing to wear deodorant.",
+      "renderHtml": false
+    },
+    {
+      "text": "Running out of toilet paper after the most satisfying dump.",
+      "renderHtml": false
+    },
+    {
+      "text": "Scaring the bejeezus out of your Mom as she turns the corner.",
+      "renderHtml": false
+    },
+    {
+      "text": "Secretly picking your nose in class.",
+      "renderHtml": false
+    },
+    {
+      "text": "Snot rockets",
+      "renderHtml": false
+    },
+    {
+      "text": "Studying for 1000 years.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sumo wrestler thongs.",
+      "renderHtml": false
+    },
+    {
+      "text": "Taking tests.",
+      "renderHtml": false
+    },
+    {
+      "text": "Talking like a drunk pirate.",
+      "renderHtml": false
+    },
+    {
+      "text": "That kid who always stands too close.",
+      "renderHtml": false
+    },
+    {
+      "text": "That teacher who needs a serious makeover.",
+      "renderHtml": false
+    },
+    {
+      "text": "The know-it-all kid next door.",
+      "renderHtml": false
+    },
+    {
+      "text": "The stress you feel when you haven't doen homework.",
+      "renderHtml": false
+    },
+    {
+      "text": "Too cool for school ninja moves.",
+      "renderHtml": false
+    },
+    {
+      "text": "Uncomfortable elevator silence.",
+      "renderHtml": false
+    },
+    {
+      "text": "Urkel.",
+      "renderHtml": false
+    },
+    {
+      "text": "Used dental floss.",
+      "renderHtml": false
+    },
+    {
+      "text": "Whatever hot dogs are made of.",
+      "renderHtml": false
+    },
+    {
+      "text": "Winning every spelling bee contest.",
+      "renderHtml": false
+    },
+    {
+      "text": "Winning the gazillion dollar lottery.",
+      "renderHtml": false
+    },
+    {
+      "text": "Wolverine® hands.",
+      "renderHtml": false
+    },
+    {
+      "text": "Your dad singing \"Wicked the Musical\" showtunes.",
+      "renderHtml": false
+    },
+    {
+      "text": "Your weird dad who likes to play hopscotch.",
+      "renderHtml": false
+    }
+  ]
+}

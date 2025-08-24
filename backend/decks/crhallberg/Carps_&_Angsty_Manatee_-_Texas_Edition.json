@@ -1,0 +1,605 @@
+{
+  "order": 100,
+  "displayName": "Carps & Angsty Manatee - Texas Edition",
+  "name": "Carps_&_Angsty_Manatee_-_Texas_Edition",
+  "whiteCards": [
+    {
+      "text": "_: A surprising favorite at the Houston Rodeo this year.",
+      "pick": 1
+    },
+    {
+      "text": "After its unsuccessful campaign, the Secession Movement has shifted its focus to separating _ from _.",
+      "pick": 2
+    },
+    {
+      "text": "Don't worry about _. This isn't my first rodeo.",
+      "pick": 1
+    },
+    {
+      "text": "Due to falling petroleum prices, Houston families have begun to invest in _.",
+      "pick": 1
+    },
+    {
+      "text": "How did Sam Houston fend off Mexican forces at the Battle of San Jacinto?",
+      "pick": 1
+    },
+    {
+      "text": "I decide to try _ but it was nothing to write home about.",
+      "pick": 1
+    },
+    {
+      "text": "I wouldn't say that _ is a complete substitute for _, but it's close enough for government work.",
+      "pick": 2
+    },
+    {
+      "text": "I'd rather be _ in Texas than _ in California.",
+      "pick": 2
+    },
+    {
+      "text": "If you're going to play in Texas, you gotta have _ in the band.",
+      "pick": 1
+    },
+    {
+      "text": "Planned Parenthood is now using public funds to assist people suffering from _.",
+      "pick": 1
+    },
+    {
+      "text": "Rumor has it that Jerry Jones is building a VIP-suite at Jerry World exclusively for _.",
+      "pick": 1
+    },
+    {
+      "text": "Since leaving office, Rick Perry has been coming to terms with _.",
+      "pick": 1
+    },
+    {
+      "text": "SXSW: A bizarre playland for techies, groupies, and _.",
+      "pick": 1
+    },
+    {
+      "text": "Texas' sex-ed curriculum promotes _ as the only 100% effective form of birth control.",
+      "pick": 1
+    },
+    {
+      "text": "The Texas Board of Education recently declared that _ caused the loss at the Battle of the Alamo.",
+      "pick": 1
+    },
+    {
+      "text": "They say \"Keep Austin Weird,\" but rallying around _ is taking it a bit too far.",
+      "pick": 1
+    },
+    {
+      "text": "This time, Wendy Davis is filibustering a new bill that supports _.",
+      "pick": 1
+    },
+    {
+      "text": "To raise funds, the county recently started issuing fines for _.",
+      "pick": 1
+    },
+    {
+      "text": "What does Elon Musk plan to send to the International Space Station from The Valley?",
+      "pick": 1
+    },
+    {
+      "text": "What got me kicked out of the Alamo Drafthouse?",
+      "pick": 1
+    },
+    {
+      "text": "What is better covered in salsa?",
+      "pick": 1
+    },
+    {
+      "text": "What makes Joel Osteen smile the most?",
+      "pick": 1
+    },
+    {
+      "text": "What makes me happier than a hog in shit?",
+      "pick": 1
+    },
+    {
+      "text": "What was the highlight of my romantic hill country getaway?",
+      "pick": 1
+    },
+    {
+      "text": "What will put some hair on your chest?",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "A 30 thousand dollar millionaire.",
+      "renderHtml": false
+    },
+    {
+      "text": "A bingo hall brawl.",
+      "renderHtml": false
+    },
+    {
+      "text": "A boomtown whore.",
+      "renderHtml": false
+    },
+    {
+      "text": "A cattle prod to the cooter.",
+      "renderHtml": false
+    },
+    {
+      "text": "A Chilifest fart.",
+      "renderHtml": false
+    },
+    {
+      "text": "A convincing conspiracy theory.",
+      "renderHtml": false
+    },
+    {
+      "text": "A cum-stained homecoming mum.",
+      "renderHtml": false
+    },
+    {
+      "text": "A fat cow.",
+      "renderHtml": false
+    },
+    {
+      "text": "A flamboyant Big Tex.",
+      "renderHtml": false
+    },
+    {
+      "text": "A Fleshlight shaped like the face of George W. Bush.",
+      "renderHtml": false
+    },
+    {
+      "text": "A gravy train with biscuit wheels.",
+      "renderHtml": false
+    },
+    {
+      "text": "A kolache filled with Czech jizz.",
+      "renderHtml": false
+    },
+    {
+      "text": "A loaded shotgun.",
+      "renderHtml": false
+    },
+    {
+      "text": "A New York cheesecake, made in Texas, by a Mexican.",
+      "renderHtml": false
+    },
+    {
+      "text": "A pinata filled with angry scorpions.",
+      "renderHtml": false
+    },
+    {
+      "text": "A porcupine at the nudist colony.",
+      "renderHtml": false
+    },
+    {
+      "text": "A Port Aransas dope dealer out on bail.",
+      "renderHtml": false
+    },
+    {
+      "text": "A real sonofabitch.",
+      "renderHtml": false
+    },
+    {
+      "text": "A sad Jew at the Holocaust Museum.",
+      "renderHtml": false
+    },
+    {
+      "text": "A sexy tractor.  Vast fields of literally nothing.",
+      "renderHtml": false
+    },
+    {
+      "text": "A shot of whiskey and a Lone Star beer.",
+      "renderHtml": false
+    },
+    {
+      "text": "A Texan's gravy.",
+      "renderHtml": false
+    },
+    {
+      "text": "A twelve pack and a prayer.",
+      "renderHtml": false
+    },
+    {
+      "text": "A vagina with big Dallas hair.",
+      "renderHtml": false
+    },
+    {
+      "text": "A war on all religions except Christianity.",
+      "renderHtml": false
+    },
+    {
+      "text": "A yellow jacket in the outhouse.",
+      "renderHtml": false
+    },
+    {
+      "text": "Accidental Mexican pointy boot sodomy.",
+      "renderHtml": false
+    },
+    {
+      "text": "Aggressive gerrymandering.",
+      "renderHtml": false
+    },
+    {
+      "text": "All my exes.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ammosexuals.",
+      "renderHtml": false
+    },
+    {
+      "text": "An armadillo with a horse cock.",
+      "renderHtml": false
+    },
+    {
+      "text": "An asshole from El Paso.",
+      "renderHtml": false
+    },
+    {
+      "text": "An orgy with the Dallas Cowboy cheerleaders.",
+      "renderHtml": false
+    },
+    {
+      "text": "An over-Botoxed socialite.",
+      "renderHtml": false
+    },
+    {
+      "text": "Austin hippies.",
+      "renderHtml": false
+    },
+    {
+      "text": "Beer, bait & ammo.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being a little homophobic.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being a little too big for your britches.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being a little too Mexican to be white and little too white to be Mexican.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being country as fuck.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being just dark enough to be labeled a terrorist.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being lovingly whipped by a belt.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being politically incorrect.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being snot-slinging drunk.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being the only one around without a gun.",
+      "renderHtml": false
+    },
+    {
+      "text": "Betting the farm on chickenshit bingo.",
+      "renderHtml": false
+    },
+    {
+      "text": "Blue Bell-induced diarrhea.",
+      "renderHtml": false
+    },
+    {
+      "text": "Boys from Oklahoma.",
+      "renderHtml": false
+    },
+    {
+      "text": "BRYAN WILSON: TEXAS LAW HAWK!",
+      "renderHtml": false
+    },
+    {
+      "text": "Californians.",
+      "renderHtml": false
+    },
+    {
+      "text": "Catching a whiff of manure.",
+      "renderHtml": false
+    },
+    {
+      "text": "Cheap bourbon whiskey.",
+      "renderHtml": false
+    },
+    {
+      "text": "Cowboy erotica.",
+      "renderHtml": false
+    },
+    {
+      "text": "Diddly squat.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dipping.",
+      "renderHtml": false
+    },
+    {
+      "text": "Drinking from someone's chewing tobacco spit cup.",
+      "renderHtml": false
+    },
+    {
+      "text": "Drive-thru liquor barns.",
+      "renderHtml": false
+    },
+    {
+      "text": "Driving drunk.",
+      "renderHtml": false
+    },
+    {
+      "text": "Evangelical Christians.",
+      "renderHtml": false
+    },
+    {
+      "text": "Everyone riding horses everywhere.",
+      "renderHtml": false
+    },
+    {
+      "text": "Filthy, depraved, sinful, premarital sex.",
+      "renderHtml": false
+    },
+    {
+      "text": "Floating in a river of beer and urine.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fuck y'all, I'm from Texas.",
+      "renderHtml": false
+    },
+    {
+      "text": "Galloping.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting a contact high from Willie Nelson's farts.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting all gussied up.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting castrated by a rattle snake.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting hitched but not churched.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting knocked up a week after getting new knockers.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting lassoed.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting plowed.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting punched by a Texas Ranger.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting swept away by a tornado.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting third degree burns from a seat belt.",
+      "renderHtml": false
+    },
+    {
+      "text": "Going bare back.",
+      "renderHtml": false
+    },
+    {
+      "text": "Good Christian bitches.",
+      "renderHtml": false
+    },
+    {
+      "text": "Greg Abbot's crippled body.",
+      "renderHtml": false
+    },
+    {
+      "text": "Horny toads.",
+      "renderHtml": false
+    },
+    {
+      "text": "Horse shit.",
+      "renderHtml": false
+    },
+    {
+      "text": "Huge Arabic haboobs.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hurricane Katrina refugees.",
+      "renderHtml": false
+    },
+    {
+      "text": "Inappropriate Facebook posts about JJ Watt.",
+      "renderHtml": false
+    },
+    {
+      "text": "Jerry Jones' wrinkly old sack.",
+      "renderHtml": false
+    },
+    {
+      "text": "Learning advanced handjob technique at Young Life.",
+      "renderHtml": false
+    },
+    {
+      "text": "Lyndon's jumbo johnson.",
+      "renderHtml": false
+    },
+    {
+      "text": "Mark Fucking Cuban.",
+      "renderHtml": false
+    },
+    {
+      "text": "Massacring people with a chainsaw.",
+      "renderHtml": false
+    },
+    {
+      "text": "Matthew McConaughey.",
+      "renderHtml": false
+    },
+    {
+      "text": "Misguided optimism for this year's football season.",
+      "renderHtml": false
+    },
+    {
+      "text": "Morally indignant Baptists.",
+      "renderHtml": false
+    },
+    {
+      "text": "Playing possum.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pooping on bluebonnets.",
+      "renderHtml": false
+    },
+    {
+      "text": "Quality lethal injection drugs.",
+      "renderHtml": false
+    },
+    {
+      "text": "Racist grandparents.",
+      "renderHtml": false
+    },
+    {
+      "text": "Raider Rash.",
+      "renderHtml": false
+    },
+    {
+      "text": "Rednecks.",
+      "renderHtml": false
+    },
+    {
+      "text": "Refried beans.",
+      "renderHtml": false
+    },
+    {
+      "text": "Regular chaps.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ridin' dirty.",
+      "renderHtml": false
+    },
+    {
+      "text": "Riding a log to a wet, explosive finish.",
+      "renderHtml": false
+    },
+    {
+      "text": "Rubbing your meat.",
+      "renderHtml": false
+    },
+    {
+      "text": "Some mother fuckers that need Jesus.",
+      "renderHtml": false
+    },
+    {
+      "text": "Someone that won't shut the fuck up about how much they love Texas.",
+      "renderHtml": false
+    },
+    {
+      "text": "Spending Daddy's money.",
+      "renderHtml": false
+    },
+    {
+      "text": "Steers and queers.",
+      "renderHtml": false
+    },
+    {
+      "text": "Super-rich pansexual cowboys.",
+      "renderHtml": false
+    },
+    {
+      "text": "Swimming across the Rio Grande.",
+      "renderHtml": false
+    },
+    {
+      "text": "Systemic racism.",
+      "renderHtml": false
+    },
+    {
+      "text": "Taking it like a real man.",
+      "renderHtml": false
+    },
+    {
+      "text": "Talking about moving to Austin.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ted Cruz's heavy, sexual breathing.",
+      "renderHtml": false
+    },
+    {
+      "text": "Texans.",
+      "renderHtml": false
+    },
+    {
+      "text": "Texas Pride.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Big D.",
+      "renderHtml": false
+    },
+    {
+      "text": "The high school quarterback at 45.",
+      "renderHtml": false
+    },
+    {
+      "text": "The mere concept of Waco.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Tex-Mex shits.",
+      "renderHtml": false
+    },
+    {
+      "text": "Tipping cows.",
+      "renderHtml": false
+    },
+    {
+      "text": "Too much everclear.",
+      "renderHtml": false
+    },
+    {
+      "text": "Using queso as lube.",
+      "renderHtml": false
+    },
+    {
+      "text": "Wearing just boots and a cowboy hat.",
+      "renderHtml": false
+    },
+    {
+      "text": "Whataburger taquitos.",
+      "renderHtml": false
+    },
+    {
+      "text": "Whatever Cinco de Mayo is supposed to be about.",
+      "renderHtml": false
+    },
+    {
+      "text": "Yelling \"Remember The Alamo!\" during climax.",
+      "renderHtml": false
+    }
+  ]
+}

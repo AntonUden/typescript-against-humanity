@@ -1,0 +1,465 @@
+{
+  "order": 90,
+  "displayName": "Carbs of the Huge Manatee: General Expansion 1",
+  "name": "Carbs_of_the_Huge_Manatee_General_Expansion_1",
+  "whiteCards": [
+    {
+      "text": "_ is my co-pilot.",
+      "pick": 1
+    },
+    {
+      "text": "_, that's why I got married.",
+      "pick": 1
+    },
+    {
+      "text": "_:  A solution in search of a problem.",
+      "pick": 1
+    },
+    {
+      "text": "\"Give me liberty or give me _!\"",
+      "pick": 1
+    },
+    {
+      "text": "\"I love the smell of _ in the morning!\"",
+      "pick": 1
+    },
+    {
+      "text": "\"Isn't that the ultimate homeland security, standing up and defending _?\" - Rick Santorum",
+      "pick": 1
+    },
+    {
+      "text": "A spoonful of _ helps the _ go down.",
+      "pick": 2
+    },
+    {
+      "text": "I never should have introduced _ to _.",
+      "pick": 2
+    },
+    {
+      "text": "I thought I was _, but it turns out I was _.",
+      "pick": 2
+    },
+    {
+      "text": "I use the Internet to look at pictures of _.",
+      "pick": 1
+    },
+    {
+      "text": "I was in _ but my life changed when I found _.",
+      "pick": 2
+    },
+    {
+      "text": "If you build _, they will come.",
+      "pick": 1
+    },
+    {
+      "text": "In your Best-Man speech, I'd talk about when we found ourselves _.",
+      "pick": 1
+    },
+    {
+      "text": "Last night, I tried _ again.  It was MUCH better the second time.",
+      "pick": 1
+    },
+    {
+      "text": "Me and _?  That's just a rumor!",
+      "pick": 1
+    },
+    {
+      "text": "My fortune cookie said I should spend more time playing with _ and less time with _.",
+      "pick": 2
+    },
+    {
+      "text": "My personal trainer showed me this cool thing I could do with _ and _.",
+      "pick": 2
+    },
+    {
+      "text": "Randaflex™:  The first over-the-counter treatment for _.",
+      "pick": 1
+    },
+    {
+      "text": "The only mind-altering substance I use is _.",
+      "pick": 1
+    },
+    {
+      "text": "We've secretly taken the coffee you usually drink and replaced it with _.",
+      "pick": 1
+    },
+    {
+      "text": "What's my spirit animal?",
+      "pick": 1
+    },
+    {
+      "text": "You did _?  With _?  For how many cookies?",
+      "pick": 2
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "\"Somebody That I Used To Know\" covered by Sting.",
+      "renderHtml": false
+    },
+    {
+      "text": "A cuddle puddle.",
+      "renderHtml": false
+    },
+    {
+      "text": "A dildo cannon.",
+      "renderHtml": false
+    },
+    {
+      "text": "A light-green satin corset.",
+      "renderHtml": false
+    },
+    {
+      "text": "A little bit pregnant.",
+      "renderHtml": false
+    },
+    {
+      "text": "A meat party in my mouth!",
+      "renderHtml": false
+    },
+    {
+      "text": "A princess who can kill the dragon on her own, thank you very much.",
+      "renderHtml": false
+    },
+    {
+      "text": "A sad panda.",
+      "renderHtml": false
+    },
+    {
+      "text": "A selfie where you can see that you didn't clean up after last night's escapades.",
+      "renderHtml": false
+    },
+    {
+      "text": "A smaller, blacker vagina.",
+      "renderHtml": false
+    },
+    {
+      "text": "A special little snowflake.",
+      "renderHtml": false
+    },
+    {
+      "text": "A willing sheep.",
+      "renderHtml": false
+    },
+    {
+      "text": "An open relationship status on Facebook.",
+      "renderHtml": false
+    },
+    {
+      "text": "Androgynous haircuts.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being absolutely crazy about my therapist.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being aggressive-aggressive. It's like passive-aggressive, but without the \"passive.\"",
+      "renderHtml": false
+    },
+    {
+      "text": "Being disappointed when your date drops their pants.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being mad stylin', yo.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bizarre acapella renditions of popular songs.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bombing the homeless.",
+      "renderHtml": false
+    },
+    {
+      "text": "Burning Man.",
+      "renderHtml": false
+    },
+    {
+      "text": "Carlos Chang's Fine Italian Cuisine.",
+      "renderHtml": false
+    },
+    {
+      "text": "Carmen Sandiego's clitoris.",
+      "renderHtml": false
+    },
+    {
+      "text": "Clitter™! Glitter for your vagina!*",
+      "renderHtml": false
+    },
+    {
+      "text": "Coffee so strong that it can be used for vision quests.",
+      "renderHtml": false
+    },
+    {
+      "text": "Comfy sweats and premium ice cream.",
+      "renderHtml": false
+    },
+    {
+      "text": "Cranky Old Man 2: Get Off My Lawn!™ New from Capcom Games!",
+      "renderHtml": false
+    },
+    {
+      "text": "Creeper.",
+      "renderHtml": false
+    },
+    {
+      "text": "Cross-generational sex talk.",
+      "renderHtml": false
+    },
+    {
+      "text": "Daiya cheese.*",
+      "renderHtml": false
+    },
+    {
+      "text": "Defenestration.*",
+      "renderHtml": false
+    },
+    {
+      "text": "Dihydrogen Monoxide.*",
+      "renderHtml": false
+    },
+    {
+      "text": "Discovering that he's hung like a lightswitch.",
+      "renderHtml": false
+    },
+    {
+      "text": "Embarrassing bridal shower gifts.",
+      "renderHtml": false
+    },
+    {
+      "text": "Expired memes.",
+      "renderHtml": false
+    },
+    {
+      "text": "Facebook friend-purging.",
+      "renderHtml": false
+    },
+    {
+      "text": "Failing the Bechtel Test* in real life.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fashion advice from Amazon's homepage.",
+      "renderHtml": false
+    },
+    {
+      "text": "Firecracker chocolate.*",
+      "renderHtml": false
+    },
+    {
+      "text": "Georgia O'Keeffe.",
+      "renderHtml": false
+    },
+    {
+      "text": "Gingers don't have souls.",
+      "renderHtml": false
+    },
+    {
+      "text": "Going out on a date with a guy who might be 6 feet tall - but only if he's wearing heels.",
+      "renderHtml": false
+    },
+    {
+      "text": "Happy Family Memories.*",
+      "renderHtml": false
+    },
+    {
+      "text": "Hearing neighbors having sex... and not finding her believable.",
+      "renderHtml": false
+    },
+    {
+      "text": "Heavy flow.",
+      "renderHtml": false
+    },
+    {
+      "text": "High powered jacuzzi jets.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hot, left-handed, women geeks.",
+      "renderHtml": false
+    },
+    {
+      "text": "Identity theft.",
+      "renderHtml": false
+    },
+    {
+      "text": "Illegal downloading.",
+      "renderHtml": false
+    },
+    {
+      "text": "Instagramming pictures of food.",
+      "renderHtml": false
+    },
+    {
+      "text": "Intense, grab your ankles vomiting.",
+      "renderHtml": false
+    },
+    {
+      "text": "Introducing yourself after the dance.",
+      "renderHtml": false
+    },
+    {
+      "text": "Just remember that Jesus Loves You.",
+      "renderHtml": false
+    },
+    {
+      "text": "Just to see how it feels...",
+      "renderHtml": false
+    },
+    {
+      "text": "Kermit the frog porking out.",
+      "renderHtml": false
+    },
+    {
+      "text": "Misplaced WMDs.",
+      "renderHtml": false
+    },
+    {
+      "text": "Missing the bowl.",
+      "renderHtml": false
+    },
+    {
+      "text": "Morbidly obese, 9-year-old children with high cholesterol.",
+      "renderHtml": false
+    },
+    {
+      "text": "Not labia. YAY-bia!",
+      "renderHtml": false
+    },
+    {
+      "text": "Not remembering the difference between Second-Wave and Third-Wave feminism.",
+      "renderHtml": false
+    },
+    {
+      "text": "Paint fumes in an enclosed space.",
+      "renderHtml": false
+    },
+    {
+      "text": "Portland.",
+      "renderHtml": false
+    },
+    {
+      "text": "President Hillary enjoying a male intern.",
+      "renderHtml": false
+    },
+    {
+      "text": "Puppy breath.",
+      "renderHtml": false
+    },
+    {
+      "text": "Russian homophobia.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sand in the damnedest places.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sarah Palin at Toastmasters™.",
+      "renderHtml": false
+    },
+    {
+      "text": "Self-righteous hipsters.",
+      "renderHtml": false
+    },
+    {
+      "text": "Single-payer healthcare like the rest of the civilized world.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sneezing while wearing the Diva Cup™ and a skirt with no underwear.*",
+      "renderHtml": false
+    },
+    {
+      "text": "Soy Milk.",
+      "renderHtml": false
+    },
+    {
+      "text": "Stupid Cosmo Sex Tips.",
+      "renderHtml": false
+    },
+    {
+      "text": "Talking with your girlfriends about his \"limitations.\"",
+      "renderHtml": false
+    },
+    {
+      "text": "Tasty, tasty cheese.",
+      "renderHtml": false
+    },
+    {
+      "text": "That sounds like my first time.",
+      "renderHtml": false
+    },
+    {
+      "text": "The dumpster behind the supermarket.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Fox News Team.",
+      "renderHtml": false
+    },
+    {
+      "text": "The gayest straight man you know.",
+      "renderHtml": false
+    },
+    {
+      "text": "The horrifying realization that Jesus wasn't white. Or capitalist. Or American.",
+      "renderHtml": false
+    },
+    {
+      "text": "The hunt for the wilderpeople",
+      "renderHtml": false
+    },
+    {
+      "text": "The NuvaRing™.*",
+      "renderHtml": false
+    },
+    {
+      "text": "The world's angriest ginger.",
+      "renderHtml": false
+    },
+    {
+      "text": "Thinking, \"I'm missing 'Big Bang Theory' for this?\"",
+      "renderHtml": false
+    },
+    {
+      "text": "Tonight's special - Stuffed avocado.",
+      "renderHtml": false
+    },
+    {
+      "text": "Tori Amos' new album.",
+      "renderHtml": false
+    },
+    {
+      "text": "Turtle sex.",
+      "renderHtml": false
+    },
+    {
+      "text": "Unbelievably hot smart women.",
+      "renderHtml": false
+    },
+    {
+      "text": "Volleyball shorts.",
+      "renderHtml": false
+    },
+    {
+      "text": "Wearing jeans so you don't have to shave.",
+      "renderHtml": false
+    },
+    {
+      "text": "Wiccan prayer in school.",
+      "renderHtml": false
+    },
+    {
+      "text": "You and your best friend simultaneously flashing the hand signal for \"abortion\" at the first sound of a baby crying.*",
+      "renderHtml": false
+    },
+    {
+      "text": "Your asshole inner voice.",
+      "renderHtml": false
+    }
+  ]
+}

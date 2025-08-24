@@ -1,0 +1,129 @@
+{
+  "order": 39,
+  "displayName": "World Wide Web Pack",
+  "name": "xyzzy_world_wide_web_pack",
+  "whiteCards": [
+    {
+      "text": "Don't worry, Penny! Go Go Gadget ____!",
+      "pick": 1
+    },
+    {
+      "text": "TRIGGER WARNING: ____.",
+      "pick": 1
+    },
+    {
+      "text": "I need you like ____ needs ____.",
+      "pick": 2
+    },
+    {
+      "text": "Such ____. Very ____. Wow.",
+      "pick": 2
+    },
+    {
+      "text": "Nothing says \"I love you\" like ____.",
+      "pick": 1
+    },
+    {
+      "text": "I'm just gonna stay in tonight. You know, Netflix and ____.",
+      "pick": 1
+    },
+    {
+      "text": "What did I nickname my genitals?",
+      "pick": 1
+    },
+    {
+      "text": "This app is basically Tinder, but for ____.",
+      "pick": 1
+    },
+    {
+      "text": "You guys, you can buy ____ on the dark web.",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "A fun, sexy time at the nude beach.",
+      "renderHtml": false
+    },
+    {
+      "text": "A complete inability to understand anyone else's perspective.",
+      "renderHtml": false
+    },
+    {
+      "text": "Three years of semen in a shoebox.",
+      "renderHtml": false
+    },
+    {
+      "text": "A respectful discussion of race and gender on the Internet.",
+      "renderHtml": false
+    },
+    {
+      "text": "Taking a shit while running at full speed.",
+      "renderHtml": false
+    },
+    {
+      "text": "A night of Taco Bell and anal sex.",
+      "renderHtml": false
+    },
+    {
+      "text": "Googling.",
+      "renderHtml": false
+    },
+    {
+      "text": "Smash Mouth.",
+      "renderHtml": false
+    },
+    {
+      "text": "A man from Craigslist.",
+      "renderHtml": false
+    },
+    {
+      "text": "My browser history.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting teabagged by a fifth grader in <i>Call of Duty.</i>",
+      "renderHtml": false
+    },
+    {
+      "text": "My privileged white penis.",
+      "renderHtml": false
+    },
+    {
+      "text": "Internet porn analysis paralysis.",
+      "renderHtml": false
+    },
+    {
+      "text": "YouTube comments.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pretending to be black.",
+      "renderHtml": false
+    },
+    {
+      "text": "That thing on the Internet everyone's talking about.",
+      "renderHtml": false
+    },
+    {
+      "text": "Goats screaming like people.",
+      "renderHtml": false
+    },
+    {
+      "text": "Destroying Dick Cheney's last horcrux.",
+      "renderHtml": false
+    },
+    {
+      "text": "Game of Thrones spoilers.",
+      "renderHtml": false
+    },
+    {
+      "text": "Cat massage.",
+      "renderHtml": false
+    },
+    {
+      "text": "Matching with Mom on Tinder.",
+      "renderHtml": false
+    }
+  ]
+}

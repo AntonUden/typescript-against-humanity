@@ -1,0 +1,154 @@
+{
+  "source": 0,
+  "order": 26,
+  "displayName": "[C] Antisocial Injustice",
+  "name": "c-antisocial",
+  "whiteCards": [
+    {
+      "text": "Technology improves every day. One day soon, surfing the web will be replaced by _.",
+      "pick": 1
+    },
+    {
+      "text": "Despite our Administration's best efforts, we are still incapable of _.",
+      "pick": 1
+    },
+    {
+      "text": "At camp, we'd scare each other by telling stories about _ around the fire.",
+      "pick": 1
+    },
+    {
+      "text": "Choosy Moms Choose _.",
+      "pick": 1
+    },
+    {
+      "text": "The reason I go to church is to learn about _.",
+      "pick": 1
+    },
+    {
+      "text": "Show me on _, where he _.",
+      "pick": 2
+    },
+    {
+      "text": "I wouldn't _ you with _.",
+      "pick": 2
+    },
+    {
+      "text": "All attempts at _, have met with failure and crippling economic sanctions.",
+      "pick": 1
+    },
+    {
+      "text": "Eating _ gave me _.",
+      "pick": 2
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "The syrupy goop inside a Stretch Armstrong doll.",
+      "renderHtml": false
+    },
+    {
+      "text": "Rocky Dennis and John Merrick's lovechild.",
+      "renderHtml": false
+    },
+    {
+      "text": "Life after Parole.",
+      "renderHtml": false
+    },
+    {
+      "text": "Finding an adhesive bandage at the bottom of your ice cream.",
+      "renderHtml": false
+    },
+    {
+      "text": "A Pit Bull named Genghis.",
+      "renderHtml": false
+    },
+    {
+      "text": "A cat's sand papery tongue bath.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bringing the Hamburglar to Justice.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sphincter Bleaching.",
+      "renderHtml": false
+    },
+    {
+      "text": "An Amputee's chapped limb nub.",
+      "renderHtml": false
+    },
+    {
+      "text": "Toilet Wine.",
+      "renderHtml": false
+    },
+    {
+      "text": "Leftist Propaganda.",
+      "renderHtml": false
+    },
+    {
+      "text": "Febreezing your Taint.",
+      "renderHtml": false
+    },
+    {
+      "text": "Cookie Monster's substance abuse issues.",
+      "renderHtml": false
+    },
+    {
+      "text": "An ingrown toenail on the tip of a penis.",
+      "renderHtml": false
+    },
+    {
+      "text": "Feline Leukemia.",
+      "renderHtml": false
+    },
+    {
+      "text": "Marky Mark's foam rubber penis from Boogie Nights.",
+      "renderHtml": false
+    },
+    {
+      "text": "My Spankerchief.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pumping a chemical toilet.",
+      "renderHtml": false
+    },
+    {
+      "text": "The fine line between kinky and perverted.",
+      "renderHtml": false
+    },
+    {
+      "text": "A Rotisserie Chicken.",
+      "renderHtml": false
+    },
+    {
+      "text": "Vultures circling a birthday party.",
+      "renderHtml": false
+    },
+    {
+      "text": "An All White Jury.",
+      "renderHtml": false
+    },
+    {
+      "text": "Frottage.",
+      "renderHtml": false
+    },
+    {
+      "text": "Michael J. Fox trying to use a rotary phone.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Five Knuckle Truffle Punch.",
+      "renderHtml": false
+    },
+    {
+      "text": "Flipper Babies.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ejaculating into an insulin pump.",
+      "renderHtml": false
+    }
+  ]
+}

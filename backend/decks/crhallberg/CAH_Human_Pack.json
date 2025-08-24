@@ -1,0 +1,129 @@
+{
+  "order": 19,
+  "displayName": "CAH: Human Pack",
+  "name": "CAH_Human_Pack",
+  "whiteCards": [
+    {
+      "text": "Do not go gentle into that good night. Rage, rage against _?",
+      "pick": 1
+    },
+    {
+      "text": "Sure, sex is great, but have you tried _?",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "A pointless job at a soulless corporation.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being terrified of a single bee.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being young and in love in New York City.",
+      "renderHtml": false
+    },
+    {
+      "text": "Chemotherapy.",
+      "renderHtml": false
+    },
+    {
+      "text": "Delighting in the pain of others.",
+      "renderHtml": false
+    },
+    {
+      "text": "Forming a monogamous pairbond.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting my butt trapped hilariously in a tuba.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting sad for no reason.",
+      "renderHtml": false
+    },
+    {
+      "text": "Good ol' fashioned face-to-face conversation.",
+      "renderHtml": false
+    },
+    {
+      "text": "Harnessing the power of steam!!!",
+      "renderHtml": false
+    },
+    {
+      "text": "How good this cantaloupe feels on my penis.",
+      "renderHtml": false
+    },
+    {
+      "text": "Just hangin' out, ya know?",
+      "renderHtml": false
+    },
+    {
+      "text": "Like 50 mosquito bites.",
+      "renderHtml": false
+    },
+    {
+      "text": "Losing a loved one to Fox News.",
+      "renderHtml": false
+    },
+    {
+      "text": "Really tall people.",
+      "renderHtml": false
+    },
+    {
+      "text": "Saying \"what's that?\" And then stealing a french fry.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sucking all the oil out of the planet and fucking off to Mars.",
+      "renderHtml": false
+    },
+    {
+      "text": "The bomb strapped to my chest.",
+      "renderHtml": false
+    },
+    {
+      "text": "The joy of song.",
+      "renderHtml": false
+    },
+    {
+      "text": "The salmon.",
+      "renderHtml": false
+    },
+    {
+      "text": "The unspeakable horrors of factory farming.",
+      "renderHtml": false
+    },
+    {
+      "text": "The whole Jeffrey Epstein thing.",
+      "renderHtml": false
+    },
+    {
+      "text": "This horrible thing called twitter.",
+      "renderHtml": false
+    },
+    {
+      "text": "Three hours of pimple-popping videos.",
+      "renderHtml": false
+    },
+    {
+      "text": "Unwelcome sexual attention from grown men.",
+      "renderHtml": false
+    },
+    {
+      "text": "Using words to communicate.",
+      "renderHtml": false
+    },
+    {
+      "text": "War with China.",
+      "renderHtml": false
+    },
+    {
+      "text": "Watching the life drain from the eyes of my son's killer.",
+      "renderHtml": false
+    }
+  ]
+}

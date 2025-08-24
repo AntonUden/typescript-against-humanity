@@ -1,0 +1,133 @@
+{
+  "order": 3,
+  "displayName": "2014 Holiday Pack",
+  "name": "2014_Holiday_Pack",
+  "whiteCards": [
+    {
+      "text": "A curse upon thee! Many years from now, just when you think you're safe, _ shall turn into _.",
+      "pick": 2
+    },
+    {
+      "text": "Behold the Four Horsemen of the Apocalypse! War, Famine, Death, and _.",
+      "pick": 1
+    },
+    {
+      "text": "Dear Mom and Dad, Camp is fun. I like capture the flag. Yesterday, one of the older kids taught me about _. I love you, Casey",
+      "pick": 1
+    },
+    {
+      "text": "Here lies First Last, Year-2015, devoted friend, lover of _.",
+      "pick": 1
+    },
+    {
+      "text": "Honey, Mommy and Daddy love you very much. But apparently Mommy loves _ more than she loves Daddy.",
+      "pick": 1
+    },
+    {
+      "text": "Today on Buzzfeed: 10 pictures of _ That look like _!",
+      "pick": 2
+    },
+    {
+      "text": "Why am I so tired?",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "200 years of slavery.",
+      "renderHtml": false
+    },
+    {
+      "text": "A cloud of ash that darkens the Earth for a thousand years.",
+      "renderHtml": false
+    },
+    {
+      "text": "A protracted siege.",
+      "renderHtml": false
+    },
+    {
+      "text": "A vague fear of something called ISIS.",
+      "renderHtml": false
+    },
+    {
+      "text": "All the poop inside of my body.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being replaced by a robot.",
+      "renderHtml": false
+    },
+    {
+      "text": "Blockbuster late fees up the wazoo.",
+      "renderHtml": false
+    },
+    {
+      "text": "Building a ladder of hot dogs to the moon.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ebola.",
+      "renderHtml": false
+    },
+    {
+      "text": "Harnessing the miraculous power of the atom to slaughter 200,000 Japanese people.",
+      "renderHtml": false
+    },
+    {
+      "text": "Reading an entire book.",
+      "renderHtml": false
+    },
+    {
+      "text": "Rising sea levels consistent with scientific predictions.",
+      "renderHtml": false
+    },
+    {
+      "text": "Rock music and premarital sex.",
+      "renderHtml": false
+    },
+    {
+      "text": "Small-town cops with M-4 assault rifles.",
+      "renderHtml": false
+    },
+    {
+      "text": "The 9,000 children who starved to death today.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Bowflex Revolution.",
+      "renderHtml": false
+    },
+    {
+      "text": "The diminishing purity of the white race.",
+      "renderHtml": false
+    },
+    {
+      "text": "The dying breath of the last human.",
+      "renderHtml": false
+    },
+    {
+      "text": "The events depicted in James Cameron's Avatar.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Great Lizard Uprising of 2352.",
+      "renderHtml": false
+    },
+    {
+      "text": "The transience of all things.",
+      "renderHtml": false
+    },
+    {
+      "text": "This groovy new thing called LSD.",
+      "renderHtml": false
+    },
+    {
+      "text": "Trying to feel something, anything.",
+      "renderHtml": false
+    },
+    {
+      "text": "What remains of my penis.",
+      "renderHtml": false
+    }
+  ]
+}

@@ -1,0 +1,441 @@
+{
+  "order": 91,
+  "displayName": "Carbs of the Huge Manatee: General Expansion 2",
+  "name": "Carbs_of_the_Huge_Manatee_General_Expansion_2",
+  "whiteCards": [
+    {
+      "text": "_. Is THAT what they're calling it these days...",
+      "pick": 1
+    },
+    {
+      "text": "_. It's no oxycontin, but it will get you through the morning.",
+      "pick": 1
+    },
+    {
+      "text": "_. It's not just for breakfast any more.",
+      "pick": 1
+    },
+    {
+      "text": "404 - _ Not Found",
+      "pick": 1
+    },
+    {
+      "text": "Coming this fall, _, starring Rob Schneider.",
+      "pick": 1
+    },
+    {
+      "text": "Fuck I love _, though.",
+      "pick": 1
+    },
+    {
+      "text": "I have Santa's list. After having _, you're getting _ for Xmas.",
+      "pick": 2
+    },
+    {
+      "text": "It rubs the _ on its skin or else it gets the _ again.",
+      "pick": 2
+    },
+    {
+      "text": "Math is hard. Let's go _.",
+      "pick": 1
+    },
+    {
+      "text": "Next year's Flipside theme is Flipside: _.",
+      "pick": 1
+    },
+    {
+      "text": "Now the Texas legislature is trying to take away a woman's right to _.",
+      "pick": 1
+    },
+    {
+      "text": "One small step for man, one giant leap for _.",
+      "pick": 1
+    },
+    {
+      "text": "The _ must flow.",
+      "pick": 1
+    },
+    {
+      "text": "The irony is that Ayn Rand's books were really about _, the whole time.",
+      "pick": 1
+    },
+    {
+      "text": "The more people I meet, the more _ sounds like a really good idea.",
+      "pick": 1
+    },
+    {
+      "text": "This is the dawning of the Age of _.",
+      "pick": 1
+    },
+    {
+      "text": "We Use _ To Control The Unwitting Masses.",
+      "pick": 1
+    },
+    {
+      "text": "When The Raptor comes he will eat _ first.",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "\"Oh dear God, coffee!\"",
+      "renderHtml": false
+    },
+    {
+      "text": "\"Useless, yerk-toting, Frisbee-chucking cheeba-monkeys\"",
+      "renderHtml": false
+    },
+    {
+      "text": "A college fratboy.",
+      "renderHtml": false
+    },
+    {
+      "text": "A dream where you see yourself standing in sort of sun-god robes on a pyramid with a thousand naked women screaming and throwing little pickles at you.",
+      "renderHtml": false
+    },
+    {
+      "text": "A Galapagos Marine Iguana.",
+      "renderHtml": false
+    },
+    {
+      "text": "A giant gerbil shoving a Hollywood celebrity up his ass.",
+      "renderHtml": false
+    },
+    {
+      "text": "A horny unicorn.",
+      "renderHtml": false
+    },
+    {
+      "text": "A pain in my skull like my sinuses were cracking.",
+      "renderHtml": false
+    },
+    {
+      "text": "Awkward wedding gifts.",
+      "renderHtml": false
+    },
+    {
+      "text": "Babe, Dude Is CRAZY!",
+      "renderHtml": false
+    },
+    {
+      "text": "Bisexual Asian Studies.",
+      "renderHtml": false
+    },
+    {
+      "text": "Brain bleach.",
+      "renderHtml": false
+    },
+    {
+      "text": "Burning Flipside.",
+      "renderHtml": false
+    },
+    {
+      "text": "Buying slutty clothes from \"Forever 21.\"",
+      "renderHtml": false
+    },
+    {
+      "text": "Buzzword Bingo.",
+      "renderHtml": false
+    },
+    {
+      "text": "Captain Tightpants.",
+      "renderHtml": false
+    },
+    {
+      "text": "Carpal tunnel syndrome.",
+      "renderHtml": false
+    },
+    {
+      "text": "Cassandra's day-planner.",
+      "renderHtml": false
+    },
+    {
+      "text": "Cedar Fever Season.",
+      "renderHtml": false
+    },
+    {
+      "text": "Cerberus.",
+      "renderHtml": false
+    },
+    {
+      "text": "Don't be that guy.",
+      "renderHtml": false
+    },
+    {
+      "text": "Drinking out of the milk carton.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dude, Bitch Is CRAZY!",
+      "renderHtml": false
+    },
+    {
+      "text": "Felicia Day.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fellating The Ghost.",
+      "renderHtml": false
+    },
+    {
+      "text": "Florida.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fuck it. I don't know.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fucking In Tents.",
+      "renderHtml": false
+    },
+    {
+      "text": "Girl pilots killing Nazis.",
+      "renderHtml": false
+    },
+    {
+      "text": "Harry Dresden.",
+      "renderHtml": false
+    },
+    {
+      "text": "He's still dead.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hot. But WEIRD... But HOT...",
+      "renderHtml": false
+    },
+    {
+      "text": "I have a shitty hand",
+      "renderHtml": false
+    },
+    {
+      "text": "ID-10-t Error.",
+      "renderHtml": false
+    },
+    {
+      "text": "Jenny McCarthy's son slowly and painfully dying from polio.",
+      "renderHtml": false
+    },
+    {
+      "text": "Kaylee.",
+      "renderHtml": false
+    },
+    {
+      "text": "Keeping grandma's corpse in the attic to continue collecting her Social Security benefits.",
+      "renderHtml": false
+    },
+    {
+      "text": "Little Black Dress with thigh-highs.",
+      "renderHtml": false
+    },
+    {
+      "text": "Magic underwear.",
+      "renderHtml": false
+    },
+    {
+      "text": "Marketing weasels.",
+      "renderHtml": false
+    },
+    {
+      "text": "Masturbating and crying at the same time.",
+      "renderHtml": false
+    },
+    {
+      "text": "Michelle Bachmann.",
+      "renderHtml": false
+    },
+    {
+      "text": "Mutant hamster races.",
+      "renderHtml": false
+    },
+    {
+      "text": "My censor chip burning out.",
+      "renderHtml": false
+    },
+    {
+      "text": "Naked in a hot tub full of Lime Jell-O™.",
+      "renderHtml": false
+    },
+    {
+      "text": "Neck down alopecia.",
+      "renderHtml": false
+    },
+    {
+      "text": "No reason.",
+      "renderHtml": false
+    },
+    {
+      "text": "Orphan Meat.",
+      "renderHtml": false
+    },
+    {
+      "text": "Patrick Stewart's glorious bald head.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pickleback.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pope Frank.",
+      "renderHtml": false
+    },
+    {
+      "text": "QUINTUPLETS!!!!!",
+      "renderHtml": false
+    },
+    {
+      "text": "Radio-controlled shock collars.",
+      "renderHtml": false
+    },
+    {
+      "text": "Random Technobabble.",
+      "renderHtml": false
+    },
+    {
+      "text": "Random, pretentious reference to Greek Mythology.",
+      "renderHtml": false
+    },
+    {
+      "text": "Raw Face Is Just Gross.",
+      "renderHtml": false
+    },
+    {
+      "text": "Remember the Angelfish. Just float.",
+      "renderHtml": false
+    },
+    {
+      "text": "Rick Santorum's lackluster endorsement.",
+      "renderHtml": false
+    },
+    {
+      "text": "Roy Orbison Wrapped in cling film.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sentient calcium.",
+      "renderHtml": false
+    },
+    {
+      "text": "Shooting people with \"duckface.\"",
+      "renderHtml": false
+    },
+    {
+      "text": "Spam, Spam, Spam, baked beans, and Spam.",
+      "renderHtml": false
+    },
+    {
+      "text": "Spoo.",
+      "renderHtml": false
+    },
+    {
+      "text": "Squirrel!",
+      "renderHtml": false
+    },
+    {
+      "text": "Steve Irwin in a singles bar.",
+      "renderHtml": false
+    },
+    {
+      "text": "Syfy presents...",
+      "renderHtml": false
+    },
+    {
+      "text": "Ted Cruz Crazy.",
+      "renderHtml": false
+    },
+    {
+      "text": "That damn Total Recall remake.",
+      "renderHtml": false
+    },
+    {
+      "text": "That time you got drunk and married a prostitute in Vegas.",
+      "renderHtml": false
+    },
+    {
+      "text": "That's how we got into this mess.",
+      "renderHtml": false
+    },
+    {
+      "text": "The \"magical condom\" that disappeared during sex.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Kool-Aid Man.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Man.",
+      "renderHtml": false
+    },
+    {
+      "text": "The police-chief's underage twin daughters.",
+      "renderHtml": false
+    },
+    {
+      "text": "The psychological damage caused to women who believe \"Twilight\" demonstrates a healthy relationship.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Sword of Damocles",
+      "renderHtml": false
+    },
+    {
+      "text": "The Three Bimbos of the Apocalypse.",
+      "renderHtml": false
+    },
+    {
+      "text": "The trump card.",
+      "renderHtml": false
+    },
+    {
+      "text": "Those damn Drow elves.",
+      "renderHtml": false
+    },
+    {
+      "text": "Trekkies in Captain's uniforms who could never pass the Starfleet Physical.",
+      "renderHtml": false
+    },
+    {
+      "text": "Trickle-down Economics.",
+      "renderHtml": false
+    },
+    {
+      "text": "Using 4Chan for parenting advice.",
+      "renderHtml": false
+    },
+    {
+      "text": "Using custom CAH cards as an adjunct to therapy and medication.",
+      "renderHtml": false
+    },
+    {
+      "text": "Vaginismus.",
+      "renderHtml": false
+    },
+    {
+      "text": "Violent, but thorough.",
+      "renderHtml": false
+    },
+    {
+      "text": "Waking up in a tub full of ice with your kidneys missing.",
+      "renderHtml": false
+    },
+    {
+      "text": "Walking in single file to hide their numbers.",
+      "renderHtml": false
+    },
+    {
+      "text": "Wibbly Wobbly Timey Wimey.",
+      "renderHtml": false
+    },
+    {
+      "text": "World of Floorcraft.",
+      "renderHtml": false
+    },
+    {
+      "text": "Your inner voices are assholes.",
+      "renderHtml": false
+    }
+  ]
+}

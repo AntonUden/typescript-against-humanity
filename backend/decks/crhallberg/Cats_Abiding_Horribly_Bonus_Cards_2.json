@@ -1,0 +1,49 @@
+{
+  "order": 104,
+  "displayName": "Cats Abiding Horribly Bonus Cards 2",
+  "name": "Cats_Abiding_Horribly_Bonus_Cards_2",
+  "whiteCards": [
+    {
+      "text": "After reading Stephen Hawking's latest theory of _ I curled up into a corner and cried for three days straight.",
+      "pick": 1
+    },
+    {
+      "text": "Before Marilyn Monroe came along, Hugh Hefner wanted _ as the first Playboy centerfold. Unfortunately for everyone, that deal fell through.",
+      "pick": 1
+    },
+    {
+      "text": "Damn it feels good to be _.",
+      "pick": 1
+    },
+    {
+      "text": "Give me liberty or give me _.",
+      "pick": 1
+    },
+    {
+      "text": "Whenever I feel lonely, I put on some Barry White, dress up like _ and dance seductively in front of the mirror.",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "Accidental anal.",
+      "renderHtml": false
+    },
+    {
+      "text": "Everyone getting a trophy.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Founding Fathers.",
+      "renderHtml": false
+    },
+    {
+      "text": "The white male patriarchy.",
+      "renderHtml": false
+    },
+    {
+      "text": "Warmongering.",
+      "renderHtml": false
+    }
+  ]
+}

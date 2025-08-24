@@ -1,0 +1,130 @@
+{
+  "source": 0,
+  "order": 13,
+  "displayName": "2012 Holiday Pack",
+  "name": "xmas2012",
+  "whiteCards": [
+    {
+      "text": "After blacking out during New Year's Eve, I was awoken by _.",
+      "pick": 1
+    },
+    {
+      "text": "This holiday season, Tim Allen must overcome his fear of _ to save Christmas.",
+      "pick": 1
+    },
+    {
+      "text": "Jesus is _.",
+      "pick": 1
+    },
+    {
+      "text": "Every Christmas, my uncle gets drunk and tells the story about _.",
+      "pick": 1
+    },
+    {
+      "text": "What keeps me warm during the cold, cold winter?",
+      "pick": 1
+    },
+    {
+      "text": "On the third day of Christmas, my true love gave to me: three French hens, two turtle doves, and _.",
+      "pick": 1
+    },
+    {
+      "text": "Wake up, America. Christmas is under attack by secular liberals and their _.",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "Santa's heavy sack.",
+      "renderHtml": false
+    },
+    {
+      "text": "Clearing a bloody path through Walmart with a scimitar.",
+      "renderHtml": false
+    },
+    {
+      "text": "Another shitty year.",
+      "renderHtml": false
+    },
+    {
+      "text": "Whatever Kwanzaa is supposed to be about.",
+      "renderHtml": false
+    },
+    {
+      "text": "A Christmas stocking full of coleslaw.",
+      "renderHtml": false
+    },
+    {
+      "text": "Elf cum.",
+      "renderHtml": false
+    },
+    {
+      "text": "The tiny, calloused hands of the Chinese children that made this card.",
+      "renderHtml": false
+    },
+    {
+      "text": "Taking down Santa with a surface-to-air missle.",
+      "renderHtml": false
+    },
+    {
+      "text": "Several intertwining love stories featuring Hugh Grant.",
+      "renderHtml": false
+    },
+    {
+      "text": "Mall Santa.",
+      "renderHtml": false
+    },
+    {
+      "text": "My hot cousin.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Star Wars Holiday Special.",
+      "renderHtml": false
+    },
+    {
+      "text": "Krampus, the Austrian Christmas monster.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pretending to be happy.",
+      "renderHtml": false
+    },
+    {
+      "text": "Socks. ",
+      "renderHtml": false
+    },
+    {
+      "text": "Eating an entire snowman.",
+      "renderHtml": false
+    },
+    {
+      "text": "A toxic family environment.",
+      "renderHtml": false
+    },
+    {
+      "text": "A visually arresting turtleneck.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fucking up \"Silent Night\" in front of 300 parents.",
+      "renderHtml": false
+    },
+    {
+      "text": "Immaculate conception.",
+      "renderHtml": false
+    },
+    {
+      "text": "Space Jam on VHS.",
+      "renderHtml": false
+    },
+    {
+      "text": "Gift-wrapping a live hamster.",
+      "renderHtml": false
+    },
+    {
+      "text": "A Hungry-Man&trade; Frozen Christmas Dinner for One.",
+      "renderHtml": false
+    }
+  ]
+}

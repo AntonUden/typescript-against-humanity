@@ -1,0 +1,145 @@
+{
+  "order": 56,
+  "displayName": "Reject Pack 2",
+  "name": "Reject_Pack_2",
+  "whiteCards": [
+    {
+      "text": "America is hungry. America needs _.",
+      "pick": 1
+    },
+    {
+      "text": "Astronomers have discovered that the universe consists of 5% ordinary matter, 25% dark matter, and 70% _.",
+      "pick": 1
+    },
+    {
+      "text": "BowWOW! is the first pet hotel in LA that offers _ for dogs.",
+      "pick": 1
+    },
+    {
+      "text": "Hey, whatever happened to Renee Zellweger?",
+      "pick": 1
+    },
+    {
+      "text": "Housekeeping! You want _?",
+      "pick": 1
+    },
+    {
+      "text": "In bourgeois society, capital is independent and has individuality, while the living person is _.",
+      "pick": 1
+    },
+    {
+      "text": "Some men aren't looking for anything logical, like money. They can't be bought, bullied, reasoned or negotiated with. Some men just want _.",
+      "pick": 1
+    },
+    {
+      "text": "What's wrong with these gorillas?",
+      "pick": 1
+    },
+    {
+      "text": "Why did the fusion exchanges end?",
+      "pick": 1
+    },
+    {
+      "text": "You say tomato, I say _.",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "A dick so big and so black that not even light can escape its pull.",
+      "renderHtml": false
+    },
+    {
+      "text": "A double murder suicide barbeque.",
+      "renderHtml": false
+    },
+    {
+      "text": "A primordial soup and salad bar.",
+      "renderHtml": false
+    },
+    {
+      "text": "A stack of bunnies in a trenchcoat.",
+      "renderHtml": false
+    },
+    {
+      "text": "At least three ducks.",
+      "renderHtml": false
+    },
+    {
+      "text": "Becoming engorged with social justice jelly and secreting a thinkpiece.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being the absolute worst.",
+      "renderHtml": false
+    },
+    {
+      "text": "Discolored Puss",
+      "renderHtml": false
+    },
+    {
+      "text": "Greg Kinnear's terrible lightning breath.",
+      "renderHtml": false
+    },
+    {
+      "text": "Mitt Romney's eight sons Kip, Sam, Trot, Fergis, Toolshed, Grisham, Hawkeye, and Thorp.",
+      "renderHtml": false
+    },
+    {
+      "text": "Mr. and Mrs. Tambourine Man's jingle-jangle morning sex.",
+      "renderHtml": false
+    },
+    {
+      "text": "Mushy tushy.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ringo Starr & His All-Starr Band.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sandy feet",
+      "renderHtml": false
+    },
+    {
+      "text": "Saving the Rainforest Cafe.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sir Thomas More's Fruitopia™.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sweating it out on the streets of a runaway American Dream.",
+      "renderHtml": false
+    },
+    {
+      "text": "That one leftover screw.",
+      "renderHtml": false
+    },
+    {
+      "text": "That thing politicians do with their thumbs when they talk.",
+      "renderHtml": false
+    },
+    {
+      "text": "The spooky skeleton under my skin.",
+      "renderHtml": false
+    },
+    {
+      "text": "The token minority.",
+      "renderHtml": false
+    },
+    {
+      "text": "These dolphins.",
+      "renderHtml": false
+    },
+    {
+      "text": "Three hairs from the silver-golden head of Galadriel.",
+      "renderHtml": false
+    },
+    {
+      "text": "Water so cold it turned into a rock.",
+      "renderHtml": false
+    }
+  ]
+}

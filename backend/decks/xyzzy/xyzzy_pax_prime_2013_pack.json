@@ -1,0 +1,185 @@
+{
+  "order": 28,
+  "displayName": "PAX Prime 2013 Pack",
+  "name": "xyzzy_pax_prime_2013_pack",
+  "whiteCards": [
+    {
+      "text": "In the new DLC for Mass Effect, Shepard must save the galaxy from ____.",
+      "pick": 1
+    },
+    {
+      "text": "____: Achievement unlocked.",
+      "pick": 1
+    },
+    {
+      "text": "The most controversial game at PAX this year is an 8-bit indie platformer about ____.",
+      "pick": 1
+    },
+    {
+      "text": "There was a riot at the Gearbox panel when they gave the attendees ____.",
+      "pick": 1
+    },
+    {
+      "text": "What's the latest bullshit that's troubling this quaint fantasy town?",
+      "pick": 1
+    },
+    {
+      "text": "What made Spock cry?",
+      "pick": 1
+    },
+    {
+      "text": "No Enforcer wants to manage the panel on ____.",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "Tapping Serra Angel.",
+      "renderHtml": false
+    },
+    {
+      "text": "The gravity gun.",
+      "renderHtml": false
+    },
+    {
+      "text": "Never watching, discussing, or thinking about My Little Pony.",
+      "renderHtml": false
+    },
+    {
+      "text": "Reading the comments.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Sarlacc.",
+      "renderHtml": false
+    },
+    {
+      "text": "Unlocking a new sex position.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being an attractive elf trapped in an unattractive human's body.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bowser's aching heart.",
+      "renderHtml": false
+    },
+    {
+      "text": "Charles Barkley Shut Up and Jam!",
+      "renderHtml": false
+    },
+    {
+      "text": "70,000 games sweating and farting inside an airtight steel dome.",
+      "renderHtml": false
+    },
+    {
+      "text": "The collective wail of every <i>Magic</i> player suddenly realizing that they've spent hundreds of dollars on pieces of cardboard.",
+      "renderHtml": false
+    },
+    {
+      "text": "Legendary Creature -- Robert Khoo.",
+      "renderHtml": false
+    },
+    {
+      "text": "Allowing nacho cheese to curdle in your beard while you creep in League of Legends.",
+      "renderHtml": false
+    },
+    {
+      "text": "Winning the approval of Cooking Mama that you never got from actual mama.",
+      "renderHtml": false
+    },
+    {
+      "text": "Temporary invincibility.",
+      "renderHtml": false
+    },
+    {
+      "text": "Full HD.",
+      "renderHtml": false
+    },
+    {
+      "text": "The boner hatch in the Iron Man suit.",
+      "renderHtml": false
+    },
+    {
+      "text": "Buying virtual clothes for a Sim family instead of real clothes for a real family.",
+      "renderHtml": false
+    },
+    {
+      "text": "An angry stone head that stomps on the floor every three seconds.",
+      "renderHtml": false
+    },
+    {
+      "text": "Offering sexual favors for an ore and a sheep.",
+      "renderHtml": false
+    },
+    {
+      "text": "Turn-of-the-century-sky racists.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting into a situation with an owlbear.",
+      "renderHtml": false
+    },
+    {
+      "text": "Grand Theft Auto: Fort Lauderdale.",
+      "renderHtml": false
+    },
+    {
+      "text": "Achieving the manual dexterity and tactical brilliance of a 12-year-old Korean boy.",
+      "renderHtml": false
+    },
+    {
+      "text": "The decade of legal inquests following a single hour of Grand Theft Auto.",
+      "renderHtml": false
+    },
+    {
+      "text": "SNES cartridge cleaning fluid.",
+      "renderHtml": false
+    },
+    {
+      "text": "Eating a pizza that's lying in the street to gain health.",
+      "renderHtml": false
+    },
+    {
+      "text": "Mario Kart rage.",
+      "renderHtml": false
+    },
+    {
+      "text": "A homemade, cum-stained <i>Star Trek</i> uniform.",
+      "renderHtml": false
+    },
+    {
+      "text": "Google Glass + e-cigarette: Ultimate Combo!",
+      "renderHtml": false
+    },
+    {
+      "text": "Yoshi's huge egg-laying cloaca.",
+      "renderHtml": false
+    },
+    {
+      "text": "A fully-dressed female videogame character.",
+      "renderHtml": false
+    },
+    {
+      "text": "Nude-modding Super Mario World.",
+      "renderHtml": false
+    },
+    {
+      "text": "A madman who lives in a policebox and kidnaps women.",
+      "renderHtml": false
+    },
+    {
+      "text": "Filling every pouch of a UtiliKilt&trade; with pizza.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Cock Ring of Alacrity.",
+      "renderHtml": false
+    },
+    {
+      "text": "Rolling a D20 to save a failing marriage.",
+      "renderHtml": false
+    }
+  ]
+}

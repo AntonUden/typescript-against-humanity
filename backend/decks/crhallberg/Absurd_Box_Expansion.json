@@ -1,0 +1,1217 @@
+{
+  "order": 5,
+  "displayName": "Absurd Box Expansion",
+  "name": "Absurd_Box_Expansion",
+  "whiteCards": [
+    {
+      "text": "Ain't it nifty? Barb and Bob hit 50! So get off your ass and raise a glass to 50 years of _.",
+      "pick": 1
+    },
+    {
+      "text": "Duuuuuuude. You have got to go to space. _ is awesome in space.",
+      "pick": 1
+    },
+    {
+      "text": "Five,\nfour,\nthree,\ntwo,\none....\n_!",
+      "pick": 1
+    },
+    {
+      "text": "For hunting in the King's forest, I hereby sentence you to death by _.",
+      "pick": 1
+    },
+    {
+      "text": "Give me ten good men and 48 hours. I'll get you _.",
+      "pick": 1
+    },
+    {
+      "text": "Goldfinger!\nHe's the man,\nthe man with _.",
+      "pick": 1
+    },
+    {
+      "text": "Goodbye, _, hello _!",
+      "pick": 2
+    },
+    {
+      "text": "Here's a little something I learned in business school: The customer is always _.",
+      "pick": 1
+    },
+    {
+      "text": "Hey, honey.\nFor the bedroom, were you thinking, \"Robin's Egg Blue\" or _Pink?\"",
+      "pick": 1
+    },
+    {
+      "text": "I hate this job.\nI hate this place.\nMost of all, I hate _.\nI quit.",
+      "pick": 1
+    },
+    {
+      "text": "I have solved politics.\nMy solution is _.",
+      "pick": 1
+    },
+    {
+      "text": "I so drunk I _.",
+      "pick": 1
+    },
+    {
+      "text": "I swear to God I'm gonna murder my husband if he doesn't shut the fuck up about _.",
+      "pick": 1
+    },
+    {
+      "text": "In bookstores now: \"From _ to _: A memoir.\"",
+      "pick": 2
+    },
+    {
+      "text": "In Radiohead's new single, Thom Yorke repeats the phrase \"_\" dozens of times over a skittering drum beat.",
+      "pick": 1
+    },
+    {
+      "text": "It's finally happening! I'm finally doing it! Yes! It's time for _!",
+      "pick": 1
+    },
+    {
+      "text": "It's late at night. You're in bed with your lover, Patrick Stewart. He leans over with a twinkle in his eye and asks \"How about _?\"",
+      "pick": 1
+    },
+    {
+      "text": "It's the 21st century.\nA woman shouldn't have to apologize for _.",
+      "pick": 1
+    },
+    {
+      "text": "Ladies and gentlemen, I propose a two-pronged plan. The first prong will be _, and the second prong will be _.",
+      "pick": 2
+    },
+    {
+      "text": "Live from Universal Studios, it's America's favorite game show! \"_ or _?\"",
+      "pick": 2
+    },
+    {
+      "text": "Millions of copies sold! Donald Trump's \"The Art of _.\"",
+      "pick": 1
+    },
+    {
+      "text": "New at TGI Fridays! It's what you've been waiting for: The _ Burger.",
+      "pick": 1
+    },
+    {
+      "text": "Oh no!\nHere it comes!\nOhhhhh god!\nIt's _.",
+      "pick": 1
+    },
+    {
+      "text": "Oh you haaaaaaave to see this new documentary on Netflix. I don't want to give anything away, but let's just say it will change the way you look at _.",
+      "pick": 1
+    },
+    {
+      "text": "Oh, the weather outside is frightful. But _ is so delightful.",
+      "pick": 1
+    },
+    {
+      "text": "One, two, three and to the four, Snoop Doggy Dogg and Dr. Dre is _.",
+      "pick": 1
+    },
+    {
+      "text": "Personal foul: _. 15-yard penalty. Automatic first down.",
+      "pick": 1
+    },
+    {
+      "text": "Rub a dub dub, _ in a tub!",
+      "pick": 1
+    },
+    {
+      "text": "Say it loud! I'm _ and I'm proud!",
+      "pick": 1
+    },
+    {
+      "text": "Seriously guys, there's nothing funny about _.",
+      "pick": 1
+    },
+    {
+      "text": "Sweetheart, you and your sister escel in different ways. She's got her violin, and you've got _.",
+      "pick": 1
+    },
+    {
+      "text": "That's bullshit! They can't fire me for _!",
+      "pick": 1
+    },
+    {
+      "text": "The sequel is here! Get Ready for _2: _.",
+      "pick": 2
+    },
+    {
+      "text": "Times have changed, girlfriend. If you want to meet people in New York, you got to be down for _.",
+      "pick": 1
+    },
+    {
+      "text": "Unfortunately, no one can be told what _ is. You have to experience it for yourself.",
+      "pick": 1
+    },
+    {
+      "text": "What has my life become? I'm jerking off to a video called \"co-ed absolutely destroyed by _.\"",
+      "pick": 1
+    },
+    {
+      "text": "What sounds great after four margaritas?",
+      "pick": 1
+    },
+    {
+      "text": "What's hot, smelly, and about to die?",
+      "pick": 1
+    },
+    {
+      "text": "What's secretly a Russian plot to destabilize the West?",
+      "pick": 1
+    },
+    {
+      "text": "What's up, YouTube?\nUser DanTheMan wanted to see _, so here we go.",
+      "pick": 1
+    },
+    {
+      "text": "Why did the chicken cross the road?",
+      "pick": 1
+    },
+    {
+      "text": "Why my mustache smell so bad?",
+      "pick": 1
+    },
+    {
+      "text": "Yeah that's so hot.\nI'm so close.\nTalk about _ again!\nOH I'M CUMMING!",
+      "pick": 1
+    },
+    {
+      "text": "You can call me David Copperfield, because I'm about to make _ disappear.",
+      "pick": 1
+    },
+    {
+      "text": "You city folk would never understand the quiet dignity of _.",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "...it is unclear.",
+      "renderHtml": false
+    },
+    {
+      "text": "A 12-foot scepter of bone.",
+      "renderHtml": false
+    },
+    {
+      "text": "A basketball that screams every time it gets bounced.",
+      "renderHtml": false
+    },
+    {
+      "text": "A bear.",
+      "renderHtml": false
+    },
+    {
+      "text": "A big hole.",
+      "renderHtml": false
+    },
+    {
+      "text": "A big hot fire that's burning everybody.",
+      "renderHtml": false
+    },
+    {
+      "text": "A big, big, big, and I mean BIG big.",
+      "renderHtml": false
+    },
+    {
+      "text": "A big, sloppy blowjob from a mean, tired cowboy.",
+      "renderHtml": false
+    },
+    {
+      "text": "A bird that dies.",
+      "renderHtml": false
+    },
+    {
+      "text": "A bold red lip.",
+      "renderHtml": false
+    },
+    {
+      "text": "A button that when you press it, there's jazz.",
+      "renderHtml": false
+    },
+    {
+      "text": "A cat with... hands.",
+      "renderHtml": false
+    },
+    {
+      "text": "A Christmas feast of goose and jellies.",
+      "renderHtml": false
+    },
+    {
+      "text": "A concerning amount of white people.",
+      "renderHtml": false
+    },
+    {
+      "text": "A couple of cold ones.",
+      "renderHtml": false
+    },
+    {
+      "text": "A crab rangoon.",
+      "renderHtml": false
+    },
+    {
+      "text": "A family of raccoons.",
+      "renderHtml": false
+    },
+    {
+      "text": "A four-hour depression nap.",
+      "renderHtml": false
+    },
+    {
+      "text": "A full-on panic attack.",
+      "renderHtml": false
+    },
+    {
+      "text": "A garbage clown who makes no one laugh and should die.",
+      "renderHtml": false
+    },
+    {
+      "text": "A hamburger on a string that keeps getting pulled away.",
+      "renderHtml": false
+    },
+    {
+      "text": "A hateful 30-year marriage.",
+      "renderHtml": false
+    },
+    {
+      "text": "A little boy with big dreams and potatoes for hands.",
+      "renderHtml": false
+    },
+    {
+      "text": "A little girl with a knife.",
+      "renderHtml": false
+    },
+    {
+      "text": "A little sewer girl strangling a pigeon.",
+      "renderHtml": false
+    },
+    {
+      "text": "A little taste of penis.",
+      "renderHtml": false
+    },
+    {
+      "text": "A magician fucking up over and over again.",
+      "renderHtml": false
+    },
+    {
+      "text": "A penis that gets too hard and explodes blood.",
+      "renderHtml": false
+    },
+    {
+      "text": "A piping-hot casserole filled with beans and hair.",
+      "renderHtml": false
+    },
+    {
+      "text": "A poop emergency.",
+      "renderHtml": false
+    },
+    {
+      "text": "A powerful philosopher named Brainhead.",
+      "renderHtml": false
+    },
+    {
+      "text": "A Pringle.",
+      "renderHtml": false
+    },
+    {
+      "text": "A Puerto Rican minotaur from the Bronx.",
+      "renderHtml": false
+    },
+    {
+      "text": "A racist boomerang that only comes back if you're white.",
+      "renderHtml": false
+    },
+    {
+      "text": "A real cum-dumpster of a saxophonist.",
+      "renderHtml": false
+    },
+    {
+      "text": "A real job with insurance and your taxes taken out and everything.",
+      "renderHtml": false
+    },
+    {
+      "text": "A sticky tree hole full of pancake sauce.",
+      "renderHtml": false
+    },
+    {
+      "text": "A stinky hoo-ha.",
+      "renderHtml": false
+    },
+    {
+      "text": "A toothless woman gumming on a peach.",
+      "renderHtml": false
+    },
+    {
+      "text": "A urinary tract infection.",
+      "renderHtml": false
+    },
+    {
+      "text": "A vagina that beatboxes when it's horny.",
+      "renderHtml": false
+    },
+    {
+      "text": "A whole different way of talking called Spanish.",
+      "renderHtml": false
+    },
+    {
+      "text": "Accusing a powerful man of sexual assault.",
+      "renderHtml": false
+    },
+    {
+      "text": "Acquiring a gun very easily.",
+      "renderHtml": false
+    },
+    {
+      "text": "Acting white.",
+      "renderHtml": false
+    },
+    {
+      "text": "All manners of honors.",
+      "renderHtml": false
+    },
+    {
+      "text": "All my dead sisters.",
+      "renderHtml": false
+    },
+    {
+      "text": "All types of girls, even ugly ones.",
+      "renderHtml": false
+    },
+    {
+      "text": "An 800-foot-long pool noodle.",
+      "renderHtml": false
+    },
+    {
+      "text": "An ambitious woman who wears pants.",
+      "renderHtml": false
+    },
+    {
+      "text": "An elite squad known as the Special Victims Unit.",
+      "renderHtml": false
+    },
+    {
+      "text": "Anything Asian.",
+      "renderHtml": false
+    },
+    {
+      "text": "As ass like a bag of pool balls.",
+      "renderHtml": false
+    },
+    {
+      "text": "Assembling IKEA furniture.",
+      "renderHtml": false
+    },
+    {
+      "text": "Beef.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being hunted by giant eagles.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being inside me.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being seen reading Infinite Jest.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being shitty to everyone and late for everything.",
+      "renderHtml": false
+    },
+    {
+      "text": "Big beefy baseball boys.",
+      "renderHtml": false
+    },
+    {
+      "text": "Big Italian women making the spicy sauce.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bimpy, the small styrofoam ball we all jack off into.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bipolar Disorder.",
+      "renderHtml": false
+    },
+    {
+      "text": "Blowing into the penis so that the balls inflate.",
+      "renderHtml": false
+    },
+    {
+      "text": "Blue smoke coming out of my anus.",
+      "renderHtml": false
+    },
+    {
+      "text": "Canada's worst mangoes.",
+      "renderHtml": false
+    },
+    {
+      "text": "Carbs.",
+      "renderHtml": false
+    },
+    {
+      "text": "Carlos Santana's horrible wailing guitar.",
+      "renderHtml": false
+    },
+    {
+      "text": "Certain things, but not others.",
+      "renderHtml": false
+    },
+    {
+      "text": "Chinese people.",
+      "renderHtml": false
+    },
+    {
+      "text": "Chowder.",
+      "renderHtml": false
+    },
+    {
+      "text": "Clearly asking for no cucumbers in my salad, and yet here we are.",
+      "renderHtml": false
+    },
+    {
+      "text": "Clippy from Microsoft Office.",
+      "renderHtml": false
+    },
+    {
+      "text": "Colluding with Russia.",
+      "renderHtml": false
+    },
+    {
+      "text": "Corn.",
+      "renderHtml": false
+    },
+    {
+      "text": "Country music legend Toby Keith.",
+      "renderHtml": false
+    },
+    {
+      "text": "Crunchy snacks for big, flappy mouth.",
+      "renderHtml": false
+    },
+    {
+      "text": "Cultural appropriation.",
+      "renderHtml": false
+    },
+    {
+      "text": "Curly fries so good you quit ISIS.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dating a Republican.",
+      "renderHtml": false
+    },
+    {
+      "text": "Death.",
+      "renderHtml": false
+    },
+    {
+      "text": "Deja vu.",
+      "renderHtml": false
+    },
+    {
+      "text": "delayed gratification",
+      "renderHtml": false
+    },
+    {
+      "text": "Denying climate change.",
+      "renderHtml": false
+    },
+    {
+      "text": "Doing ho shit.",
+      "renderHtml": false
+    },
+    {
+      "text": "Doing it doggy, no kissing.",
+      "renderHtml": false
+    },
+    {
+      "text": "Doing stuff bad.",
+      "renderHtml": false
+    },
+    {
+      "text": "Drake.",
+      "renderHtml": false
+    },
+    {
+      "text": "Driving to a Walmart parking lot and staring into the distance for eight hours.",
+      "renderHtml": false
+    },
+    {
+      "text": "Eating pussy bad.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ejaculating a quart of hollandaise sauce.",
+      "renderHtml": false
+    },
+    {
+      "text": "Elon Musk.",
+      "renderHtml": false
+    },
+    {
+      "text": "Enticing a hummingbird to drink nectar out of my urethra.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fascism.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fat.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fingering each other's buttholes.",
+      "renderHtml": false
+    },
+    {
+      "text": "Foul vegan shits.",
+      "renderHtml": false
+    },
+    {
+      "text": "Free two-day shipping with Amazon Prime.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fresh Air with Terry Gross.",
+      "renderHtml": false
+    },
+    {
+      "text": "Funneling money through a series of shell companies.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting #MeToo'd.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting banished to the Shadow Realm.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting depressed and super fat.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting fisted by a man with no fingers.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting half-hard and trying to smoosh it in.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting herpes from Bruce Willis.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting Mommy another beer.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting tanned, jacked, and juicy.",
+      "renderHtml": false
+    },
+    {
+      "text": "Going \"oink oink\" like a nasty little pig boy.",
+      "renderHtml": false
+    },
+    {
+      "text": "Good, clean Christian comedy.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hard-hitting investigative journalism.",
+      "renderHtml": false
+    },
+    {
+      "text": "Having a wonderful time at the zoo.",
+      "renderHtml": false
+    },
+    {
+      "text": "Having no legs, just toes.",
+      "renderHtml": false
+    },
+    {
+      "text": "Having thirty sons named Chad.",
+      "renderHtml": false
+    },
+    {
+      "text": "Having tuna sandwiches with my favorite honkies.",
+      "renderHtml": false
+    },
+    {
+      "text": "Healthcare.gov.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hiding from border patrol.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hiking up a hillside covered in bear semen yelling \"I'm the queen of the forest!\"",
+      "renderHtml": false
+    },
+    {
+      "text": "Hoopnugget, the game where you throw a nugget into a hoop.",
+      "renderHtml": false
+    },
+    {
+      "text": "How many bagels I can fit on my penis.",
+      "renderHtml": false
+    },
+    {
+      "text": "How quiet the forest is.",
+      "renderHtml": false
+    },
+    {
+      "text": "Huffing and puffing and blowing my stepdad.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hunting white men for sport.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hush money.",
+      "renderHtml": false
+    },
+    {
+      "text": "Interrupting women.",
+      "renderHtml": false
+    },
+    {
+      "text": "Jeremy and his stupid, annoying, dumb, hard, beautiful body.",
+      "renderHtml": false
+    },
+    {
+      "text": "Jormungandr the World Serpent.",
+      "renderHtml": false
+    },
+    {
+      "text": "Joyless, wooden Soviet toys.",
+      "renderHtml": false
+    },
+    {
+      "text": "Just a Luna bar for lunch.",
+      "renderHtml": false
+    },
+    {
+      "text": "Kanye West but if he were an old Japanese farmer.",
+      "renderHtml": false
+    },
+    {
+      "text": "Korean barbecue.",
+      "renderHtml": false
+    },
+    {
+      "text": "Leading a country to war on false pretenses.",
+      "renderHtml": false
+    },
+    {
+      "text": "Leading children around with a magical flute.",
+      "renderHtml": false
+    },
+    {
+      "text": "Letting that pussy breathe.",
+      "renderHtml": false
+    },
+    {
+      "text": "Letting this loser eat me out.",
+      "renderHtml": false
+    },
+    {
+      "text": "Licking the toilet as Mistress commands.",
+      "renderHtml": false
+    },
+    {
+      "text": "Life.",
+      "renderHtml": false
+    },
+    {
+      "text": "Little Debbie and her mom, Full-Size Deborah.",
+      "renderHtml": false
+    },
+    {
+      "text": "Lotion.",
+      "renderHtml": false
+    },
+    {
+      "text": "Loving America.",
+      "renderHtml": false
+    },
+    {
+      "text": "Magic: The Gathering.",
+      "renderHtml": false
+    },
+    {
+      "text": "Making direct eye contact with a horse's asshole.",
+      "renderHtml": false
+    },
+    {
+      "text": "Mark Zuckerberg.",
+      "renderHtml": false
+    },
+    {
+      "text": "Maybe getting a little involved in selling heroin sometimes.",
+      "renderHtml": false
+    },
+    {
+      "text": "Melania Trump.",
+      "renderHtml": false
+    },
+    {
+      "text": "Murdering our parents.",
+      "renderHtml": false
+    },
+    {
+      "text": "My buddy Jeff.",
+      "renderHtml": false
+    },
+    {
+      "text": "My daughter fucking my boyfriend.",
+      "renderHtml": false
+    },
+    {
+      "text": "My math teacher's bulge.",
+      "renderHtml": false
+    },
+    {
+      "text": "My real dad.",
+      "renderHtml": false
+    },
+    {
+      "text": "My secret butt.",
+      "renderHtml": false
+    },
+    {
+      "text": "My son's dipshit friends.",
+      "renderHtml": false
+    },
+    {
+      "text": "My son's husband's huge cock.",
+      "renderHtml": false
+    },
+    {
+      "text": "My wife.\n(in Borat voice)",
+      "renderHtml": false
+    },
+    {
+      "text": "Naked Dad.",
+      "renderHtml": false
+    },
+    {
+      "text": "Netflix.",
+      "renderHtml": false
+    },
+    {
+      "text": "New DNA evidence exonerating OJ Simpson.",
+      "renderHtml": false
+    },
+    {
+      "text": "Nipples the size of CDs.",
+      "renderHtml": false
+    },
+    {
+      "text": "None of your damn business.",
+      "renderHtml": false
+    },
+    {
+      "text": "Nonsexual activiities, such as roller skating.",
+      "renderHtml": false
+    },
+    {
+      "text": "Not being a part of my son's life.",
+      "renderHtml": false
+    },
+    {
+      "text": "Oral.",
+      "renderHtml": false
+    },
+    {
+      "text": "Outdated gender norms.",
+      "renderHtml": false
+    },
+    {
+      "text": "Owing a lot of money to some very bad people.",
+      "renderHtml": false
+    },
+    {
+      "text": "Panda Express.",
+      "renderHtml": false
+    },
+    {
+      "text": "Panic and confusion.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pissin' me paants.",
+      "renderHtml": false
+    },
+    {
+      "text": "Politics.",
+      "renderHtml": false
+    },
+    {
+      "text": "Poppin' that pussy.",
+      "renderHtml": false
+    },
+    {
+      "text": "Preparing my asshole for sex.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pretending golf is fun.",
+      "renderHtml": false
+    },
+    {
+      "text": "Prison.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pulling a sick, shit-covered raccoon out of the toilet and nursing it back to health.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pulling the butt cheeks apart so the fart comes out quieter.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pushing my boob up to lick the nipple.",
+      "renderHtml": false
+    },
+    {
+      "text": "Putting dirty dishes in the sink and hoping someone else deals with them.",
+      "renderHtml": false
+    },
+    {
+      "text": "Quality, affordable menswear.",
+      "renderHtml": false
+    },
+    {
+      "text": "Reparations for slavery.",
+      "renderHtml": false
+    },
+    {
+      "text": "Representing the entire black community.",
+      "renderHtml": false
+    },
+    {
+      "text": "Representing the entire Black community.",
+      "renderHtml": false
+    },
+    {
+      "text": "Respecting woman.",
+      "renderHtml": false
+    },
+    {
+      "text": "Rubbing my clit with a handgun.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sandwich.",
+      "renderHtml": false
+    },
+    {
+      "text": "Schindler's List.",
+      "renderHtml": false
+    },
+    {
+      "text": "Setting boundaries with co-workers.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sewing two hamsters together to make a Double Hamster Supreme.",
+      "renderHtml": false
+    },
+    {
+      "text": "Shit.",
+      "renderHtml": false
+    },
+    {
+      "text": "Shitting perfectly into a hot dog bun.",
+      "renderHtml": false
+    },
+    {
+      "text": "Slaves.",
+      "renderHtml": false
+    },
+    {
+      "text": "Slowly releasing a huge fart over the course of two minutes.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sluts, whores, and bitches.",
+      "renderHtml": false
+    },
+    {
+      "text": "Small plates, or tapas if you will.",
+      "renderHtml": false
+    },
+    {
+      "text": "Some cracker-ass motherfucker.",
+      "renderHtml": false
+    },
+    {
+      "text": "Some light choking.",
+      "renderHtml": false
+    },
+    {
+      "text": "Square dancing with other racists.",
+      "renderHtml": false
+    },
+    {
+      "text": "Stapling a butterfly to a cow.",
+      "renderHtml": false
+    },
+    {
+      "text": "Staying hydrated.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sticking my hard rat dick in my girlfiend's wet rat pussy.",
+      "renderHtml": false
+    },
+    {
+      "text": "Substituting sweet potato fries for $2.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sucking the caviar straight out of a fish's pussy.",
+      "renderHtml": false
+    },
+    {
+      "text": "Suddenly feeling really sad for 40 years.",
+      "renderHtml": false
+    },
+    {
+      "text": "Swordplay.",
+      "renderHtml": false
+    },
+    {
+      "text": "Taking a dump.",
+      "renderHtml": false
+    },
+    {
+      "text": "Tar.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Asshole Destroyer 3000.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Audi Sign-and-Drive Sales Event.",
+      "renderHtml": false
+    },
+    {
+      "text": "The awesome power of the Lord.",
+      "renderHtml": false
+    },
+    {
+      "text": "The beautiful backpacks of JanSport.",
+      "renderHtml": false
+    },
+    {
+      "text": "The boy who sucks the farts our of my sweatpants.",
+      "renderHtml": false
+    },
+    {
+      "text": "The coming race war.",
+      "renderHtml": false
+    },
+    {
+      "text": "The current political climate.",
+      "renderHtml": false
+    },
+    {
+      "text": "The cutest fucking shoes I've ever seen.",
+      "renderHtml": false
+    },
+    {
+      "text": "The end of all life on Earth.",
+      "renderHtml": false
+    },
+    {
+      "text": "The express written consent of the National Basketball Association.",
+      "renderHtml": false
+    },
+    {
+      "text": "The fact that time is moving backwards right now and nobody's noticing.",
+      "renderHtml": false
+    },
+    {
+      "text": "The harsh reality that all horses are people in horse costumes.",
+      "renderHtml": false
+    },
+    {
+      "text": "The incredible Gary, he'll suck your nipples.",
+      "renderHtml": false
+    },
+    {
+      "text": "The kind of porn with poop.",
+      "renderHtml": false
+    },
+    {
+      "text": "The King of Jews.",
+      "renderHtml": false
+    },
+    {
+      "text": "The little-known fact that Polish people don't dream.",
+      "renderHtml": false
+    },
+    {
+      "text": "The man in the basement.",
+      "renderHtml": false
+    },
+    {
+      "text": "The man who fucks me and my wife.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Moon.",
+      "renderHtml": false
+    },
+    {
+      "text": "The NRA.",
+      "renderHtml": false
+    },
+    {
+      "text": "The pelican that will one day eat Scarlett Johansson's baby.",
+      "renderHtml": false
+    },
+    {
+      "text": "The persecution of Buddhists by the American-backed government of South Vietnam.",
+      "renderHtml": false
+    },
+    {
+      "text": "The pleasure of watching my boys wolf down my pot roast and scamper into the woods.",
+      "renderHtml": false
+    },
+    {
+      "text": "The rock after which Dwayne Johnson was named.",
+      "renderHtml": false
+    },
+    {
+      "text": "The South rising again.",
+      "renderHtml": false
+    },
+    {
+      "text": "The wonderful giant spoon known as \"ladle.\"",
+      "renderHtml": false
+    },
+    {
+      "text": "The world's largest baby, weighing over 700 pounds.",
+      "renderHtml": false
+    },
+    {
+      "text": "The worm that ate my penis and is now my penis.",
+      "renderHtml": false
+    },
+    {
+      "text": "These breasts of mine.",
+      "renderHtml": false
+    },
+    {
+      "text": "This boring-ass white bitch from work.",
+      "renderHtml": false
+    },
+    {
+      "text": "This kid I found.",
+      "renderHtml": false
+    },
+    {
+      "text": "Thoughts and prayers.",
+      "renderHtml": false
+    },
+    {
+      "text": "Three men and three hot dogs.",
+      "renderHtml": false
+    },
+    {
+      "text": "Throwing a man by his big penis.",
+      "renderHtml": false
+    },
+    {
+      "text": "Thrusting and grunting.",
+      "renderHtml": false
+    },
+    {
+      "text": "Thumb, the King of the Fingers.",
+      "renderHtml": false
+    },
+    {
+      "text": "Tiny, sour kisses from a lemon dwarf.",
+      "renderHtml": false
+    },
+    {
+      "text": "Travolta.",
+      "renderHtml": false
+    },
+    {
+      "text": "Trees with human skin.",
+      "renderHtml": false
+    },
+    {
+      "text": "Turning poor people against each other so they don't pay attention to economic inequality.",
+      "renderHtml": false
+    },
+    {
+      "text": "Twirling a cane, popping it into my anus, and giving a tip of the top hat.",
+      "renderHtml": false
+    },
+    {
+      "text": "Uncles.",
+      "renderHtml": false
+    },
+    {
+      "text": "Uncut daddy dick.",
+      "renderHtml": false
+    },
+    {
+      "text": "Violating the Geneva Convention.",
+      "renderHtml": false
+    },
+    {
+      "text": "Voldemort.",
+      "renderHtml": false
+    },
+    {
+      "text": "Voter suppression.",
+      "renderHtml": false
+    },
+    {
+      "text": "What looked like a chemical weapons facility but turned out to be a children's hospital.",
+      "renderHtml": false
+    },
+    {
+      "text": "Women in positions of power.",
+      "renderHtml": false
+    },
+    {
+      "text": "Yo stanky ass.",
+      "renderHtml": false
+    },
+    {
+      "text": "Yogurt that moans in pleasure as you eat it.",
+      "renderHtml": false
+    },
+    {
+      "text": "Your little booty in them underpants.",
+      "renderHtml": false
+    },
+    {
+      "text": "Your mouth.",
+      "renderHtml": false
+    },
+    {
+      "text": "Yummy yummy yummy yummy rat pussy.",
+      "renderHtml": false
+    }
+  ]
+}

@@ -1,0 +1,554 @@
+{
+  "source": 0,
+  "order": 42,
+  "displayName": "[C] Mr. Man Collection",
+  "name": "c-mrman",
+  "whiteCards": [
+    {
+      "text": "And the award for the filthiest scene in an adult film goes to \"5 women and _.\"",
+      "pick": 1
+    },
+    {
+      "text": "The seldomly mentioned 4th little pig built his house out of _.",
+      "pick": 1
+    },
+    {
+      "text": "\"Why Grandma\", said Little Red Riding Hood, \"What big _ you have!\"",
+      "pick": 1
+    },
+    {
+      "text": "I finally realized I hit rock bottom when I started digging through dumpsters for _.",
+      "pick": 1
+    },
+    {
+      "text": "What do I keep hidden in the crawlspace?",
+      "pick": 1
+    },
+    {
+      "text": "Go-Go-Gadget, _!",
+      "pick": 1
+    },
+    {
+      "text": "And it is said his ghost still wanders these halls, forever searching for his lost _.",
+      "pick": 1
+    },
+    {
+      "text": "The best part of waking up is _ in your cup.",
+      "pick": 1
+    },
+    {
+      "text": "The primitive villagers were both shocked and amazed when I showed them _.",
+      "pick": 1
+    },
+    {
+      "text": "_ is the root of all evil.",
+      "pick": 1
+    },
+    {
+      "text": "The road to success is paved with _.",
+      "pick": 1
+    },
+    {
+      "text": "And on his farm he had _, E-I-E-I-O!",
+      "pick": 1
+    },
+    {
+      "text": "The Himalayas are filled with many perils, such as _.",
+      "pick": 1
+    },
+    {
+      "text": "The sad truth is, that at the edge of the universe, there is nothing but _.",
+      "pick": 1
+    },
+    {
+      "text": "You have been found guilty of 5 counts of _, and 13 counts of _.",
+      "pick": 2
+    },
+    {
+      "text": "We just adopted _ from the pound.",
+      "pick": 1
+    },
+    {
+      "text": "It was the happiest day of my life when I became the proud parent of _.",
+      "pick": 1
+    },
+    {
+      "text": "With a million times the destructive force of all our nuclear weapons combined, no one was able to survive _.",
+      "pick": 1
+    },
+    {
+      "text": "Little Miss. Muffet sat on her tuffet, eating her _ and _.",
+      "pick": 2
+    },
+    {
+      "text": "I qualify for this job because I have several years experience in the field of _.",
+      "pick": 1
+    },
+    {
+      "text": "Disney presents _, on ice!",
+      "pick": 1
+    },
+    {
+      "text": "Though Thomas Edison invented the lightbulb, he is also known for giving us _.",
+      "pick": 1
+    },
+    {
+      "text": "I will not eat them Sam-I-Am. I will not eat _.",
+      "pick": 1
+    },
+    {
+      "text": "Genius is 10% inspiration and 90% _.",
+      "pick": 1
+    },
+    {
+      "text": "I work out so I can look good when I'm _.",
+      "pick": 1
+    },
+    {
+      "text": "What's the time? _ time!",
+      "pick": 1
+    },
+    {
+      "text": "If a pot of gold is at one end of the rainbow, what is at the other?",
+      "pick": 1
+    },
+    {
+      "text": "There is a time for peace, a time for war, and a time for _.",
+      "pick": 1
+    },
+    {
+      "text": "A fortune teller told me I will live a life filled with _.",
+      "pick": 1
+    },
+    {
+      "text": "It is often argued that our ancestors would have never evolved without the aid of _.",
+      "pick": 1
+    },
+    {
+      "text": "_ a day keeps _ away.",
+      "pick": 2
+    },
+    {
+      "text": "The 1930's is often regarded as the golden age of _.",
+      "pick": 1
+    },
+    {
+      "text": "Scientists have reverse engineered alien technology that unlocks the secrets of _.",
+      "pick": 1
+    },
+    {
+      "text": "Who could have guessed that the alien invasion would be easily thwarted by _.",
+      "pick": 1
+    },
+    {
+      "text": "With the Democrats and Republicans in a dead heat, the election was snatched by the _ party.",
+      "pick": 1
+    },
+    {
+      "text": "Mama always said life was like _.",
+      "pick": 1
+    },
+    {
+      "text": "Pay no attention to _ behind the curtain!",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "Peanutbutter jelly time.",
+      "renderHtml": false
+    },
+    {
+      "text": "The crushed dreams of a stripper.",
+      "renderHtml": false
+    },
+    {
+      "text": "A molotov cocktail.",
+      "renderHtml": false
+    },
+    {
+      "text": "A Fleshlite&trade;.",
+      "renderHtml": false
+    },
+    {
+      "text": "Granny panties.",
+      "renderHtml": false
+    },
+    {
+      "text": "Genital warts.",
+      "renderHtml": false
+    },
+    {
+      "text": "A skeptical sheriff.",
+      "renderHtml": false
+    },
+    {
+      "text": "A dead hooker.",
+      "renderHtml": false
+    },
+    {
+      "text": "Miss. Piggy.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Fresh Prince of Bel-Air.",
+      "renderHtml": false
+    },
+    {
+      "text": "The town drunk.",
+      "renderHtml": false
+    },
+    {
+      "text": "Morbid obesity.",
+      "renderHtml": false
+    },
+    {
+      "text": "Don Knotts.",
+      "renderHtml": false
+    },
+    {
+      "text": "A MILF.",
+      "renderHtml": false
+    },
+    {
+      "text": "The end of the world.",
+      "renderHtml": false
+    },
+    {
+      "text": "Yellow snow.",
+      "renderHtml": false
+    },
+    {
+      "text": "Realizing, too late, that there is no toilet paper left.",
+      "renderHtml": false
+    },
+    {
+      "text": "Scotch.",
+      "renderHtml": false
+    },
+    {
+      "text": "Illegal immigrants.",
+      "renderHtml": false
+    },
+    {
+      "text": "A Facebook stalker.",
+      "renderHtml": false
+    },
+    {
+      "text": "Talking like a pirate.",
+      "renderHtml": false
+    },
+    {
+      "text": "Nuns.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bed wetting.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting off on anime porn.",
+      "renderHtml": false
+    },
+    {
+      "text": "Toilet paper.",
+      "renderHtml": false
+    },
+    {
+      "text": "Laxatives.",
+      "renderHtml": false
+    },
+    {
+      "text": "Mining for nose gold.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Teenage Mutant Ninja Turtles.",
+      "renderHtml": false
+    },
+    {
+      "text": "Taking a seat with Chris Hansen.",
+      "renderHtml": false
+    },
+    {
+      "text": "A big floppy donkey dick.",
+      "renderHtml": false
+    },
+    {
+      "text": "A Cleveland steamer.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Village People.",
+      "renderHtml": false
+    },
+    {
+      "text": "A sexy senior citizen.",
+      "renderHtml": false
+    },
+    {
+      "text": "a classy smoking jacket.",
+      "renderHtml": false
+    },
+    {
+      "text": "Giant areolas.",
+      "renderHtml": false
+    },
+    {
+      "text": "Gobots.",
+      "renderHtml": false
+    },
+    {
+      "text": "A Motown group.",
+      "renderHtml": false
+    },
+    {
+      "text": "Anorexia.",
+      "renderHtml": false
+    },
+    {
+      "text": "A cockblocker.",
+      "renderHtml": false
+    },
+    {
+      "text": "A LARPing sleeper cell.",
+      "renderHtml": false
+    },
+    {
+      "text": "Farting into a fancy handkerchief.",
+      "renderHtml": false
+    },
+    {
+      "text": "Lot lizards.",
+      "renderHtml": false
+    },
+    {
+      "text": "A stuttering auctioneer.",
+      "renderHtml": false
+    },
+    {
+      "text": "Face painting.",
+      "renderHtml": false
+    },
+    {
+      "text": "Suppositories.",
+      "renderHtml": false
+    },
+    {
+      "text": "Two dogs humping.",
+      "renderHtml": false
+    },
+    {
+      "text": "Gingivitis.",
+      "renderHtml": false
+    },
+    {
+      "text": "Gangrene.",
+      "renderHtml": false
+    },
+    {
+      "text": "The tears of a clown.",
+      "renderHtml": false
+    },
+    {
+      "text": "Putting the fucking lotion in the basket.",
+      "renderHtml": false
+    },
+    {
+      "text": "A loud mouth-breather.",
+      "renderHtml": false
+    },
+    {
+      "text": "A chatroom predator.",
+      "renderHtml": false
+    },
+    {
+      "text": "Executive parking.",
+      "renderHtml": false
+    },
+    {
+      "text": "A poop sandwich.",
+      "renderHtml": false
+    },
+    {
+      "text": "Digital piracy.",
+      "renderHtml": false
+    },
+    {
+      "text": "A prolapse.",
+      "renderHtml": false
+    },
+    {
+      "text": "Mass graves.",
+      "renderHtml": false
+    },
+    {
+      "text": "A victim.",
+      "renderHtml": false
+    },
+    {
+      "text": "Soiling ones self.",
+      "renderHtml": false
+    },
+    {
+      "text": "A clone army.",
+      "renderHtml": false
+    },
+    {
+      "text": "The War of Northern Aggression.",
+      "renderHtml": false
+    },
+    {
+      "text": "A snot rocket.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sailor Moon.",
+      "renderHtml": false
+    },
+    {
+      "text": "The face of pure evil.",
+      "renderHtml": false
+    },
+    {
+      "text": "Spontaneous pie fights.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being screamed at in German.",
+      "renderHtml": false
+    },
+    {
+      "text": "Raw sewage.",
+      "renderHtml": false
+    },
+    {
+      "text": "War crimes.",
+      "renderHtml": false
+    },
+    {
+      "text": "A collapsed lung.",
+      "renderHtml": false
+    },
+    {
+      "text": "Geriatric diaper rash.",
+      "renderHtml": false
+    },
+    {
+      "text": "Public schooling.",
+      "renderHtml": false
+    },
+    {
+      "text": "A mushy tushy.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dickjitsu.",
+      "renderHtml": false
+    },
+    {
+      "text": "Giving yourself a stranger.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Tin Man.",
+      "renderHtml": false
+    },
+    {
+      "text": "Learning hypnosis to get laid.",
+      "renderHtml": false
+    },
+    {
+      "text": "Shitting into someone's hat for revenge.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bigfoot.",
+      "renderHtml": false
+    },
+    {
+      "text": "An angry leprechaun.",
+      "renderHtml": false
+    },
+    {
+      "text": "A limp wrist.",
+      "renderHtml": false
+    },
+    {
+      "text": "Drunkenly texting an ex.",
+      "renderHtml": false
+    },
+    {
+      "text": "A really ugly baby.",
+      "renderHtml": false
+    },
+    {
+      "text": "Elder abuse.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sausage.",
+      "renderHtml": false
+    },
+    {
+      "text": "A lesson in pain.",
+      "renderHtml": false
+    },
+    {
+      "text": "Cheating death.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pow-Pow-PowerWheeels&reg;!",
+      "renderHtml": false
+    },
+    {
+      "text": "The magical land of Oz.",
+      "renderHtml": false
+    },
+    {
+      "text": "A compound fracture.",
+      "renderHtml": false
+    },
+    {
+      "text": "Chaz Bono.",
+      "renderHtml": false
+    },
+    {
+      "text": "A lousy comb-over.",
+      "renderHtml": false
+    },
+    {
+      "text": "Clown college.",
+      "renderHtml": false
+    },
+    {
+      "text": "Clown Shoes.",
+      "renderHtml": false
+    },
+    {
+      "text": "A closed casket funeral.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hoarders.",
+      "renderHtml": false
+    },
+    {
+      "text": "An awkward sponge bath.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bathing the homeless.",
+      "renderHtml": false
+    },
+    {
+      "text": "Enemas.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pooping in the bathtub.",
+      "renderHtml": false
+    }
+  ]
+}

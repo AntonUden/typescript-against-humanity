@@ -1,0 +1,49 @@
+{
+  "order": 52,
+  "displayName": "PAX Prime 2015 Food Pack C (Cherry)",
+  "name": "PAX_Prime_2015_Food_Pack_C_(Cherry)",
+  "whiteCards": [
+    {
+      "text": "Excuse me, waiter. Could take this back? This soup tastes like _.",
+      "pick": 1
+    },
+    {
+      "text": "Now on Netflix: Jiro Dreams of _.",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "A Mexican child trapped inside of a burrito.",
+      "renderHtml": false
+    },
+    {
+      "text": "Clams Attempt Harmonica",
+      "renderHtml": false
+    },
+    {
+      "text": "Committing suicide.",
+      "renderHtml": false
+    },
+    {
+      "text": "Faulty UIDs.",
+      "renderHtml": false
+    },
+    {
+      "text": "Jizz-flavored coffee.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Helvetica Scenario.",
+      "renderHtml": false
+    },
+    {
+      "text": "the hot duke",
+      "renderHtml": false
+    },
+    {
+      "text": "the incestuous pleasure of his bed",
+      "renderHtml": false
+    }
+  ]
+}

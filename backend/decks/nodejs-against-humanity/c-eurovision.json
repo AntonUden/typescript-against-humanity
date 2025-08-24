@@ -1,0 +1,170 @@
+{
+  "source": 0,
+  "order": 31,
+  "displayName": "[C] Eurovision Song Contest",
+  "name": "c-eurovision",
+  "whiteCards": [
+    {
+      "text": "Nothing can bring down Ruslana's chippy mood,, not even _.",
+      "pick": 1
+    },
+    {
+      "text": "The correct procedure for listening to Fairytale is:",
+      "pick": 2
+    },
+    {
+      "text": "The BBC have decided to dig up another old relic and send _ to represent the UK.",
+      "pick": 1
+    },
+    {
+      "text": "Krista Siegfrids' chronic marrying spree added _ to her victims list.",
+      "pick": 1
+    },
+    {
+      "text": "_. As guaranteed as Cyprus giving Greece 12 points.",
+      "pick": 1
+    },
+    {
+      "text": "HELLO EUROPE, _ CALLING! 12 POINTS GO TO _!",
+      "pick": 2
+    },
+    {
+      "text": "Lena goes from Eurovision winner, to participant, to score reader. Her next job is _.",
+      "pick": 1
+    },
+    {
+      "text": "Women kissing each other on stage, men kissing each other on stage, what next?",
+      "pick": 1
+    },
+    {
+      "text": "In an attempt to foster friendly attitudes between ESC entrants, the host country made them _ and _.",
+      "pick": 2
+    },
+    {
+      "text": "I'm in loooooooove with a fairytaaaale, even thouuugh it _.",
+      "pick": 1
+    },
+    {
+      "text": "The winning act had _ and _ as the singer belted out lyrics about _.",
+      "pick": 3
+    },
+    {
+      "text": "Johnny Logan is a man of many talents; he wins Eurovisions and _.",
+      "pick": 1
+    },
+    {
+      "text": "A (few) word(s) synonymous with Eurovision fans: _",
+      "pick": 1
+    },
+    {
+      "text": "This country has declined to participate due to _.",
+      "pick": 1
+    },
+    {
+      "text": "Misheard lyrics of Verjamem resulted in people thinking Eva Boto screeched _.",
+      "pick": 1
+    },
+    {
+      "text": "This performance contains flashing images, _ and _.",
+      "pick": 2
+    },
+    {
+      "text": "Serbia entered magical girls. How horribly will their contract end?",
+      "pick": 2
+    },
+    {
+      "text": "There's rumours of a country buying votes with _.",
+      "pick": 1
+    },
+    {
+      "text": "Your ideal interval act.",
+      "pick": 3
+    },
+    {
+      "text": "Azerbaijan, Land of _.",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "Alexander Rybak.",
+      "renderHtml": false
+    },
+    {
+      "text": "Eldar Gasimov's stone cold,, dead eyes.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Eurovision Song Contest.",
+      "renderHtml": false
+    },
+    {
+      "text": "Verka Serduchka.",
+      "renderHtml": false
+    },
+    {
+      "text": "Loreen Talhaoui.",
+      "renderHtml": false
+    },
+    {
+      "text": "Cezar Ouatu, his opera falsetto voice, his lifting dress and his naked dancers.",
+      "renderHtml": false
+    },
+    {
+      "text": "Epic Sax Guy.",
+      "renderHtml": false
+    },
+    {
+      "text": "EUUUUUUPHOOOORIAAAA.",
+      "renderHtml": false
+    },
+    {
+      "text": "Not being Jedward.",
+      "renderHtml": false
+    },
+    {
+      "text": "Loreen's hammertime dance.",
+      "renderHtml": false
+    },
+    {
+      "text": "Lena Meyer-Landrut.",
+      "renderHtml": false
+    },
+    {
+      "text": "Helena Paparizou breathing a sigh of relief that she didn't win during the economic crisis.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ruslana's vast array of animals she may or may not have slain with her bare hands.",
+      "renderHtml": false
+    },
+    {
+      "text": "Emmelie de Forest's big doe-eyed look.",
+      "renderHtml": false
+    },
+    {
+      "text": "ZELJKO YOU CHEAAAAAT.",
+      "renderHtml": false
+    },
+    {
+      "text": "Lordi's entire army of makeup artists.",
+      "renderHtml": false
+    },
+    {
+      "text": "Malena Ernman's massive arms.",
+      "renderHtml": false
+    },
+    {
+      "text": "The shock and anger you feel when your neighbour doesn't give you 12 points.",
+      "renderHtml": false
+    },
+    {
+      "text": "Showing you the Maiden Tower 15 times.",
+      "renderHtml": false
+    },
+    {
+      "text": "The ABBApocalypse.",
+      "renderHtml": false
+    }
+  ]
+}

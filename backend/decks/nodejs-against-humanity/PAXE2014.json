@@ -1,0 +1,118 @@
+{
+  "source": 0,
+  "order": 17,
+  "displayName": "PAX East 2014",
+  "name": "PAXE2014",
+  "whiteCards": [
+    {
+      "text": "<i>(Heavy breathing)</i><br>Luke, I am _.",
+      "pick": 1
+    },
+    {
+      "text": "You think you have defeated me? Well, let's see how you handle _!",
+      "pick": 1
+    },
+    {
+      "text": "What the hell?! They added a 6/6 with flying, trample, and _.",
+      "pick": 1
+    },
+    {
+      "text": "_ is way better in _ mode.",
+      "pick": 2
+    },
+    {
+      "text": "Unfortunately, Neo, no one can be <i>told</i> what _ is. You have to see it for yourself.",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "Mistakenly hitting on a <i>League of Legends</i> statue.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ser Jorah Mormont's cerulean-blue balls.",
+      "renderHtml": false
+    },
+    {
+      "text": "The old gods.",
+      "renderHtml": false
+    },
+    {
+      "text": "Stuffing my balls into a Sega Genesis and pressing the power button.",
+      "renderHtml": false
+    },
+    {
+      "text": "Attacking from Kamchatka.",
+      "renderHtml": false
+    },
+    {
+      "text": "Separate drinking fountains for dark elves.",
+      "renderHtml": false
+    },
+    {
+      "text": "Lagging out.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting bitten by a radioactive spider and then battling leukemia for 30 years.",
+      "renderHtml": false
+    },
+    {
+      "text": "A giant mechanical bird with a tragic backstory.",
+      "renderHtml": false
+    },
+    {
+      "text": "The pure, Zen-like state that exists between micro and macro.",
+      "renderHtml": false
+    },
+    {
+      "text": "Xena,<br>Warrior Princess.",
+      "renderHtml": false
+    },
+    {
+      "text": "Endless ninjas.",
+      "renderHtml": false
+    },
+    {
+      "text": "Whatever <i>Final Fantasy</i> bullshit happened this year.",
+      "renderHtml": false
+    },
+    {
+      "text": "Collecting all seven power crystals.",
+      "renderHtml": false
+    },
+    {
+      "text": "KHAAAAAAAAAN!",
+      "renderHtml": false
+    },
+    {
+      "text": "Futuristic death sports.",
+      "renderHtml": false
+    },
+    {
+      "text": "The imagination of Peter Jackson.",
+      "renderHtml": false
+    },
+    {
+      "text": "Demons and shit.",
+      "renderHtml": false
+    },
+    {
+      "text": "All of the good times and premium gaming entertainment available to you in the Kickstarter room.",
+      "renderHtml": false
+    },
+    {
+      "text": "A grumpy old Harrison Ford who'd rather be doing anything else.",
+      "renderHtml": false
+    },
+    {
+      "text": "Taking 2d6 emotional damage.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Star Wars Universe.",
+      "renderHtml": false
+    }
+  ]
+}

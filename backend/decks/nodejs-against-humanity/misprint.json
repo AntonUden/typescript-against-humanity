@@ -1,0 +1,50 @@
+{
+  "source": 0,
+  "order": 12,
+  "displayName": "Misprint Replacement Bonus Cards",
+  "name": "misprint",
+  "whiteCards": [
+    {
+      "text": "Daddy, why is Mommy crying?",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "A bitch slap.",
+      "renderHtml": false
+    },
+    {
+      "text": "One trillion dollars.",
+      "renderHtml": false
+    },
+    {
+      "text": "Chunks of dead prostitute.",
+      "renderHtml": false
+    },
+    {
+      "text": "The entire Mormon Tabernacle Choir.",
+      "renderHtml": false
+    },
+    {
+      "text": "The female orgasm.",
+      "renderHtml": false
+    },
+    {
+      "text": "Extremely tight pants.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Boy Scouts of America.",
+      "renderHtml": false
+    },
+    {
+      "text": "Stormtroopers.",
+      "renderHtml": false
+    },
+    {
+      "text": "Throwing a virgin into a volcano.",
+      "renderHtml": false
+    }
+  ]
+}

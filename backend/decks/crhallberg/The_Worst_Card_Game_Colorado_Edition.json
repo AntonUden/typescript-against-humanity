@@ -1,0 +1,441 @@
+{
+  "order": 191,
+  "displayName": "The Worst Card Game: Colorado Edition",
+  "name": "The_Worst_Card_Game_Colorado_Edition",
+  "whiteCards": [
+    {
+      "text": "_ + _ = Hipsters",
+      "pick": 2
+    },
+    {
+      "text": "_ really ruined PrideFest for me this year.",
+      "pick": 1
+    },
+    {
+      "text": "Casa Bonita is now offering a 2-for-1 Cliff diving and _.",
+      "pick": 1
+    },
+    {
+      "text": "Colorado natives know that when it smells like _, it's going to snow.",
+      "pick": 1
+    },
+    {
+      "text": "Colorado's next big public art installation will depict _.",
+      "pick": 1
+    },
+    {
+      "text": "Have you tried a Denver omelette, but with _ instead of ham? It's the only way I'll order mine now.",
+      "pick": 1
+    },
+    {
+      "text": "How do we get people to stop moving to Colorado?",
+      "pick": 1
+    },
+    {
+      "text": "How do you know if you have altitude sickness?",
+      "pick": 1
+    },
+    {
+      "text": "I belong with you, you belong with me, you're _.",
+      "pick": 1
+    },
+    {
+      "text": "I don't do the BolderBOULDER, I run _ instead.",
+      "pick": 1
+    },
+    {
+      "text": "I was supposed to go to Taste of Colorado, but I got stuck _ instead.",
+      "pick": 1
+    },
+    {
+      "text": "It's a secret, but if you whisper _ to an illegal Pete's employee, they'll add _ to your burrito.",
+      "pick": 2
+    },
+    {
+      "text": "No one ever talks about _ on the top of Lookout Mountain.",
+      "pick": 1
+    },
+    {
+      "text": "Now you have a friend in the _ business.\" - Tom Shane",
+      "pick": 1
+    },
+    {
+      "text": "People in Boulder really frown upon _.",
+      "pick": 1
+    },
+    {
+      "text": "People think CU-Boulder is the better school, but Metro students are more likely to be _.",
+      "pick": 1
+    },
+    {
+      "text": "Since marijuana was legalized in Colorado, cases of _ have skyrocketed.",
+      "pick": 1
+    },
+    {
+      "text": "Summit County: Come for the mountains, stay for _.",
+      "pick": 1
+    },
+    {
+      "text": "Ted Haggard was banned from New Life Church after he was found in a hotel room with _.",
+      "pick": 1
+    },
+    {
+      "text": "The difference between New Mexico and Colorado green chile is _.",
+      "pick": 1
+    },
+    {
+      "text": "The edible contains a potent dose of _. Can you feel it yet?",
+      "pick": 1
+    },
+    {
+      "text": "The Mile High Club? Amateur. I joined the _ club last year.",
+      "pick": 1
+    },
+    {
+      "text": "The Nuggets never should have traded Chauncey Billups for _.",
+      "pick": 1
+    },
+    {
+      "text": "What did you see the last time you were on Colfax?",
+      "pick": 1
+    },
+    {
+      "text": "What else can you buy used at Rocky's Autos?",
+      "pick": 1
+    },
+    {
+      "text": "What ruined my last tailgate at Sport Authority Field?",
+      "pick": 1
+    },
+    {
+      "text": "What should be a new sport in the X-Games this year?",
+      "pick": 1
+    },
+    {
+      "text": "What should be added to the Colorado flag?",
+      "pick": 1
+    },
+    {
+      "text": "What should be banned from Colorado?",
+      "pick": 1
+    },
+    {
+      "text": "What should you never add to your home microbrew?",
+      "pick": 1
+    },
+    {
+      "text": "What's really below DIA?",
+      "pick": 1
+    },
+    {
+      "text": "What's the latest trend in Boulder?",
+      "pick": 1
+    },
+    {
+      "text": "What's the one thing we can all look forward to on opening day at Coors Field®?",
+      "pick": 1
+    },
+    {
+      "text": "What's the skeleton in Governor John Hickenlooper's closet?",
+      "pick": 1
+    },
+    {
+      "text": "When they built NORAD in 1957, they never could have imagined it would need to withstand _.",
+      "pick": 1
+    },
+    {
+      "text": "You shouldn't swim in the Platte River, they found _ in there.",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "300 days of sunshine, 365 days of white people.",
+      "renderHtml": false
+    },
+    {
+      "text": "A forest fire that finally destroys that finally destroys Colorado Springs.",
+      "renderHtml": false
+    },
+    {
+      "text": "A group of nuns on Ecstasy finger blasting themselves outside of The Church.",
+      "renderHtml": false
+    },
+    {
+      "text": "A redneck finding out the hard way The Wrangler isn't a jeans store.",
+      "renderHtml": false
+    },
+    {
+      "text": "A vagina that tastes like the bathroom floors at Tom's Diner.",
+      "renderHtml": false
+    },
+    {
+      "text": "Accidentally showing your homemade porno at Film on the Rocks.",
+      "renderHtml": false
+    },
+    {
+      "text": "Adele Arakawa: Providing informed, reliable boners weekdays at 6, 10, and 11pm.",
+      "renderHtml": false
+    },
+    {
+      "text": "American Furniture Whorehouse.",
+      "renderHtml": false
+    },
+    {
+      "text": "An asshole with dreadlocks.",
+      "renderHtml": false
+    },
+    {
+      "text": "An atheist going to Garden of the Gods.",
+      "renderHtml": false
+    },
+    {
+      "text": "Assuming anything with \"Rocky Mountain\" in the name is made with bull balls.",
+      "renderHtml": false
+    },
+    {
+      "text": "Blucifer? I barely know'cifer!",
+      "renderHtml": false
+    },
+    {
+      "text": "Breaking out your winter mirkin.",
+      "renderHtml": false
+    },
+    {
+      "text": "Casa Bonita's even shittier location, Casa Vomita.",
+      "renderHtml": false
+    },
+    {
+      "text": "Cheesman Park: where you can bury a bone AND uncover one.",
+      "renderHtml": false
+    },
+    {
+      "text": "Columbine High School's new mascot, the Fightin' Early-Intervention Peer Mediator.",
+      "renderHtml": false
+    },
+    {
+      "text": "Confusing Denver Health with a dispensary.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dealin' Doug, dealin' drugs.",
+      "renderHtml": false
+    },
+    {
+      "text": "Denver turning down the Olympics so that it could focus on its band.",
+      "renderHtml": false
+    },
+    {
+      "text": "Drunk Frank Azar trying to show you his \"Strong Arm\" again.",
+      "renderHtml": false
+    },
+    {
+      "text": "Electing Snoop Dogg as District Comptroller of the Cannabis Cup.",
+      "renderHtml": false
+    },
+    {
+      "text": "Farting on the MallRide.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting fisted at First Friday.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting in trouble for referring to your wife as \"Kegs and Eggs.\"",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting the first bloody diarrhea at the first Chipotle®.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting your period in the hallway at The Stanley Hotel aftr drinking too much rum.",
+      "renderHtml": false
+    },
+    {
+      "text": "Giving your kid a B-Cycle™ for Christmas.",
+      "renderHtml": false
+    },
+    {
+      "text": "Going to the Bluebird to see indie rock band Nippless Cage.",
+      "renderHtml": false
+    },
+    {
+      "text": "Greeley: where if it doesn't smell like shit, you're not in Greeley.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hate fucking a Subaru™.",
+      "renderHtml": false
+    },
+    {
+      "text": "Having your favorite chilldhood memory replaced by a mixed-use condo.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hotboxing the Balloon Boy.",
+      "renderHtml": false
+    },
+    {
+      "text": "Jenga® made with breakfast burritos.",
+      "renderHtml": false
+    },
+    {
+      "text": "Jizz in the Park.",
+      "renderHtml": false
+    },
+    {
+      "text": "John Elway and Peyton Manning's huge headed love child.",
+      "renderHtml": false
+    },
+    {
+      "text": "John Elway's football shaped cock.",
+      "renderHtml": false
+    },
+    {
+      "text": "JonBenet Ramsey's cold, dead future.",
+      "renderHtml": false
+    },
+    {
+      "text": "Leaving a trail of crushed Dale's Pale Ale cans when hiking to find your way back home.",
+      "renderHtml": false
+    },
+    {
+      "text": "Letting Patrick Roy hit your wife because you're SUCH A HUGE FAN.",
+      "renderHtml": false
+    },
+    {
+      "text": "Mistaking the Zombie Crawl for a homeless uprising.",
+      "renderHtml": false
+    },
+    {
+      "text": "North Commerce City After Dark.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ordering the 7lb Jack-n-Grill burrito because you miss your dead baby.",
+      "renderHtml": false
+    },
+    {
+      "text": "Organizing a pedal bar event for the handicapped.",
+      "renderHtml": false
+    },
+    {
+      "text": "Panning for gold in Aurora (robbing your neighbor's house).",
+      "renderHtml": false
+    },
+    {
+      "text": "Playing the pianos on the 16th St Mall with your genitals.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pueblo: Colorado's grundle.",
+      "renderHtml": false
+    },
+    {
+      "text": "Punch Bowl Social®: where Tinder comes to life.",
+      "renderHtml": false
+    },
+    {
+      "text": "Realizing Colorado natives were actually the Native Americans.",
+      "renderHtml": false
+    },
+    {
+      "text": "Remembering Chubby's when it was flaccid.",
+      "renderHtml": false
+    },
+    {
+      "text": "Screaming \"JESUS! FUCK, NOT AGAIN!\" while at the Denver Aquarium Shipwreck exhibit.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sending $3,000 on ski equipment that sits in the front hall closet for 15 years.",
+      "renderHtml": false
+    },
+    {
+      "text": "Serving jail time for making eight-year-olds reenact THAT South Park episode.",
+      "renderHtml": false
+    },
+    {
+      "text": "Shannon Shart Adult Diapers™.",
+      "renderHtml": false
+    },
+    {
+      "text": "Stringing piano wire across a street right before the Denver Cruisers turn the corner.",
+      "renderHtml": false
+    },
+    {
+      "text": "Taking dick pics at Tiny Town so it looks HUGE.",
+      "renderHtml": false
+    },
+    {
+      "text": "Taking the kids to Lakeside because you don't love them anymore.",
+      "renderHtml": false
+    },
+    {
+      "text": "That unmistakable Colfax itch.",
+      "renderHtml": false
+    },
+    {
+      "text": "The 3 Jamaicans at Reggae on the Rocks.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Brown Palace: A place and a rich guy sex move!",
+      "renderHtml": false
+    },
+    {
+      "text": "The Denver Satanic Gardens.",
+      "renderHtml": false
+    },
+    {
+      "text": "The DIA Devil Horse having a field day with your butt.",
+      "renderHtml": false
+    },
+    {
+      "text": "The only black guy in Aspen.",
+      "renderHtml": false
+    },
+    {
+      "text": "The popular local sex move, the Steamboat Spring.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Ryan Gosling of Commerce City.",
+      "renderHtml": false
+    },
+    {
+      "text": "The underrepresentation of African-American dancers at Blues events.",
+      "renderHtml": false
+    },
+    {
+      "text": "The unshaved undercarriage of a Boulder Trustafarian.",
+      "renderHtml": false
+    },
+    {
+      "text": "The XXX Games.",
+      "renderHtml": false
+    },
+    {
+      "text": "Tim Tebow's Reign of Christian Terror.",
+      "renderHtml": false
+    },
+    {
+      "text": "Tour de Fat bottom girls.",
+      "renderHtml": false
+    },
+    {
+      "text": "Traffic going to the mountains, because traffic needs to get out of town sometimes, too.",
+      "renderHtml": false
+    },
+    {
+      "text": "Water World's Thunder Bay Wave Pool filled with jizz and tears.",
+      "renderHtml": false
+    },
+    {
+      "text": "Whispering \"Green chile is people!\"",
+      "renderHtml": false
+    }
+  ]
+}

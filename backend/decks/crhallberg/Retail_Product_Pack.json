@@ -1,0 +1,89 @@
+{
+  "order": 59,
+  "displayName": "Retail Product Pack",
+  "name": "Retail_Product_Pack",
+  "whiteCards": [
+    {
+      "text": "Wait, I came here to buy socks. How did I wind up with _?",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "A framed photocopy of an oil painting of Paris, France.",
+      "renderHtml": false
+    },
+    {
+      "text": "A Pringle.®",
+      "renderHtml": false
+    },
+    {
+      "text": "A Pringles® can full of screams.",
+      "renderHtml": false
+    },
+    {
+      "text": "An 89-year-old woman with time and gravity-affected breast implants jumping rope.",
+      "renderHtml": false
+    },
+    {
+      "text": "An exclusive partnership with Taylor Swift.",
+      "renderHtml": false
+    },
+    {
+      "text": "Blood Pringles.®",
+      "renderHtml": false
+    },
+    {
+      "text": "Buying and returning clothes just to have someone to talk to.",
+      "renderHtml": false
+    },
+    {
+      "text": "Buying the right toothbrush cup for my lifestyle.",
+      "renderHtml": false
+    },
+    {
+      "text": "Confusing possessions with accomplishments.",
+      "renderHtml": false
+    },
+    {
+      "text": "Crunchy snacks for my big flappy mouth.",
+      "renderHtml": false
+    },
+    {
+      "text": "Extracting the maximum amount of money from naive consumers.",
+      "renderHtml": false
+    },
+    {
+      "text": "Gender-neutral toys that make children feel no emotions whatsoever.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting eaten out in the family fitting room.",
+      "renderHtml": false
+    },
+    {
+      "text": "How fun it is to eat Pringles.®",
+      "renderHtml": false
+    },
+    {
+      "text": "Refusing to go up a size.",
+      "renderHtml": false
+    },
+    {
+      "text": "Saving 20% or more on khakis.",
+      "renderHtml": false
+    },
+    {
+      "text": "Shiny gadgets for sadness distraction.",
+      "renderHtml": false
+    },
+    {
+      "text": "Subsisting on tiny pizzas.",
+      "renderHtml": false
+    },
+    {
+      "text": "The obscene amount of money Cards Against Humanity is making by selling this game at Target.®",
+      "renderHtml": false
+    }
+  ]
+}

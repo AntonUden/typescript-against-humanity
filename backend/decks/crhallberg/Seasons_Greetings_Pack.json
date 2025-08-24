@@ -1,0 +1,129 @@
+{
+  "order": 62,
+  "displayName": "Seasons Greetings Pack",
+  "name": "Seasons_Greetings_Pack",
+  "whiteCards": [
+    {
+      "text": "Blood is thicker than _.",
+      "pick": 1
+    },
+    {
+      "text": "Donna, pick up my dry cleaning and get my wife something for Christmas. I think she likes _.",
+      "pick": 1
+    },
+    {
+      "text": "Here's what you can expect for the new year.\nOut: _.\nIn: _.",
+      "pick": 2
+    },
+    {
+      "text": "It's beginning to look a lot like _.",
+      "pick": 1
+    },
+    {
+      "text": "Jesus performed the miracle of _ but it was never recorded.",
+      "pick": 1
+    },
+    {
+      "text": "This holiday season, Tim Allen must overcome his fear of _ to save Christmas.",
+      "pick": 1
+    },
+    {
+      "text": "What's the one thing that makes an elf instantly ejaculate?",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "A choir of angels descending from the sky and jizzing all over dad's sweater.",
+      "renderHtml": false
+    },
+    {
+      "text": "A frozen homeless man shattering on your doorstep.",
+      "renderHtml": false
+    },
+    {
+      "text": "A Toyota Corolla with a \"Bring Our Jobs Back\" Trumper sticker.",
+      "renderHtml": false
+    },
+    {
+      "text": "Another shot of morphine.",
+      "renderHtml": false
+    },
+    {
+      "text": "Eliminate liberal bias!",
+      "renderHtml": false
+    },
+    {
+      "text": "Finding out that Santa isn't real.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fucking up Silent Night in front of 3,000 parents.",
+      "renderHtml": false
+    },
+    {
+      "text": "Gift wrapping a live hamster.",
+      "renderHtml": false
+    },
+    {
+      "text": "How cool it is that I love jesus and he loves me back.",
+      "renderHtml": false
+    },
+    {
+      "text": "How great of a blowjob Jesus could give.",
+      "renderHtml": false
+    },
+    {
+      "text": "How many drinks and Deborah has had.",
+      "renderHtml": false
+    },
+    {
+      "text": "Is snowman that contains the soul of my dead father.",
+      "renderHtml": false
+    },
+    {
+      "text": "My hot neighbor",
+      "renderHtml": false
+    },
+    {
+      "text": "My uncle who voted for Trump.",
+      "renderHtml": false
+    },
+    {
+      "text": "Piece of shit Christmas card with no money in them.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pretending to be one of the guys but actually being the spider god.",
+      "renderHtml": false
+    },
+    {
+      "text": "Probably grandma's last Christmas, kids.",
+      "renderHtml": false
+    },
+    {
+      "text": "Snow falling gently on the frozen body of an orphan boy.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sodomising the corpse of Ben Franklin.",
+      "renderHtml": false
+    },
+    {
+      "text": "Starting to see where ISIS is coming from.",
+      "renderHtml": false
+    },
+    {
+      "text": "The 9,000 children who starred to death today.",
+      "renderHtml": false
+    },
+    {
+      "text": "The shocking stupidity of the American public.",
+      "renderHtml": false
+    },
+    {
+      "text": "These new jeans that look so cool but are actually so bad.",
+      "renderHtml": false
+    }
+  ]
+}

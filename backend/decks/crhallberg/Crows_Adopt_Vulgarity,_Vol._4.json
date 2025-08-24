@@ -1,0 +1,449 @@
+{
+  "order": 131,
+  "displayName": "Crows Adopt Vulgarity, Vol. 4",
+  "name": "Crows_Adopt_Vulgarity,_Vol._4",
+  "whiteCards": [
+    {
+      "text": "_ For Dummies is actually the best-selling book in the series.",
+      "pick": 1
+    },
+    {
+      "text": "_. MILLIONS ARE DEAD!",
+      "pick": 1
+    },
+    {
+      "text": "_. That's how I met your mother.",
+      "pick": 1
+    },
+    {
+      "text": "_. There were no survivors.",
+      "pick": 1
+    },
+    {
+      "text": "Give _ a chance! He'll grow on you!",
+      "pick": 1
+    },
+    {
+      "text": "God created Adam and Eve, not Adam and _.",
+      "pick": 1
+    },
+    {
+      "text": "I am vengeance. I am the night. I am _.",
+      "pick": 1
+    },
+    {
+      "text": "I didn't have any plans for the weekend until I found _ in the attic.",
+      "pick": 1
+    },
+    {
+      "text": "I just filled my 1.5 TB hard drive with pictures of _.",
+      "pick": 1
+    },
+    {
+      "text": "I wanna put _ in her!",
+      "pick": 1
+    },
+    {
+      "text": "I was strangely proud when my kid asked Santa for _.",
+      "pick": 1
+    },
+    {
+      "text": "I'm ashamed to admit that I have traded sexual favors for _.",
+      "pick": 1
+    },
+    {
+      "text": "I've been _ like eight times already.",
+      "pick": 1
+    },
+    {
+      "text": "It was bound to happen. _ has taken over the world.",
+      "pick": 1
+    },
+    {
+      "text": "It's all fun and games until someone loses _.",
+      "pick": 1
+    },
+    {
+      "text": "It's never a bad time for _!",
+      "pick": 1
+    },
+    {
+      "text": "Kids and grown-ups love it so, the happy world of _.",
+      "pick": 1
+    },
+    {
+      "text": "My goddamn roommate is so immature, I actually had to post a \"NO _\" sign.",
+      "pick": 1
+    },
+    {
+      "text": "Once _ hits your lips, it's so good.",
+      "pick": 1
+    },
+    {
+      "text": "Rolling around at the speed of _!",
+      "pick": 1
+    },
+    {
+      "text": "Speak softly and carry _.",
+      "pick": 1
+    },
+    {
+      "text": "There's a convention for _? Sign me up!",
+      "pick": 1
+    },
+    {
+      "text": "What do I remind my parents of?",
+      "pick": 1
+    },
+    {
+      "text": "What do Mumbo's magic words mean?",
+      "pick": 1
+    },
+    {
+      "text": "What is the imminent threat to our nation's youth?",
+      "pick": 1
+    },
+    {
+      "text": "What's my anti-boner?",
+      "pick": 1
+    },
+    {
+      "text": "When the going gets tough, the tough get _.",
+      "pick": 1
+    },
+    {
+      "text": "Why can't I sit down today?",
+      "pick": 1
+    },
+    {
+      "text": "Why did I get kicked out of the house?",
+      "pick": 1
+    },
+    {
+      "text": "Why was \"Barney\" cancelled?",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "380 grams of heroin.",
+      "renderHtml": false
+    },
+    {
+      "text": "72 Virgins, all of whom are babies.",
+      "renderHtml": false
+    },
+    {
+      "text": "A 10-minute shit on company time.",
+      "renderHtml": false
+    },
+    {
+      "text": "A big, fat, hairy, homosexual man.",
+      "renderHtml": false
+    },
+    {
+      "text": "A bomb that will go off at any second.",
+      "renderHtml": false
+    },
+    {
+      "text": "A Canadian dildo, made from an icicle.",
+      "renderHtml": false
+    },
+    {
+      "text": "A carnivorous plant that only eats Asians.",
+      "renderHtml": false
+    },
+    {
+      "text": "A Civil War reenactment gone horribly wrong.",
+      "renderHtml": false
+    },
+    {
+      "text": "A Columbine High School reunion.",
+      "renderHtml": false
+    },
+    {
+      "text": "A costly mistake.",
+      "renderHtml": false
+    },
+    {
+      "text": "A crisp $20 bill.",
+      "renderHtml": false
+    },
+    {
+      "text": "A crying stripper.",
+      "renderHtml": false
+    },
+    {
+      "text": "A diet consisting only of Mountain Dew, mini doughnuts, and beer.",
+      "renderHtml": false
+    },
+    {
+      "text": "A resting bitch face.",
+      "renderHtml": false
+    },
+    {
+      "text": "A tombstone reading \"Let Me Out.\"",
+      "renderHtml": false
+    },
+    {
+      "text": "A van full of screaming children.",
+      "renderHtml": false
+    },
+    {
+      "text": "A whale that's been declared obese.",
+      "renderHtml": false
+    },
+    {
+      "text": "Accidentally leaving the price tag on expensive presents.",
+      "renderHtml": false
+    },
+    {
+      "text": "Actually reading the terms and conditions.",
+      "renderHtml": false
+    },
+    {
+      "text": "Angering a family of raccoons.",
+      "renderHtml": false
+    },
+    {
+      "text": "Asking someone if they would like to \"drink your no-no tea.\"",
+      "renderHtml": false
+    },
+    {
+      "text": "ASL rap battles.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bashing in someone's face with a spiked bat.",
+      "renderHtml": false
+    },
+    {
+      "text": "Beating someone else's kid for them.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being addicted to penis.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being forced to dissect your beloved pet.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being white in a situation where that's actually disadvantageous.",
+      "renderHtml": false
+    },
+    {
+      "text": "Black Friday shoppers beating each other to death over -- and with -- $2 bath towels.",
+      "renderHtml": false
+    },
+    {
+      "text": "Blaming the holidays for your weight problems.",
+      "renderHtml": false
+    },
+    {
+      "text": "Chewbacca trimming his pubic hair.",
+      "renderHtml": false
+    },
+    {
+      "text": "CoD: Cum on Dicks.",
+      "renderHtml": false
+    },
+    {
+      "text": "Conspiracy theorists claiming that martial law is near.",
+      "renderHtml": false
+    },
+    {
+      "text": "Cooking meth in a 16-foot RV.",
+      "renderHtml": false
+    },
+    {
+      "text": "Drinking yourself into a coma at a Nevada brothel.",
+      "renderHtml": false
+    },
+    {
+      "text": "Faking a terminal illness.",
+      "renderHtml": false
+    },
+    {
+      "text": "Falling in love with your adopted sister.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fat Chris Pratt.",
+      "renderHtml": false
+    },
+    {
+      "text": "Filming a street light on your phone.",
+      "renderHtml": false
+    },
+    {
+      "text": "Finding Daddy's porn collection.",
+      "renderHtml": false
+    },
+    {
+      "text": "Finger banging with the tampon still in.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fishing with dynamite.",
+      "renderHtml": false
+    },
+    {
+      "text": "Floyd Mayweather's ego.",
+      "renderHtml": false
+    },
+    {
+      "text": "Four shots of tequila.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting stuck in traffic.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting turned on when your parents spank you.",
+      "renderHtml": false
+    },
+    {
+      "text": "Giving the finger to a policeman.",
+      "renderHtml": false
+    },
+    {
+      "text": "Jacking off until your dick vomits.",
+      "renderHtml": false
+    },
+    {
+      "text": "Killing all hostages.",
+      "renderHtml": false
+    },
+    {
+      "text": "Making Napoleon Blown-apart jokes too soon after the Paris attacks.",
+      "renderHtml": false
+    },
+    {
+      "text": "Men who do not get laid.",
+      "renderHtml": false
+    },
+    {
+      "text": "Midget orgies.",
+      "renderHtml": false
+    },
+    {
+      "text": "Parents that are too proud.",
+      "renderHtml": false
+    },
+    {
+      "text": "Paris Hilton on too much cocaine.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pills that make your penis rock-hard.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pilots joining the mile-high-club while auto-pilot gets you home safe.",
+      "renderHtml": false
+    },
+    {
+      "text": "Playing hide and seek better than Anne Frank.",
+      "renderHtml": false
+    },
+    {
+      "text": "Rape victims making fun of virgins.",
+      "renderHtml": false
+    },
+    {
+      "text": "Santa's lap.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sniffing on your father's underwear.",
+      "renderHtml": false
+    },
+    {
+      "text": "Standing in the corner and rethinking your life choices.",
+      "renderHtml": false
+    },
+    {
+      "text": "Suicide photobombers.",
+      "renderHtml": false
+    },
+    {
+      "text": "Talking faster than a Thai hooker.",
+      "renderHtml": false
+    },
+    {
+      "text": "Teasing zoo animals.",
+      "renderHtml": false
+    },
+    {
+      "text": "Telling our child that \"fist\" can be a verb.",
+      "renderHtml": false
+    },
+    {
+      "text": "That girl in elementary school that was obsessed with horses.",
+      "renderHtml": false
+    },
+    {
+      "text": "That one annoying person who has to comment on every single card played.",
+      "renderHtml": false
+    },
+    {
+      "text": "The ever increasing paranoia parents have for their children.",
+      "renderHtml": false
+    },
+    {
+      "text": "The false hope given to the people of Africa.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Jonas Brothers.",
+      "renderHtml": false
+    },
+    {
+      "text": "The magical gold-weaving spider that creates Donald Trump's hair every night.",
+      "renderHtml": false
+    },
+    {
+      "text": "The proper way to pronounce \"gif.\"",
+      "renderHtml": false
+    },
+    {
+      "text": "The smooth asses of babies.",
+      "renderHtml": false
+    },
+    {
+      "text": "Throwing silverware at a waitress.",
+      "renderHtml": false
+    },
+    {
+      "text": "Urinating in a crowded pool.",
+      "renderHtml": false
+    },
+    {
+      "text": "Using Amazon drones to send anthrax to politicians.",
+      "renderHtml": false
+    },
+    {
+      "text": "When your mother whips the wooden spoon out.",
+      "renderHtml": false
+    },
+    {
+      "text": "White people with dreads.",
+      "renderHtml": false
+    },
+    {
+      "text": "Whoever actually spent money on this game.",
+      "renderHtml": false
+    },
+    {
+      "text": "Y'all need Jesus.",
+      "renderHtml": false
+    },
+    {
+      "text": "Your boyfriend's mysterious emotional breakdown.",
+      "renderHtml": false
+    }
+  ]
+}

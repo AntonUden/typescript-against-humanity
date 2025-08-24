@@ -1,0 +1,2133 @@
+{
+  "order": 132,
+  "displayName": "Depravity",
+  "name": "Depravity",
+  "whiteCards": [
+    {
+      "text": "Aggressively bidding online for _.",
+      "pick": 1
+    },
+    {
+      "text": "Asking the hotel manager to arrange _ for your room.",
+      "pick": 1
+    },
+    {
+      "text": "Asking your blind date if they also like _.",
+      "pick": 1
+    },
+    {
+      "text": "Attempting to explain to your Dad why you were _ in the garden shed.",
+      "pick": 1
+    },
+    {
+      "text": "Being accused of _ at a work disciplinary.",
+      "pick": 1
+    },
+    {
+      "text": "Being asked to leave the art gallery for _.",
+      "pick": 1
+    },
+    {
+      "text": "Being called into your managers office for _ at the work Christmas party.",
+      "pick": 1
+    },
+    {
+      "text": "Being caught _ by the library security.",
+      "pick": 1
+    },
+    {
+      "text": "Being concerned that the psychic saw _ in your future.",
+      "pick": 1
+    },
+    {
+      "text": "Being distracted by _ at the side of the road.",
+      "pick": 1
+    },
+    {
+      "text": "Being reprimanded by the Headmaster for _ when you should've been at school.",
+      "pick": 1
+    },
+    {
+      "text": "Being reprimanded by your boss for including _ in your yearly objectives.",
+      "pick": 1
+    },
+    {
+      "text": "Being sold _ by an aggressive salesman in the shopping centre.",
+      "pick": 1
+    },
+    {
+      "text": "Being unable to look your Dad in the eye once he's seen you _.",
+      "pick": 1
+    },
+    {
+      "text": "Blaming _ for all your money troubles.",
+      "pick": 1
+    },
+    {
+      "text": "Browsing for a new outfit for _ this weekend.",
+      "pick": 1
+    },
+    {
+      "text": "Building up the courage to tell your partner about the time you were _ to pay the bills.",
+      "pick": 1
+    },
+    {
+      "text": "Confessing your love of _ to your partners family when you first meet them.",
+      "pick": 1
+    },
+    {
+      "text": "Confessng to your parents you've been suspended from college due to _.",
+      "pick": 1
+    },
+    {
+      "text": "Contravening workplace policy by _ in front of your colleagues.",
+      "pick": 1
+    },
+    {
+      "text": "Daydreaming about buying _ when you get rich.",
+      "pick": 1
+    },
+    {
+      "text": "Denying the school-wide rumour that you were _.",
+      "pick": 1
+    },
+    {
+      "text": "Describing _ as the highlight of your year during a birthday speech.",
+      "pick": 1
+    },
+    {
+      "text": "Distracting the band by _ in the front row of the concert.",
+      "pick": 1
+    },
+    {
+      "text": "Distracting the fitness instructor by _ during the class.",
+      "pick": 1
+    },
+    {
+      "text": "Drunk texting your landlord pictures of _.",
+      "pick": 1
+    },
+    {
+      "text": "Drunkenly confessing your obsession with _ to your best mate.",
+      "pick": 1
+    },
+    {
+      "text": "Drunkenly getting a tattoo of _ on a wild night out.",
+      "pick": 1
+    },
+    {
+      "text": "Entertaining attendees with a story about _ during the funeral service.",
+      "pick": 1
+    },
+    {
+      "text": "Excitedly replying to spam emails which offers _ for free.",
+      "pick": 1
+    },
+    {
+      "text": "Fantasising about _ to help you get through another pointless work meeting.",
+      "pick": 1
+    },
+    {
+      "text": "Feeling nostalgic when you remember _ from your childhood.",
+      "pick": 1
+    },
+    {
+      "text": "Getting another detention for _ at the back of the class.",
+      "pick": 1
+    },
+    {
+      "text": "Giving your best friend _ to show you're secretly in love with them.",
+      "pick": 1
+    },
+    {
+      "text": "Giving your elderly neighbour assistance in _.",
+      "pick": 1
+    },
+    {
+      "text": "Hoping _ will help you get your life back on track.",
+      "pick": 1
+    },
+    {
+      "text": "Hoping customs don't notice _ in your bag.",
+      "pick": 1
+    },
+    {
+      "text": "Hoping the Bride and Groom like your present of _.",
+      "pick": 1
+    },
+    {
+      "text": "Hoping the Judge will be lenient on you for _ on t he bus.",
+      "pick": 1
+    },
+    {
+      "text": "Hoping the ticket inspector will believe your story of _ for not having a ticket.",
+      "pick": 1
+    },
+    {
+      "text": "Hoping you have successfully deleted _ from your internet search history.",
+      "pick": 1
+    },
+    {
+      "text": "Hoping your boss will accept _ as your reason for calling in sick.",
+      "pick": 1
+    },
+    {
+      "text": "Hoping your new partner dosen't open your desktop folder of _ pictures.",
+      "pick": 1
+    },
+    {
+      "text": "Hoping your partner doesn't see the photo of _ after you give them your phone.",
+      "pick": 1
+    },
+    {
+      "text": "Informing the Police Officer that _ is the reason you are speeding.",
+      "pick": 1
+    },
+    {
+      "text": "Inviting the new neighbours around to enjoy _.",
+      "pick": 1
+    },
+    {
+      "text": "Meditating about _ to control your stress.",
+      "pick": 1
+    },
+    {
+      "text": "Naively thinking _ was acceptable as security escort you out of the shopping centre.",
+      "pick": 1
+    },
+    {
+      "text": "Nervously introducing _ into the conversation on a first date.",
+      "pick": 1
+    },
+    {
+      "text": "Not realising _ isn't acceptable behaviour on the beach.",
+      "pick": 1
+    },
+    {
+      "text": "Offering the taxi driver _ because you don't have enough money to pay.",
+      "pick": 1
+    },
+    {
+      "text": "Presnting _ as an option to improve sales to the Executive Board.",
+      "pick": 1
+    },
+    {
+      "text": "Proposing _ in an attempt to introduce some romance to your elationship.",
+      "pick": 1
+    },
+    {
+      "text": "Proposing to pay the delievery driver with _ for your takeaway.",
+      "pick": 1
+    },
+    {
+      "text": "Proudly including _ on your CV, to get your dream job.",
+      "pick": 1
+    },
+    {
+      "text": "Recounting _ in your after dinner speech.",
+      "pick": 1
+    },
+    {
+      "text": "Reluctantly accepting a birrthday voucher from your Nan for _.",
+      "pick": 1
+    },
+    {
+      "text": "Remembering _ to help you get through the hard times.",
+      "pick": 1
+    },
+    {
+      "text": "Renewing your monthly subscription to _ Digest.",
+      "pick": 1
+    },
+    {
+      "text": "Selling _ in an attempt to pay the rent on time.",
+      "pick": 1
+    },
+    {
+      "text": "Seriously considering giving up_ as it's starting to take over your life.",
+      "pick": 1
+    },
+    {
+      "text": "Setting up a new local _ club to meet new people.",
+      "pick": 1
+    },
+    {
+      "text": "Shocking your English teacher with a poem about _.",
+      "pick": 1
+    },
+    {
+      "text": "Speculating whether the other people in the waiting room are also seeing the doctor about _.",
+      "pick": 1
+    },
+    {
+      "text": "Suddenly realising you left your diary open in the kitchen with entries about  _ in it.",
+      "pick": 1
+    },
+    {
+      "text": "Taking up _ as a new hobby to help you stop smoking.",
+      "pick": 1
+    },
+    {
+      "text": "Telling a story about _ as you introduce yourself to your new work colleagues.",
+      "pick": 1
+    },
+    {
+      "text": "Telling your story about _ in an attempt to salvage the interview.",
+      "pick": 1
+    },
+    {
+      "text": "Thinking about _ to help you stay calm before an interview.",
+      "pick": 1
+    },
+    {
+      "text": "Trying to explain to your boss why _ is on your expense statement.",
+      "pick": 1
+    },
+    {
+      "text": "Trying to explain to your doctor that you got the rash from _.",
+      "pick": 1
+    },
+    {
+      "text": "Trying to explain to your partner a surprise charge from www. _ .com.",
+      "pick": 1
+    },
+    {
+      "text": "Using _ as an excuse for being late for work.",
+      "pick": 1
+    },
+    {
+      "text": "What are you going to give your Mum for her birthday?",
+      "pick": 1
+    },
+    {
+      "text": "What caused your last relationship to end?",
+      "pick": 1
+    },
+    {
+      "text": "What common interests do you share with your Dad?",
+      "pick": 1
+    },
+    {
+      "text": "What do you like to do with your best friend?",
+      "pick": 1
+    },
+    {
+      "text": "What do you remember your Grandfather for?",
+      "pick": 1
+    },
+    {
+      "text": "What do you think your ex is doing right now?",
+      "pick": 1
+    },
+    {
+      "text": "What do you want for Christmas?",
+      "pick": 1
+    },
+    {
+      "text": "What do you want to achieve before you die?",
+      "pick": 1
+    },
+    {
+      "text": "What do you want to achieve this year?",
+      "pick": 1
+    },
+    {
+      "text": "What does your Mother do to embarrass you?",
+      "pick": 1
+    },
+    {
+      "text": "What have you done to deserve a promotion?",
+      "pick": 1
+    },
+    {
+      "text": "What is essential for a successful relationship?",
+      "pick": 1
+    },
+    {
+      "text": "What is on your bucket list?",
+      "pick": 1
+    },
+    {
+      "text": "What is the one thing you wouldn't want your family to find out about?",
+      "pick": 1
+    },
+    {
+      "text": "What is your best friend good at?",
+      "pick": 1
+    },
+    {
+      "text": "What is your earliest memory?",
+      "pick": 1
+    },
+    {
+      "text": "What is your greatest achievement?",
+      "pick": 1
+    },
+    {
+      "text": "What is your greatest fear?",
+      "pick": 1
+    },
+    {
+      "text": "What makes you unique?",
+      "pick": 1
+    },
+    {
+      "text": "What motivates you to get out of bed in the morning?",
+      "pick": 1
+    },
+    {
+      "text": "What was the reason you last cried?",
+      "pick": 1
+    },
+    {
+      "text": "What would you buy first if you won the lottery?",
+      "pick": 1
+    },
+    {
+      "text": "What would you like to be remembered for?",
+      "pick": 1
+    },
+    {
+      "text": "What's your biggest regret?",
+      "pick": 1
+    },
+    {
+      "text": "What's your favourite thing to do on your days off?",
+      "pick": 1
+    },
+    {
+      "text": "Wondering if other commuters on the train also daydream about _.",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "A 70s porn star bush",
+      "renderHtml": false
+    },
+    {
+      "text": "A back alley blow job",
+      "renderHtml": false
+    },
+    {
+      "text": "A back, sack and crack wax",
+      "renderHtml": false
+    },
+    {
+      "text": "A backstreet abortion with a coat hanger and a cooking whisk",
+      "renderHtml": false
+    },
+    {
+      "text": "A blow job whilst driving",
+      "renderHtml": false
+    },
+    {
+      "text": "A botched boob job",
+      "renderHtml": false
+    },
+    {
+      "text": "A broken hymen",
+      "renderHtml": false
+    },
+    {
+      "text": "A brothel Madame",
+      "renderHtml": false
+    },
+    {
+      "text": "A bulging camel toe",
+      "renderHtml": false
+    },
+    {
+      "text": "A circumsied cock",
+      "renderHtml": false
+    },
+    {
+      "text": "A communal puddle of cum",
+      "renderHtml": false
+    },
+    {
+      "text": "A courtesy reach around",
+      "renderHtml": false
+    },
+    {
+      "text": "A crusty wank rag",
+      "renderHtml": false
+    },
+    {
+      "text": "A dance floor finger fuck",
+      "renderHtml": false
+    },
+    {
+      "text": "A danger wank",
+      "renderHtml": false
+    },
+    {
+      "text": "A dirty memory wank",
+      "renderHtml": false
+    },
+    {
+      "text": "A dirty protest",
+      "renderHtml": false
+    },
+    {
+      "text": "A Donald Trump pussy grab",
+      "renderHtml": false
+    },
+    {
+      "text": "A double ended dildo",
+      "renderHtml": false
+    },
+    {
+      "text": "A drug addicted prostitute",
+      "renderHtml": false
+    },
+    {
+      "text": "A failed attempt at the rhythm method",
+      "renderHtml": false
+    },
+    {
+      "text": "A festival fanny after three days of baby wipe showers",
+      "renderHtml": false
+    },
+    {
+      "text": "A five guy cream pie",
+      "renderHtml": false
+    },
+    {
+      "text": "a footjob",
+      "renderHtml": false
+    },
+    {
+      "text": "A gaping arse hole",
+      "renderHtml": false
+    },
+    {
+      "text": "A giant steaming log",
+      "renderHtml": false
+    },
+    {
+      "text": "A golden shower",
+      "renderHtml": false
+    },
+    {
+      "text": "A grand slam: piss, poo and vomit at the same time",
+      "renderHtml": false
+    },
+    {
+      "text": "A hanging ham",
+      "renderHtml": false
+    },
+    {
+      "text": "A lap of the office so you can fart",
+      "renderHtml": false
+    },
+    {
+      "text": "A leaky tampon emergency",
+      "renderHtml": false
+    },
+    {
+      "text": "A lesbian three way",
+      "renderHtml": false
+    },
+    {
+      "text": "A luch time rub n tug",
+      "renderHtml": false
+    },
+    {
+      "text": "A messy divorce",
+      "renderHtml": false
+    },
+    {
+      "text": "A moist cream pie",
+      "renderHtml": false
+    },
+    {
+      "text": "A morning after cum burp",
+      "renderHtml": false
+    },
+    {
+      "text": "A naked Philippino rent boy",
+      "renderHtml": false
+    },
+    {
+      "text": "A New Years resolution to stop the unprotected casual sex",
+      "renderHtml": false
+    },
+    {
+      "text": "A noisy poo in your in-laws house",
+      "renderHtml": false
+    },
+    {
+      "text": "A non-existent gag reflex",
+      "renderHtml": false
+    },
+    {
+      "text": "A painful piss",
+      "renderHtml": false
+    },
+    {
+      "text": "A planned one night stand with a couple",
+      "renderHtml": false
+    },
+    {
+      "text": "A plaster cast of your Mum's pussy",
+      "renderHtml": false
+    },
+    {
+      "text": "A pokey bum wank",
+      "renderHtml": false
+    },
+    {
+      "text": "A posh wank",
+      "renderHtml": false
+    },
+    {
+      "text": "A post-head vaginal discharge moustache",
+      "renderHtml": false
+    },
+    {
+      "text": "A quick wank while your partner's in the shower",
+      "renderHtml": false
+    },
+    {
+      "text": "A rectal examination",
+      "renderHtml": false
+    },
+    {
+      "text": "A recurring dream of guiding your Dad into your your Mum",
+      "renderHtml": false
+    },
+    {
+      "text": "A Red Light District",
+      "renderHtml": false
+    },
+    {
+      "text": "A reluctant blow job",
+      "renderHtml": false
+    },
+    {
+      "text": "A rubber gimp mask",
+      "renderHtml": false
+    },
+    {
+      "text": "A rusty trombone.",
+      "renderHtml": false
+    },
+    {
+      "text": "A seedy sex cinema",
+      "renderHtml": false
+    },
+    {
+      "text": "A sex party",
+      "renderHtml": false
+    },
+    {
+      "text": "A sexless marriage",
+      "renderHtml": false
+    },
+    {
+      "text": "A shaved pussy",
+      "renderHtml": false
+    },
+    {
+      "text": "A sleazy peep show",
+      "renderHtml": false
+    },
+    {
+      "text": "A slutty drunk Auntie",
+      "renderHtml": false
+    },
+    {
+      "text": "A slutty one night stand",
+      "renderHtml": false
+    },
+    {
+      "text": "A smelly colleagues body odour",
+      "renderHtml": false
+    },
+    {
+      "text": "A sneaky finger fuck in the cinema",
+      "renderHtml": false
+    },
+    {
+      "text": "A sneaky poke and sniff",
+      "renderHtml": false
+    },
+    {
+      "text": "A soiled g-string",
+      "renderHtml": false
+    },
+    {
+      "text": "A submissive lover",
+      "renderHtml": false
+    },
+    {
+      "text": "A sugar daddy",
+      "renderHtml": false
+    },
+    {
+      "text": "A sweaty crack",
+      "renderHtml": false
+    },
+    {
+      "text": "A tactical postion change to stop you from cuming",
+      "renderHtml": false
+    },
+    {
+      "text": "A tactical pre-wank",
+      "renderHtml": false
+    },
+    {
+      "text": "A Thai bride",
+      "renderHtml": false
+    },
+    {
+      "text": "A three day hangover",
+      "renderHtml": false
+    },
+    {
+      "text": "A tit wank",
+      "renderHtml": false
+    },
+    {
+      "text": "A traffic jam wank to pass the time",
+      "renderHtml": false
+    },
+    {
+      "text": "A wanking booth",
+      "renderHtml": false
+    },
+    {
+      "text": "A wet dream",
+      "renderHtml": false
+    },
+    {
+      "text": "Accidently falling in love with your fuck buddy",
+      "renderHtml": false
+    },
+    {
+      "text": "Accidently fucking your sister in a swingers club dark room",
+      "renderHtml": false
+    },
+    {
+      "text": "Achieving a gangbang life goal",
+      "renderHtml": false
+    },
+    {
+      "text": "Aiming for the face when you're supposed to be aiming for the tits",
+      "renderHtml": false
+    },
+    {
+      "text": "Amputee porn",
+      "renderHtml": false
+    },
+    {
+      "text": "An aggressive bowel movement",
+      "renderHtml": false
+    },
+    {
+      "text": "An asphyxiation wank",
+      "renderHtml": false
+    },
+    {
+      "text": "An ebony cock",
+      "renderHtml": false
+    },
+    {
+      "text": "An erect horse cock",
+      "renderHtml": false
+    },
+    {
+      "text": "An erect micro penis",
+      "renderHtml": false
+    },
+    {
+      "text": "An impotent cock",
+      "renderHtml": false
+    },
+    {
+      "text": "An inconvenient blocked toilet",
+      "renderHtml": false
+    },
+    {
+      "text": "An infected orifice",
+      "renderHtml": false
+    },
+    {
+      "text": "An itchy arsehole",
+      "renderHtml": false
+    },
+    {
+      "text": "An itchy labia",
+      "renderHtml": false
+    },
+    {
+      "text": "An obsession with scat porn",
+      "renderHtml": false
+    },
+    {
+      "text": "An oily massage",
+      "renderHtml": false
+    },
+    {
+      "text": "An old ladies stubble",
+      "renderHtml": false
+    },
+    {
+      "text": "An overflowing colostomy bag",
+      "renderHtml": false
+    },
+    {
+      "text": "An unexpected paternity test result",
+      "renderHtml": false
+    },
+    {
+      "text": "An unplanned pre-cum pregnancy",
+      "renderHtml": false
+    },
+    {
+      "text": "An unwanted pregnancy",
+      "renderHtml": false
+    },
+    {
+      "text": "Anal fisting",
+      "renderHtml": false
+    },
+    {
+      "text": "Anal insertions",
+      "renderHtml": false
+    },
+    {
+      "text": "Apologising for your sexual inadequacy",
+      "renderHtml": false
+    },
+    {
+      "text": "Ass to mouth",
+      "renderHtml": false
+    },
+    {
+      "text": "Bad breath",
+      "renderHtml": false
+    },
+    {
+      "text": "Barebacking the barman",
+      "renderHtml": false
+    },
+    {
+      "text": "Beating it like it owes you money",
+      "renderHtml": false
+    },
+    {
+      "text": "Being airtight with cock",
+      "renderHtml": false
+    },
+    {
+      "text": "Being balls deep",
+      "renderHtml": false
+    },
+    {
+      "text": "Being caught masturbating by your Mum",
+      "renderHtml": false
+    },
+    {
+      "text": "Being fascinated at how your inept boss got to the position they're in",
+      "renderHtml": false
+    },
+    {
+      "text": "Being gay for pay",
+      "renderHtml": false
+    },
+    {
+      "text": "Being kicked out of the bar",
+      "renderHtml": false
+    },
+    {
+      "text": "Being proud of the huge load you've been saving up",
+      "renderHtml": false
+    },
+    {
+      "text": "Being sick in your own mouth",
+      "renderHtml": false
+    },
+    {
+      "text": "Being spread eagle",
+      "renderHtml": false
+    },
+    {
+      "text": "Being the least favoured sibling",
+      "renderHtml": false
+    },
+    {
+      "text": "Being too hungover to cum",
+      "renderHtml": false
+    },
+    {
+      "text": "Bestiality Anonymous.",
+      "renderHtml": false
+    },
+    {
+      "text": "Big natural tits",
+      "renderHtml": false
+    },
+    {
+      "text": "Big soapy tits",
+      "renderHtml": false
+    },
+    {
+      "text": "Biting the pillow in pain hoping they cum soon",
+      "renderHtml": false
+    },
+    {
+      "text": "Blowing your wages on pay day",
+      "renderHtml": false
+    },
+    {
+      "text": "Bonding with my Roomba.",
+      "renderHtml": false
+    },
+    {
+      "text": "Budgie smugglers",
+      "renderHtml": false
+    },
+    {
+      "text": "Bukkake parties",
+      "renderHtml": false
+    },
+    {
+      "text": "Bum sex",
+      "renderHtml": false
+    },
+    {
+      "text": "Bumping into the person that declined a second date with you",
+      "renderHtml": false
+    },
+    {
+      "text": "Buying things on the black market",
+      "renderHtml": false
+    },
+    {
+      "text": "Calling in sick after a wild night out",
+      "renderHtml": false
+    },
+    {
+      "text": "Chlamydia infected genitalia",
+      "renderHtml": false
+    },
+    {
+      "text": "Choking on a cock until your mascara runs",
+      "renderHtml": false
+    },
+    {
+      "text": "Clenching as you anticipate their inadvertent thrust into the wrong hole",
+      "renderHtml": false
+    },
+    {
+      "text": "Climaxing by accident bduring foreplay",
+      "renderHtml": false
+    },
+    {
+      "text": "Cock blocking your mate",
+      "renderHtml": false
+    },
+    {
+      "text": "Coming on to your boss",
+      "renderHtml": false
+    },
+    {
+      "text": "Coming out of the closet",
+      "renderHtml": false
+    },
+    {
+      "text": "Confiding in your best mate about your unusual fetish",
+      "renderHtml": false
+    },
+    {
+      "text": "Confronting a passive aggressive colleague",
+      "renderHtml": false
+    },
+    {
+      "text": "Considering celibacy after another shit relationship",
+      "renderHtml": false
+    },
+    {
+      "text": "Considering dealing drugs for extra money",
+      "renderHtml": false
+    },
+    {
+      "text": "Considering handing in your notice and fucking off  the world",
+      "renderHtml": false
+    },
+    {
+      "text": "Considering paying for sex to end the dry patch",
+      "renderHtml": false
+    },
+    {
+      "text": "Contemplating bribing the arresting officer with sexual favours",
+      "renderHtml": false
+    },
+    {
+      "text": "Covering your genitals in peanut butter so your dog will go down on you",
+      "renderHtml": false
+    },
+    {
+      "text": "Creampie gangbang videos",
+      "renderHtml": false
+    },
+    {
+      "text": "Crotchless knickers",
+      "renderHtml": false
+    },
+    {
+      "text": "Crying after your first love dumps you",
+      "renderHtml": false
+    },
+    {
+      "text": "Cuckolding",
+      "renderHtml": false
+    },
+    {
+      "text": "Cumming on yourself and then falling asleep",
+      "renderHtml": false
+    },
+    {
+      "text": "Curb crawling for a sneaky suck n fuck",
+      "renderHtml": false
+    },
+    {
+      "text": "Curling one out in the changing room cubicle",
+      "renderHtml": false
+    },
+    {
+      "text": "Dangleberries",
+      "renderHtml": false
+    },
+    {
+      "text": "Deep throat",
+      "renderHtml": false
+    },
+    {
+      "text": "Dirty Doggers",
+      "renderHtml": false
+    },
+    {
+      "text": "Dirty holiday sex",
+      "renderHtml": false
+    },
+    {
+      "text": "Dirty hotel sex",
+      "renderHtml": false
+    },
+    {
+      "text": "Drunkenly forgetting you're on your period during a one night stand",
+      "renderHtml": false
+    },
+    {
+      "text": "Drunkenly telling your boss what you think of them",
+      "renderHtml": false
+    },
+    {
+      "text": "Ejactulating as soon as it gets inside",
+      "renderHtml": false
+    },
+    {
+      "text": "Embellishing your sex life to impress your friends",
+      "renderHtml": false
+    },
+    {
+      "text": "Enemas",
+      "renderHtml": false
+    },
+    {
+      "text": "Explosive poop.",
+      "renderHtml": false
+    },
+    {
+      "text": "Exposing your arsehole to the grooms mother",
+      "renderHtml": false
+    },
+    {
+      "text": "Exposing yourself at the bus stop",
+      "renderHtml": false
+    },
+    {
+      "text": "Failing to fart silently at work",
+      "renderHtml": false
+    },
+    {
+      "text": "Fake laughing at your bosses shit jokes",
+      "renderHtml": false
+    },
+    {
+      "text": "Falsely portraying that life is amazing on social media",
+      "renderHtml": false
+    },
+    {
+      "text": "Fanning away the sweat patches before the big meeting",
+      "renderHtml": false
+    },
+    {
+      "text": "Feeling obliged to contribute to leaving presents for colleagues you don't like",
+      "renderHtml": false
+    },
+    {
+      "text": "Feeling the dregs of your ejaculate seep out of your penis on the walk to work",
+      "renderHtml": false
+    },
+    {
+      "text": "Feeling your soul deteriorate after another day at your shit job",
+      "renderHtml": false
+    },
+    {
+      "text": "Feltching",
+      "renderHtml": false
+    },
+    {
+      "text": "Female ejaculation",
+      "renderHtml": false
+    },
+    {
+      "text": "Fetish parties",
+      "renderHtml": false
+    },
+    {
+      "text": "Filthy magazines",
+      "renderHtml": false
+    },
+    {
+      "text": "Filthy magazines (DUPE)",
+      "renderHtml": false
+    },
+    {
+      "text": "Finally letting them cum on your face",
+      "renderHtml": false
+    },
+    {
+      "text": "Fingering to the knuckle",
+      "renderHtml": false
+    },
+    {
+      "text": "Flicking the bean in the shower",
+      "renderHtml": false
+    },
+    {
+      "text": "Flirting with your mate's mum",
+      "renderHtml": false
+    },
+    {
+      "text": "Forcing it in a dry vagina",
+      "renderHtml": false
+    },
+    {
+      "text": "Foreplay",
+      "renderHtml": false
+    },
+    {
+      "text": "Forgetting their name in the morning",
+      "renderHtml": false
+    },
+    {
+      "text": "Friends with benefits",
+      "renderHtml": false
+    },
+    {
+      "text": "Fucking in the car because your parents are home",
+      "renderHtml": false
+    },
+    {
+      "text": "Fucking on the first date",
+      "renderHtml": false
+    },
+    {
+      "text": "Fucking the gap in the couch",
+      "renderHtml": false
+    },
+    {
+      "text": "Gagging on the stench",
+      "renderHtml": false
+    },
+    {
+      "text": "Gang Bang debauchery",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting a whiff of their pungent hoop from behind",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting sucked off by the slutty supply teacher",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting the midday horn looking at your half decent colleagues",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting turned on when your dogs lipstick sticks out",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting your foreskin caught in your zip",
+      "renderHtml": false
+    },
+    {
+      "text": "Hairy erect nipples",
+      "renderHtml": false
+    },
+    {
+      "text": "Hallucinating after too many drugs",
+      "renderHtml": false
+    },
+    {
+      "text": "Having no idea what you're doing on your first finger bang",
+      "renderHtml": false
+    },
+    {
+      "text": "Having to read your boss's mind after zero guidance",
+      "renderHtml": false
+    },
+    {
+      "text": "Having to think about your ex to cum",
+      "renderHtml": false
+    },
+    {
+      "text": "Hearing your Mum and Dad fuck",
+      "renderHtml": false
+    },
+    {
+      "text": "Hearing your neighbours having sex",
+      "renderHtml": false
+    },
+    {
+      "text": "Helping your Grandad climax for his birthday",
+      "renderHtml": false
+    },
+    {
+      "text": "Hoping all the anal sex wont prolapse your rectum",
+      "renderHtml": false
+    },
+    {
+      "text": "Hoping no one finds out about your night in the cells",
+      "renderHtml": false
+    },
+    {
+      "text": "Hoping no one finds out about your sex worker double life",
+      "renderHtml": false
+    },
+    {
+      "text": "Hoping she is really on the pill",
+      "renderHtml": false
+    },
+    {
+      "text": "Hoping the doctor doesn't find any of last night's cum as they open the speculum",
+      "renderHtml": false
+    },
+    {
+      "text": "Hoping the person you slept with didn't notice your piles",
+      "renderHtml": false
+    },
+    {
+      "text": "Hoping the recurring rash isn't an STI",
+      "renderHtml": false
+    },
+    {
+      "text": "Hoping there's no poo their cock when it comes out of your arse",
+      "renderHtml": false
+    },
+    {
+      "text": "Hoping they deleted the naked pictures of you on their phone",
+      "renderHtml": false
+    },
+    {
+      "text": "Hoping they pull out because you're not on the pill",
+      "renderHtml": false
+    },
+    {
+      "text": "Hoping your boss doesn't find out you've been skimming off the top",
+      "renderHtml": false
+    },
+    {
+      "text": "Hoping your one night stand has fallen asleep as you let a huge fart go",
+      "renderHtml": false
+    },
+    {
+      "text": "Hoping your parents don't see the porn charge on their bill",
+      "renderHtml": false
+    },
+    {
+      "text": "Hoping your partner doesn't find out about your stag do fling",
+      "renderHtml": false
+    },
+    {
+      "text": "Hoping your partner doesn't see any photos of your holiday romance online",
+      "renderHtml": false
+    },
+    {
+      "text": "Hoping your silent fart isn't a smelly one",
+      "renderHtml": false
+    },
+    {
+      "text": "Horny pensioners",
+      "renderHtml": false
+    },
+    {
+      "text": "Hugging the toilet bowel the morning after",
+      "renderHtml": false
+    },
+    {
+      "text": "Ignoring the expiry date on the condom",
+      "renderHtml": false
+    },
+    {
+      "text": "Ignoring the fanny fart in the heat of the moment",
+      "renderHtml": false
+    },
+    {
+      "text": "Ignoring your grandads erection as you help him get dressed",
+      "renderHtml": false
+    },
+    {
+      "text": "Immediately regretting applying a wax strip to your arsehole",
+      "renderHtml": false
+    },
+    {
+      "text": "Incestual thoughts",
+      "renderHtml": false
+    },
+    {
+      "text": "Indecent exposure",
+      "renderHtml": false
+    },
+    {
+      "text": "Interracial sex",
+      "renderHtml": false
+    },
+    {
+      "text": "Inventing new yoga positions in an attempt to shave your arsehole",
+      "renderHtml": false
+    },
+    {
+      "text": "Jokingly dropping anal sex into the conversation in the hope they're up for it",
+      "renderHtml": false
+    },
+    {
+      "text": "Judging everyone else in the sexual health clinic",
+      "renderHtml": false
+    },
+    {
+      "text": "Kissing your cousin",
+      "renderHtml": false
+    },
+    {
+      "text": "Knob gobbling your Grandad",
+      "renderHtml": false
+    },
+    {
+      "text": "Knowing you could do your boss's job better than they can",
+      "renderHtml": false
+    },
+    {
+      "text": "Knowing you haven't lived up to your parents expectations",
+      "renderHtml": false
+    },
+    {
+      "text": "Knowing your bonus isn't worth the extra work",
+      "renderHtml": false
+    },
+    {
+      "text": "Knowing your crush is out of your league",
+      "renderHtml": false
+    },
+    {
+      "text": "Knowing your partner doesn't want to get married",
+      "renderHtml": false
+    },
+    {
+      "text": "Lactating nipples",
+      "renderHtml": false
+    },
+    {
+      "text": "Leaky incontinence pants",
+      "renderHtml": false
+    },
+    {
+      "text": "Lesbian scissor fucking",
+      "renderHtml": false
+    },
+    {
+      "text": "Live webcam porn",
+      "renderHtml": false
+    },
+    {
+      "text": "Lokking for your Dad's porn stash",
+      "renderHtml": false
+    },
+    {
+      "text": "Looking for household items to use as sex toys",
+      "renderHtml": false
+    },
+    {
+      "text": "Losing count of how many people you've fucked this year",
+      "renderHtml": false
+    },
+    {
+      "text": "Lowering your standards",
+      "renderHtml": false
+    },
+    {
+      "text": "Lying on your dating profile",
+      "renderHtml": false
+    },
+    {
+      "text": "Lying to your partner when they ask how many people you've slept with",
+      "renderHtml": false
+    },
+    {
+      "text": "Make up sex",
+      "renderHtml": false
+    },
+    {
+      "text": "Making amateur porn",
+      "renderHtml": false
+    },
+    {
+      "text": "Making awkward conversation when you bump into your boss on the commute to work",
+      "renderHtml": false
+    },
+    {
+      "text": "Man boobs",
+      "renderHtml": false
+    },
+    {
+      "text": "Massaging the balls to cum",
+      "renderHtml": false
+    },
+    {
+      "text": "Masturbating in front of the mirror",
+      "renderHtml": false
+    },
+    {
+      "text": "Masturbating on all fours",
+      "renderHtml": false
+    },
+    {
+      "text": "Masturbating to help you fall asleep",
+      "renderHtml": false
+    },
+    {
+      "text": "Maxing out your credit card on things you don't need",
+      "renderHtml": false
+    },
+    {
+      "text": "Menstrual blood finger painting",
+      "renderHtml": false
+    },
+    {
+      "text": "Milking the prostrate",
+      "renderHtml": false
+    },
+    {
+      "text": "Misogynistic behaviour",
+      "renderHtml": false
+    },
+    {
+      "text": "Mistakenly congratulating a fat person's pregnancy",
+      "renderHtml": false
+    },
+    {
+      "text": "Motorboating a big pair of tits",
+      "renderHtml": false
+    },
+    {
+      "text": "Muff diving",
+      "renderHtml": false
+    },
+    {
+      "text": "Necrophilia",
+      "renderHtml": false
+    },
+    {
+      "text": "Needing to re-wipe because you were rushing to get to work on time",
+      "renderHtml": false
+    },
+    {
+      "text": "Neglected pube admin",
+      "renderHtml": false
+    },
+    {
+      "text": "Nipple clamps",
+      "renderHtml": false
+    },
+    {
+      "text": "Not anticipating how hairy and sweaty the one night stand was going to be",
+      "renderHtml": false
+    },
+    {
+      "text": "Not being entirely sure if it's in yet",
+      "renderHtml": false
+    },
+    {
+      "text": "Not knowing who the father is",
+      "renderHtml": false
+    },
+    {
+      "text": "Not putting out because you haven't shaved in over a month",
+      "renderHtml": false
+    },
+    {
+      "text": "Not wanting to put out because you know you will prematurely ejaculate again",
+      "renderHtml": false
+    },
+    {
+      "text": "Passing the morning traffic on the walk of shame",
+      "renderHtml": false
+    },
+    {
+      "text": "Paying for a prostitute for your virgin friend",
+      "renderHtml": false
+    },
+    {
+      "text": "Paying for sex",
+      "renderHtml": false
+    },
+    {
+      "text": "Pegging your boyfriend",
+      "renderHtml": false
+    },
+    {
+      "text": "Perving at the gym",
+      "renderHtml": false
+    },
+    {
+      "text": "Phone sex in public",
+      "renderHtml": false
+    },
+    {
+      "text": "Pining for your parents approval",
+      "renderHtml": false
+    },
+    {
+      "text": "Pink eye from a poorly aimed cumshot",
+      "renderHtml": false
+    },
+    {
+      "text": "Pissing the sink because the bathrooms occupied",
+      "renderHtml": false
+    },
+    {
+      "text": "Planning how much cocaine and booze you will buy when you win the lottery",
+      "renderHtml": false
+    },
+    {
+      "text": "Pooing in a public swimming pool",
+      "renderHtml": false
+    },
+    {
+      "text": "Poor personal hygiene",
+      "renderHtml": false
+    },
+    {
+      "text": "Pregnant porn",
+      "renderHtml": false
+    },
+    {
+      "text": "Pretending you can do the job during the interview",
+      "renderHtml": false
+    },
+    {
+      "text": "Pretending you haven't cum and hoping it gets hard again before they notice",
+      "renderHtml": false
+    },
+    {
+      "text": "Pretending you're going to miss colleagues when you hand your notice in",
+      "renderHtml": false
+    },
+    {
+      "text": "Pretending you're happy with your shit job",
+      "renderHtml": false
+    },
+    {
+      "text": "Projectile vomit",
+      "renderHtml": false
+    },
+    {
+      "text": "Proposing an open relationship",
+      "renderHtml": false
+    },
+    {
+      "text": "Public displays of affection",
+      "renderHtml": false
+    },
+    {
+      "text": "Public displays of affection",
+      "renderHtml": false
+    },
+    {
+      "text": "Pulling back the foreskin",
+      "renderHtml": false
+    },
+    {
+      "text": "Pulling out late",
+      "renderHtml": false
+    },
+    {
+      "text": "Punching above your weight",
+      "renderHtml": false
+    },
+    {
+      "text": "Questioning if it's appropriate for your teacher to be stroking your back",
+      "renderHtml": false
+    },
+    {
+      "text": "Questioning your personal dignity during a spit roast",
+      "renderHtml": false
+    },
+    {
+      "text": "Questioning your sexuality",
+      "renderHtml": false
+    },
+    {
+      "text": "Realising all the cum hasn't come out on the commute to work",
+      "renderHtml": false
+    },
+    {
+      "text": "Realising your reputation as the office bike",
+      "renderHtml": false
+    },
+    {
+      "text": "Regretting a sexual encounter",
+      "renderHtml": false
+    },
+    {
+      "text": "Regretting the spicy lunchtime burrito mid anal",
+      "renderHtml": false
+    },
+    {
+      "text": "Regretting you didn't use any contraception",
+      "renderHtml": false
+    },
+    {
+      "text": "Regretting you gave your anal virginity away so cheaply",
+      "renderHtml": false
+    },
+    {
+      "text": "Regretting your infidelity",
+      "renderHtml": false
+    },
+    {
+      "text": "Remembering the first thing you put into your vagina",
+      "renderHtml": false
+    },
+    {
+      "text": "Resenting the made up bullshit in your performance review",
+      "renderHtml": false
+    },
+    {
+      "text": "Resenting your boss's bullshit feedback",
+      "renderHtml": false
+    },
+    {
+      "text": "Resenting your more successful siblings",
+      "renderHtml": false
+    },
+    {
+      "text": "Resenting your partner for fucking your friend before you got together",
+      "renderHtml": false
+    },
+    {
+      "text": "Resenting your wobbly bits in the mirror",
+      "renderHtml": false
+    },
+    {
+      "text": "Revenge Sex",
+      "renderHtml": false
+    },
+    {
+      "text": "Reverse cowgirl",
+      "renderHtml": false
+    },
+    {
+      "text": "Rim jobs",
+      "renderHtml": false
+    },
+    {
+      "text": "Running out of time before you've cum in the brothel",
+      "renderHtml": false
+    },
+    {
+      "text": "Salty semen",
+      "renderHtml": false
+    },
+    {
+      "text": "Saying \"I love you\" to get laid",
+      "renderHtml": false
+    },
+    {
+      "text": "Scraping away the smegma",
+      "renderHtml": false
+    },
+    {
+      "text": "Secretly borrowing your Mom's vibrator",
+      "renderHtml": false
+    },
+    {
+      "text": "Secretly borrowing your Mom's vibrator (DUPE)",
+      "renderHtml": false
+    },
+    {
+      "text": "Secretly getting a vasectomy",
+      "renderHtml": false
+    },
+    {
+      "text": "Secretly going through your partner's phone",
+      "renderHtml": false
+    },
+    {
+      "text": "Secretly hating your boss",
+      "renderHtml": false
+    },
+    {
+      "text": "Secretly hating your in-laws",
+      "renderHtml": false
+    },
+    {
+      "text": "Secretly resenting your kids",
+      "renderHtml": false
+    },
+    {
+      "text": "Seductive dancing",
+      "renderHtml": false
+    },
+    {
+      "text": "Seedy massage parlours",
+      "renderHtml": false
+    },
+    {
+      "text": "Semen stains",
+      "renderHtml": false
+    },
+    {
+      "text": "Sex once a month",
+      "renderHtml": false
+    },
+    {
+      "text": "Sexting your ex",
+      "renderHtml": false
+    },
+    {
+      "text": "Sexual degradation",
+      "renderHtml": false
+    },
+    {
+      "text": "Sexy MILFs",
+      "renderHtml": false
+    },
+    {
+      "text": "Sharting",
+      "renderHtml": false
+    },
+    {
+      "text": "Sharting (DUPE)",
+      "renderHtml": false
+    },
+    {
+      "text": "Shemales",
+      "renderHtml": false
+    },
+    {
+      "text": "Shitting in the work kettle",
+      "renderHtml": false
+    },
+    {
+      "text": "Shitting in your hands and clapping",
+      "renderHtml": false
+    },
+    {
+      "text": "Showing the doctor your blue waffle",
+      "renderHtml": false
+    },
+    {
+      "text": "Sleeping with more than one person in a day",
+      "renderHtml": false
+    },
+    {
+      "text": "Sleeping your way to the top",
+      "renderHtml": false
+    },
+    {
+      "text": "Sloppy seconds",
+      "renderHtml": false
+    },
+    {
+      "text": "Small penis insecurity",
+      "renderHtml": false
+    },
+    {
+      "text": "Smelling last night's disco pussy on your top lip",
+      "renderHtml": false
+    },
+    {
+      "text": "Smelling the sweaty crack as you reluctantly go in for a lick",
+      "renderHtml": false
+    },
+    {
+      "text": "Smelly old people",
+      "renderHtml": false
+    },
+    {
+      "text": "Smoking cock",
+      "renderHtml": false
+    },
+    {
+      "text": "Sniffing your sisters dirty knickers from the laundry basket",
+      "renderHtml": false
+    },
+    {
+      "text": "Snorting cocaine in the work toilets",
+      "renderHtml": false
+    },
+    {
+      "text": "Snowballing heroin",
+      "renderHtml": false
+    },
+    {
+      "text": "Soiled knickers",
+      "renderHtml": false
+    },
+    {
+      "text": "Spit for lube",
+      "renderHtml": false
+    },
+    {
+      "text": "Strap on cocks",
+      "renderHtml": false
+    },
+    {
+      "text": "Strippers who work the day shift",
+      "renderHtml": false
+    },
+    {
+      "text": "Struggling to produce a semen sample",
+      "renderHtml": false
+    },
+    {
+      "text": "Stubble rash",
+      "renderHtml": false
+    },
+    {
+      "text": "Submissively ignoring the genital wart as you're giving head",
+      "renderHtml": false
+    },
+    {
+      "text": "Succumbing to your colleague's sexual advances",
+      "renderHtml": false
+    },
+    {
+      "text": "Sucking it in for a holiday photo",
+      "renderHtml": false
+    },
+    {
+      "text": "Suspecting a severe case of bacterial vaginosis as you lick the bean",
+      "renderHtml": false
+    },
+    {
+      "text": "Suspecting that you were adopted",
+      "renderHtml": false
+    },
+    {
+      "text": "Suspecting your neighbours are swingers",
+      "renderHtml": false
+    },
+    {
+      "text": "Swallowing a heavy load",
+      "renderHtml": false
+    },
+    {
+      "text": "Telling your friends you're not a virgin",
+      "renderHtml": false
+    },
+    {
+      "text": "The awkward conversations with your one night stand the morning after",
+      "renderHtml": false
+    },
+    {
+      "text": "The hangover horn",
+      "renderHtml": false
+    },
+    {
+      "text": "The horror of a split condom",
+      "renderHtml": false
+    },
+    {
+      "text": "The inconvenience of spitting instead of swallowing",
+      "renderHtml": false
+    },
+    {
+      "text": "The Mile High Club",
+      "renderHtml": false
+    },
+    {
+      "text": "The missionary position",
+      "renderHtml": false
+    },
+    {
+      "text": "The smell of sex",
+      "renderHtml": false
+    },
+    {
+      "text": "The trepidation of your first fart in front of your partner",
+      "renderHtml": false
+    },
+    {
+      "text": "Thinking about your boss naked in a meeting",
+      "renderHtml": false
+    },
+    {
+      "text": "Thinking about your partner while you masturbate",
+      "renderHtml": false
+    },
+    {
+      "text": "Thinking of your sisters unshaven vagina to stop you from climaxing",
+      "renderHtml": false
+    },
+    {
+      "text": "Thumbing in a limp dick",
+      "renderHtml": false
+    },
+    {
+      "text": "Thumbing the rusty bullet hole from behind",
+      "renderHtml": false
+    },
+    {
+      "text": "Ticking anal sex off your bucket list",
+      "renderHtml": false
+    },
+    {
+      "text": "Tickling the perineum",
+      "renderHtml": false
+    },
+    {
+      "text": "Tongueing a balloon knot arsehole",
+      "renderHtml": false
+    },
+    {
+      "text": "Tossing a hairy salad",
+      "renderHtml": false
+    },
+    {
+      "text": "Touching cloth",
+      "renderHtml": false
+    },
+    {
+      "text": "Tranny Ally",
+      "renderHtml": false
+    },
+    {
+      "text": "Treating your Nan to a birthday finger bang",
+      "renderHtml": false
+    },
+    {
+      "text": "Treating yourself to a sunbed wank",
+      "renderHtml": false
+    },
+    {
+      "text": "Triple penetration",
+      "renderHtml": false
+    },
+    {
+      "text": "Trying to convince your partner you got the STI from a toilet seat",
+      "renderHtml": false
+    },
+    {
+      "text": "Trying to hide being drunk at work after a heavy night",
+      "renderHtml": false
+    },
+    {
+      "text": "Trying to hide your workplace affair",
+      "renderHtml": false
+    },
+    {
+      "text": "Trying to lick the tip",
+      "renderHtml": false
+    },
+    {
+      "text": "Trying to surpress your love of drugs and alcohol",
+      "renderHtml": false
+    },
+    {
+      "text": "Trying your sister's breast milk",
+      "renderHtml": false
+    },
+    {
+      "text": "Two in the pink, one in the stink",
+      "renderHtml": false
+    },
+    {
+      "text": "Uncomfortably confronting your new partner about their body odour",
+      "renderHtml": false
+    },
+    {
+      "text": "Using an excuse to not have sex",
+      "renderHtml": false
+    },
+    {
+      "text": "Using your sock because the toilet paper has run out",
+      "renderHtml": false
+    },
+    {
+      "text": "Vaginal discharge",
+      "renderHtml": false
+    },
+    {
+      "text": "Venereal disease",
+      "renderHtml": false
+    },
+    {
+      "text": "Waking up half naked in public places",
+      "renderHtml": false
+    },
+    {
+      "text": "Wanking in the work toilets",
+      "renderHtml": false
+    },
+    {
+      "text": "Wanking to the tattered porno you found",
+      "renderHtml": false
+    },
+    {
+      "text": "Wanking until nothing comes out",
+      "renderHtml": false
+    },
+    {
+      "text": "Watching a sex scene with your parents",
+      "renderHtml": false
+    },
+    {
+      "text": "Watching Brazilian fart porn",
+      "renderHtml": false
+    },
+    {
+      "text": "Watching joggers bouncy tits",
+      "renderHtml": false
+    },
+    {
+      "text": "Watching poo porn",
+      "renderHtml": false
+    },
+    {
+      "text": "Watching your first porn film",
+      "renderHtml": false
+    },
+    {
+      "text": "Water sports",
+      "renderHtml": false
+    },
+    {
+      "text": "Wetting the bed next to your partner",
+      "renderHtml": false
+    },
+    {
+      "text": "Winking arseholes",
+      "renderHtml": false
+    },
+    {
+      "text": "Wiping away the excess cum you couldn't swallow off your chin",
+      "renderHtml": false
+    },
+    {
+      "text": "Wishing incest wasn't illegal",
+      "renderHtml": false
+    },
+    {
+      "text": "Wishing you'd remembered to shower before your gynecology",
+      "renderHtml": false
+    },
+    {
+      "text": "Wishing your boyfriend's cock was as big as our ex's",
+      "renderHtml": false
+    },
+    {
+      "text": "Witholding sex to punish your partner",
+      "renderHtml": false
+    },
+    {
+      "text": "Wondering if you really are the best sex your partner has ever had",
+      "renderHtml": false
+    },
+    {
+      "text": "Wondering if you've inherited the same genitalia as your parents",
+      "renderHtml": false
+    },
+    {
+      "text": "Wondering if your Mum has ever had anal",
+      "renderHtml": false
+    },
+    {
+      "text": "Wondering if your partner has been faking their orgasms",
+      "renderHtml": false
+    },
+    {
+      "text": "Wrapping up a shit for your work secret santa",
+      "renderHtml": false
+    },
+    {
+      "text": "Wrinkly scrotums",
+      "renderHtml": false
+    },
+    {
+      "text": "Your Dad's dick",
+      "renderHtml": false
+    },
+    {
+      "text": "Your Dad's lubed up butt plug",
+      "renderHtml": false
+    },
+    {
+      "text": "Your Dad's new girlfriend",
+      "renderHtml": false
+    },
+    {
+      "text": "Your first orgasm",
+      "renderHtml": false
+    },
+    {
+      "text": "Your first pube",
+      "renderHtml": false
+    },
+    {
+      "text": "Your first taste of semen",
+      "renderHtml": false
+    },
+    {
+      "text": "Your Grandads cum face",
+      "renderHtml": false
+    },
+    {
+      "text": "Your grandads wrinkly balls",
+      "renderHtml": false
+    },
+    {
+      "text": "Your local glory hole",
+      "renderHtml": false
+    },
+    {
+      "text": "Your mums saggy tits",
+      "renderHtml": false
+    },
+    {
+      "text": "Your Nan and Grandad fucking",
+      "renderHtml": false
+    },
+    {
+      "text": "Your Nans baggy fanny",
+      "renderHtml": false
+    },
+    {
+      "text": "Your shit performance in bed",
+      "renderHtml": false
+    },
+    {
+      "text": "Your uncles sexual advances",
+      "renderHtml": false
+    }
+  ]
+}

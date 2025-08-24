@@ -1,0 +1,150 @@
+{
+  "source": 0,
+  "order": 51,
+  "displayName": "[C] SocialGamer",
+  "name": "c-socialgamer",
+  "whiteCards": [
+    {
+      "text": "_.tumblr.com",
+      "pick": 1
+    },
+    {
+      "text": "Alcoholic games of Clue&reg; lead to _.",
+      "pick": 1
+    },
+    {
+      "text": "_ is the name of my _ cover band.",
+      "pick": 2
+    },
+    {
+      "text": "_ has the \"mount\" keyword.",
+      "pick": 1
+    },
+    {
+      "text": "_ probably tastes better than Quiznos.",
+      "pick": 1
+    },
+    {
+      "text": "Nickelodeon's next kids' game show is \"_\", hosted by _.",
+      "pick": 2
+    },
+    {
+      "text": "_.",
+      "pick": 1
+    },
+    {
+      "text": "Next on GSN: \"The $100,000 _.\"",
+      "pick": 1
+    },
+    {
+      "text": "Who dunnit? _ with _ in _.",
+      "pick": 3
+    },
+    {
+      "text": "Much _. So _. Wow.",
+      "pick": 2
+    },
+    {
+      "text": "At the last PAX, Paul and Storm had _ thrown at them during \"Opening Band\".",
+      "pick": 1
+    },
+    {
+      "text": "Don't slow down in East Cleveland or _.",
+      "pick": 1
+    },
+    {
+      "text": "Drunken games of Pretend You're Xyzzy lead to _ and _.",
+      "pick": 2
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "The biggest, blackest dick.",
+      "renderHtml": false
+    },
+    {
+      "text": "The League of Legends.",
+      "renderHtml": false
+    },
+    {
+      "text": "A fountain of vomit.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being banned from /r/pyongyang.",
+      "renderHtml": false
+    },
+    {
+      "text": "The lost city of Atlantis.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dr. Phil.",
+      "renderHtml": false
+    },
+    {
+      "text": "The sound a single ThunderStix&reg; makes.",
+      "renderHtml": false
+    },
+    {
+      "text": "Billy the Answer Head.",
+      "renderHtml": false
+    },
+    {
+      "text": "Performing the Secret Slime Action.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Hollaad Tonnel.",
+      "renderHtml": false
+    },
+    {
+      "text": "Cleveland (it's not Detroit!).",
+      "renderHtml": false
+    },
+    {
+      "text": "The best card in my hand.",
+      "renderHtml": false
+    },
+    {
+      "text": "MC Frontalot.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pretending you're Xyzzy.",
+      "renderHtml": false
+    },
+    {
+      "text": "Paul and Storm.",
+      "renderHtml": false
+    },
+    {
+      "text": "Jonathan Coulton.",
+      "renderHtml": false
+    },
+    {
+      "text": "Blank.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Chilled Knife.",
+      "renderHtml": false
+    },
+    {
+      "text": "Suddenly realizing you're retarded.",
+      "renderHtml": false
+    },
+    {
+      "text": "A Canadian penny.",
+      "renderHtml": false
+    },
+    {
+      "text": "dho's penis.",
+      "renderHtml": false
+    },
+    {
+      "text": "Griffy's tits.",
+      "renderHtml": false
+    }
+  ]
+}

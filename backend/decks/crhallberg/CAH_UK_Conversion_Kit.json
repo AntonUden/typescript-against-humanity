@@ -1,0 +1,385 @@
+{
+  "order": 26,
+  "displayName": "CAH: UK Conversion Kit",
+  "name": "CAH_UK_Conversion_Kit",
+  "whiteCards": [
+    {
+      "text": "_? Jim'll fix it!",
+      "pick": 1
+    },
+    {
+      "text": "_. That's why mums go to Iceland.",
+      "pick": 1
+    },
+    {
+      "text": "_. Once you pop, the fun don't stop!",
+      "pick": 1
+    },
+    {
+      "text": "And the Lord said, \"Let there be _\". And it was GOOD.",
+      "pick": 1
+    },
+    {
+      "text": "Channel 5's new reality show features eight washed-up celebrities living with _.",
+      "pick": 1
+    },
+    {
+      "text": "Channel 9 is pleased to present its new variety show, \"Hey Hey It's _.\"",
+      "pick": 1
+    },
+    {
+      "text": "Coming to the West End this year, _: The Musical.",
+      "pick": 1
+    },
+    {
+      "text": "Dear Allah, if I promise to stop _ will you let me into heaven and give me 72 virgins?",
+      "pick": 1
+    },
+    {
+      "text": "In high school, I was popular with the football team for _.",
+      "pick": 1
+    },
+    {
+      "text": "In Wormwood Scrubs, word is you can trade 200 cigarettes for _.",
+      "pick": 1
+    },
+    {
+      "text": "Next on Sky Sports: The World Championship of _.",
+      "pick": 1
+    },
+    {
+      "text": "Nobody expects the Spanish Inquisition! Our chief weapons are fear, surprise, and _.",
+      "pick": 1
+    },
+    {
+      "text": "TFL apologizes for the delay in train service due to _.",
+      "pick": 1
+    },
+    {
+      "text": "The Natural History Museum has just opened an interactive exhibit on _.",
+      "pick": 1
+    },
+    {
+      "text": "The theme for our senior prom will be _.",
+      "pick": 1
+    },
+    {
+      "text": "Today we honor St. Mungo, the patron saint of _.",
+      "pick": 1
+    },
+    {
+      "text": "What are the 3 secrets for a long and happy marriage?",
+      "pick": 1
+    },
+    {
+      "text": "What did I bring back from Bali?",
+      "pick": 1
+    },
+    {
+      "text": "What killed Mister Rogers?",
+      "pick": 1
+    },
+    {
+      "text": "When I am Prime Minister of the United Kingdom, I will create the Ministry of _.",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "41 million Americans living in poverty.",
+      "renderHtml": false
+    },
+    {
+      "text": "a bitch slap",
+      "renderHtml": false
+    },
+    {
+      "text": "A Chelsea smile.",
+      "renderHtml": false
+    },
+    {
+      "text": "A far, far away place.",
+      "renderHtml": false
+    },
+    {
+      "text": "A gingerbread man living in a home made of his own flesh.",
+      "renderHtml": false
+    },
+    {
+      "text": "A mad, bad duck in a petting zoo.",
+      "renderHtml": false
+    },
+    {
+      "text": "A madman who lives in a policebox and kidnaps women.",
+      "renderHtml": false
+    },
+    {
+      "text": "A nice little drone strike",
+      "renderHtml": false
+    },
+    {
+      "text": "A positive male role model.",
+      "renderHtml": false
+    },
+    {
+      "text": "A sober Irishman.",
+      "renderHtml": false
+    },
+    {
+      "text": "A thousand shitty wedding planning websites.",
+      "renderHtml": false
+    },
+    {
+      "text": "A Violet Wand with multiple attachments.*",
+      "renderHtml": false
+    },
+    {
+      "text": "A white, straight, cis male.",
+      "renderHtml": false
+    },
+    {
+      "text": "an arm thrust forth from the grass over a grave",
+      "renderHtml": false
+    },
+    {
+      "text": "An EO violation.",
+      "renderHtml": false
+    },
+    {
+      "text": "Anything with a hole.",
+      "renderHtml": false
+    },
+    {
+      "text": "Badly-botched botox",
+      "renderHtml": false
+    },
+    {
+      "text": "Being ignored.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bloodthirsty dictators.",
+      "renderHtml": false
+    },
+    {
+      "text": "Blowing up the Moon.",
+      "renderHtml": false
+    },
+    {
+      "text": "Buckfast Tonic Wine",
+      "renderHtml": false
+    },
+    {
+      "text": "Cheerful blowjob robots.",
+      "renderHtml": false
+    },
+    {
+      "text": "Chlamydia",
+      "renderHtml": false
+    },
+    {
+      "text": "Cotton candy flavored lube",
+      "renderHtml": false
+    },
+    {
+      "text": "Daddies Brown Sauce.",
+      "renderHtml": false
+    },
+    {
+      "text": "David Cameron's bacon-flavoured balls.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dogging",
+      "renderHtml": false
+    },
+    {
+      "text": "Doing a somersault and barfing.",
+      "renderHtml": false
+    },
+    {
+      "text": "Drum circles.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ed Sheeran`s receding hairline",
+      "renderHtml": false
+    },
+    {
+      "text": "English cuisine.",
+      "renderHtml": false
+    },
+    {
+      "text": "Exceedingly low standards.",
+      "renderHtml": false
+    },
+    {
+      "text": "failing a personality test",
+      "renderHtml": false
+    },
+    {
+      "text": "Five miso soups, four seaweed salads, three soy burger dinners, two tofu dog platters, and one pasta with meatless meatballs.",
+      "renderHtml": false
+    },
+    {
+      "text": "Gary Sinise's unrelenting hard-on for all things military.",
+      "renderHtml": false
+    },
+    {
+      "text": "Gentleman's Relish.®",
+      "renderHtml": false
+    },
+    {
+      "text": "Germany invading Russia in the summer.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting naked and watching Nickelodeon.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting wet",
+      "renderHtml": false
+    },
+    {
+      "text": "Hagrid and Madame Maxime roleplay.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hurricane Katrina refugees.",
+      "renderHtml": false
+    },
+    {
+      "text": "Jafar.",
+      "renderHtml": false
+    },
+    {
+      "text": "Jeff Bezos.",
+      "renderHtml": false
+    },
+    {
+      "text": "Jell-O shots",
+      "renderHtml": false
+    },
+    {
+      "text": "Jimmy Savile",
+      "renderHtml": false
+    },
+    {
+      "text": "Just turned 18.",
+      "renderHtml": false
+    },
+    {
+      "text": "Leaking milk during sex",
+      "renderHtml": false
+    },
+    {
+      "text": "Madeleine McCann's new age progression image",
+      "renderHtml": false
+    },
+    {
+      "text": "Max Key's obsession with topless photoshoots",
+      "renderHtml": false
+    },
+    {
+      "text": "Mimosas at the playdate",
+      "renderHtml": false
+    },
+    {
+      "text": "Minions",
+      "renderHtml": false
+    },
+    {
+      "text": "One for the homies.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pronouncing the p in raspberry.",
+      "renderHtml": false
+    },
+    {
+      "text": "Queen Elsa",
+      "renderHtml": false
+    },
+    {
+      "text": "Ripping open a man's chest and pulling out his still-beating heart.",
+      "renderHtml": false
+    },
+    {
+      "text": "Rubbing chocolate pudding all over Bill Cosby's nipples.",
+      "renderHtml": false
+    },
+    {
+      "text": "Scalping.",
+      "renderHtml": false
+    },
+    {
+      "text": "Scouting for disciples.",
+      "renderHtml": false
+    },
+    {
+      "text": "Shitting out a screaming face.",
+      "renderHtml": false
+    },
+    {
+      "text": "Slapping a racist old lady.",
+      "renderHtml": false
+    },
+    {
+      "text": "Spanking",
+      "renderHtml": false
+    },
+    {
+      "text": "The black half of Barack Obama.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Blue Bulls rugby team.",
+      "renderHtml": false
+    },
+    {
+      "text": "The entire cast of Downtown Abbey.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Friend Zone",
+      "renderHtml": false
+    },
+    {
+      "text": "The Hitachi Magic Wand.*",
+      "renderHtml": false
+    },
+    {
+      "text": "The honourable member, shut up.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Northern Lights",
+      "renderHtml": false
+    },
+    {
+      "text": "The Phantom of the Opera.",
+      "renderHtml": false
+    },
+    {
+      "text": "the stinking elder",
+      "renderHtml": false
+    },
+    {
+      "text": "The sudden interest in the opposite sex",
+      "renderHtml": false
+    },
+    {
+      "text": "The way Rachel Hunter devours her Trumpets",
+      "renderHtml": false
+    },
+    {
+      "text": "Torn pop-up books.",
+      "renderHtml": false
+    },
+    {
+      "text": "Trevor Noah",
+      "renderHtml": false
+    }
+  ]
+}

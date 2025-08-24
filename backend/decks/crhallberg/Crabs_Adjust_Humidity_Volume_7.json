@@ -1,0 +1,457 @@
+{
+  "order": 126,
+  "displayName": "Crabs Adjust Humidity: Volume 7",
+  "name": "Crabs_Adjust_Humidity_Volume_7",
+  "whiteCards": [
+    {
+      "text": "_, I choose you!",
+      "pick": 1
+    },
+    {
+      "text": "After years of study, I finally received my doctorate in _.",
+      "pick": 1
+    },
+    {
+      "text": "Before I go, I check the list: rubber tubing, gas, saw, gloves, cuffs, razor wire, hatchet, _, and my mitts.",
+      "pick": 1
+    },
+    {
+      "text": "Chris Warner saying: \"Please tell me that is not _.\"",
+      "pick": 1
+    },
+    {
+      "text": "Fridays this fall: CSI: _.",
+      "pick": 1
+    },
+    {
+      "text": "General, it appears that instead of brains, these zombies want _.",
+      "pick": 1
+    },
+    {
+      "text": "Hear my words, _ will rise again!",
+      "pick": 1
+    },
+    {
+      "text": "Hey, perverts!\n\nIt's \"Adam and Eve,\" not \"_ and _\".",
+      "pick": 2
+    },
+    {
+      "text": "I see London,\nI see France,\nI see _.",
+      "pick": 1
+    },
+    {
+      "text": "I struggle to maintain a healthy weight, but my problem isn't glandular, it's _.",
+      "pick": 1
+    },
+    {
+      "text": "If the eyes are the windows to the soul, then why are mine filled with _?",
+      "pick": 1
+    },
+    {
+      "text": "In the days before her death, Maya Angelou wrote a moving essay about _.",
+      "pick": 1
+    },
+    {
+      "text": "It is pitch black.\n\nYou are likely to be eaten by _.",
+      "pick": 1
+    },
+    {
+      "text": "Mother, Father: today I am a man.\n\nFetch me _.",
+      "pick": 1
+    },
+    {
+      "text": "New from DC Comics®: Batman vs. _.",
+      "pick": 1
+    },
+    {
+      "text": "New to the 2020 Summer Olympics, _.",
+      "pick": 1
+    },
+    {
+      "text": "No stranger, here we worship _: the god of _.",
+      "pick": 2
+    },
+    {
+      "text": "Purists agree: a true Philly cheesesteak must contain _.",
+      "pick": 1
+    },
+    {
+      "text": "Run, Toto! It's the Wicked Witch of _!",
+      "pick": 1
+    },
+    {
+      "text": "Soylent Pink is _!",
+      "pick": 1
+    },
+    {
+      "text": "The CIA reports that Russia is spending billions to influence _.",
+      "pick": 1
+    },
+    {
+      "text": "The curse!\n\nThe child has been born with the mark of _!",
+      "pick": 1
+    },
+    {
+      "text": "The hills are alive, with the sound of _!",
+      "pick": 1
+    },
+    {
+      "text": "There's nothing to worry about, the doctor said, \"it's just a simple, routine check for _.\"",
+      "pick": 1
+    },
+    {
+      "text": "Tonight on Public Access Channel 16, _, a student film about _.",
+      "pick": 2
+    },
+    {
+      "text": "What is Hillary's new hobby in retirement?",
+      "pick": 1
+    },
+    {
+      "text": "What is the White House press secretary trying to explain?",
+      "pick": 1
+    },
+    {
+      "text": "What would it take to get me back into church?",
+      "pick": 1
+    },
+    {
+      "text": "What's Andy Serkis pretending to be now?",
+      "pick": 1
+    },
+    {
+      "text": "What's Barron Trump googling at this very moment?",
+      "pick": 1
+    },
+    {
+      "text": "Why don't I date online anymore?",
+      "pick": 1
+    },
+    {
+      "text": "You've never seen Adam Sandler like this before!\n\nThis summer, \"_\".",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "A 5-gallon bucket of used condoms.",
+      "renderHtml": false
+    },
+    {
+      "text": "A bull dyke in a china shop.",
+      "renderHtml": false
+    },
+    {
+      "text": "A bulldog eating mayonnaise.",
+      "renderHtml": false
+    },
+    {
+      "text": "A burkini.",
+      "renderHtml": false
+    },
+    {
+      "text": "A county fair goldfish who has seen things no goldfish should ever see.",
+      "renderHtml": false
+    },
+    {
+      "text": "A cry for help.",
+      "renderHtml": false
+    },
+    {
+      "text": "A Hasidic hillbilly with a snootful of honeybees.",
+      "renderHtml": false
+    },
+    {
+      "text": "A journey of self-exploration.",
+      "renderHtml": false
+    },
+    {
+      "text": "A pale rider, and his name was Death.",
+      "renderHtml": false
+    },
+    {
+      "text": "A pickup truck, a good dog, and my woman.",
+      "renderHtml": false
+    },
+    {
+      "text": "A really stupid mustache.",
+      "renderHtml": false
+    },
+    {
+      "text": "A Schlong of Ice and Fire.",
+      "renderHtml": false
+    },
+    {
+      "text": "A shoehorn, the kind with teeth.",
+      "renderHtml": false
+    },
+    {
+      "text": "A Twatadile.",
+      "renderHtml": false
+    },
+    {
+      "text": "A well-regulated militia.",
+      "renderHtml": false
+    },
+    {
+      "text": "A-rabs.",
+      "renderHtml": false
+    },
+    {
+      "text": "Additional lubrication, stat!",
+      "renderHtml": false
+    },
+    {
+      "text": "All my worldly possessions, piled in the street and set alight.",
+      "renderHtml": false
+    },
+    {
+      "text": "All that and a bag of chips.",
+      "renderHtml": false
+    },
+    {
+      "text": "Alternative uses for Icy Hot and Gold Bond Medicated Powder.",
+      "renderHtml": false
+    },
+    {
+      "text": "Balthus, the blue-balled barbarian.",
+      "renderHtml": false
+    },
+    {
+      "text": "Behold! The majestic sequoia.",
+      "renderHtml": false
+    },
+    {
+      "text": "BOOM SHAKALAKA.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bursting through the back door.",
+      "renderHtml": false
+    },
+    {
+      "text": "Canned tuna with extra dolphin.",
+      "renderHtml": false
+    },
+    {
+      "text": "Casu marzu, the famed Sardinian maggot cheese.",
+      "renderHtml": false
+    },
+    {
+      "text": "Clowns that lure children into the woods.",
+      "renderHtml": false
+    },
+    {
+      "text": "Cockhenge.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dick cheese cheesecake.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dildo Saggins.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dropping warheads on foreheads.",
+      "renderHtml": false
+    },
+    {
+      "text": "Falling into the zoo enclosure.",
+      "renderHtml": false
+    },
+    {
+      "text": "Family fun fecal face painting.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fidget spinners.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fracking.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fruit leather bondage gear.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting a bit \"rapey\" at night sometimes.",
+      "renderHtml": false
+    },
+    {
+      "text": "Good Boy Points.",
+      "renderHtml": false
+    },
+    {
+      "text": "Grab-ass.",
+      "renderHtml": false
+    },
+    {
+      "text": "Grabbing them by the pussy.",
+      "renderHtml": false
+    },
+    {
+      "text": "Granny's nooks and crannies.",
+      "renderHtml": false
+    },
+    {
+      "text": "Gravity.",
+      "renderHtml": false
+    },
+    {
+      "text": "Harambe.",
+      "renderHtml": false
+    },
+    {
+      "text": "Having so little hope for your child's future that you name him \"Jathan.\"",
+      "renderHtml": false
+    },
+    {
+      "text": "Hot Topic®.",
+      "renderHtml": false
+    },
+    {
+      "text": "Impeachment.",
+      "renderHtml": false
+    },
+    {
+      "text": "Jack the Stripper.",
+      "renderHtml": false
+    },
+    {
+      "text": "Just doing my fucking job, asshole.",
+      "renderHtml": false
+    },
+    {
+      "text": "Leaving the European Union.",
+      "renderHtml": false
+    },
+    {
+      "text": "Lord Xenu.",
+      "renderHtml": false
+    },
+    {
+      "text": "Mesonychoteuthis hamiltoni, the Colossal Squid and one hell of a fucking metaphor.",
+      "renderHtml": false
+    },
+    {
+      "text": "My druncle.",
+      "renderHtml": false
+    },
+    {
+      "text": "My will to live.",
+      "renderHtml": false
+    },
+    {
+      "text": "Not knowing when to stop.",
+      "renderHtml": false
+    },
+    {
+      "text": "Obsessive Compulsive Disorder.",
+      "renderHtml": false
+    },
+    {
+      "text": "Optional lumbar support.",
+      "renderHtml": false
+    },
+    {
+      "text": "Prescription drugs.",
+      "renderHtml": false
+    },
+    {
+      "text": "Repressed scout-leader memories.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ringo, the last surviving Beatle.",
+      "renderHtml": false
+    },
+    {
+      "text": "Safe, low-voltage stimulation.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sharron's shitty, seashell-shaped, chartreuse she-shed by the seashore.",
+      "renderHtml": false
+    },
+    {
+      "text": "Some kind of infestation.",
+      "renderHtml": false
+    },
+    {
+      "text": "Steve from Blue's Clues.",
+      "renderHtml": false
+    },
+    {
+      "text": "The fear that senpai will never notice me.",
+      "renderHtml": false
+    },
+    {
+      "text": "The great black wolf Fenrir, eater of Odin and harbinger of Ragnarok.",
+      "renderHtml": false
+    },
+    {
+      "text": "The ladies of the women's auxiliary.",
+      "renderHtml": false
+    },
+    {
+      "text": "The maddening CLICK CLICK CLICK of fingernails on iPhone®.",
+      "renderHtml": false
+    },
+    {
+      "text": "The naughty nuns of north Nottingham.",
+      "renderHtml": false
+    },
+    {
+      "text": "The smell.",
+      "renderHtml": false
+    },
+    {
+      "text": "The sound of my vagina.",
+      "renderHtml": false
+    },
+    {
+      "text": "The yakuza.",
+      "renderHtml": false
+    },
+    {
+      "text": "Thinkin' 'bout them beans.",
+      "renderHtml": false
+    },
+    {
+      "text": "This silly \"consent\" nonsense.",
+      "renderHtml": false
+    },
+    {
+      "text": "Throwing another pidgey in the wood chipper.",
+      "renderHtml": false
+    },
+    {
+      "text": "Throwing shade.",
+      "renderHtml": false
+    },
+    {
+      "text": "Turning it off and on again.",
+      "renderHtml": false
+    },
+    {
+      "text": "Vaping.",
+      "renderHtml": false
+    },
+    {
+      "text": "Weasels ripping my flesh.",
+      "renderHtml": false
+    },
+    {
+      "text": "White girl dreads.",
+      "renderHtml": false
+    },
+    {
+      "text": "Yanking on the clitoris.",
+      "renderHtml": false
+    }
+  ]
+}

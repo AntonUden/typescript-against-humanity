@@ -1,0 +1,54 @@
+{
+  "source": 0,
+  "order": 19,
+  "displayName": "PAX Prime 2014 Panel Pack",
+  "name": "PAXPP2014",
+  "whiteCards": [
+    {
+      "pick": 2,
+      "text": "Buzzfeed presents: 10 pictures of _ that look like _."
+    },
+    {
+      "pick": 1,
+      "text": "During my first game of D&amp;D, I accidentally summoned _."
+    },
+    {
+      "pick": 1,
+      "text": "Bob Ross's little-known first show was called &quot;The Joy of _.&quot;"
+    },
+    {
+      "pick": 1,
+      "text": "Like _, State Farm is there."
+    },
+    {
+      "pick": 1,
+      "text": "The Discovery Channel presents: _ week."
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "A neck beard that is 10% cheese.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pelvic sorcery.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pooping as quietly as possible.",
+      "renderHtml": false
+    },
+    {
+      "text": "The beautiful sport of Turkish oil wrestling.",
+      "renderHtml": false
+    },
+    {
+      "text": "No survivors.",
+      "renderHtml": false
+    },
+    {
+      "text": "Go Fuck Yourself.",
+      "renderHtml": false
+    }
+  ]
+}

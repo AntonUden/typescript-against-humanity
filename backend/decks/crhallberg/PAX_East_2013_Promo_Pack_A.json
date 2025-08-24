@@ -1,0 +1,40 @@
+{
+  "order": 172,
+  "displayName": "Pax East 2013 Promo Pack A",
+  "name": "Pax_East_2013_Promo_Pack_A",
+  "whiteCards": [],
+  "blackCards": [
+    {
+      "text": "An immediately regrettable $9 hot dog from the Boston Convention Center.",
+      "renderHtml": false
+    },
+    {
+      "text": "Casting Magic Missile at a bully.",
+      "renderHtml": false
+    },
+    {
+      "text": "Firefly: Season 2.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting bitch slapped by Dhalsim.",
+      "renderHtml": false
+    },
+    {
+      "text": "Jiggle physics.",
+      "renderHtml": false
+    },
+    {
+      "text": "Paying the iron price.",
+      "renderHtml": false
+    },
+    {
+      "text": "Rotating shapes in mid-air so that they fit into other shapes when they fall.",
+      "renderHtml": false
+    },
+    {
+      "text": "Running out of things to talk about.",
+      "renderHtml": false
+    }
+  ]
+}

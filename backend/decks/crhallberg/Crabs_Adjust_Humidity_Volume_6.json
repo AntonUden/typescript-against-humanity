@@ -1,0 +1,457 @@
+{
+  "order": 125,
+  "displayName": "Crabs Adjust Humidity: Volume 6",
+  "name": "Crabs_Adjust_Humidity_Volume_6",
+  "whiteCards": [
+    {
+      "text": "_: not only, like, super gross? But like, from a feminist standpoint? Totallyproblematic.",
+      "pick": 1
+    },
+    {
+      "text": "_? Thanks Obama.",
+      "pick": 1
+    },
+    {
+      "text": "\"The time has come,\" the Walrus said, \"To talk of many things: Of shoes, and ships, and sealing-wax. Of cabbages, and _.\"",
+      "pick": 1
+    },
+    {
+      "text": "Although _ provided excellent results, the ethics committee has decided that the practice can no longer continue.",
+      "pick": 1
+    },
+    {
+      "text": "Amazon Prime membership now includes _.",
+      "pick": 1
+    },
+    {
+      "text": "Chilean Seabass: $29\nCaribbean Spiny Lobster: $38\n_: Market Price",
+      "pick": 1
+    },
+    {
+      "text": "Citing demographics, Playboy has replaced nudity with _.",
+      "pick": 1
+    },
+    {
+      "text": "Come with me on an adventure to the land of _.",
+      "pick": 1
+    },
+    {
+      "text": "Concerned about diabetes? Watch for symptoms like _ and _.",
+      "pick": 2
+    },
+    {
+      "text": "George RR Martin says that _ is preventing him from finishing his epic fantasy saga.",
+      "pick": 1
+    },
+    {
+      "text": "Grandma told me \"child, everyone on this earth was born with a skill, and yours is _. ...So don't you never do it for free.\"",
+      "pick": 1
+    },
+    {
+      "text": "If he were elected president, what would Bernie Sanders bring to the White House?",
+      "pick": 1
+    },
+    {
+      "text": "If you enjoy _, it's because you are weak, your bloodline is weak, and you will not survive the winter.",
+      "pick": 1
+    },
+    {
+      "text": "In his new book, author David Sedaris details his life-long love affair with _.",
+      "pick": 1
+    },
+    {
+      "text": "In order to stop my family from talking politics, I distract them with _.",
+      "pick": 1
+    },
+    {
+      "text": "In the years ahead, pundits will debate the impact of the _-gate scandal on Obama's legacy.",
+      "pick": 1
+    },
+    {
+      "text": "In today's news conference, Donald Trump made headlines when he denounced _.",
+      "pick": 1
+    },
+    {
+      "text": "In what some are calling an act of desperation, the conservative billionaire Koch brothers are funding _.",
+      "pick": 1
+    },
+    {
+      "text": "Mmmmm, _! ...and it's still warm!",
+      "pick": 1
+    },
+    {
+      "text": "My uncle has a wardrobe in his house that leads to _.",
+      "pick": 1
+    },
+    {
+      "text": "New kicks, new clothes, _ on fleek: Friday night, here I come.",
+      "pick": 1
+    },
+    {
+      "text": "Pardon me, may I have a moment of your time to talk to you about _?",
+      "pick": 1
+    },
+    {
+      "text": "SHOW ME WHAT YOU GOT.",
+      "pick": 1
+    },
+    {
+      "text": "That's my secret, I'm always _.",
+      "pick": 1
+    },
+    {
+      "text": "The presidential election came down to a choice of either _ or _.",
+      "pick": 2
+    },
+    {
+      "text": "We found out what's causing your chest pain. We thinks it's a direct result of _.",
+      "pick": 1
+    },
+    {
+      "text": "What am I waiting for?",
+      "pick": 1
+    },
+    {
+      "text": "What do I see in this inkblot? [inkblot graphic]",
+      "pick": 1
+    },
+    {
+      "text": "What's in the box?",
+      "pick": 1
+    },
+    {
+      "text": "What's my go-to baby shower gift?",
+      "pick": 1
+    },
+    {
+      "text": "Where were you when I needed you?",
+      "pick": 1
+    },
+    {
+      "text": "Without doubt, this is the golden age of _.",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "3.7 billion women.",
+      "renderHtml": false
+    },
+    {
+      "text": "A 3-1/2 pound shit baby.",
+      "renderHtml": false
+    },
+    {
+      "text": "A blue waffle.",
+      "renderHtml": false
+    },
+    {
+      "text": "A chronic colonic.",
+      "renderHtml": false
+    },
+    {
+      "text": "A Cleveland Steamer.",
+      "renderHtml": false
+    },
+    {
+      "text": "A cock-gobbling cock-goblin.",
+      "renderHtml": false
+    },
+    {
+      "text": "A dumpster fire.",
+      "renderHtml": false
+    },
+    {
+      "text": "A hoo-hoo that bites your ding-dong.",
+      "renderHtml": false
+    },
+    {
+      "text": "A lemon party.",
+      "renderHtml": false
+    },
+    {
+      "text": "A little bit of spit-up.",
+      "renderHtml": false
+    },
+    {
+      "text": "A NEWWWW CAR!",
+      "renderHtml": false
+    },
+    {
+      "text": "A Planned Parenthood® clinic and non-kosher deli.",
+      "renderHtml": false
+    },
+    {
+      "text": "A positive pregnancy test from Craigslist.",
+      "renderHtml": false
+    },
+    {
+      "text": "Acknowledging that none of the dreams that you had as a child have come true.",
+      "renderHtml": false
+    },
+    {
+      "text": "Adele.",
+      "renderHtml": false
+    },
+    {
+      "text": "Agreeing with Donald Trump.",
+      "renderHtml": false
+    },
+    {
+      "text": "An ancient, malevolent entity.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ariana Grande and her sisters Ariana Tall and Ariana Venti.",
+      "renderHtml": false
+    },
+    {
+      "text": "Asparagus pee.",
+      "renderHtml": false
+    },
+    {
+      "text": "Barbecuing what's left of the fetus.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being a \"gold star\" lesbian.",
+      "renderHtml": false
+    },
+    {
+      "text": "Benghazi!",
+      "renderHtml": false
+    },
+    {
+      "text": "Bernie Sanders' sexy tickles!",
+      "renderHtml": false
+    },
+    {
+      "text": "Bristol Palin.",
+      "renderHtml": false
+    },
+    {
+      "text": "Brovaries.",
+      "renderHtml": false
+    },
+    {
+      "text": "Burning my neighbor's house down to keep the rent low.",
+      "renderHtml": false
+    },
+    {
+      "text": "Cock cancer",
+      "renderHtml": false
+    },
+    {
+      "text": "Dank memes.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dem lil' critters.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dickin'.",
+      "renderHtml": false
+    },
+    {
+      "text": "Eating pussy with a knife and fork.",
+      "renderHtml": false
+    },
+    {
+      "text": "El Nino.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting head from Kevin Spacey.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ghost babies.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hepatitis C.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hillary Clinton's Kevlar-lined pantsuit.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hitler? Hitler! Hitler Hitler Hitler Hitler Hitler [last five \"Hitler\"s are in decreasing font size]",
+      "renderHtml": false
+    },
+    {
+      "text": "Huge, wobbly meat-curtains.",
+      "renderHtml": false
+    },
+    {
+      "text": "I would like to add you to my professional network on LinkedIn®.",
+      "renderHtml": false
+    },
+    {
+      "text": "Jared's six-inch kiddie meal.",
+      "renderHtml": false
+    },
+    {
+      "text": "Jesus H. Christ.",
+      "renderHtml": false
+    },
+    {
+      "text": "Jihotties.",
+      "renderHtml": false
+    },
+    {
+      "text": "Literally, anything else.",
+      "renderHtml": false
+    },
+    {
+      "text": "Making America great again.",
+      "renderHtml": false
+    },
+    {
+      "text": "Manspreading.",
+      "renderHtml": false
+    },
+    {
+      "text": "Mouth sounds.",
+      "renderHtml": false
+    },
+    {
+      "text": "My own two hands.",
+      "renderHtml": false
+    },
+    {
+      "text": "Nonstop helicoptering.",
+      "renderHtml": false
+    },
+    {
+      "text": "Nuking gay baby whales for Jesus.",
+      "renderHtml": false
+    },
+    {
+      "text": "Nun chunks.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pegging.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pissing in the popcorn.",
+      "renderHtml": false
+    },
+    {
+      "text": "Placenta polenta.",
+      "renderHtml": false
+    },
+    {
+      "text": "Profound autism.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pungent butt-burps.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pure evil.",
+      "renderHtml": false
+    },
+    {
+      "text": "Putting the pussy on the chainwax.",
+      "renderHtml": false
+    },
+    {
+      "text": "Releasing the Kraken.",
+      "renderHtml": false
+    },
+    {
+      "text": "Riding the struggles bus.",
+      "renderHtml": false
+    },
+    {
+      "text": "Rough, anonymous sex.",
+      "renderHtml": false
+    },
+    {
+      "text": "Scrotemeal.",
+      "renderHtml": false
+    },
+    {
+      "text": "Shia LeBeouf.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sleep fapnia.",
+      "renderHtml": false
+    },
+    {
+      "text": "Smirnoff® the Wizard.",
+      "renderHtml": false
+    },
+    {
+      "text": "Someone who isn't me.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sweater puppies.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ten points for Gryffindor!",
+      "renderHtml": false
+    },
+    {
+      "text": "That woman.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Academy of Fine Farts.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Dewey Decimal System.",
+      "renderHtml": false
+    },
+    {
+      "text": "The hostages.",
+      "renderHtml": false
+    },
+    {
+      "text": "The other, other, otherwhite meat.",
+      "renderHtml": false
+    },
+    {
+      "text": "The person Mr. Rogers thought I could be.",
+      "renderHtml": false
+    },
+    {
+      "text": "The shortbus.",
+      "renderHtml": false
+    },
+    {
+      "text": "This. This right here. So. Much. This.",
+      "renderHtml": false
+    },
+    {
+      "text": "Touching the poop.",
+      "renderHtml": false
+    },
+    {
+      "text": "Trademark infringement.",
+      "renderHtml": false
+    },
+    {
+      "text": "Twincest.",
+      "renderHtml": false
+    },
+    {
+      "text": "Unspeakable atrocities.",
+      "renderHtml": false
+    },
+    {
+      "text": "Waiting for the bar to open.",
+      "renderHtml": false
+    }
+  ]
+}

@@ -1,0 +1,457 @@
+{
+  "order": 146,
+  "displayName": "Guards Against Insanity, Edition 5",
+  "name": "Guards_Against_Insanity,_Edition_5",
+  "whiteCards": [
+    {
+      "text": "_. What's the worst that can happen?",
+      "pick": 1
+    },
+    {
+      "text": "Anyone who knows me knows that I love _.",
+      "pick": 1
+    },
+    {
+      "text": "As a stripper, I have one rule: No _.",
+      "pick": 1
+    },
+    {
+      "text": "Disabled children. They never say no to _.",
+      "pick": 1
+    },
+    {
+      "text": "Due to George R.R. Martin's persistent writer's block, HBO is now developing a new fantasy epic: Game of _.",
+      "pick": 1
+    },
+    {
+      "text": "FACT: _ causes _.",
+      "pick": 2
+    },
+    {
+      "text": "I feel the need. The need for _.",
+      "pick": 1
+    },
+    {
+      "text": "I like my _ how I like my _: _.",
+      "pick": 3
+    },
+    {
+      "text": "I miss the good old days when _ could be done without _.",
+      "pick": 2
+    },
+    {
+      "text": "I still can't get the taste of _ out of my mouth.",
+      "pick": 1
+    },
+    {
+      "text": "I'm never going to be rich and famous because I'm too busy _.",
+      "pick": 1
+    },
+    {
+      "text": "In hindsight, it seems obvious that _ was never going to cure _.",
+      "pick": 2
+    },
+    {
+      "text": "Is it OK that I sometimes fantasize about _?",
+      "pick": 1
+    },
+    {
+      "text": "Make _, not _.",
+      "pick": 2
+    },
+    {
+      "text": "My therapist has uncovered repressed memories of _ from my early childhood.",
+      "pick": 1
+    },
+    {
+      "text": "Please don't get upset. I didn't mean for _ to scare you.",
+      "pick": 1
+    },
+    {
+      "text": "Rape is never acceptable, especially when it involves _.",
+      "pick": 1
+    },
+    {
+      "text": "Understand this young lady. If you dress like _, you're gonna find yourself _.",
+      "pick": 2
+    },
+    {
+      "text": "What makes little girls cry?",
+      "pick": 1
+    },
+    {
+      "text": "What's oozing down my leg?",
+      "pick": 1
+    },
+    {
+      "text": "Why do I bareback?",
+      "pick": 1
+    },
+    {
+      "text": "You know you're in love when _ makes you horny.",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "A banter tampon.",
+      "renderHtml": false
+    },
+    {
+      "text": "A family-sized bucket of chicken.",
+      "renderHtml": false
+    },
+    {
+      "text": "A golden shower on a warm summer's day.",
+      "renderHtml": false
+    },
+    {
+      "text": "A molester mustache.",
+      "renderHtml": false
+    },
+    {
+      "text": "A rape kit.",
+      "renderHtml": false
+    },
+    {
+      "text": "A severe beating with the ugly stick.",
+      "renderHtml": false
+    },
+    {
+      "text": "A shit of a thousand wipes.",
+      "renderHtml": false
+    },
+    {
+      "text": "A sickening dull thud.",
+      "renderHtml": false
+    },
+    {
+      "text": "Acid.",
+      "renderHtml": false
+    },
+    {
+      "text": "Actiong out rape fantasies with strangers you're never met.",
+      "renderHtml": false
+    },
+    {
+      "text": "An inability to take a joke.",
+      "renderHtml": false
+    },
+    {
+      "text": "An unwashed, pre-owned rubber gimp suit.",
+      "renderHtml": false
+    },
+    {
+      "text": "Antimalarial-induced hallucinations",
+      "renderHtml": false
+    },
+    {
+      "text": "Atheists.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bad shrimp.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ballscaping.",
+      "renderHtml": false
+    },
+    {
+      "text": "Big-titted whores.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bitch-slapping a homeless person and burning the box they sleep in.",
+      "renderHtml": false
+    },
+    {
+      "text": "Blasphemy.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bleeding during sex.",
+      "renderHtml": false
+    },
+    {
+      "text": "Brian Tamaki",
+      "renderHtml": false
+    },
+    {
+      "text": "Bulimia.",
+      "renderHtml": false
+    },
+    {
+      "text": "Checking that everything's the right tightness.",
+      "renderHtml": false
+    },
+    {
+      "text": "Christianity.",
+      "renderHtml": false
+    },
+    {
+      "text": "Concentration camps.",
+      "renderHtml": false
+    },
+    {
+      "text": "Cramming it all the way in.",
+      "renderHtml": false
+    },
+    {
+      "text": "Death by a thousand cuts.",
+      "renderHtml": false
+    },
+    {
+      "text": "Delusions of grandeur.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ethnic slurs.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fake showers.",
+      "renderHtml": false
+    },
+    {
+      "text": "Feeling a little bit rapey.",
+      "renderHtml": false
+    },
+    {
+      "text": "Female ejaculation",
+      "renderHtml": false
+    },
+    {
+      "text": "Fingering a baby.",
+      "renderHtml": false
+    },
+    {
+      "text": "Finishing a story with the words \"And then I fucked her up the ass\".",
+      "renderHtml": false
+    },
+    {
+      "text": "Flamboyant gay men.",
+      "renderHtml": false
+    },
+    {
+      "text": "Formaldehyde.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting so drunk you start finding your own wife attractive.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting your eyeballs tattooed because other people's attention is worth the risk of going blind.",
+      "renderHtml": false
+    },
+    {
+      "text": "Haivng sex with strangers for money.",
+      "renderHtml": false
+    },
+    {
+      "text": "Havng the painters in.",
+      "renderHtml": false
+    },
+    {
+      "text": "Irreparable damage.",
+      "renderHtml": false
+    },
+    {
+      "text": "Jailbait.",
+      "renderHtml": false
+    },
+    {
+      "text": "Karma.",
+      "renderHtml": false
+    },
+    {
+      "text": "Lady gardening.",
+      "renderHtml": false
+    },
+    {
+      "text": "Letting him cum inside you.",
+      "renderHtml": false
+    },
+    {
+      "text": "Leukemia.",
+      "renderHtml": false
+    },
+    {
+      "text": "Low expectations.",
+      "renderHtml": false
+    },
+    {
+      "text": "Lying to terminally ill children about their life expectancy.",
+      "renderHtml": false
+    },
+    {
+      "text": "Megan's Law.",
+      "renderHtml": false
+    },
+    {
+      "text": "Mother Teresa.",
+      "renderHtml": false
+    },
+    {
+      "text": "My \"friend\".",
+      "renderHtml": false
+    },
+    {
+      "text": "Nipples as hard as bullets.",
+      "renderHtml": false
+    },
+    {
+      "text": "Not being shown enough attention when you were a child.",
+      "renderHtml": false
+    },
+    {
+      "text": "Palliative care.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pearl Harbor.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pre-cum.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pricks with small dicks.",
+      "renderHtml": false
+    },
+    {
+      "text": "Promiscuous women.",
+      "renderHtml": false
+    },
+    {
+      "text": "Religious intolerance.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ron Jeremy.",
+      "renderHtml": false
+    },
+    {
+      "text": "Rosa Parks.",
+      "renderHtml": false
+    },
+    {
+      "text": "Same sex marriage.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sandy Hook.",
+      "renderHtml": false
+    },
+    {
+      "text": "Schlong",
+      "renderHtml": false
+    },
+    {
+      "text": "Self-harming.",
+      "renderHtml": false
+    },
+    {
+      "text": "Shit literally everywhere.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sore lips.",
+      "renderHtml": false
+    },
+    {
+      "text": "Stalking.",
+      "renderHtml": false
+    },
+    {
+      "text": "Starving a fat girl until she's attractive enough to fuck.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sucking her ass so hard, her face caves in.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sucking her juices off your best mate's cock.",
+      "renderHtml": false
+    },
+    {
+      "text": "Teaching a woman the meaning of the word respect.",
+      "renderHtml": false
+    },
+    {
+      "text": "The ability to turn your penis inside out.",
+      "renderHtml": false
+    },
+    {
+      "text": "The AIDS Bunny.",
+      "renderHtml": false
+    },
+    {
+      "text": "The American way.",
+      "renderHtml": false
+    },
+    {
+      "text": "The buckle end of the belt.",
+      "renderHtml": false
+    },
+    {
+      "text": "The extinction of an entire race of people.",
+      "renderHtml": false
+    },
+    {
+      "text": "The lingering taste of a night of passion.",
+      "renderHtml": false
+    },
+    {
+      "text": "The not-so-hot friend.",
+      "renderHtml": false
+    },
+    {
+      "text": "The reek of desperation.",
+      "renderHtml": false
+    },
+    {
+      "text": "The right to bear arms.",
+      "renderHtml": false
+    },
+    {
+      "text": "The stench of death.",
+      "renderHtml": false
+    },
+    {
+      "text": "The vacant stare of a retarded child.",
+      "renderHtml": false
+    },
+    {
+      "text": "The weaker sex.",
+      "renderHtml": false
+    },
+    {
+      "text": "Too much teeth.",
+      "renderHtml": false
+    },
+    {
+      "text": "Touchin' ya where you pee.",
+      "renderHtml": false
+    },
+    {
+      "text": "Truly believing Electric Circus was cool",
+      "renderHtml": false
+    },
+    {
+      "text": "Using the last guy's semen as lube.",
+      "renderHtml": false
+    },
+    {
+      "text": "Wanking with a hand full of razor blades.",
+      "renderHtml": false
+    },
+    {
+      "text": "Zyklon B.",
+      "renderHtml": false
+    }
+  ]
+}

@@ -1,0 +1,466 @@
+{
+  "source": 0,
+  "order": 39,
+  "displayName": "[C] Ladies Against Humanity",
+  "name": "c-ladies",
+  "whiteCards": [
+    {
+      "text": "Hey, Susie. I know your job is _ but can you just grab me _? Thanks.",
+      "pick": 2
+    },
+    {
+      "text": "This month in Cosmo: how to give your man _ at the expense of _.",
+      "pick": 2
+    },
+    {
+      "text": "Are you there, God? It's me, _",
+      "pick": 1
+    },
+    {
+      "text": "50 Shades of _.",
+      "pick": 1
+    },
+    {
+      "text": "It's not length, it's _.",
+      "pick": 1
+    },
+    {
+      "text": "Whatever, Peeta. You'll never understand my struggle with _.",
+      "pick": 1
+    },
+    {
+      "text": "Men are from _, women are from _.",
+      "pick": 2
+    },
+    {
+      "text": "Why does the Komen Foundation hate Planned Parenthood?",
+      "pick": 1
+    },
+    {
+      "text": "Math is hard. Let's go _!",
+      "pick": 1
+    },
+    {
+      "text": "The latest proposal in the Texas legislature is to take away _ from women.",
+      "pick": 1
+    },
+    {
+      "text": "If you don't mind my asking, how *do* lesbians have sex?",
+      "pick": 1
+    },
+    {
+      "text": "In her next romcom, Katherine Heigl plays a woman who falls in love with her boss's _.",
+      "pick": 1
+    },
+    {
+      "text": "The Pantone color of the year is inspired by _.",
+      "pick": 1
+    },
+    {
+      "text": "What is Olivia Pope's secret to removing red wine stains from white clothes?",
+      "pick": 1
+    },
+    {
+      "text": "Why exactly was Alanis so mad at Uncle Joey?",
+      "pick": 1
+    },
+    {
+      "text": "Why do men on the Internet send me pictures of _?",
+      "pick": 1
+    },
+    {
+      "text": "What's my weapon of choice in the \"War on Women\"?",
+      "pick": 1
+    },
+    {
+      "text": "What's Seth MacFarlane's problem?",
+      "pick": 1
+    },
+    {
+      "text": "I couldn't help but wonder: was it Mr. Big, or was it _?",
+      "pick": 1
+    },
+    {
+      "text": "What fell into my bra?",
+      "pick": 1
+    },
+    {
+      "text": "What's my preferred method of contraception?",
+      "pick": 1
+    },
+    {
+      "text": "Sofia Coppola's new film focuses on a wealthy young white woman feeling alienated by _.",
+      "pick": 1
+    },
+    {
+      "text": "_: the Tori Amos song that changed my life",
+      "pick": 1
+    },
+    {
+      "text": "Something old, something new, something borrowed, and _.",
+      "pick": 1
+    },
+    {
+      "text": "Why can't we have nice things?",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "Making 77 cents on the dollar (unless you're Latina).",
+      "renderHtml": false
+    },
+    {
+      "text": "Inspirational Dove chocolate wrappers.",
+      "renderHtml": false
+    },
+    {
+      "text": "Masturbating to Ty Pennington.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pretending you'll wear that bridesmaid dress again.",
+      "renderHtml": false
+    },
+    {
+      "text": "Mansplaining.",
+      "renderHtml": false
+    },
+    {
+      "text": "Beyonce thinkpieces.",
+      "renderHtml": false
+    },
+    {
+      "text": "Gabby Giffords' physical therapy.",
+      "renderHtml": false
+    },
+    {
+      "text": "Female genital mutilation.",
+      "renderHtml": false
+    },
+    {
+      "text": "When the tampon's too low and you feel it with every step.",
+      "renderHtml": false
+    },
+    {
+      "text": "A joke too funny for women to understand.",
+      "renderHtml": false
+    },
+    {
+      "text": "Meryl Streep selfies.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hillary bitch-slapping Bill with a frozen tuna.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Bechdel Test.",
+      "renderHtml": false
+    },
+    {
+      "text": "Staph infections from dirty nail salons.",
+      "renderHtml": false
+    },
+    {
+      "text": "Stalking wedding photos on Facebook, weeping softly.",
+      "renderHtml": false
+    },
+    {
+      "text": "Emma Goldman burning the whole motherfucker down.",
+      "renderHtml": false
+    },
+    {
+      "text": "Douches that smell like rain.",
+      "renderHtml": false
+    },
+    {
+      "text": "Rosa Parks' back seat.",
+      "renderHtml": false
+    },
+    {
+      "text": "Engagement photos on train tracks.",
+      "renderHtml": false
+    },
+    {
+      "text": "Choking on the ashes of Gloria Steinem's bras.",
+      "renderHtml": false
+    },
+    {
+      "text": "The cold, hard truth that no lesbian has ever scissored.",
+      "renderHtml": false
+    },
+    {
+      "text": "Doing your kegels at work.",
+      "renderHtml": false
+    },
+    {
+      "text": "Misandry.",
+      "renderHtml": false
+    },
+    {
+      "text": "Abortion Barbie.",
+      "renderHtml": false
+    },
+    {
+      "text": "Telling a street harasser \"You know what? I <i>will</i> blow you.\"",
+      "renderHtml": false
+    },
+    {
+      "text": "Peggy Olson's cutthroat ambitions.",
+      "renderHtml": false
+    },
+    {
+      "text": "A quickie with Rachel Maddow in the green room.",
+      "renderHtml": false
+    },
+    {
+      "text": "Force-feeding Sheryl Sandberg the pages of Lean In, one by one.",
+      "renderHtml": false
+    },
+    {
+      "text": "Emma Watson, Emma Stone, EMMA THOMPSON BITCHES.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dumpsters overflowing with whimisical save-the-date magnets.",
+      "renderHtml": false
+    },
+    {
+      "text": "The torture chamber where Kathryn Bigelow keeps James Cameron.",
+      "renderHtml": false
+    },
+    {
+      "text": "A detailed vajazzling of Van Goh's Starry Night.",
+      "renderHtml": false
+    },
+    {
+      "text": "STOP MAKING ME PRETEND TO CARE ABOUT YOUR WEDDING PINTEREST DARLA.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Chub Rub.",
+      "renderHtml": false
+    },
+    {
+      "text": "Chin hairs you pretend you don't have.",
+      "renderHtml": false
+    },
+    {
+      "text": "A strongly worded letter to Netflix demanding the addition of \"The Good Wife\".",
+      "renderHtml": false
+    },
+    {
+      "text": "Doubling up on sports bras.",
+      "renderHtml": false
+    },
+    {
+      "text": "When a dog smells your crotch and you know exactly why.",
+      "renderHtml": false
+    },
+    {
+      "text": "Malala's gunshot wounds.",
+      "renderHtml": false
+    },
+    {
+      "text": "Lactating when a stranger's baby cries on the train.",
+      "renderHtml": false
+    },
+    {
+      "text": "A new cookbook by Sylvia Plath.",
+      "renderHtml": false
+    },
+    {
+      "text": "Crying in the fitting room during bikini season.",
+      "renderHtml": false
+    },
+    {
+      "text": "Eating the entire bag.",
+      "renderHtml": false
+    },
+    {
+      "text": "Scalding hot wax right there on your labia.",
+      "renderHtml": false
+    },
+    {
+      "text": "The G-Spot, the Y-spot, the other spot you made up to confuse your partner.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Golden Girls' never-ending supply of frozen cheesecake.",
+      "renderHtml": false
+    },
+    {
+      "text": "Force-feeding Sheryl Sandberg the pages of Lean In, one by one.",
+      "renderHtml": false
+    },
+    {
+      "text": "Underboob swet like rancid milk.",
+      "renderHtml": false
+    },
+    {
+      "text": "Wondering whether your girl crush on Hermione constitutes pedophilia.",
+      "renderHtml": false
+    },
+    {
+      "text": "Taking a giant dump on the 18th green at the Augusta National Golf Club.",
+      "renderHtml": false
+    },
+    {
+      "text": "A brown smudge equally likely to be period blood or chocolate.",
+      "renderHtml": false
+    },
+    {
+      "text": "A hand-crocheted Diva Cup case from Etsy.",
+      "renderHtml": false
+    },
+    {
+      "text": "Your gigantic crush on Jenna Lyons.",
+      "renderHtml": false
+    },
+    {
+      "text": "A one-way ticket to Steubenville.",
+      "renderHtml": false
+    },
+    {
+      "text": "A bodice-ripping 4-way with Alexander Skarsgard, Ian Somerhalder, and David Boreanaz.",
+      "renderHtml": false
+    },
+    {
+      "text": "Finger banging Michelle Rodriguez.",
+      "renderHtml": false
+    },
+    {
+      "text": "Princess Aurora maniacally devouring the still-beating heart of Maleficent.",
+      "renderHtml": false
+    },
+    {
+      "text": "A tear stained copy of Reviving Ophelia.",
+      "renderHtml": false
+    },
+    {
+      "text": "A misogynist dystopia set in a not-too-distant WAIT A MINUTE.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dying your hair red like Angela Chase.",
+      "renderHtml": false
+    },
+    {
+      "text": "Daenerys Targaryen's fire-breathing vajayjay.",
+      "renderHtml": false
+    },
+    {
+      "text": "Resentfully clicking like on your boss's vacation photos.",
+      "renderHtml": false
+    },
+    {
+      "text": "Calmly informing your date that you understand the infield fly rule better than he does.",
+      "renderHtml": false
+    },
+    {
+      "text": "Tina Fey and Amy Poehler making out on a pile of Bitch magazines.",
+      "renderHtml": false
+    },
+    {
+      "text": "Only shaving up to the knee.",
+      "renderHtml": false
+    },
+    {
+      "text": "Meredith Grey's slut phase.",
+      "renderHtml": false
+    },
+    {
+      "text": "Shameful childhood memories of envying the wheelchair girl who got all the attention.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sort of wishing the baby on the plane would die.",
+      "renderHtml": false
+    },
+    {
+      "text": "Tenderly dominating Uncle Jesse from behind.",
+      "renderHtml": false
+    },
+    {
+      "text": "Stumbling on David Wright performing as Judy Garland in the East Village.",
+      "renderHtml": false
+    },
+    {
+      "text": "Urinating on yourself to prevent an assault.",
+      "renderHtml": false
+    },
+    {
+      "text": "When a FOX News anchor causally references 'ebonics'.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting DPed by the Property Brothers on a custom granite countertop.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being compared to a Cathy Cartoon on Metafilter.",
+      "renderHtml": false
+    },
+    {
+      "text": "Kim Kardashian's placenta banh mi.",
+      "renderHtml": false
+    },
+    {
+      "text": "Asking Gilbert Gottfried to do the Iago voice during sex.",
+      "renderHtml": false
+    },
+    {
+      "text": "Watching Bethenny Frankel struggle for life in a churning sea of pre-mixed SkinnyGirl cocktails.",
+      "renderHtml": false
+    },
+    {
+      "text": "An alternate version of the Washington Monument that looks kind of like a vagina.",
+      "renderHtml": false
+    },
+    {
+      "text": "Telling Pacey your innermost secrets in a canoe beneath the Capeside stars.",
+      "renderHtml": false
+    },
+    {
+      "text": "The blue liquid from tampon commercials.",
+      "renderHtml": false
+    },
+    {
+      "text": "Patti Stanger's line of jewelry.",
+      "renderHtml": false
+    },
+    {
+      "text": "#solidarityisforwhitewomen.",
+      "renderHtml": false
+    },
+    {
+      "text": "A candlelight vigil for Nicole Brown Smith.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sexual fantasies involving Mindy Lahiri and a sumptuous coffeecake.",
+      "renderHtml": false
+    },
+    {
+      "text": "Tweeting Cory Booker about that guy walking behind you.",
+      "renderHtml": false
+    },
+    {
+      "text": "A gender-neutral, owl-themed baby announcement.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being the only woman at the office-mandated sexual harassment training.",
+      "renderHtml": false
+    },
+    {
+      "text": "Asking Larry Summers increasingly difficult mathematical questions until Bar and Mat Mitzvahs are considered equally important.",
+      "renderHtml": false
+    },
+    {
+      "text": "Cramming Vladimir Putin full of Activia until he poops out Russia's homophobia.",
+      "renderHtml": false
+    }
+  ]
+}

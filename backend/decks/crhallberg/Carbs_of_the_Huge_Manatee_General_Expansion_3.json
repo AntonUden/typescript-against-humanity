@@ -1,0 +1,441 @@
+{
+  "order": 92,
+  "displayName": "Carbs of the Huge Manatee: General Expansion 3",
+  "name": "Carbs_of_the_Huge_Manatee_General_Expansion_3",
+  "whiteCards": [
+    {
+      "text": "_ of Unusual Size? I don't believe in them.",
+      "pick": 1
+    },
+    {
+      "text": "\"_ victims should make the best of a bad situation.\" - Rick Santorum",
+      "pick": 1
+    },
+    {
+      "text": "\"If it's a legitimate _, the female body has ways of shutting that whole thing down.\" - Todd Akin",
+      "pick": 1
+    },
+    {
+      "text": "A loaf of bread, a glass of wine, and _.",
+      "pick": 1
+    },
+    {
+      "text": "Each freckle is a soul that a ginger has _.",
+      "pick": 1
+    },
+    {
+      "text": "He's _. She's _. Together they fight crime!",
+      "pick": 2
+    },
+    {
+      "text": "I got a job once cleaning _.",
+      "pick": 1
+    },
+    {
+      "text": "I was thinking of the immortal words of Socrates who said, \"I drank _???\"",
+      "pick": 1
+    },
+    {
+      "text": "I'd like to force the members of the Westboro Baptist Church to _ each other. Repeatedly.",
+      "pick": 1
+    },
+    {
+      "text": "I'd make a card with Star Trek references, but the _ at Paramount are lawsuit-happy.",
+      "pick": 1
+    },
+    {
+      "text": "If I hear _ one more time, I'm going to punch a baby.",
+      "pick": 1
+    },
+    {
+      "text": "Is this a dagger I see before me? No, it's _.",
+      "pick": 1
+    },
+    {
+      "text": "It's 106 miles to Chicago, we got a full tank of gas, _, it's dark... and we're wearing sunglasses.",
+      "pick": 1
+    },
+    {
+      "text": "My dissertation wasn't complete until I figured out the connection between Milton's \"Paradise Lost\" and _.",
+      "pick": 1
+    },
+    {
+      "text": "My Love is like a _.",
+      "pick": 1
+    },
+    {
+      "text": "So then he says, \"If you want to make this relationship work, you need to give up _ and _.\" As. If.",
+      "pick": 2
+    },
+    {
+      "text": "The latest miracle is a statue whose eyes bleed when in the presence of _.",
+      "pick": 1
+    },
+    {
+      "text": "Why can't we have nice things?",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "\"Knock Knock, Motherfucker.\"",
+      "renderHtml": false
+    },
+    {
+      "text": "\"Working\" from home.",
+      "renderHtml": false
+    },
+    {
+      "text": "(1/2 * your age) + 7",
+      "renderHtml": false
+    },
+    {
+      "text": "15 wild badgers living in my trousers.",
+      "renderHtml": false
+    },
+    {
+      "text": "3/4th ounce of bitters, another 3/4th ounce of bitters, yet another 3/4th ounce of bitters, 3 ounces of orange bitters, 3 ounces of gin in a tall glass over ice. Garnish with an orange slice and tears.",
+      "renderHtml": false
+    },
+    {
+      "text": "A Coffee Break For Sisyphus.",
+      "renderHtml": false
+    },
+    {
+      "text": "A solution in search of a problem.",
+      "renderHtml": false
+    },
+    {
+      "text": "A towel.",
+      "renderHtml": false
+    },
+    {
+      "text": "A White Panel Van with a Sign That Says \"Free Candy.\"",
+      "renderHtml": false
+    },
+    {
+      "text": "Action Nerd.",
+      "renderHtml": false
+    },
+    {
+      "text": "All natural.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bad Girl Shenanigans.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bath Salts.",
+      "renderHtml": false
+    },
+    {
+      "text": "Big Data.",
+      "renderHtml": false
+    },
+    {
+      "text": "Boat Nectar.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bow Ties.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bryan Adams being raped by a moose.",
+      "renderHtml": false
+    },
+    {
+      "text": "Cake Is The Only Thing That Matters.",
+      "renderHtml": false
+    },
+    {
+      "text": "Camp Cosmos.",
+      "renderHtml": false
+    },
+    {
+      "text": "Can't Stop The Signal.",
+      "renderHtml": false
+    },
+    {
+      "text": "Captain Jack Harkness.",
+      "renderHtml": false
+    },
+    {
+      "text": "Clinical Depression.",
+      "renderHtml": false
+    },
+    {
+      "text": "Consumer whore.",
+      "renderHtml": false
+    },
+    {
+      "text": "Cthulhu.",
+      "renderHtml": false
+    },
+    {
+      "text": "Die in a fire.",
+      "renderHtml": false
+    },
+    {
+      "text": "Disposable Shitboard Bookcases from IKEA.",
+      "renderHtml": false
+    },
+    {
+      "text": "Do Not Bounce.",
+      "renderHtml": false
+    },
+    {
+      "text": "Do you want a Nutter Butter? They're Delicious!",
+      "renderHtml": false
+    },
+    {
+      "text": "Don't Blink.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ending Women's Suffrage.",
+      "renderHtml": false
+    },
+    {
+      "text": "For the love of coffee!",
+      "renderHtml": false
+    },
+    {
+      "text": "God Less America",
+      "renderHtml": false
+    },
+    {
+      "text": "God of Cake.",
+      "renderHtml": false
+    },
+    {
+      "text": "Groped By An Angel.",
+      "renderHtml": false
+    },
+    {
+      "text": "I would lick that for hours.",
+      "renderHtml": false
+    },
+    {
+      "text": "Inappropriately handling your ex-girlfriend's underthings before returning them to her.",
+      "renderHtml": false
+    },
+    {
+      "text": "Invisible Pink Unicorn.",
+      "renderHtml": false
+    },
+    {
+      "text": "It's Frothy!",
+      "renderHtml": false
+    },
+    {
+      "text": "Jalapenos as a basic food group.",
+      "renderHtml": false
+    },
+    {
+      "text": "Just Glue Some Gears On It",
+      "renderHtml": false
+    },
+    {
+      "text": "Just turned 18.",
+      "renderHtml": false
+    },
+    {
+      "text": "Kenny Loggins can read minds.",
+      "renderHtml": false
+    },
+    {
+      "text": "Laundry day.",
+      "renderHtml": false
+    },
+    {
+      "text": "Mezcal of the Gods",
+      "renderHtml": false
+    },
+    {
+      "text": "Mid-Air Birth.",
+      "renderHtml": false
+    },
+    {
+      "text": "Nipple hair.",
+      "renderHtml": false
+    },
+    {
+      "text": "No results found.",
+      "renderHtml": false
+    },
+    {
+      "text": "Not feeling... fresh?",
+      "renderHtml": false
+    },
+    {
+      "text": "Not Pro-Choice, actively Pro-Abortion.",
+      "renderHtml": false
+    },
+    {
+      "text": "Organic.",
+      "renderHtml": false
+    },
+    {
+      "text": "Out of your league.",
+      "renderHtml": false
+    },
+    {
+      "text": "Oxygen Thieves.",
+      "renderHtml": false
+    },
+    {
+      "text": "Peace, love, and surf naked.",
+      "renderHtml": false
+    },
+    {
+      "text": "Plot Twist!",
+      "renderHtml": false
+    },
+    {
+      "text": "Poser in a parka.",
+      "renderHtml": false
+    },
+    {
+      "text": "Psychiatrists Without Borders.",
+      "renderHtml": false
+    },
+    {
+      "text": "Raccoons With Lightsabers.",
+      "renderHtml": false
+    },
+    {
+      "text": "Red Shirts.",
+      "renderHtml": false
+    },
+    {
+      "text": "Rule 34.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sapiosexual.",
+      "renderHtml": false
+    },
+    {
+      "text": "Screaming and Then Silence.",
+      "renderHtml": false
+    },
+    {
+      "text": "Setting an elderly relative adrift on an ice flow.",
+      "renderHtml": false
+    },
+    {
+      "text": "Shiny Whore Fund.",
+      "renderHtml": false
+    },
+    {
+      "text": "Shiny!",
+      "renderHtml": false
+    },
+    {
+      "text": "Shoe Slut.",
+      "renderHtml": false
+    },
+    {
+      "text": "So-called \"Nice Guys\" and entitlement issues.",
+      "renderHtml": false
+    },
+    {
+      "text": "Some douchebag yelling \"More Cowbell.\"",
+      "renderHtml": false
+    },
+    {
+      "text": "Some of God's Tears.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sparkadelica.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sparkle Pony.",
+      "renderHtml": false
+    },
+    {
+      "text": "Spaying and neutering irresponsible pet owners.",
+      "renderHtml": false
+    },
+    {
+      "text": "Stage troll",
+      "renderHtml": false
+    },
+    {
+      "text": "Steampunk.",
+      "renderHtml": false
+    },
+    {
+      "text": "Stem cells aren't people. Soylent Green is people.",
+      "renderHtml": false
+    },
+    {
+      "text": "Strip Twister.",
+      "renderHtml": false
+    },
+    {
+      "text": "That kills people!",
+      "renderHtml": false
+    },
+    {
+      "text": "The Alot.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Full-Size White Pick-Up Truck - The Official Vehicle Of The Texas Asshole Ten Years Running.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Helvetica Scenario.",
+      "renderHtml": false
+    },
+    {
+      "text": "The instant downgrade of attractiveness of someone who says, \"I don't read.\"",
+      "renderHtml": false
+    },
+    {
+      "text": "The Many-Angled Ones.",
+      "renderHtml": false
+    },
+    {
+      "text": "The smell of sex.",
+      "renderHtml": false
+    },
+    {
+      "text": "Thin Mints.",
+      "renderHtml": false
+    },
+    {
+      "text": "Unitarian Jihad.",
+      "renderHtml": false
+    },
+    {
+      "text": "Vagina Dentata.",
+      "renderHtml": false
+    },
+    {
+      "text": "Vegemite.",
+      "renderHtml": false
+    },
+    {
+      "text": "Veni, Vidi, Venti. (I came, I saw, I had a large coffee).",
+      "renderHtml": false
+    },
+    {
+      "text": "Wombat Nookie.",
+      "renderHtml": false
+    },
+    {
+      "text": "You Can Do It!",
+      "renderHtml": false
+    },
+    {
+      "text": "You wish.",
+      "renderHtml": false
+    }
+  ]
+}

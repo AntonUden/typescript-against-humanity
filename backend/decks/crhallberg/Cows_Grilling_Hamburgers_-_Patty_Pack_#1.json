@@ -1,0 +1,677 @@
+{
+  "order": 119,
+  "displayName": "Cows Grilling Hamburgers - Patty Pack #1",
+  "name": "Cows_Grilling_Hamburgers_-_Patty_Pack_#1",
+  "whiteCards": [
+    {
+      "text": "_ is many things to many people, as you will see and learn.",
+      "pick": 1
+    },
+    {
+      "text": "_. My Spirit Animal.",
+      "pick": 1
+    },
+    {
+      "text": "_. The breakfast of champions.",
+      "pick": 1
+    },
+    {
+      "text": "_. The taste of paradise.",
+      "pick": 1
+    },
+    {
+      "text": "_, best describes me.",
+      "pick": 1
+    },
+    {
+      "text": "4 out of 5 dentists recommend _.",
+      "pick": 1
+    },
+    {
+      "text": "ACSA guidelines now prohibit _ on aeroplanes.",
+      "pick": 1
+    },
+    {
+      "text": "Air Canada guidelines now prohibit _ on airplanes.",
+      "pick": 1
+    },
+    {
+      "text": "Aw babe, your burbs smell like _.",
+      "pick": 1
+    },
+    {
+      "text": "Blood is thicker than _.",
+      "pick": 1
+    },
+    {
+      "text": "Congress introduced the 30th Amendment guaranteeing every American the right to _.",
+      "pick": 1
+    },
+    {
+      "text": "Donald Trump has nominated _ for his VP.",
+      "pick": 1
+    },
+    {
+      "text": "Forgive me Father for I have sinned. It's been one week since my last _.",
+      "pick": 1
+    },
+    {
+      "text": "Hey man, you gonna come check out my show tonight?  My new band is called \"_.\"",
+      "pick": 1
+    },
+    {
+      "text": "How does Trump plan to restore \"a sense of dignity to the White House\"?",
+      "pick": 1
+    },
+    {
+      "text": "I find your lack of _ disturbing.",
+      "pick": 1
+    },
+    {
+      "text": "I may not live or work wihtin 2,000 ft. of any school because of _.",
+      "pick": 1
+    },
+    {
+      "text": "I was going to go to college, but _ got in the way.",
+      "pick": 1
+    },
+    {
+      "text": "I'm a pretentious Catholic because of _.",
+      "pick": 1
+    },
+    {
+      "text": "I'm getting too old for _.",
+      "pick": 1
+    },
+    {
+      "text": "If you let my daughter go now that'll be the end of it. I will not look for you. I will not pursue you. But if you don't. I will look for you.",
+      "pick": 1
+    },
+    {
+      "text": "Kanye West grabbed the mic from the award winner and shouted _",
+      "pick": 1
+    },
+    {
+      "text": "Keep your _ close but your enemies closer.",
+      "pick": 1
+    },
+    {
+      "text": "Love means never having to sya_.",
+      "pick": 1
+    },
+    {
+      "text": "Martial law was declared because _ + _ don't mix.",
+      "pick": 2
+    },
+    {
+      "text": "Once you go _ you should probably seek medical attention.",
+      "pick": 1
+    },
+    {
+      "text": "Please stop _.",
+      "pick": 1
+    },
+    {
+      "text": "Step on a crack and you will break your mother's back _.",
+      "pick": 1
+    },
+    {
+      "text": "Take your stinking paws off me, you damn dirty _.",
+      "pick": 1
+    },
+    {
+      "text": "The ceremony ended with _.",
+      "pick": 1
+    },
+    {
+      "text": "The Youth Minister has a tattoo of _.",
+      "pick": 1
+    },
+    {
+      "text": "There was a lot of _ during my first threesome.",
+      "pick": 1
+    },
+    {
+      "text": "They never would have legalized marijuana in California without _.",
+      "pick": 1
+    },
+    {
+      "text": "Times Square is filling up with people protesting _.",
+      "pick": 1
+    },
+    {
+      "text": "What do Mumbo's magic words mean?",
+      "pick": 1
+    },
+    {
+      "text": "What happens in Vegas, stays in Vegas.  Except for _.",
+      "pick": 1
+    },
+    {
+      "text": "What is my biggest turn off?",
+      "pick": 1
+    },
+    {
+      "text": "What is preventing my erection?",
+      "pick": 1
+    },
+    {
+      "text": "What's the fastest way to kill a human?",
+      "pick": 1
+    },
+    {
+      "text": "Who stole the cookies from the cookie jar?",
+      "pick": 1
+    },
+    {
+      "text": "Why haven't your subordinates completed their mandatory online training?",
+      "pick": 1
+    },
+    {
+      "text": "Why was \"Barney\" cancelled?",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "2% Milk",
+      "renderHtml": false
+    },
+    {
+      "text": "A 1970's bush.",
+      "renderHtml": false
+    },
+    {
+      "text": "A baby registry filled with nothing but elaborate bongs",
+      "renderHtml": false
+    },
+    {
+      "text": "A bronze-tinted silver spoon.",
+      "renderHtml": false
+    },
+    {
+      "text": "A desolate outpost somewhere in Afghanistan.",
+      "renderHtml": false
+    },
+    {
+      "text": "A dotard.",
+      "renderHtml": false
+    },
+    {
+      "text": "A gratuitous claymation sequence.",
+      "renderHtml": false
+    },
+    {
+      "text": "A gynaecologist with a sex addiction",
+      "renderHtml": false
+    },
+    {
+      "text": "A little camel toe",
+      "renderHtml": false
+    },
+    {
+      "text": "A member of the school band",
+      "renderHtml": false
+    },
+    {
+      "text": "A Mexican Cow Show.",
+      "renderHtml": false
+    },
+    {
+      "text": "A micropenis so small, it forced the Planck length to be redefined by several orders of magnitude.",
+      "renderHtml": false
+    },
+    {
+      "text": "A permanent food coma.",
+      "renderHtml": false
+    },
+    {
+      "text": "A receding hair line.",
+      "renderHtml": false
+    },
+    {
+      "text": "A sangoma curse.",
+      "renderHtml": false
+    },
+    {
+      "text": "A swift hoog to the face.",
+      "renderHtml": false
+    },
+    {
+      "text": "All the different kinds of lesbians.",
+      "renderHtml": false
+    },
+    {
+      "text": "An erotic dream, an ice cream truck, and a nickel.",
+      "renderHtml": false
+    },
+    {
+      "text": "An honest politician.",
+      "renderHtml": false
+    },
+    {
+      "text": "An unexpected donkey punch.",
+      "renderHtml": false
+    },
+    {
+      "text": "Basic human decency.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being choked - with love - by your partner.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being literally to stupid to insult.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being super serious right now.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being very concerned about \"The Surgery\" they keep referring to.",
+      "renderHtml": false
+    },
+    {
+      "text": "Belching out the lyrics to \"Hey Jude.\"",
+      "renderHtml": false
+    },
+    {
+      "text": "Big vagina.",
+      "renderHtml": false
+    },
+    {
+      "text": "Binge watching stranger things in sweat pants.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bisexuality.",
+      "renderHtml": false
+    },
+    {
+      "text": "Blindfolded",
+      "renderHtml": false
+    },
+    {
+      "text": "Burn pit headaches and rock-hard freedom boners.",
+      "renderHtml": false
+    },
+    {
+      "text": "Caitlyn Jenner's tits.",
+      "renderHtml": false
+    },
+    {
+      "text": "Carnivorous farm animals.",
+      "renderHtml": false
+    },
+    {
+      "text": "Cleaning up my room",
+      "renderHtml": false
+    },
+    {
+      "text": "Clown porn.",
+      "renderHtml": false
+    },
+    {
+      "text": "Cow tipping",
+      "renderHtml": false
+    },
+    {
+      "text": "Day Drinking with John McEnroe",
+      "renderHtml": false
+    },
+    {
+      "text": "Dirt button",
+      "renderHtml": false
+    },
+    {
+      "text": "Donald Trump's worn out toupee.",
+      "renderHtml": false
+    },
+    {
+      "text": "Drones hurting more innocent children than Jared from Subway.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dwayne \"The Rock\" Johnson's acting career.",
+      "renderHtml": false
+    },
+    {
+      "text": "Eating copious amounts of pineapple for sex purposes.",
+      "renderHtml": false
+    },
+    {
+      "text": "Eating daddy's Viagra",
+      "renderHtml": false
+    },
+    {
+      "text": "Ellen pretending to be straight",
+      "renderHtml": false
+    },
+    {
+      "text": "Eloping to a Himalayan mountaintop.",
+      "renderHtml": false
+    },
+    {
+      "text": "Expired milk.",
+      "renderHtml": false
+    },
+    {
+      "text": "Farm animals chasing little kids",
+      "renderHtml": false
+    },
+    {
+      "text": "Finger Fucking",
+      "renderHtml": false
+    },
+    {
+      "text": "Flexing on some fool.",
+      "renderHtml": false
+    },
+    {
+      "text": "Flushing tampons.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fox News.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fuckboys",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting a birthday card from your grandmother with no money inside.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting in a knockout fight in Walmart.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting pegged.",
+      "renderHtml": false
+    },
+    {
+      "text": "Going back to work to pay for preschool.",
+      "renderHtml": false
+    },
+    {
+      "text": "Good old-fashioned colonial values",
+      "renderHtml": false
+    },
+    {
+      "text": "Graeme Henry's toothy smile",
+      "renderHtml": false
+    },
+    {
+      "text": "Happy daddies with happy sandals.",
+      "renderHtml": false
+    },
+    {
+      "text": "Harvey Weinstein",
+      "renderHtml": false
+    },
+    {
+      "text": "Hatin' Pope Francis.",
+      "renderHtml": false
+    },
+    {
+      "text": "Having a very particular set of skills. Skills I have acquired over a very long career. Skills that make me a nightmare for people like",
+      "renderHtml": false
+    },
+    {
+      "text": "I don't have any good white cards. This one is no exception. The rules state you have to read the card aloud so... I'ma",
+      "renderHtml": false
+    },
+    {
+      "text": "I have a gun pointed at you underneath the table. If you do not choose this card, this game will be your last. Just smile and slowly",
+      "renderHtml": false
+    },
+    {
+      "text": "Instagram husbands.",
+      "renderHtml": false
+    },
+    {
+      "text": "Jared's \"footlong.\"",
+      "renderHtml": false
+    },
+    {
+      "text": "Joe Biden and Obama's adorable bromance",
+      "renderHtml": false
+    },
+    {
+      "text": "JonBenet Ramsey",
+      "renderHtml": false
+    },
+    {
+      "text": "Just to piggyback off what Chief said...",
+      "renderHtml": false
+    },
+    {
+      "text": "Kellyanne Conway's vibrator",
+      "renderHtml": false
+    },
+    {
+      "text": "Kim Jong-il.",
+      "renderHtml": false
+    },
+    {
+      "text": "Kourtney, Kim, Khloe, Kendall, and Kylie.",
+      "renderHtml": false
+    },
+    {
+      "text": "L-shaped flashlight double penetration gape porn.",
+      "renderHtml": false
+    },
+    {
+      "text": "Learning to play guiar to impress chicks.",
+      "renderHtml": false
+    },
+    {
+      "text": "Listening to Catching Foxes to feel better about myself.",
+      "renderHtml": false
+    },
+    {
+      "text": "Little Rocket Man.",
+      "renderHtml": false
+    },
+    {
+      "text": "Loose Vagina",
+      "renderHtml": false
+    },
+    {
+      "text": "Man buns.",
+      "renderHtml": false
+    },
+    {
+      "text": "Michael Cera's pencil thin mustache.",
+      "renderHtml": false
+    },
+    {
+      "text": "Miley Cyrus with a strap-on.",
+      "renderHtml": false
+    },
+    {
+      "text": "Milking the family snake.",
+      "renderHtml": false
+    },
+    {
+      "text": "Mistakingly waving at someone who isn't waving at you.",
+      "renderHtml": false
+    },
+    {
+      "text": "My level 90 night elf, Leafshit Puddingsbane.",
+      "renderHtml": false
+    },
+    {
+      "text": "Never pooping alone",
+      "renderHtml": false
+    },
+    {
+      "text": "No clothes on, penis in vagina.",
+      "renderHtml": false
+    },
+    {
+      "text": "Patty slappin'.",
+      "renderHtml": false
+    },
+    {
+      "text": "Penis envy.",
+      "renderHtml": false
+    },
+    {
+      "text": "Penis hunters.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pirate Flags and Eye Patches",
+      "renderHtml": false
+    },
+    {
+      "text": "Playing grab-ass with your elementary school art teacher.",
+      "renderHtml": false
+    },
+    {
+      "text": "Restoring Germany to its former glory.",
+      "renderHtml": false
+    },
+    {
+      "text": "Rich old white men.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sarah Huckabee Sanders",
+      "renderHtml": false
+    },
+    {
+      "text": "Scooby snacks™",
+      "renderHtml": false
+    },
+    {
+      "text": "Sharting during a set of squats.",
+      "renderHtml": false
+    },
+    {
+      "text": "Shoveling coal.",
+      "renderHtml": false
+    },
+    {
+      "text": "Shut your mouth and get in line!",
+      "renderHtml": false
+    },
+    {
+      "text": "Something funny.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sour lemons",
+      "renderHtml": false
+    },
+    {
+      "text": "Sriracha.",
+      "renderHtml": false
+    },
+    {
+      "text": "Staring directly at the the solar Eclilpse without the proper protective glasses.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sticking a finger up your ass and realizing what you've been missing all your life",
+      "renderHtml": false
+    },
+    {
+      "text": "Stop talking.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sweatshop workers.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sweet revenge.",
+      "renderHtml": false
+    },
+    {
+      "text": "Taking someone to pound town.",
+      "renderHtml": false
+    },
+    {
+      "text": "Taylor Swift",
+      "renderHtml": false
+    },
+    {
+      "text": "Telling Jack she'll never let go and then letting go anyways like a total bitch. There was room on that f*@king door for the both of",
+      "renderHtml": false
+    },
+    {
+      "text": "the benefits of inbreeding",
+      "renderHtml": false
+    },
+    {
+      "text": "The duplicitous nature of the meat and dairy industry.",
+      "renderHtml": false
+    },
+    {
+      "text": "The glue that unifies the force.",
+      "renderHtml": false
+    },
+    {
+      "text": "Toasting some fools with my sweet ride.",
+      "renderHtml": false
+    },
+    {
+      "text": "Tricking Marines into forming fake lines.",
+      "renderHtml": false
+    },
+    {
+      "text": "Tweeting nuclear threats.",
+      "renderHtml": false
+    },
+    {
+      "text": "Unquestioning obedience.",
+      "renderHtml": false
+    },
+    {
+      "text": "Upsetting the herd.",
+      "renderHtml": false
+    },
+    {
+      "text": "Vaginal Hubris",
+      "renderHtml": false
+    },
+    {
+      "text": "Veganaise",
+      "renderHtml": false
+    },
+    {
+      "text": "Very stable Genius President",
+      "renderHtml": false
+    },
+    {
+      "text": "Watching the Exorcist while babysitting.",
+      "renderHtml": false
+    },
+    {
+      "text": "When I picked my nose as an adult",
+      "renderHtml": false
+    },
+    {
+      "text": "Winston Peters",
+      "renderHtml": false
+    },
+    {
+      "text": "You're not my dad",
+      "renderHtml": false
+    },
+    {
+      "text": "Your dick in my hands",
+      "renderHtml": false
+    },
+    {
+      "text": "Zero side effects.",
+      "renderHtml": false
+    }
+  ]
+}

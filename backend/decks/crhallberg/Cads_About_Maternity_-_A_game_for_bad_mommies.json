@@ -1,0 +1,749 @@
+{
+  "order": 78,
+  "displayName": "Cads About Maternity - A game for bad mommies",
+  "name": "Cads_About_Maternity_-_A_game_for_bad_mommies",
+  "whiteCards": [
+    {
+      "text": "_ will win you the Mom of the Year award every time.",
+      "pick": 1
+    },
+    {
+      "text": "_: an important prenatal yoga practice.",
+      "pick": 1
+    },
+    {
+      "text": "Cherish the special moments, like _.",
+      "pick": 1
+    },
+    {
+      "text": "Don't worry, _ is not as hard as it seems.",
+      "pick": 1
+    },
+    {
+      "text": "For a unique baby shower activity, try _.",
+      "pick": 1
+    },
+    {
+      "text": "How can you keep your sex life satisfying during your pregnancy?",
+      "pick": 1
+    },
+    {
+      "text": "If you need a break from the pressures of parenthood, try _.",
+      "pick": 1
+    },
+    {
+      "text": "One important benefit of breastfeeding is _.",
+      "pick": 1
+    },
+    {
+      "text": "One of the benefits of using a midwife is _.",
+      "pick": 1
+    },
+    {
+      "text": "Parenthood gets real when you experience _.",
+      "pick": 1
+    },
+    {
+      "text": "Sadly, _ was not one of the amenities the birthing center offered.",
+      "pick": 1
+    },
+    {
+      "text": "The epidural actually works better if you chase it with _.",
+      "pick": 1
+    },
+    {
+      "text": "The most magical moment of motherhood is _.",
+      "pick": 1
+    },
+    {
+      "text": "Welcome your child into the world with _.",
+      "pick": 1
+    },
+    {
+      "text": "What are you most looking forward to after baby's here?",
+      "pick": 1
+    },
+    {
+      "text": "What cured your postpartum depression?",
+      "pick": 1
+    },
+    {
+      "text": "What did your doula bring to the birthing suite to calm you down?",
+      "pick": 1
+    },
+    {
+      "text": "What did your labor feel like?",
+      "pick": 1
+    },
+    {
+      "text": "What's a surefire way to induce labor?",
+      "pick": 1
+    },
+    {
+      "text": "What's left on your to-do list before the kid arrives?",
+      "pick": 1
+    },
+    {
+      "text": "What's the best gift a new parent can get?",
+      "pick": 1
+    },
+    {
+      "text": "What's the best way to be a supportive partner to the new mom?",
+      "pick": 1
+    },
+    {
+      "text": "What's the best way to ensure good pregnancy nutrition?",
+      "pick": 1
+    },
+    {
+      "text": "What's the key to successful hypnobirthing?",
+      "pick": 1
+    },
+    {
+      "text": "What's the most annoying habit of expecting mothers?",
+      "pick": 1
+    },
+    {
+      "text": "What's the most terrifying part of becoming a parent?",
+      "pick": 1
+    },
+    {
+      "text": "What's your favorite baby name so far?",
+      "pick": 1
+    },
+    {
+      "text": "What's your secret remedy for sore nipples?",
+      "pick": 1
+    },
+    {
+      "text": "When was your dignity at its lowest?",
+      "pick": 1
+    },
+    {
+      "text": "When you're in labor, _ can be very comforting.",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "#diaperfail",
+      "renderHtml": false
+    },
+    {
+      "text": "18 books on how to fail as a parent",
+      "renderHtml": false
+    },
+    {
+      "text": "20 years of paid maternity leave",
+      "renderHtml": false
+    },
+    {
+      "text": "8,000 baby blankets",
+      "renderHtml": false
+    },
+    {
+      "text": "A baby bath shaped like a uterus",
+      "renderHtml": false
+    },
+    {
+      "text": "A baby in a weiner costume",
+      "renderHtml": false
+    },
+    {
+      "text": "A baby orangutan",
+      "renderHtml": false
+    },
+    {
+      "text": "A baby registry filled with nothing but elaborate bongs",
+      "renderHtml": false
+    },
+    {
+      "text": "A baby seat for your motorcycle",
+      "renderHtml": false
+    },
+    {
+      "text": "A baby sling made out of martini glasses",
+      "renderHtml": false
+    },
+    {
+      "text": "A baby that smokes and plays the ukulele",
+      "renderHtml": false
+    },
+    {
+      "text": "A bachelorette party blackout love child",
+      "renderHtml": false
+    },
+    {
+      "text": "A back alley C-section",
+      "renderHtml": false
+    },
+    {
+      "text": "A benevolent robot babysitter",
+      "renderHtml": false
+    },
+    {
+      "text": "A bloody creature popping through your sternum Alien style",
+      "renderHtml": false
+    },
+    {
+      "text": "A coke-fueled babymoon in Vegas",
+      "renderHtml": false
+    },
+    {
+      "text": "A cord blood painting",
+      "renderHtml": false
+    },
+    {
+      "text": "A diaper bag that changes diapers for you",
+      "renderHtml": false
+    },
+    {
+      "text": "A dirty diaper wedgie",
+      "renderHtml": false
+    },
+    {
+      "text": "A doctor mansplaining to you about mucus plugs",
+      "renderHtml": false
+    },
+    {
+      "text": "A foreskin charm bracelet",
+      "renderHtml": false
+    },
+    {
+      "text": "A gentle music box rendition of \"Gangnam Style\"",
+      "renderHtml": false
+    },
+    {
+      "text": "A handsome stranger with a pregnanat lady fetish",
+      "renderHtml": false
+    },
+    {
+      "text": "A handsy OB/GYN who stinks of whiskey",
+      "renderHtml": false
+    },
+    {
+      "text": "A hot hipster dad with a craft beard",
+      "renderHtml": false
+    },
+    {
+      "text": "A hysterical outburst about cosleeping",
+      "renderHtml": false
+    },
+    {
+      "text": "A literal shit show",
+      "renderHtml": false
+    },
+    {
+      "text": "A lot of gore and humanity",
+      "renderHtml": false
+    },
+    {
+      "text": "A mouthful of baby piss",
+      "renderHtml": false
+    },
+    {
+      "text": "A newborn size Darth Vader helmet",
+      "renderHtml": false
+    },
+    {
+      "text": "A nursing bra strip tease",
+      "renderHtml": false
+    },
+    {
+      "text": "A red sequined hospital gown",
+      "renderHtml": false
+    },
+    {
+      "text": "A sippy cup full of tequila",
+      "renderHtml": false
+    },
+    {
+      "text": "A soundproof crib",
+      "renderHtml": false
+    },
+    {
+      "text": "A stroller that costs more than your car",
+      "renderHtml": false
+    },
+    {
+      "text": "A three-day gender reveal bender",
+      "renderHtml": false
+    },
+    {
+      "text": "A wall-size print of your first ultrasound",
+      "renderHtml": false
+    },
+    {
+      "text": "A well endowed wet nurse",
+      "renderHtml": false
+    },
+    {
+      "text": "A whole new kind of \"play date\"",
+      "renderHtml": false
+    },
+    {
+      "text": "Acting insufferably smug and self-important while you stroke your swollen abdomen",
+      "renderHtml": false
+    },
+    {
+      "text": "Adopting an orphan crack baby",
+      "renderHtml": false
+    },
+    {
+      "text": "All the hormones in the whole world",
+      "renderHtml": false
+    },
+    {
+      "text": "All the ways the baby blogs convince you you are murdering your unborn child",
+      "renderHtml": false
+    },
+    {
+      "text": "An \"I'm with the MILF\" onesie",
+      "renderHtml": false
+    },
+    {
+      "text": "An 18-year day care wait list",
+      "renderHtml": false
+    },
+    {
+      "text": "An uncontrollable craving for a big fat joint",
+      "renderHtml": false
+    },
+    {
+      "text": "Ancient Viking birthing rituals involving caribou pelt and mead",
+      "renderHtml": false
+    },
+    {
+      "text": "Awkward and uncomfortable new sex positions that you both hate",
+      "renderHtml": false
+    },
+    {
+      "text": "Baby Jumbly Bum Bum Junior",
+      "renderHtml": false
+    },
+    {
+      "text": "Baby-proofing the porn cabinet",
+      "renderHtml": false
+    },
+    {
+      "text": "BDSM costumes in maternity sizes",
+      "renderHtml": false
+    },
+    {
+      "text": "Being constantly pawed by strangers",
+      "renderHtml": false
+    },
+    {
+      "text": "Being kicked in the ribs for 16 weeks",
+      "renderHtml": false
+    },
+    {
+      "text": "Blasting Metallica through your uterine walls",
+      "renderHtml": false
+    },
+    {
+      "text": "Borderline inappropriate naked infant photos",
+      "renderHtml": false
+    },
+    {
+      "text": "Bragging about your newborn's very highly advanced pooping capabilities",
+      "renderHtml": false
+    },
+    {
+      "text": "Breast milk pina coladas",
+      "renderHtml": false
+    },
+    {
+      "text": "Breast pump foreplay",
+      "renderHtml": false
+    },
+    {
+      "text": "Celebrating the fact that you flossed",
+      "renderHtml": false
+    },
+    {
+      "text": "Chocolate for breakfast",
+      "renderHtml": false
+    },
+    {
+      "text": "Cold-cocking a stranger who felt compelled to conjecture you \"must be getting close!\"",
+      "renderHtml": false
+    },
+    {
+      "text": "Converting your sex dungeon into a baby room",
+      "renderHtml": false
+    },
+    {
+      "text": "Deciding to just stay pregnant forever",
+      "renderHtml": false
+    },
+    {
+      "text": "Decorating the nursery with pictures of boobs",
+      "renderHtml": false
+    },
+    {
+      "text": "Delivering in a pool of champagne and rose petals",
+      "renderHtml": false
+    },
+    {
+      "text": "Doing karate kicks while you push",
+      "renderHtml": false
+    },
+    {
+      "text": "Dressing your child up as food",
+      "renderHtml": false
+    },
+    {
+      "text": "Drinking for two",
+      "renderHtml": false
+    },
+    {
+      "text": "Eating sushi because fuck it, it's delicious",
+      "renderHtml": false
+    },
+    {
+      "text": "Embryo popsicles",
+      "renderHtml": false
+    },
+    {
+      "text": "Feeling roughly the size of a bloated narwhal",
+      "renderHtml": false
+    },
+    {
+      "text": "Fetus confetti",
+      "renderHtml": false
+    },
+    {
+      "text": "Filling your birthing pool with warm, lavender-scented vodka",
+      "renderHtml": false
+    },
+    {
+      "text": "Finally getting to expose your boobs in public",
+      "renderHtml": false
+    },
+    {
+      "text": "Forcing people to compliment your ugly baby",
+      "renderHtml": false
+    },
+    {
+      "text": "Free range organic cotton fair trade butt wipes",
+      "renderHtml": false
+    },
+    {
+      "text": "Fucking owls",
+      "renderHtml": false
+    },
+    {
+      "text": "Gaining 80 pounds of cookie dough weight",
+      "renderHtml": false
+    },
+    {
+      "text": "Giving birth in the back seat of a Prius",
+      "renderHtml": false
+    },
+    {
+      "text": "Giving birth to a centaur",
+      "renderHtml": false
+    },
+    {
+      "text": "Growing a third boob",
+      "renderHtml": false
+    },
+    {
+      "text": "Having your every decision examined by every single person on Earth",
+      "renderHtml": false
+    },
+    {
+      "text": "Heteropaternal superfecundation\n\n(Google it)",
+      "renderHtml": false
+    },
+    {
+      "text": "Hot, hot pregnant lady sex",
+      "renderHtml": false
+    },
+    {
+      "text": "In utero SAT prep class",
+      "renderHtml": false
+    },
+    {
+      "text": "Inconvenient ovulation",
+      "renderHtml": false
+    },
+    {
+      "text": "Installing a snooze button on the baby",
+      "renderHtml": false
+    },
+    {
+      "text": "Latching like a motherfucker",
+      "renderHtml": false
+    },
+    {
+      "text": "Live blogging your cervical dilation",
+      "renderHtml": false
+    },
+    {
+      "text": "Magical vaj tightening elixir",
+      "renderHtml": false
+    },
+    {
+      "text": "Making sweet love to a specimen cup",
+      "renderHtml": false
+    },
+    {
+      "text": "Many passive-aggressive parent listserv posts",
+      "renderHtml": false
+    },
+    {
+      "text": "Matching family turtlenecks",
+      "renderHtml": false
+    },
+    {
+      "text": "Men who breastfeed",
+      "renderHtml": false
+    },
+    {
+      "text": "Mistaking a dildo for a teether",
+      "renderHtml": false
+    },
+    {
+      "text": "Mommy wars PTSD",
+      "renderHtml": false
+    },
+    {
+      "text": "Mustachifiers",
+      "renderHtml": false
+    },
+    {
+      "text": "Nanny sharing in more ways than one",
+      "renderHtml": false
+    },
+    {
+      "text": "NASA-level baby monitoring technology",
+      "renderHtml": false
+    },
+    {
+      "text": "Never, ever, ever, ever, ever going out again.\n\nEver.",
+      "renderHtml": false
+    },
+    {
+      "text": "New lows in personal hygiene",
+      "renderHtml": false
+    },
+    {
+      "text": "Nipple electrocution",
+      "renderHtml": false
+    },
+    {
+      "text": "Opium-flavored formula",
+      "renderHtml": false
+    },
+    {
+      "text": "Orgasmic contractions",
+      "renderHtml": false
+    },
+    {
+      "text": "Peeing your pants a little every time you sneeze",
+      "renderHtml": false
+    },
+    {
+      "text": "Pilot Inspector Apple Bobo",
+      "renderHtml": false
+    },
+    {
+      "text": "Pimping on the side, to save for college",
+      "renderHtml": false
+    },
+    {
+      "text": "Placenta-flavored protein bars",
+      "renderHtml": false
+    },
+    {
+      "text": "Pooping all over a nurse",
+      "renderHtml": false
+    },
+    {
+      "text": "Prenatal vitamins",
+      "renderHtml": false
+    },
+    {
+      "text": "Projectile baby vomit in your eye",
+      "renderHtml": false
+    },
+    {
+      "text": "Public poopsplosions",
+      "renderHtml": false
+    },
+    {
+      "text": "Publicly breastfeeding your eight-year-old",
+      "renderHtml": false
+    },
+    {
+      "text": "Pushing an object the size of a watermelon through a hole the size of a grape",
+      "renderHtml": false
+    },
+    {
+      "text": "Putting stirrups on your bed, just for fun",
+      "renderHtml": false
+    },
+    {
+      "text": "QUINTUPLETS!!!!!",
+      "renderHtml": false
+    },
+    {
+      "text": "Realizing you have baby shit in your hair",
+      "renderHtml": false
+    },
+    {
+      "text": "Rogue ninja sperm",
+      "renderHtml": false
+    },
+    {
+      "text": "Science Baby",
+      "renderHtml": false
+    },
+    {
+      "text": "Scoring Beyonce as your egg donor",
+      "renderHtml": false
+    },
+    {
+      "text": "Screaming \"FUCK YOUR FAT FACE\" over and over as loud as you can",
+      "renderHtml": false
+    },
+    {
+      "text": "Seeing who can cry the loudest",
+      "renderHtml": false
+    },
+    {
+      "text": "Sensually licking steamed carrot puree off a tiny spoon",
+      "renderHtml": false
+    },
+    {
+      "text": "Shade grown certified humane bamboo burp cloths",
+      "renderHtml": false
+    },
+    {
+      "text": "Silently puking in the office bathroom",
+      "renderHtml": false
+    },
+    {
+      "text": "Slapping the shit out of the next person who hands you something pink",
+      "renderHtml": false
+    },
+    {
+      "text": "Some weird as fuck baby name",
+      "renderHtml": false
+    },
+    {
+      "text": "Squatting and farting",
+      "renderHtml": false
+    },
+    {
+      "text": "Stanky pirate snatch",
+      "renderHtml": false
+    },
+    {
+      "text": "Still throwing yourself baby showers when the kid starts kindergarten",
+      "renderHtml": false
+    },
+    {
+      "text": "Taking a conference call with an infant on your teat",
+      "renderHtml": false
+    },
+    {
+      "text": "Tattooing BADASS across your baby bump",
+      "renderHtml": false
+    },
+    {
+      "text": "The baby gender police",
+      "renderHtml": false
+    },
+    {
+      "text": "The baby-industrial complex",
+      "renderHtml": false
+    },
+    {
+      "text": "The distant memory of a clitoris",
+      "renderHtml": false
+    },
+    {
+      "text": "The good kid",
+      "renderHtml": false
+    },
+    {
+      "text": "The kaleidoscopic spectrum of baby poop colors",
+      "renderHtml": false
+    },
+    {
+      "text": "The mortal fear that your labia will never be the same",
+      "renderHtml": false
+    },
+    {
+      "text": "The most beautiful, magical miracle EVAAAR!!!",
+      "renderHtml": false
+    },
+    {
+      "text": "The most disgusting thing you've ever smelled",
+      "renderHtml": false
+    },
+    {
+      "text": "The myth of fetal alcohol syndrome",
+      "renderHtml": false
+    },
+    {
+      "text": "The sheer quantity of crap an eight-pound human can produce",
+      "renderHtml": false
+    },
+    {
+      "text": "The worst mistake you ever made",
+      "renderHtml": false
+    },
+    {
+      "text": "Three hours of sleep IN A ROW",
+      "renderHtml": false
+    },
+    {
+      "text": "Throwing yourself six baby showers, starting pre-conception",
+      "renderHtml": false
+    },
+    {
+      "text": "Trading your kid in for a better one",
+      "renderHtml": false
+    },
+    {
+      "text": "Unflattering comparisons to lactating farm animals",
+      "renderHtml": false
+    },
+    {
+      "text": "Various combinations of eating, pooping, sleeping, and puking",
+      "renderHtml": false
+    },
+    {
+      "text": "Viet Cong-style sleep deprivation torture",
+      "renderHtml": false
+    },
+    {
+      "text": "Vigorously washing all your nipples",
+      "renderHtml": false
+    },
+    {
+      "text": "WhiteBabyBlackMarket.com",
+      "renderHtml": false
+    },
+    {
+      "text": "Wishing your vagina didn't hurt so much",
+      "renderHtml": false
+    },
+    {
+      "text": "Wondering who the father is",
+      "renderHtml": false
+    },
+    {
+      "text": "Your gorgeous new milk boobs",
+      "renderHtml": false
+    },
+    {
+      "text": "Your mother-in-law's extremely graphic birth story",
+      "renderHtml": false
+    }
+  ]
+}

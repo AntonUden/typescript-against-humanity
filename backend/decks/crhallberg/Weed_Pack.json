@@ -1,0 +1,129 @@
+{
+  "order": 69,
+  "displayName": "Weed Pack",
+  "name": "Weed_Pack",
+  "whiteCards": [
+    {
+      "text": "Everyone is staring at you because you're _.",
+      "pick": 1
+    },
+    {
+      "text": "Hold up. I gotta deal with _, then l'mma smoke this.",
+      "pick": 1
+    },
+    {
+      "text": "Instead of playing a card this round, everyone must stare the Card Czar while making a sound you'd make after tasting something delicious.",
+      "pick": 1
+    },
+    {
+      "text": "Okay here's the pitch. James Franco and Seth Rogen are trying to score some weed, and then _ happens.",
+      "pick": 1
+    },
+    {
+      "text": "You know what's, like, really funny when you think about it? _.",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "A bong rip so massive it restores justice to the kingdom.",
+      "renderHtml": false
+    },
+    {
+      "text": "A sandwich with Cheetos in it!",
+      "renderHtml": false
+    },
+    {
+      "text": "A whole cheese pizza just for me.",
+      "renderHtml": false
+    },
+    {
+      "text": "An eight-foot man smoking a six-foot bong.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ancient aliens.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being too high for airplane.",
+      "renderHtml": false
+    },
+    {
+      "text": "Cheese crunchies.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dank ass cancer weed.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dicking around on the guitar for an hour.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dropping stuff and knocking everything over.",
+      "renderHtml": false
+    },
+    {
+      "text": "Eating all the skin off a rotisserie chicken.",
+      "renderHtml": false
+    },
+    {
+      "text": "Forgetting to breathe and then dying.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting high and watching Planet Earth.",
+      "renderHtml": false
+    },
+    {
+      "text": "Grinning like an idiot.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hot tub.",
+      "renderHtml": false
+    },
+    {
+      "text": "How bright the sun is.",
+      "renderHtml": false
+    },
+    {
+      "text": "Huge popcorn nugs of hairy alien weed.",
+      "renderHtml": false
+    },
+    {
+      "text": "My own fingers.",
+      "renderHtml": false
+    },
+    {
+      "text": "Smoking a blunt butt-ass naked.",
+      "renderHtml": false
+    },
+    {
+      "text": "Smoking a joint with former President Barack Obama.",
+      "renderHtml": false
+    },
+    {
+      "text": "Snoop Dogg.",
+      "renderHtml": false
+    },
+    {
+      "text": "The banks, the media, the entire system, man.",
+      "renderHtml": false
+    },
+    {
+      "text": "Too much edibles.",
+      "renderHtml": false
+    },
+    {
+      "text": "Unbelievably soft carpet.",
+      "renderHtml": false
+    },
+    {
+      "text": "Whatever the fuck I was just talking about.",
+      "renderHtml": false
+    }
+  ]
+}

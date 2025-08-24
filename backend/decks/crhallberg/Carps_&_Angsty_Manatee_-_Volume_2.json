@@ -1,0 +1,601 @@
+{
+  "order": 102,
+  "displayName": "Carps & Angsty Manatee - Volume 2",
+  "name": "Carps_&_Angsty_Manatee_-_Volume_2",
+  "whiteCards": [
+    {
+      "text": "_ was notably absent from the stripper convention this year.",
+      "pick": 1
+    },
+    {
+      "text": "American children are too spoiled and lazy to appreciate _.",
+      "pick": 1
+    },
+    {
+      "text": "As part of its hazing process, the frat forced its recruits to try _.",
+      "pick": 1
+    },
+    {
+      "text": "Deviating from his usual landscapes, Bob Ross painted _ in his most recent episode.",
+      "pick": 1
+    },
+    {
+      "text": "Experiencing _ for ten minutes really changed my perspective on everything.",
+      "pick": 1
+    },
+    {
+      "text": "Hidden behing the Mona Lisa, scientists recently found Da Vinci's original subject: _.",
+      "pick": 1
+    },
+    {
+      "text": "I a surprise move, Donald Trump recently changed his campaign slogan to, \"Make _ great again.\"",
+      "pick": 1
+    },
+    {
+      "text": "I don't know what will cause my second divorce, but my third divorce will be caused by _.",
+      "pick": 1
+    },
+    {
+      "text": "In his latest philanthropic effort, Bill Gates plans to donate billions of dollars to support _.",
+      "pick": 1
+    },
+    {
+      "text": "In the next election, voters must choose between _ and _.",
+      "pick": 2
+    },
+    {
+      "text": "Love without _ is an empty experience.",
+      "pick": 1
+    },
+    {
+      "text": "Mom always told me not to leave home without _.",
+      "pick": 1
+    },
+    {
+      "text": "My biggest regret is ever getting involved with _.",
+      "pick": 1
+    },
+    {
+      "text": "My first major was Philosophy, but I recently switched to majoring in _.",
+      "pick": 1
+    },
+    {
+      "text": "My newest bumper sticker shows everyone that I support _.",
+      "pick": 1
+    },
+    {
+      "text": "The newest intramural sport involves _.",
+      "pick": 1
+    },
+    {
+      "text": "The newest iPhone now includes an app for _.",
+      "pick": 1
+    },
+    {
+      "text": "The only evidence at the crime scene was _ and a bunch of semen.",
+      "pick": 1
+    },
+    {
+      "text": "Up next on VH1: \"I Love _.\"",
+      "pick": 1
+    },
+    {
+      "text": "We tried to fix it but _ is going to ruin the next generation.",
+      "pick": 1
+    },
+    {
+      "text": "What caused the gangbang to get off to a slow start?",
+      "pick": 1
+    },
+    {
+      "text": "What made watching the movie with my parents awkward?",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "A awkward family dinner.",
+      "renderHtml": false
+    },
+    {
+      "text": "A battle to the death.",
+      "renderHtml": false
+    },
+    {
+      "text": "A bucket of ham.",
+      "renderHtml": false
+    },
+    {
+      "text": "A bunch of honking honkers.",
+      "renderHtml": false
+    },
+    {
+      "text": "A crusty Fleshlight.",
+      "renderHtml": false
+    },
+    {
+      "text": "A decroded piece of crap.",
+      "renderHtml": false
+    },
+    {
+      "text": "A dick that tastes like shit.",
+      "renderHtml": false
+    },
+    {
+      "text": "A disobedient slave.",
+      "renderHtml": false
+    },
+    {
+      "text": "A drilldo.",
+      "renderHtml": false
+    },
+    {
+      "text": "A fork in a world of soup.",
+      "renderHtml": false
+    },
+    {
+      "text": "A freshly-dumped sorority girl.",
+      "renderHtml": false
+    },
+    {
+      "text": "A funky ball of tits from outer space.",
+      "renderHtml": false
+    },
+    {
+      "text": "A gift basket from The Body Shop.",
+      "renderHtml": false
+    },
+    {
+      "text": "A gnarled, wooden dildo, dried in the sun and still covered in bark.",
+      "renderHtml": false
+    },
+    {
+      "text": "A greasy pork sandwich served on a dirty ashtray.",
+      "renderHtml": false
+    },
+    {
+      "text": "A heavy dribble of precum.",
+      "renderHtml": false
+    },
+    {
+      "text": "A horny nun.",
+      "renderHtml": false
+    },
+    {
+      "text": "A meat whistle.",
+      "renderHtml": false
+    },
+    {
+      "text": "A mountain of bills.",
+      "renderHtml": false
+    },
+    {
+      "text": "A nagging wife.",
+      "renderHtml": false
+    },
+    {
+      "text": "A plastic bag drifting though the wind.",
+      "renderHtml": false
+    },
+    {
+      "text": "A poop chute.",
+      "renderHtml": false
+    },
+    {
+      "text": "A prolapsed rectum.",
+      "renderHtml": false
+    },
+    {
+      "text": "A regrettable tattoo.",
+      "renderHtml": false
+    },
+    {
+      "text": "A robe and wizard hat.",
+      "renderHtml": false
+    },
+    {
+      "text": "A spontaneous musical number.",
+      "renderHtml": false
+    },
+    {
+      "text": "A steaming pile of shit.",
+      "renderHtml": false
+    },
+    {
+      "text": "A surprise boner.",
+      "renderHtml": false
+    },
+    {
+      "text": "A surprisingly low amount of prison rape.",
+      "renderHtml": false
+    },
+    {
+      "text": "A surprisingly resourceful monkey.",
+      "renderHtml": false
+    },
+    {
+      "text": "A threesome with my parents.",
+      "renderHtml": false
+    },
+    {
+      "text": "Abortion protestors.",
+      "renderHtml": false
+    },
+    {
+      "text": "An anal suppository.",
+      "renderHtml": false
+    },
+    {
+      "text": "An unintended sleepover at Bill Cosby's house.",
+      "renderHtml": false
+    },
+    {
+      "text": "Anal rejuvenation.",
+      "renderHtml": false
+    },
+    {
+      "text": "Another fucking children's concert.",
+      "renderHtml": false
+    },
+    {
+      "text": "Apologizing during sex.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being a functional alcoholic.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being a good little girl.",
+      "renderHtml": false
+    },
+    {
+      "text": "Biting your upper lip in a sexy way.",
+      "renderHtml": false
+    },
+    {
+      "text": "Breast reduction surgery.",
+      "renderHtml": false
+    },
+    {
+      "text": "Checking someone's oil.",
+      "renderHtml": false
+    },
+    {
+      "text": "Cock blocking.",
+      "renderHtml": false
+    },
+    {
+      "text": "Cock magic.",
+      "renderHtml": false
+    },
+    {
+      "text": "Cognitive bias.",
+      "renderHtml": false
+    },
+    {
+      "text": "Covering yourself in Vaseline, laying on the floor, and pretending to be a slug.",
+      "renderHtml": false
+    },
+    {
+      "text": "Cunny muscles.",
+      "renderHtml": false
+    },
+    {
+      "text": "Desperately trying to unhook a bra.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dodging the draft.",
+      "renderHtml": false
+    },
+    {
+      "text": "Doing the breaststroke in a pool of semen.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dong.",
+      "renderHtml": false
+    },
+    {
+      "text": "Drinking all the hot tub water.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dry humping so hard that your genitals get raw and sore.",
+      "renderHtml": false
+    },
+    {
+      "text": "Endless road construction.",
+      "renderHtml": false
+    },
+    {
+      "text": "Exchanging six cents worth of beads to see breasts.",
+      "renderHtml": false
+    },
+    {
+      "text": "Exploring my sexuality.",
+      "renderHtml": false
+    },
+    {
+      "text": "Feminine hips.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fingering a corpse.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fucking my cock.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fully-clothed women.",
+      "renderHtml": false
+    },
+    {
+      "text": "Gender bending.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting anally probed.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting caught up in a pyramid scheme.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting fat.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting my nuts caught in a zipper.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting peed on by a dog and becoming its legal territory.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting sneezed on by a homeless person.",
+      "renderHtml": false
+    },
+    {
+      "text": "Girls who say they're 18, but aren't.",
+      "renderHtml": false
+    },
+    {
+      "text": "Girly poops.",
+      "renderHtml": false
+    },
+    {
+      "text": "Grandpappy's scrotum.",
+      "renderHtml": false
+    },
+    {
+      "text": "Groping.",
+      "renderHtml": false
+    },
+    {
+      "text": "Having some feelings in the rain.",
+      "renderHtml": false
+    },
+    {
+      "text": "Homeopathic remedies.",
+      "renderHtml": false
+    },
+    {
+      "text": "Homoerotic Jello wrestling.",
+      "renderHtml": false
+    },
+    {
+      "text": "Hunting humans for sport.",
+      "renderHtml": false
+    },
+    {
+      "text": "Illegal aliens.",
+      "renderHtml": false
+    },
+    {
+      "text": "inability to establish coital consent.",
+      "renderHtml": false
+    },
+    {
+      "text": "Indentured servitude.",
+      "renderHtml": false
+    },
+    {
+      "text": "Invasive advertising.",
+      "renderHtml": false
+    },
+    {
+      "text": "Irrational optimism.",
+      "renderHtml": false
+    },
+    {
+      "text": "Kate Upton's rack.",
+      "renderHtml": false
+    },
+    {
+      "text": "Kegels.",
+      "renderHtml": false
+    },
+    {
+      "text": "Literally charming someone's pants off.",
+      "renderHtml": false
+    },
+    {
+      "text": "Living in sin.",
+      "renderHtml": false
+    },
+    {
+      "text": "Manboobs.",
+      "renderHtml": false
+    },
+    {
+      "text": "Masturbating into a condom.",
+      "renderHtml": false
+    },
+    {
+      "text": "Masturbating with the other hand.",
+      "renderHtml": false
+    },
+    {
+      "text": "Milking the prostate.",
+      "renderHtml": false
+    },
+    {
+      "text": "Naked cooking.",
+      "renderHtml": false
+    },
+    {
+      "text": "Our Lord and Savior.",
+      "renderHtml": false
+    },
+    {
+      "text": "Packing fudge.",
+      "renderHtml": false
+    },
+    {
+      "text": "Penis paraphernalia.",
+      "renderHtml": false
+    },
+    {
+      "text": "Period blood.",
+      "renderHtml": false
+    },
+    {
+      "text": "Permed pubes.",
+      "renderHtml": false
+    },
+    {
+      "text": "Picking up the soap.",
+      "renderHtml": false
+    },
+    {
+      "text": "Playing \"Doctor\" with a hot cousin.",
+      "renderHtml": false
+    },
+    {
+      "text": "Playing tummy sticks.",
+      "renderHtml": false
+    },
+    {
+      "text": "Rosie O'Donnell's minge.",
+      "renderHtml": false
+    },
+    {
+      "text": "Running and shitting at the same time.",
+      "renderHtml": false
+    },
+    {
+      "text": "Running naked backwards through a field of dicks.",
+      "renderHtml": false
+    },
+    {
+      "text": "Shooting stuff from a helicopter.",
+      "renderHtml": false
+    },
+    {
+      "text": "Snorting a chopped up Altoid.",
+      "renderHtml": false
+    },
+    {
+      "text": "Some fruitcake.",
+      "renderHtml": false
+    },
+    {
+      "text": "Stained granny panties.",
+      "renderHtml": false
+    },
+    {
+      "text": "Starting a new religion.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sticking it in.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sucking Santa's cock.",
+      "renderHtml": false
+    },
+    {
+      "text": "The driest vagina this side of the Mississippi.",
+      "renderHtml": false
+    },
+    {
+      "text": "The mixture of fluids in my underwear right now.",
+      "renderHtml": false
+    },
+    {
+      "text": "The royal penis.",
+      "renderHtml": false
+    },
+    {
+      "text": "The stench of unwashed balls.",
+      "renderHtml": false
+    },
+    {
+      "text": "The triumphant return of my STD.",
+      "renderHtml": false
+    },
+    {
+      "text": "The ugly friend.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Westboro Baptist Church.",
+      "renderHtml": false
+    },
+    {
+      "text": "Too much tuna.",
+      "renderHtml": false
+    },
+    {
+      "text": "Turning 40.",
+      "renderHtml": false
+    },
+    {
+      "text": "Two chicks at the same time, man.",
+      "renderHtml": false
+    },
+    {
+      "text": "Used Q-tips.",
+      "renderHtml": false
+    },
+    {
+      "text": "Using a selfie stick during intercourse.",
+      "renderHtml": false
+    },
+    {
+      "text": "Using alcohol as a social lubricant to compensate for a crippling",
+      "renderHtml": false
+    },
+    {
+      "text": "Using Icy Hot as lube.",
+      "renderHtml": false
+    },
+    {
+      "text": "Vagina boogers.",
+      "renderHtml": false
+    },
+    {
+      "text": "Vague status updates that may or may not be about you.",
+      "renderHtml": false
+    },
+    {
+      "text": "Weenies.",
+      "renderHtml": false
+    },
+    {
+      "text": "Worms.",
+      "renderHtml": false
+    },
+    {
+      "text": "YouTube comments.",
+      "renderHtml": false
+    }
+  ]
+}

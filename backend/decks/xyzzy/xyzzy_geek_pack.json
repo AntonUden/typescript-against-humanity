@@ -1,0 +1,129 @@
+{
+  "order": 25,
+  "displayName": "Geek Pack",
+  "name": "xyzzy_geek_pack",
+  "whiteCards": [
+    {
+      "text": "Press &darr;&darr;&larr;&rarr;B to unleash ____.",
+      "pick": 1
+    },
+    {
+      "text": "____ is way better in ____ mode.",
+      "pick": 2
+    },
+    {
+      "text": "____: Achievement unlocked.",
+      "pick": 1
+    },
+    {
+      "text": "<i>(Heavy breathing)</i> Luke, I am ____.",
+      "pick": 1
+    },
+    {
+      "text": "What's the latest bullshit that's troubling this quaint fantasy town?",
+      "pick": 1
+    },
+    {
+      "text": "What made Spock cry?",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "Ser Jorah Mormont's cerulean-blue balls.",
+      "renderHtml": false
+    },
+    {
+      "text": "A grumpy old Harrison Ford who'd rather be doing anything else.",
+      "renderHtml": false
+    },
+    {
+      "text": "The collective wail of every <i>Magic</i> player suddenly realizing that they've spent hundreds of dollars on pieces of cardboard.",
+      "renderHtml": false
+    },
+    {
+      "text": "Taking 2d6 emotional damage.",
+      "renderHtml": false
+    },
+    {
+      "text": "KHAAAAAAAAAN!",
+      "renderHtml": false
+    },
+    {
+      "text": "Endless ninjas.",
+      "renderHtml": false
+    },
+    {
+      "text": "Offering sexual favors for an ore and a sheep.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting bitch slapped by Dhalsim.",
+      "renderHtml": false
+    },
+    {
+      "text": "Running out of stamina.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sharpening a foam broadsword on a foam whetstone.",
+      "renderHtml": false
+    },
+    {
+      "text": "The depression that ensues after catching 'em all.",
+      "renderHtml": false
+    },
+    {
+      "text": "Eating a pizza that's lying in the street to gain health.",
+      "renderHtml": false
+    },
+    {
+      "text": "Loading from a previous save.",
+      "renderHtml": false
+    },
+    {
+      "text": "A homemade, cum-stained <i>Star Trek</i> uniform.",
+      "renderHtml": false
+    },
+    {
+      "text": "Yoshi's huge egg-laying cloaca.",
+      "renderHtml": false
+    },
+    {
+      "text": "A fully-dressed female videogame character.",
+      "renderHtml": false
+    },
+    {
+      "text": "Tapping Serra Angel.",
+      "renderHtml": false
+    },
+    {
+      "text": "Charging up all the way.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Cock Ring of Alacrity.",
+      "renderHtml": false
+    },
+    {
+      "text": "Achieving 500 actions per minute.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting bitten by a radioactive spider and then battling leukemia for 30 years.",
+      "renderHtml": false
+    },
+    {
+      "text": "Separate drinking fountains for dark elves.",
+      "renderHtml": false
+    },
+    {
+      "text": "Forgetting to eat, and consequently dying.",
+      "renderHtml": false
+    },
+    {
+      "text": "Stuffing my balls into a Sega Genesis and pressing the power button.",
+      "renderHtml": false
+    }
+  ]
+}

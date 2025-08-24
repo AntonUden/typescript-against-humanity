@@ -1,0 +1,109 @@
+{
+  "order": 30,
+  "displayName": "Post-Trump Pack",
+  "name": "xyzzy_post-trump_pack",
+  "whiteCards": [
+    {
+      "text": "Donald Trump's first act as president was to outlaw ____.",
+      "pick": 1
+    },
+    {
+      "text": "Donald Trump has nominated ____ for his VP.",
+      "pick": 1
+    },
+    {
+      "text": "In 2019, Donald Trump eliminated our national parks to make room for ____.",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "Nuclear winter.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bringing millions of dangerous, low-paying manufacturing jobs back to America.",
+      "renderHtml": false
+    },
+    {
+      "text": "A gnawing sense of dread.",
+      "renderHtml": false
+    },
+    {
+      "text": "Whipping lower-class white men into a xenophobic frenzy.",
+      "renderHtml": false
+    },
+    {
+      "text": "Extra rations for my little girl.",
+      "renderHtml": false
+    },
+    {
+      "text": "Roaming through a wasteland of windblown trash and deserted highways.",
+      "renderHtml": false
+    },
+    {
+      "text": "Drinking urine to survive.",
+      "renderHtml": false
+    },
+    {
+      "text": "A legitimate reason to commit suicide.",
+      "renderHtml": false
+    },
+    {
+      "text": "Burying my only son.",
+      "renderHtml": false
+    },
+    {
+      "text": "Desperately hurling insults at Donald Trump as he absorbs them into his rapidly expanding body.",
+      "renderHtml": false
+    },
+    {
+      "text": "Trying to remember what music was.",
+      "renderHtml": false
+    },
+    {
+      "text": "Casual dismissiveness.",
+      "renderHtml": false
+    },
+    {
+      "text": "Finding out that democracy might not be such a great idea.",
+      "renderHtml": false
+    },
+    {
+      "text": "A father and son fighting each other over the last scrap of bread.",
+      "renderHtml": false
+    },
+    {
+      "text": "Mild amusement.",
+      "renderHtml": false
+    },
+    {
+      "text": "A back-alley abortion from a Mexican cyborg doctor.",
+      "renderHtml": false
+    },
+    {
+      "text": "Rage.",
+      "renderHtml": false
+    },
+    {
+      "text": "World Wards 3 through 5.",
+      "renderHtml": false
+    },
+    {
+      "text": "President Donald Trump.",
+      "renderHtml": false
+    },
+    {
+      "text": "Making Islam illegal.",
+      "renderHtml": false
+    },
+    {
+      "text": "Trying to wake up from this nightmare.",
+      "renderHtml": false
+    },
+    {
+      "text": "The purging of the disloyal.",
+      "renderHtml": false
+    }
+  ]
+}

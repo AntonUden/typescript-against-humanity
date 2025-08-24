@@ -1,0 +1,114 @@
+{
+  "source": 0,
+  "order": 11,
+  "displayName": "Canadian",
+  "name": "Canadian",
+  "whiteCards": [
+    {
+      "text": "Air Canada guidelines now prohibit _ on airplanes.",
+      "pick": 1
+    },
+    {
+      "text": "O Canada, we stand on guard for _.",
+      "pick": 1
+    },
+    {
+      "text": "CTV presents _, the story of _.",
+      "pick": 2
+    },
+    {
+      "text": "In an attempt to reach a wider audience, the Royal Ontario Museum has opened an interactive exhibit on _.",
+      "pick": 1
+    },
+    {
+      "text": "What's the Canadian government using to inspire rural students to succeed?",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "Poutine.",
+      "renderHtml": false
+    },
+    {
+      "text": "Newfies.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Official Languages Act. La Loi sur les langues officielles.",
+      "renderHtml": false
+    },
+    {
+      "text": "Terry Fox's prosthetic leg.",
+      "renderHtml": false
+    },
+    {
+      "text": "The FLQ.",
+      "renderHtml": false
+    },
+    {
+      "text": "Canada: America's Hat.",
+      "renderHtml": false
+    },
+    {
+      "text": "Don Cherry's wardrobe.",
+      "renderHtml": false
+    },
+    {
+      "text": "Burning down the White House.",
+      "renderHtml": false
+    },
+    {
+      "text": "Heritage minutes.",
+      "renderHtml": false
+    },
+    {
+      "text": "Homo milk.",
+      "renderHtml": false
+    },
+    {
+      "text": "Naked News.",
+      "renderHtml": false
+    },
+    {
+      "text": "Mr. Dressup.",
+      "renderHtml": false
+    },
+    {
+      "text": "Syrupy sex with a maple tree.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being Canadian.",
+      "renderHtml": false
+    },
+    {
+      "text": "Snotsicles.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Famous Five.",
+      "renderHtml": false
+    },
+    {
+      "text": "Schmirler the Curler.",
+      "renderHtml": false
+    },
+    {
+      "text": "Stephen Harper.",
+      "renderHtml": false
+    },
+    {
+      "text": "A Molson muscle.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Royal Canadian Mounted Police.",
+      "renderHtml": false
+    },
+    {
+      "text": "An icy handjob from an Edmonton hooker.",
+      "renderHtml": false
+    }
+  ]
+}

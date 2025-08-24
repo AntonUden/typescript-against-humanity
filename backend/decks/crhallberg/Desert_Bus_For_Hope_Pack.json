@@ -1,0 +1,105 @@
+{
+  "order": 30,
+  "displayName": "Desert Bus For Hope Pack",
+  "name": "Desert_Bus_For_Hope_Pack",
+  "whiteCards": [
+    {
+      "text": "Desert Bus: _ for the children.",
+      "pick": 1
+    },
+    {
+      "text": "I bless _ down in Africa.",
+      "pick": 1
+    },
+    {
+      "text": "Ken \"_\" Steacy went back into his archives and found his original sketches for _.",
+      "pick": 2
+    },
+    {
+      "text": "The four shifts at Desert Bus: Dawn Guard, Alpha Flight, Night Watch and _.",
+      "pick": 1
+    },
+    {
+      "text": "YOU try explaining _ to the media!",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "$10,000 worth of silica gel.",
+      "renderHtml": false
+    },
+    {
+      "text": "A bathroom only for poop.",
+      "renderHtml": false
+    },
+    {
+      "text": "A chair-shaped fart sponge.",
+      "renderHtml": false
+    },
+    {
+      "text": "A lethal dose of caffeine.",
+      "renderHtml": false
+    },
+    {
+      "text": "Accidentally broadcasting an NSFW video to 5,000 people.",
+      "renderHtml": false
+    },
+    {
+      "text": "An encyclopedic knowledge of Night Court.",
+      "renderHtml": false
+    },
+    {
+      "text": "Belting out the chorus of a popular song and mumbling through the rest.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bill's mom.",
+      "renderHtml": false
+    },
+    {
+      "text": "Desert Bus.",
+      "renderHtml": false
+    },
+    {
+      "text": "Doing it for the children.",
+      "renderHtml": false
+    },
+    {
+      "text": "Having no idea what the fuck is going on.",
+      "renderHtml": false
+    },
+    {
+      "text": "Letting the internet feed you.",
+      "renderHtml": false
+    },
+    {
+      "text": "Playing one-handed.",
+      "renderHtml": false
+    },
+    {
+      "text": "Shipping a fish brick to Ohio.",
+      "renderHtml": false
+    },
+    {
+      "text": "The BONE ZONE!",
+      "renderHtml": false
+    },
+    {
+      "text": "The D E V I C E.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Turner Lickability Scale.",
+      "renderHtml": false
+    },
+    {
+      "text": "Whale dong.",
+      "renderHtml": false
+    },
+    {
+      "text": "William Shatner watching you.",
+      "renderHtml": false
+    }
+  ]
+}

@@ -1,0 +1,1701 @@
+{
+  "order": 158,
+  "displayName": "Kids Against Maturity",
+  "name": "Kids_Against_Maturity",
+  "whiteCards": [
+    {
+      "text": "_ _ go away. Come back another day.",
+      "pick": 2
+    },
+    {
+      "text": "_ gives Dad bad gas.",
+      "pick": 1
+    },
+    {
+      "text": "_ invented time travel.",
+      "pick": 1
+    },
+    {
+      "text": "_ is the secrt ingredient in Grandma's famous pies.",
+      "pick": 1
+    },
+    {
+      "text": "#1 topic discussed in your teacher's lounge _.",
+      "pick": 1
+    },
+    {
+      "text": "A _ in the hand is worth two in the bush.",
+      "pick": 1
+    },
+    {
+      "text": "After being crowned homecoming king or queen, your first dance is interrupted by _.",
+      "pick": 1
+    },
+    {
+      "text": "All day I dream about _.",
+      "pick": 1
+    },
+    {
+      "text": "All dogs go to _.",
+      "pick": 1
+    },
+    {
+      "text": "All we are saying is give _a chance.",
+      "pick": 1
+    },
+    {
+      "text": "At a parent teacher conference, your teacher confessed you have a serious problem focusing on _.",
+      "pick": 1
+    },
+    {
+      "text": "At the end of the day, my underwear is so _ in the front and _ in the back.",
+      "pick": 2
+    },
+    {
+      "text": "Beauty and the _.",
+      "pick": 1
+    },
+    {
+      "text": "Brussel sprouts taste like _.",
+      "pick": 1
+    },
+    {
+      "text": "Cat in the _.",
+      "pick": 1
+    },
+    {
+      "text": "Charlie and the chocolate _.",
+      "pick": 1
+    },
+    {
+      "text": "Cloudy with a chance of _.",
+      "pick": 1
+    },
+    {
+      "text": "Diary of a wimpy _.",
+      "pick": 1
+    },
+    {
+      "text": "Do not _ on my parade.",
+      "pick": 1
+    },
+    {
+      "text": "Does a bear _ in the woods?",
+      "pick": 1
+    },
+    {
+      "text": "Dude, where's my _?",
+      "pick": 1
+    },
+    {
+      "text": "During the family vacation I found a _ washed up on the beach.",
+      "pick": 1
+    },
+    {
+      "text": "Eenie, meenie, miney, _.",
+      "pick": 1
+    },
+    {
+      "text": "EEWWWW! There is _ in my shoes.",
+      "pick": 1
+    },
+    {
+      "text": "Fast food restaurants have decided to add _ to make kids meals healthier for kids.",
+      "pick": 1
+    },
+    {
+      "text": "Find a _ and pick it up, and all the day you'll have good luck.",
+      "pick": 1
+    },
+    {
+      "text": "For Halloween I dressed as _.",
+      "pick": 1
+    },
+    {
+      "text": "For my birthday _ jumped out of my cake.",
+      "pick": 1
+    },
+    {
+      "text": "Grandma got run over by a _.",
+      "pick": 1
+    },
+    {
+      "text": "Grandpa says \"When I was your age we would _ for fun\".",
+      "pick": 1
+    },
+    {
+      "text": "Green eggs and _.",
+      "pick": 1
+    },
+    {
+      "text": "Happy Birthday to _.",
+      "pick": 1
+    },
+    {
+      "text": "Harry Potter™ and the Goblet of _.",
+      "pick": 1
+    },
+    {
+      "text": "Help! My dog just _.",
+      "pick": 1
+    },
+    {
+      "text": "Here is the church, here is the steeple. Flip it over and here are the _.",
+      "pick": 1
+    },
+    {
+      "text": "Hey diddle diddle the _ and the fiddle, the _ jumped over the moon.",
+      "pick": 2
+    },
+    {
+      "text": "Hey everybody! I just won the _ eating contest.",
+      "pick": 1
+    },
+    {
+      "text": "Hobbit's feet smell like _.",
+      "pick": 1
+    },
+    {
+      "text": "How much _ can a woodchuck chuck?",
+      "pick": 1
+    },
+    {
+      "text": "How much is that _ in the window?",
+      "pick": 1
+    },
+    {
+      "text": "How the _ stole Christmas.",
+      "pick": 1
+    },
+    {
+      "text": "Humpty Dumpty sat on _.",
+      "pick": 1
+    },
+    {
+      "text": "I asked for _ for Christmas.",
+      "pick": 1
+    },
+    {
+      "text": "I bumped my head so hard I woke up and thought I was _!",
+      "pick": 1
+    },
+    {
+      "text": "I flushed my dead _ down the toilet.",
+      "pick": 1
+    },
+    {
+      "text": "I found _ in my cupcake.",
+      "pick": 1
+    },
+    {
+      "text": "I found _ in Papa Smurf's beard.",
+      "pick": 1
+    },
+    {
+      "text": "I found a _ in my bellybutton, and named it _.",
+      "pick": 2
+    },
+    {
+      "text": "I got catfished by a _ again!",
+      "pick": 1
+    },
+    {
+      "text": "I got stuck in time out for _.",
+      "pick": 1
+    },
+    {
+      "text": "I just built a rocket ship out of _.",
+      "pick": 1
+    },
+    {
+      "text": "I like to brush my teeth with  _.",
+      "pick": 1
+    },
+    {
+      "text": "I love you to the _ and back.",
+      "pick": 1
+    },
+    {
+      "text": "I pledge allegiance to the _.",
+      "pick": 1
+    },
+    {
+      "text": "I posted a picture of _ and crashed the internet.",
+      "pick": 1
+    },
+    {
+      "text": "I sneezed so hard _ came out my nose.",
+      "pick": 1
+    },
+    {
+      "text": "I spy with my little eye something _.",
+      "pick": 1
+    },
+    {
+      "text": "I went to my parent's closet to look for Christmas presents only to find _.",
+      "pick": 1
+    },
+    {
+      "text": "I will huff and puff and blow your _ down.",
+      "pick": 1
+    },
+    {
+      "text": "I will huff and puff, and blow your _ down!",
+      "pick": 1
+    },
+    {
+      "text": "If you rub a unicorn horn you will receive _.",
+      "pick": 1
+    },
+    {
+      "text": "It's a bird! It's a plane! No it's _!",
+      "pick": 1
+    },
+    {
+      "text": "Just a spoon full of _ helps the medicine go down.",
+      "pick": 1
+    },
+    {
+      "text": "Kill two birds with one _.",
+      "pick": 1
+    },
+    {
+      "text": "Knock, knock.\nWhos there?\n_.",
+      "pick": 1
+    },
+    {
+      "text": "Lady and the _.",
+      "pick": 1
+    },
+    {
+      "text": "Last night I found _ in my bed.",
+      "pick": 1
+    },
+    {
+      "text": "Let all play Paper, Scissors, _.",
+      "pick": 1
+    },
+    {
+      "text": "Let's go to the movies and see _.",
+      "pick": 1
+    },
+    {
+      "text": "Liar liar pants on _.",
+      "pick": 1
+    },
+    {
+      "text": "Little Boy Blue go blow your _.",
+      "pick": 1
+    },
+    {
+      "text": "Luke, I am your _.",
+      "pick": 1
+    },
+    {
+      "text": "Mary had a little _.",
+      "pick": 1
+    },
+    {
+      "text": "May I have your attention please! _. That is all.",
+      "pick": 1
+    },
+    {
+      "text": "May the _ be with you.",
+      "pick": 1
+    },
+    {
+      "text": "Milk milk lemonade, around the corner _ is made.",
+      "pick": 1
+    },
+    {
+      "text": "Mom says I'mnot allowed to play with _.",
+      "pick": 1
+    },
+    {
+      "text": "My brother his my markers in _.",
+      "pick": 1
+    },
+    {
+      "text": "My Dad walks in my bedroom and says \"It's time we talk about _\".",
+      "pick": 1
+    },
+    {
+      "text": "My favorite after school snack is _.",
+      "pick": 1
+    },
+    {
+      "text": "My favorite after school subject is _.",
+      "pick": 1
+    },
+    {
+      "text": "My favorite cartoon is _.",
+      "pick": 1
+    },
+    {
+      "text": "My favorite drink is _.",
+      "pick": 1
+    },
+    {
+      "text": "My favorite Pokemon™character is _.",
+      "pick": 1
+    },
+    {
+      "text": "My favorite thing to read about is _.",
+      "pick": 1
+    },
+    {
+      "text": "My Grandpa always says \"You can't have _ if you do not eat your _\".",
+      "pick": 2
+    },
+    {
+      "text": "My imaginary friend's name is _.",
+      "pick": 1
+    },
+    {
+      "text": "My Mom ran over _ with the mini van.",
+      "pick": 1
+    },
+    {
+      "text": "My Mom sent me to the grocery store to pick up _.",
+      "pick": 1
+    },
+    {
+      "text": "My mom's cooking tastes like _.",
+      "pick": 1
+    },
+    {
+      "text": "My Mom's farts smell like _.",
+      "pick": 1
+    },
+    {
+      "text": "My parents always make me _ before school.",
+      "pick": 1
+    },
+    {
+      "text": "My parents order chinese food for dinner, and I open the box only to find _ in my food.",
+      "pick": 1
+    },
+    {
+      "text": "My teacher pulls me aside to propose that I switch to a school specifically for _.",
+      "pick": 1
+    },
+    {
+      "text": "Never eat soggy _.",
+      "pick": 1
+    },
+    {
+      "text": "Never take candy from _.",
+      "pick": 1
+    },
+    {
+      "text": "No more _ jumping on the bed.",
+      "pick": 1
+    },
+    {
+      "text": "On my summer vacation I went to _ and I saw _.",
+      "pick": 2
+    },
+    {
+      "text": "One _, two _, red _, blue _.",
+      "pick": 4
+    },
+    {
+      "text": "Peace, Love, _.",
+      "pick": 1
+    },
+    {
+      "text": "Peter piper picked a peck of pickled _.",
+      "pick": 1
+    },
+    {
+      "text": "Puff the Magic _.",
+      "pick": 1
+    },
+    {
+      "text": "Sally sold sea shells down by the _.",
+      "pick": 1
+    },
+    {
+      "text": "Say hello to my little _!",
+      "pick": 1
+    },
+    {
+      "text": "School was canceled because of _ again.",
+      "pick": 1
+    },
+    {
+      "text": "Silly rabbit _ are for kids.",
+      "pick": 1
+    },
+    {
+      "text": "Snap crackle and _.",
+      "pick": 1
+    },
+    {
+      "text": "Step on a crack and you will break your mother's back _.",
+      "pick": 1
+    },
+    {
+      "text": "Stop drop and _.",
+      "pick": 1
+    },
+    {
+      "text": "Sugar and spice and everything _.",
+      "pick": 1
+    },
+    {
+      "text": "Teenage Mutant Ninja _.",
+      "pick": 1
+    },
+    {
+      "text": "The amazing adventures of Captain Toad and _.",
+      "pick": 1
+    },
+    {
+      "text": "The batmobile lost a _ and the Joker got away!",
+      "pick": 1
+    },
+    {
+      "text": "The emperor's new _.",
+      "pick": 1
+    },
+    {
+      "text": "The little _ that could.",
+      "pick": 1
+    },
+    {
+      "text": "The moon is made of _.",
+      "pick": 1
+    },
+    {
+      "text": "The President just declared _ as a national treasure.",
+      "pick": 1
+    },
+    {
+      "text": "The toilet is clogged with _.",
+      "pick": 1
+    },
+    {
+      "text": "The tooth fairy left a _ under my pillow.",
+      "pick": 1
+    },
+    {
+      "text": "There is a place in France where the naked ladies dance. There is a hole in the wall where the men can see _.",
+      "pick": 1
+    },
+    {
+      "text": "This is my favorite thing to bring to a party.",
+      "pick": 1
+    },
+    {
+      "text": "This looks like a job for _.",
+      "pick": 1
+    },
+    {
+      "text": "This one time... at band camp... I saw my best friend _.",
+      "pick": 1
+    },
+    {
+      "text": "To infinity and _!",
+      "pick": 1
+    },
+    {
+      "text": "Trick or treat smell my _.",
+      "pick": 1
+    },
+    {
+      "text": "Up your nose with a rubber _.",
+      "pick": 1
+    },
+    {
+      "text": "Wait 30 minutes to swim after _.",
+      "pick": 1
+    },
+    {
+      "text": "Watch me whip. Watch me _.",
+      "pick": 1
+    },
+    {
+      "text": "We all live in a yellow _.",
+      "pick": 1
+    },
+    {
+      "text": "We learned about _ in school today.",
+      "pick": 1
+    },
+    {
+      "text": "We ran out of toilet paper, so I had to use _.",
+      "pick": 1
+    },
+    {
+      "text": "What does the fox say? _.",
+      "pick": 1
+    },
+    {
+      "text": "What is in Polly's pockets?",
+      "pick": 1
+    },
+    {
+      "text": "What is the new unofficial mascot of the Coast Guard?",
+      "pick": 1
+    },
+    {
+      "text": "What's in Puss's boots?",
+      "pick": 1
+    },
+    {
+      "text": "Wheels on the bus go _ and _.",
+      "pick": 2
+    },
+    {
+      "text": "When I eat asparagus, my pee smells like _.",
+      "pick": 1
+    },
+    {
+      "text": "When I grow up, I want to be a _.",
+      "pick": 1
+    },
+    {
+      "text": "Where in the world is _?",
+      "pick": 1
+    },
+    {
+      "text": "Where in the world is _?",
+      "pick": 1
+    },
+    {
+      "text": "Which came first, the chicken or the _?",
+      "pick": 1
+    },
+    {
+      "text": "Who ate my _ again?",
+      "pick": 1
+    },
+    {
+      "text": "Who lives in a pineapple under the sea? _!",
+      "pick": 1
+    },
+    {
+      "text": "Who you gonna call?",
+      "pick": 1
+    },
+    {
+      "text": "Whos afraid of the big bad _.",
+      "pick": 1
+    },
+    {
+      "text": "Why do I feel so dizzy?",
+      "pick": 1
+    },
+    {
+      "text": "Why is the sky blue?",
+      "pick": 1
+    },
+    {
+      "text": "www._.com",
+      "pick": 1
+    },
+    {
+      "text": "Yankee Doodle went to town riding on a _ stuck a feather in his _ and called it macaroni.",
+      "pick": 2
+    },
+    {
+      "text": "You ain't never had a _ like me!",
+      "pick": 1
+    },
+    {
+      "text": "You are under arrest for _, again!",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "#Hashtag",
+      "renderHtml": false
+    },
+    {
+      "text": "20,000 Leagues Under the Sea™",
+      "renderHtml": false
+    },
+    {
+      "text": "A dirty Q-Tip™",
+      "renderHtml": false
+    },
+    {
+      "text": "A fat sports analyst",
+      "renderHtml": false
+    },
+    {
+      "text": "a hole",
+      "renderHtml": false
+    },
+    {
+      "text": "A pinata full of baked beans",
+      "renderHtml": false
+    },
+    {
+      "text": "A Plunger",
+      "renderHtml": false
+    },
+    {
+      "text": "A sponge",
+      "renderHtml": false
+    },
+    {
+      "text": "A teaspoon full of toenail clippings",
+      "renderHtml": false
+    },
+    {
+      "text": "A three legged tiger chasing a gazelle",
+      "renderHtml": false
+    },
+    {
+      "text": "A turd burglar",
+      "renderHtml": false
+    },
+    {
+      "text": "A turkey baster",
+      "renderHtml": false
+    },
+    {
+      "text": "A unicorn farting rainbows",
+      "renderHtml": false
+    },
+    {
+      "text": "A years supply of turkey jerky",
+      "renderHtml": false
+    },
+    {
+      "text": "Achy breaky mullets",
+      "renderHtml": false
+    },
+    {
+      "text": "After concert morning voice",
+      "renderHtml": false
+    },
+    {
+      "text": "Alien probing",
+      "renderHtml": false
+    },
+    {
+      "text": "All hail the sofa king!",
+      "renderHtml": false
+    },
+    {
+      "text": "An entire day without using the internet",
+      "renderHtml": false
+    },
+    {
+      "text": "Atomic wedgies",
+      "renderHtml": false
+    },
+    {
+      "text": "Awesome sauce",
+      "renderHtml": false
+    },
+    {
+      "text": "Awkwardly getting caught sitting next to my sibling on the kiss cam",
+      "renderHtml": false
+    },
+    {
+      "text": "Back boobs",
+      "renderHtml": false
+    },
+    {
+      "text": "Backpack burrito",
+      "renderHtml": false
+    },
+    {
+      "text": "Bacon strips",
+      "renderHtml": false
+    },
+    {
+      "text": "Bag of pickled pigs feet",
+      "renderHtml": false
+    },
+    {
+      "text": "Baking an air muffin",
+      "renderHtml": false
+    },
+    {
+      "text": "Baking brownies",
+      "renderHtml": false
+    },
+    {
+      "text": "Banana hammock",
+      "renderHtml": false
+    },
+    {
+      "text": "Bangkok",
+      "renderHtml": false
+    },
+    {
+      "text": "Barking spiders",
+      "renderHtml": false
+    },
+    {
+      "text": "Bat wings",
+      "renderHtml": false
+    },
+    {
+      "text": "Bearded lady",
+      "renderHtml": false
+    },
+    {
+      "text": "Bees knees",
+      "renderHtml": false
+    },
+    {
+      "text": "Being poned",
+      "renderHtml": false
+    },
+    {
+      "text": "Big butts",
+      "renderHtml": false
+    },
+    {
+      "text": "Biscuits n' gravy",
+      "renderHtml": false
+    },
+    {
+      "text": "Blackbeard",
+      "renderHtml": false
+    },
+    {
+      "text": "Boobs",
+      "renderHtml": false
+    },
+    {
+      "text": "Boogers",
+      "renderHtml": false
+    },
+    {
+      "text": "Brain kernels in zombie poop",
+      "renderHtml": false
+    },
+    {
+      "text": "Brown clowns",
+      "renderHtml": false
+    },
+    {
+      "text": "Bubble Guppies™",
+      "renderHtml": false
+    },
+    {
+      "text": "Bung-O the clown",
+      "renderHtml": false
+    },
+    {
+      "text": "Burpees",
+      "renderHtml": false
+    },
+    {
+      "text": "Burping out candles",
+      "renderHtml": false
+    },
+    {
+      "text": "Butt bingo",
+      "renderHtml": false
+    },
+    {
+      "text": "Butt flood",
+      "renderHtml": false
+    },
+    {
+      "text": "Butt lovers pizza",
+      "renderHtml": false
+    },
+    {
+      "text": "Butt thermometer",
+      "renderHtml": false
+    },
+    {
+      "text": "Camel toenail",
+      "renderHtml": false
+    },
+    {
+      "text": "Camp Dickie-doo",
+      "renderHtml": false
+    },
+    {
+      "text": "Captain America's™ shield",
+      "renderHtml": false
+    },
+    {
+      "text": "Captain Obvious",
+      "renderHtml": false
+    },
+    {
+      "text": "Captain Underpants",
+      "renderHtml": false
+    },
+    {
+      "text": "Captain's Crunch",
+      "renderHtml": false
+    },
+    {
+      "text": "Captain's log",
+      "renderHtml": false
+    },
+    {
+      "text": "Care Bear stares",
+      "renderHtml": false
+    },
+    {
+      "text": "Cat litter",
+      "renderHtml": false
+    },
+    {
+      "text": "Cat Man Do",
+      "renderHtml": false
+    },
+    {
+      "text": "Cat puke between your toes",
+      "renderHtml": false
+    },
+    {
+      "text": "Chafed nippers",
+      "renderHtml": false
+    },
+    {
+      "text": "Cheesy poofs™",
+      "renderHtml": false
+    },
+    {
+      "text": "Chewbacaa's dingleberries",
+      "renderHtml": false
+    },
+    {
+      "text": "Chicken butt",
+      "renderHtml": false
+    },
+    {
+      "text": "Chicken thigh",
+      "renderHtml": false
+    },
+    {
+      "text": "Chili dogs",
+      "renderHtml": false
+    },
+    {
+      "text": "Chocolate bar floating in a pool",
+      "renderHtml": false
+    },
+    {
+      "text": "Chunky milk",
+      "renderHtml": false
+    },
+    {
+      "text": "Clifford the Big Red Dog's™ big brown log",
+      "renderHtml": false
+    },
+    {
+      "text": "Cooked pizza rolls with a frozen center",
+      "renderHtml": false
+    },
+    {
+      "text": "Cool beans",
+      "renderHtml": false
+    },
+    {
+      "text": "Crop dusting",
+      "renderHtml": false
+    },
+    {
+      "text": "Cute cat videos",
+      "renderHtml": false
+    },
+    {
+      "text": "Dad's hemorroid pad",
+      "renderHtml": false
+    },
+    {
+      "text": "Dad's special microwave dinner",
+      "renderHtml": false
+    },
+    {
+      "text": "Daddy's listening skills",
+      "renderHtml": false
+    },
+    {
+      "text": "Diarrhea cha cha cha",
+      "renderHtml": false
+    },
+    {
+      "text": "Dingle and the berries",
+      "renderHtml": false
+    },
+    {
+      "text": "Dingus",
+      "renderHtml": false
+    },
+    {
+      "text": "Dirt button",
+      "renderHtml": false
+    },
+    {
+      "text": "DJ Lance™",
+      "renderHtml": false
+    },
+    {
+      "text": "Dog farts",
+      "renderHtml": false
+    },
+    {
+      "text": "Dr. Doo Doo Brown",
+      "renderHtml": false
+    },
+    {
+      "text": "Drake and Young Jeezy sharing a milkshake",
+      "renderHtml": false
+    },
+    {
+      "text": "Duck lips",
+      "renderHtml": false
+    },
+    {
+      "text": "Dung beetle",
+      "renderHtml": false
+    },
+    {
+      "text": "Dust bunnies",
+      "renderHtml": false
+    },
+    {
+      "text": "Eating a firefly to make your teeth glow",
+      "renderHtml": false
+    },
+    {
+      "text": "Electric Avenue",
+      "renderHtml": false
+    },
+    {
+      "text": "Everything is awesome!",
+      "renderHtml": false
+    },
+    {
+      "text": "Fake lottery tickets",
+      "renderHtml": false
+    },
+    {
+      "text": "Fanny packs",
+      "renderHtml": false
+    },
+    {
+      "text": "Fart in a space suit",
+      "renderHtml": false
+    },
+    {
+      "text": "Fart in the car. Lock the windows. Turn on the heat. Enjoy.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fart tennis",
+      "renderHtml": false
+    },
+    {
+      "text": "Fartknockers",
+      "renderHtml": false
+    },
+    {
+      "text": "Farts in a throw pillow",
+      "renderHtml": false
+    },
+    {
+      "text": "Fat guy in a little coat",
+      "renderHtml": false
+    },
+    {
+      "text": "Fat lady in yoga pants",
+      "renderHtml": false
+    },
+    {
+      "text": "Fat shaming",
+      "renderHtml": false
+    },
+    {
+      "text": "Feces pieces",
+      "renderHtml": false
+    },
+    {
+      "text": "Feeding baby bird style",
+      "renderHtml": false
+    },
+    {
+      "text": "Finger painting",
+      "renderHtml": false
+    },
+    {
+      "text": "Flaming bag of poop on my front porch",
+      "renderHtml": false
+    },
+    {
+      "text": "Free doodie",
+      "renderHtml": false
+    },
+    {
+      "text": "Frog farts",
+      "renderHtml": false
+    },
+    {
+      "text": "Fromunda cheese",
+      "renderHtml": false
+    },
+    {
+      "text": "Front farts",
+      "renderHtml": false
+    },
+    {
+      "text": "Front wedgies",
+      "renderHtml": false
+    },
+    {
+      "text": "Fruit boots",
+      "renderHtml": false
+    },
+    {
+      "text": "Fudgesicles",
+      "renderHtml": false
+    },
+    {
+      "text": "Full-on battle beast mode",
+      "renderHtml": false
+    },
+    {
+      "text": "Funkytown",
+      "renderHtml": false
+    },
+    {
+      "text": "Funny smell of grandma's house",
+      "renderHtml": false
+    },
+    {
+      "text": "Gallons of melted Velveeta™",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting hit below the belt with a football",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting ready to get ready",
+      "renderHtml": false
+    },
+    {
+      "text": "Gogurt burps",
+      "renderHtml": false
+    },
+    {
+      "text": "Grandma's jitterbug phone",
+      "renderHtml": false
+    },
+    {
+      "text": "Grouchland",
+      "renderHtml": false
+    },
+    {
+      "text": "Grumpy cats",
+      "renderHtml": false
+    },
+    {
+      "text": "Grumpy munchkins",
+      "renderHtml": false
+    },
+    {
+      "text": "Gum in the hair",
+      "renderHtml": false
+    },
+    {
+      "text": "Helping your grandparent get dressed",
+      "renderHtml": false
+    },
+    {
+      "text": "Hershey™ and the squirts",
+      "renderHtml": false
+    },
+    {
+      "text": "Hershey™ highway",
+      "renderHtml": false
+    },
+    {
+      "text": "Hillary Duff",
+      "renderHtml": false
+    },
+    {
+      "text": "Hollywood dreams",
+      "renderHtml": false
+    },
+    {
+      "text": "Honey badger",
+      "renderHtml": false
+    },
+    {
+      "text": "Hoof hearted",
+      "renderHtml": false
+    },
+    {
+      "text": "Hot Pockets™",
+      "renderHtml": false
+    },
+    {
+      "text": "Hulk smashed",
+      "renderHtml": false
+    },
+    {
+      "text": "Human beans",
+      "renderHtml": false
+    },
+    {
+      "text": "Humble brags",
+      "renderHtml": false
+    },
+    {
+      "text": "Hungry + Angry = Hangry",
+      "renderHtml": false
+    },
+    {
+      "text": "In a van down by the river",
+      "renderHtml": false
+    },
+    {
+      "text": "In your face",
+      "renderHtml": false
+    },
+    {
+      "text": "Inflatable dart boards",
+      "renderHtml": false
+    },
+    {
+      "text": "Itchy bum",
+      "renderHtml": false
+    },
+    {
+      "text": "Jar of egg farts",
+      "renderHtml": false
+    },
+    {
+      "text": "Jenga™ tower made of cheese sticks",
+      "renderHtml": false
+    },
+    {
+      "text": "John Cena",
+      "renderHtml": false
+    },
+    {
+      "text": "Justin Bieber",
+      "renderHtml": false
+    },
+    {
+      "text": "Katy Perry's new boyfriend",
+      "renderHtml": false
+    },
+    {
+      "text": "Kim Kardashian's booty",
+      "renderHtml": false
+    },
+    {
+      "text": "Kindergarten cops",
+      "renderHtml": false
+    },
+    {
+      "text": "Kittens in mittens",
+      "renderHtml": false
+    },
+    {
+      "text": "Knuckle sandwiches",
+      "renderHtml": false
+    },
+    {
+      "text": "Lady Gaga",
+      "renderHtml": false
+    },
+    {
+      "text": "Lazy Sunday",
+      "renderHtml": false
+    },
+    {
+      "text": "Lebron James' size 15 shoe",
+      "renderHtml": false
+    },
+    {
+      "text": "Like a bo$$",
+      "renderHtml": false
+    },
+    {
+      "text": "Luke Skywalkers™ robot hand",
+      "renderHtml": false
+    },
+    {
+      "text": "Magic Mushrooms",
+      "renderHtml": false
+    },
+    {
+      "text": "Mandatory family time",
+      "renderHtml": false
+    },
+    {
+      "text": "Manties",
+      "renderHtml": false
+    },
+    {
+      "text": "Master splinter",
+      "renderHtml": false
+    },
+    {
+      "text": "Mayor McCheeze's™ cheese tongue",
+      "renderHtml": false
+    },
+    {
+      "text": "Meatlofa! The world's first meatloaf sofa",
+      "renderHtml": false
+    },
+    {
+      "text": "Mexican mudslide",
+      "renderHtml": false
+    },
+    {
+      "text": "Miley Cyrus",
+      "renderHtml": false
+    },
+    {
+      "text": "Mom is pregnant again",
+      "renderHtml": false
+    },
+    {
+      "text": "Mom's purple wine teeth",
+      "renderHtml": false
+    },
+    {
+      "text": "Moobs",
+      "renderHtml": false
+    },
+    {
+      "text": "Moose knuckles",
+      "renderHtml": false
+    },
+    {
+      "text": "Mouth breathers",
+      "renderHtml": false
+    },
+    {
+      "text": "Mr Weird Beard",
+      "renderHtml": false
+    },
+    {
+      "text": "Mr. Froto's ring",
+      "renderHtml": false
+    },
+    {
+      "text": "Mr. Maigi",
+      "renderHtml": false
+    },
+    {
+      "text": "Mr. Poopeedoopee",
+      "renderHtml": false
+    },
+    {
+      "text": "Mr. Richard Johnson",
+      "renderHtml": false
+    },
+    {
+      "text": "My cat's starfish",
+      "renderHtml": false
+    },
+    {
+      "text": "My cellphone after landing in the toilet",
+      "renderHtml": false
+    },
+    {
+      "text": "My Dad's back hair",
+      "renderHtml": false
+    },
+    {
+      "text": "My dog's lipstick",
+      "renderHtml": false
+    },
+    {
+      "text": "My entire high school football team",
+      "renderHtml": false
+    },
+    {
+      "text": "Mystery egg wrapped in Play-Doh™",
+      "renderHtml": false
+    },
+    {
+      "text": "Mystery hair on my donut",
+      "renderHtml": false
+    },
+    {
+      "text": "Nahrwals",
+      "renderHtml": false
+    },
+    {
+      "text": "Neck beards",
+      "renderHtml": false
+    },
+    {
+      "text": "Nick Jonas™",
+      "renderHtml": false
+    },
+    {
+      "text": "Nicki Minaj",
+      "renderHtml": false
+    },
+    {
+      "text": "Ninja bread men",
+      "renderHtml": false
+    },
+    {
+      "text": "Oompa-Loompas™",
+      "renderHtml": false
+    },
+    {
+      "text": "Optimus Prime's™ exhaust pipe",
+      "renderHtml": false
+    },
+    {
+      "text": "Pee on the seat",
+      "renderHtml": false
+    },
+    {
+      "text": "Pee pee tee pee",
+      "renderHtml": false
+    },
+    {
+      "text": "Peeing in the shower",
+      "renderHtml": false
+    },
+    {
+      "text": "Peeing my name in the snow",
+      "renderHtml": false
+    },
+    {
+      "text": "Pepperfarts",
+      "renderHtml": false
+    },
+    {
+      "text": "Pickle juice",
+      "renderHtml": false
+    },
+    {
+      "text": "Pinch a loaf",
+      "renderHtml": false
+    },
+    {
+      "text": "Pink poodles eating oodles of noodles",
+      "renderHtml": false
+    },
+    {
+      "text": "Plump pageant moms",
+      "renderHtml": false
+    },
+    {
+      "text": "Poop emoji",
+      "renderHtml": false
+    },
+    {
+      "text": "Poop spelled backwards",
+      "renderHtml": false
+    },
+    {
+      "text": "Poops Mcgee",
+      "renderHtml": false
+    },
+    {
+      "text": "Puckered starfish",
+      "renderHtml": false
+    },
+    {
+      "text": "Pull my finger",
+      "renderHtml": false
+    },
+    {
+      "text": "Purple nurples",
+      "renderHtml": false
+    },
+    {
+      "text": "R2D2™",
+      "renderHtml": false
+    },
+    {
+      "text": "Rainbow Dash™ droppings",
+      "renderHtml": false
+    },
+    {
+      "text": "Rotten eggs",
+      "renderHtml": false
+    },
+    {
+      "text": "Rubber baby buggy bumpers",
+      "renderHtml": false
+    },
+    {
+      "text": "Sad pancakes",
+      "renderHtml": false
+    },
+    {
+      "text": "Sand in the cheeks",
+      "renderHtml": false
+    },
+    {
+      "text": "Santa's big fat sack",
+      "renderHtml": false
+    },
+    {
+      "text": "Sasquatch",
+      "renderHtml": false
+    },
+    {
+      "text": "Scooby snacks™",
+      "renderHtml": false
+    },
+    {
+      "text": "Sea biscuit",
+      "renderHtml": false
+    },
+    {
+      "text": "Secret crush announced on the school P.A.",
+      "renderHtml": false
+    },
+    {
+      "text": "Selfie fail",
+      "renderHtml": false
+    },
+    {
+      "text": "Selfie sticks",
+      "renderHtml": false
+    },
+    {
+      "text": "Sesame Street™",
+      "renderHtml": false
+    },
+    {
+      "text": "Shark sugar",
+      "renderHtml": false
+    },
+    {
+      "text": "Shart tank",
+      "renderHtml": false
+    },
+    {
+      "text": "Shaving",
+      "renderHtml": false
+    },
+    {
+      "text": "Shopkinz™",
+      "renderHtml": false
+    },
+    {
+      "text": "Sloth's Baby Ruth™",
+      "renderHtml": false
+    },
+    {
+      "text": "Smurf Village",
+      "renderHtml": false
+    },
+    {
+      "text": "Snapchatting in your sleep",
+      "renderHtml": false
+    },
+    {
+      "text": "Sneaky snakes",
+      "renderHtml": false
+    },
+    {
+      "text": "Spagooter",
+      "renderHtml": false
+    },
+    {
+      "text": "Spongebob's square poop",
+      "renderHtml": false
+    },
+    {
+      "text": "Squeeze cheese",
+      "renderHtml": false
+    },
+    {
+      "text": "Stranger danger",
+      "renderHtml": false
+    },
+    {
+      "text": "Sugar Bear™",
+      "renderHtml": false
+    },
+    {
+      "text": "Super Mario™ fart",
+      "renderHtml": false
+    },
+    {
+      "text": "Superman's™ skid marks",
+      "renderHtml": false
+    },
+    {
+      "text": "Taco Tuesday",
+      "renderHtml": false
+    },
+    {
+      "text": "Taylor Swift",
+      "renderHtml": false
+    },
+    {
+      "text": "Teacher crush",
+      "renderHtml": false
+    },
+    {
+      "text": "That dream where I am at school naked",
+      "renderHtml": false
+    },
+    {
+      "text": "That kid that never stopped eating paste",
+      "renderHtml": false
+    },
+    {
+      "text": "The babysitter's™ boyfriend",
+      "renderHtml": false
+    },
+    {
+      "text": "The bully that never wears deodorant",
+      "renderHtml": false
+    },
+    {
+      "text": "The day I got a wedgie and forgot to wipe properly",
+      "renderHtml": false
+    },
+    {
+      "text": "The Gooch",
+      "renderHtml": false
+    },
+    {
+      "text": "The janitor's vomit dust",
+      "renderHtml": false
+    },
+    {
+      "text": "The kid who pooped their pants on the bus",
+      "renderHtml": false
+    },
+    {
+      "text": "The kid who wipes boogers under the desk",
+      "renderHtml": false
+    },
+    {
+      "text": "The Ol'courtesy flush",
+      "renderHtml": false
+    },
+    {
+      "text": "The rabbit hole",
+      "renderHtml": false
+    },
+    {
+      "text": "Thor's hammer time",
+      "renderHtml": false
+    },
+    {
+      "text": "Those kooky people that live downstairs",
+      "renderHtml": false
+    },
+    {
+      "text": "Throbbing zit on picture day",
+      "renderHtml": false
+    },
+    {
+      "text": "Tighty whitie underpants",
+      "renderHtml": false
+    },
+    {
+      "text": "Tipped over Port-O-Potty",
+      "renderHtml": false
+    },
+    {
+      "text": "Toilet paper",
+      "renderHtml": false
+    },
+    {
+      "text": "Triple rainbow",
+      "renderHtml": false
+    },
+    {
+      "text": "Twinkle toes",
+      "renderHtml": false
+    },
+    {
+      "text": "Underoos™",
+      "renderHtml": false
+    },
+    {
+      "text": "Underwear",
+      "renderHtml": false
+    },
+    {
+      "text": "Upside down frowns",
+      "renderHtml": false
+    },
+    {
+      "text": "Uranus - The brown planet",
+      "renderHtml": false
+    },
+    {
+      "text": "Urethra Franklin",
+      "renderHtml": false
+    },
+    {
+      "text": "Used toilet paper",
+      "renderHtml": false
+    },
+    {
+      "text": "Using poison ivy to wipe your butt",
+      "renderHtml": false
+    },
+    {
+      "text": "Wacky tobacky",
+      "renderHtml": false
+    },
+    {
+      "text": "Walt Disney's secret vault",
+      "renderHtml": false
+    },
+    {
+      "text": "Wax lips",
+      "renderHtml": false
+    },
+    {
+      "text": "Wet farts",
+      "renderHtml": false
+    },
+    {
+      "text": "Wet wipes",
+      "renderHtml": false
+    },
+    {
+      "text": "Whoflungpoo",
+      "renderHtml": false
+    },
+    {
+      "text": "Wicked step sisters",
+      "renderHtml": false
+    },
+    {
+      "text": "Wiener dogs",
+      "renderHtml": false
+    },
+    {
+      "text": "Winnie's poo",
+      "renderHtml": false
+    },
+    {
+      "text": "Wolfman's nards",
+      "renderHtml": false
+    },
+    {
+      "text": "Woopy cushions",
+      "renderHtml": false
+    },
+    {
+      "text": "Yellow snow",
+      "renderHtml": false
+    },
+    {
+      "text": "Your mom after she's read Lady Chatterly's Lover",
+      "renderHtml": false
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "order": 38,
+  "displayName": "Tabletop Pack",
+  "name": "xyzzy_tabletop_pack",
+  "whiteCards": [
+    {
+      "text": "Hey, you guys want to try this awesome new game? It's called ____.",
+      "pick": 1
+    },
+    {
+      "text": "For my turn, I will spend four gold and allocate all three workers to ____.",
+      "pick": 1
+    },
+    {
+      "text": "Backers who supported Tabletop at the $25,000 level were astonished to receive ____ from Wil Wheaton himself.",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "Victory points.",
+      "renderHtml": false
+    },
+    {
+      "text": "A marriage-destroying game of <i>The Resistance</i> .",
+      "renderHtml": false
+    },
+    {
+      "text": "SIX GOD DAMN HOURS OF FUCKING DIPLOMACY.",
+      "renderHtml": false
+    },
+    {
+      "text": "Condensing centuries of economic exploitation into 90 minutes of gaming fun.",
+      "renderHtml": false
+    },
+    {
+      "text": "Spending 8 years in the Himalayas becoming a master of dice-rolling and resource allocation.",
+      "renderHtml": false
+    },
+    {
+      "text": "A disappointing season of Tabletop that's just about tables.",
+      "renderHtml": false
+    },
+    {
+      "text": "A zombie with a tragic backstory.",
+      "renderHtml": false
+    },
+    {
+      "text": "A Wesley Crusher blow-up doll.",
+      "renderHtml": false
+    },
+    {
+      "text": "The porn set that Tabletop is filmed on.",
+      "renderHtml": false
+    },
+    {
+      "text": "An owlbear.",
+      "renderHtml": false
+    },
+    {
+      "text": "The pooping position.",
+      "renderHtml": false
+    },
+    {
+      "text": "A German-style board game where you invade Poland.",
+      "renderHtml": false
+    }
+  ]
+}

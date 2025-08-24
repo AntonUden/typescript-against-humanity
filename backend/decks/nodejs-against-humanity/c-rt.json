@@ -1,0 +1,906 @@
+{
+  "source": 0,
+  "order": 49,
+  "displayName": "[C] Rooster Teeth",
+  "name": "c-rt",
+  "whiteCards": [
+    {
+      "text": "Why are there six _ when there are only four _?",
+      "pick": 2
+    },
+    {
+      "text": "What is your mating call?",
+      "pick": 1
+    },
+    {
+      "text": "What is the worst thing anyone could say in front of the police?",
+      "pick": 1
+    },
+    {
+      "text": "What is the saddest thing you've ever seen?",
+      "pick": 1
+    },
+    {
+      "text": "What is your favorite book?",
+      "pick": 1
+    },
+    {
+      "text": "_ is the greatest Canadian.",
+      "pick": 1
+    },
+    {
+      "text": "What is the meaning of life?",
+      "pick": 1
+    },
+    {
+      "text": "If you could fuck anyone in the world, who would you choose?",
+      "pick": 1
+    },
+    {
+      "text": "No one in the office expected the bromance between _ and _.",
+      "pick": 2
+    },
+    {
+      "text": "Select two cards to create your team name.",
+      "pick": 2
+    },
+    {
+      "text": "This week on VS, _ challenges _ to a game of _.",
+      "pick": 3
+    },
+    {
+      "text": "The war's over. We're holding a parade in _'s honor. _ drives the float, and _ is in charge of confetti.",
+      "pick": 3
+    },
+    {
+      "text": "_ is the best _ ever. Of all time.",
+      "pick": 2
+    },
+    {
+      "text": "_ wins! _ is a horse!",
+      "pick": 2
+    },
+    {
+      "text": "If you got $1,000,000 per week, would you _, but in the next day, you'd have to _?",
+      "pick": 2
+    },
+    {
+      "text": "My name is _, and I hate _!",
+      "pick": 2
+    },
+    {
+      "text": "Why was Michael screaming at Gavin?",
+      "pick": 1
+    },
+    {
+      "text": "Would you guys still like me if my name was _?",
+      "pick": 1
+    },
+    {
+      "text": "You threw it against the wall like a _!",
+      "pick": 1
+    },
+    {
+      "text": "_ is _ as dicks.",
+      "pick": 2
+    },
+    {
+      "text": "Who has a fake Internet girlfriend?",
+      "pick": 1
+    },
+    {
+      "text": "Why is Geoff cool?",
+      "pick": 1
+    },
+    {
+      "text": "Why are we here?",
+      "pick": 1
+    },
+    {
+      "text": "What's in Gavin's desk?",
+      "pick": 1
+    },
+    {
+      "text": "What would be your chosen catchphrase?",
+      "pick": 1
+    },
+    {
+      "text": "Where does Ray belong?",
+      "pick": 1
+    },
+    {
+      "text": "Where are we going for lunch?",
+      "pick": 1
+    },
+    {
+      "text": "What makes Caboose angry?",
+      "pick": 1
+    },
+    {
+      "text": "What mysteries lie beyond Jack's beard? ",
+      "pick": 1
+    },
+    {
+      "text": "What makes Michael the angriest?",
+      "pick": 1
+    },
+    {
+      "text": "What is your biggest feature?",
+      "pick": 1
+    },
+    {
+      "text": "_ is the worst on the Podcast.",
+      "pick": 1
+    },
+    {
+      "text": "_. That's top.",
+      "pick": 1
+    },
+    {
+      "text": "After getting wasted at PAX, Burnie announced that \"I am _!\"",
+      "pick": 1
+    },
+    {
+      "text": "Barbara sucks _.",
+      "pick": 1
+    },
+    {
+      "text": "Close up of my _.",
+      "pick": 1
+    },
+    {
+      "text": "Come to Fort _!",
+      "pick": 1
+    },
+    {
+      "text": "Describe yourself in one word/phrase.",
+      "pick": 1
+    },
+    {
+      "text": "_ is probably a Venusaur kind of guy.",
+      "pick": 1
+    },
+    {
+      "text": "This week on AHWU, _.",
+      "pick": 1
+    },
+    {
+      "text": "This week on Immersion, we are going to test _.",
+      "pick": 1
+    },
+    {
+      "text": "The next RvB cameo will be voiced by _.",
+      "pick": 1
+    },
+    {
+      "text": "They questioned Ryan's sanity after finding _ in his house.",
+      "pick": 1
+    },
+    {
+      "text": "What is Game Night?",
+      "pick": 1
+    },
+    {
+      "text": "What are fire hydrants called in England?",
+      "pick": 1
+    },
+    {
+      "text": "What does Ryan's kid listen to?",
+      "pick": 1
+    },
+    {
+      "text": "People like _.",
+      "pick": 1
+    },
+    {
+      "text": "RT Recap, featuring _!",
+      "pick": 1
+    },
+    {
+      "text": "My _ is trying to die.",
+      "pick": 1
+    },
+    {
+      "text": "On tonight's Let's Play, the AH crew plays _.",
+      "pick": 1
+    },
+    {
+      "text": "So, I was just walking along, until suddenly _ came along and attacked me.",
+      "pick": 1
+    },
+    {
+      "text": "Thanks to _ for this week's theme song.",
+      "pick": 1
+    },
+    {
+      "text": "Shout out to _!",
+      "pick": 1
+    },
+    {
+      "text": "Shout out to my mom. Called my Teddy Bear _.",
+      "pick": 1
+    },
+    {
+      "text": "It's not my fault. Somebody put _ in my way.",
+      "pick": 1
+    },
+    {
+      "text": "It's a _ out there.",
+      "pick": 1
+    },
+    {
+      "text": "If you were allowed to do one illegal thing, what would it be? ",
+      "pick": 1
+    },
+    {
+      "text": "If you could have any superpower, what would it be?",
+      "pick": 1
+    },
+    {
+      "text": "LLLLLLLLLLLLLET'S _!",
+      "pick": 1
+    },
+    {
+      "text": "Lindsay could fuck up _.",
+      "pick": 1
+    },
+    {
+      "text": "Let's do _ again! This is fun!",
+      "pick": 1
+    },
+    {
+      "text": "Joel plays _.",
+      "pick": 1
+    },
+    {
+      "text": "Fight, fight, fight, _?",
+      "pick": 1
+    },
+    {
+      "text": "Dude, I got sixteen _!",
+      "pick": 1
+    },
+    {
+      "text": "Does our house say \"We love _?\"",
+      "pick": 1
+    },
+    {
+      "text": "Detective _ is down!",
+      "pick": 1
+    },
+    {
+      "text": "If Jack was frog and you kissed him, what would he turn into?",
+      "pick": 1
+    },
+    {
+      "text": "I'ma smother you in my _!",
+      "pick": 1
+    },
+    {
+      "text": "Fuck it, I mean _, right?",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "A bag of dicks.",
+      "renderHtml": false
+    },
+    {
+      "text": "Surgeon Simulator 2013.",
+      "renderHtml": false
+    },
+    {
+      "text": "Minecraft.",
+      "renderHtml": false
+    },
+    {
+      "text": "A wet paper towel.",
+      "renderHtml": false
+    },
+    {
+      "text": "ENDERMAN!!!",
+      "renderHtml": false
+    },
+    {
+      "text": "Lightish red.",
+      "renderHtml": false
+    },
+    {
+      "text": "In denial.",
+      "renderHtml": false
+    },
+    {
+      "text": "Enwrong.",
+      "renderHtml": false
+    },
+    {
+      "text": "Papa BrownMan.",
+      "renderHtml": false
+    },
+    {
+      "text": "Caleb's house.",
+      "renderHtml": false
+    },
+    {
+      "text": "Evil Ryan.",
+      "renderHtml": false
+    },
+    {
+      "text": "Randy Savage.",
+      "renderHtml": false
+    },
+    {
+      "text": "Gavin's dick.",
+      "renderHtml": false
+    },
+    {
+      "text": "Wearing your headphones backwards during a podcast week after week.",
+      "renderHtml": false
+    },
+    {
+      "text": "Flicking the bean.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting minged up your quelch.",
+      "renderHtml": false
+    },
+    {
+      "text": "Grand Theft Auto IV.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ray's wet sponge.",
+      "renderHtml": false
+    },
+    {
+      "text": "Bankrupting your company over a crane game.",
+      "renderHtml": false
+    },
+    {
+      "text": "A gay cave. A gayve.",
+      "renderHtml": false
+    },
+    {
+      "text": "Montages no one will watch.",
+      "renderHtml": false
+    },
+    {
+      "text": "Getting boned.",
+      "renderHtml": false
+    },
+    {
+      "text": "A squid orgy.",
+      "renderHtml": false
+    },
+    {
+      "text": "Team Magnum Dong.",
+      "renderHtml": false
+    },
+    {
+      "text": "300,000 Gamerscore.",
+      "renderHtml": false
+    },
+    {
+      "text": "Barbara Dunkelman.",
+      "renderHtml": false
+    },
+    {
+      "text": "Lindsay Tuggey.",
+      "renderHtml": false
+    },
+    {
+      "text": "Two dumb cunts.",
+      "renderHtml": false
+    },
+    {
+      "text": "RT Confessions.",
+      "renderHtml": false
+    },
+    {
+      "text": "Guffpap.",
+      "renderHtml": false
+    },
+    {
+      "text": "Smegpot.",
+      "renderHtml": false
+    },
+    {
+      "text": "Because bitches ain't shit.",
+      "renderHtml": false
+    },
+    {
+      "text": "Launching dump trucks off an unfinished bridge.",
+      "renderHtml": false
+    },
+    {
+      "text": "Monoray.",
+      "renderHtml": false
+    },
+    {
+      "text": "Gavino.",
+      "renderHtml": false
+    },
+    {
+      "text": "Monty Oum.",
+      "renderHtml": false
+    },
+    {
+      "text": "Mavin slash fiction.",
+      "renderHtml": false
+    },
+    {
+      "text": "Caleb Denecour.",
+      "renderHtml": false
+    },
+    {
+      "text": "Reaching a billion total views on YouTube.",
+      "renderHtml": false
+    },
+    {
+      "text": "Doing a double barrel roll and immediately running someone over.",
+      "renderHtml": false
+    },
+    {
+      "text": "A Ray-Cam masturbation moment.",
+      "renderHtml": false
+    },
+    {
+      "text": "Tackling Gavin to stop him from winning.",
+      "renderHtml": false
+    },
+    {
+      "text": "RT Shorts.",
+      "renderHtml": false
+    },
+    {
+      "text": "RT Animated Adventures.",
+      "renderHtml": false
+    },
+    {
+      "text": "Mega64.",
+      "renderHtml": false
+    },
+    {
+      "text": "Immersion.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Frienderman.",
+      "renderHtml": false
+    },
+    {
+      "text": "Beating a man to death with his own skull.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fighting to the death on pigback.",
+      "renderHtml": false
+    },
+    {
+      "text": "RWBY.",
+      "renderHtml": false
+    },
+    {
+      "text": "Throwing shit at the AHWU announcer.",
+      "renderHtml": false
+    },
+    {
+      "text": "Red vs. Blue.",
+      "renderHtml": false
+    },
+    {
+      "text": "Geoff's cancer-curing laugh.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Tower of Pimps.",
+      "renderHtml": false
+    },
+    {
+      "text": "Using CPR to treat a bullet wound to the head.",
+      "renderHtml": false
+    },
+    {
+      "text": "A plan that involves Grif dying.",
+      "renderHtml": false
+    },
+    {
+      "text": "Trying to eat a five-pound gummy bear in one sitting.",
+      "renderHtml": false
+    },
+    {
+      "text": "Front flip for style!",
+      "renderHtml": false
+    },
+    {
+      "text": "Parkour.",
+      "renderHtml": false
+    },
+    {
+      "text": "Blood Gulch.",
+      "renderHtml": false
+    },
+    {
+      "text": "Something that is top.",
+      "renderHtml": false
+    },
+    {
+      "text": "Faffy Waffle.",
+      "renderHtml": false
+    },
+    {
+      "text": "Cockbites.",
+      "renderHtml": false
+    },
+    {
+      "text": "Slapping the controller out of a competitor's hands.",
+      "renderHtml": false
+    },
+    {
+      "text": "Two bases in the middle of a box canyon. Whoop-dee-fuckin'-doo.",
+      "renderHtml": false
+    },
+    {
+      "text": "Achievement City.",
+      "renderHtml": false
+    },
+    {
+      "text": "Fails of the Weak.",
+      "renderHtml": false
+    },
+    {
+      "text": "Losing an hour's worth of footage to a brief blackout.",
+      "renderHtml": false
+    },
+    {
+      "text": "Trials PIG.",
+      "renderHtml": false
+    },
+    {
+      "text": "Achievement HORSE.",
+      "renderHtml": false
+    },
+    {
+      "text": "Edgar the cow.",
+      "renderHtml": false
+    },
+    {
+      "text": "Gavin's Trophy Room of Victory.",
+      "renderHtml": false
+    },
+    {
+      "text": "Team Neighborhood Watch.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ray winning.",
+      "renderHtml": false
+    },
+    {
+      "text": "Team Gents.",
+      "renderHtml": false
+    },
+    {
+      "text": "Plan G.",
+      "renderHtml": false
+    },
+    {
+      "text": "Team Nice Dynamite.",
+      "renderHtml": false
+    },
+    {
+      "text": "Team Lads.",
+      "renderHtml": false
+    },
+    {
+      "text": "Jack's dick.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Crev.",
+      "renderHtml": false
+    },
+    {
+      "text": "The Internet Box.",
+      "renderHtml": false
+    },
+    {
+      "text": "Performing surgery in space.",
+      "renderHtml": false
+    },
+    {
+      "text": "Slenderman.",
+      "renderHtml": false
+    },
+    {
+      "text": "The R&R Connection.",
+      "renderHtml": false
+    },
+    {
+      "text": "RTX.",
+      "renderHtml": false
+    },
+    {
+      "text": "Randy Newman.",
+      "renderHtml": false
+    },
+    {
+      "text": "Giving up and building a house.",
+      "renderHtml": false
+    },
+    {
+      "text": "A miniature Tower of Pimps.",
+      "renderHtml": false
+    },
+    {
+      "text": "Tupperware.",
+      "renderHtml": false
+    },
+    {
+      "text": "Flynt Coal.",
+      "renderHtml": false
+    },
+    {
+      "text": "Meatspin.",
+      "renderHtml": false
+    },
+    {
+      "text": "Gubbins.",
+      "renderHtml": false
+    },
+    {
+      "text": "Knobs.",
+      "renderHtml": false
+    },
+    {
+      "text": "Because they'd like it.",
+      "renderHtml": false
+    },
+    {
+      "text": "The adventures of Batman and Randy Newman.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ray's douche-cut.",
+      "renderHtml": false
+    },
+    {
+      "text": "A megalomaniac with a beard.",
+      "renderHtml": false
+    },
+    {
+      "text": "Discovering your long-lost Creeper parents.",
+      "renderHtml": false
+    },
+    {
+      "text": "Killing Gavin.",
+      "renderHtml": false
+    },
+    {
+      "text": "Geoff's hobo beard.",
+      "renderHtml": false
+    },
+    {
+      "text": "Being trapped in a dog cage.",
+      "renderHtml": false
+    },
+    {
+      "text": "Jack's beard.",
+      "renderHtml": false
+    },
+    {
+      "text": "RoosterTeeth.",
+      "renderHtml": false
+    },
+    {
+      "text": "Man-Gobbler, the turkey bestiality movie.",
+      "renderHtml": false
+    },
+    {
+      "text": "Gavin Free.",
+      "renderHtml": false
+    },
+    {
+      "text": "Michael Jones.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ray Narvaez, Jr.",
+      "renderHtml": false
+    },
+    {
+      "text": "Geoff Lazer Ramsey.",
+      "renderHtml": false
+    },
+    {
+      "text": "Burnie Burns.",
+      "renderHtml": false
+    },
+    {
+      "text": "Jack Pattillo.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ryan Haywood.",
+      "renderHtml": false
+    },
+    {
+      "text": "Gus Sorola.",
+      "renderHtml": false
+    },
+    {
+      "text": "The cardboard cutout of Gus.",
+      "renderHtml": false
+    },
+    {
+      "text": "Joel Heyman.",
+      "renderHtml": false
+    },
+    {
+      "text": "Going cakeless.",
+      "renderHtml": false
+    },
+    {
+      "text": "Headlight fluid.",
+      "renderHtml": false
+    },
+    {
+      "text": "Playing Hitler twice.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sarge.",
+      "renderHtml": false
+    },
+    {
+      "text": "Lopez la Pesado.",
+      "renderHtml": false
+    },
+    {
+      "text": "Franklin Delano Donut.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dexter Grif.",
+      "renderHtml": false
+    },
+    {
+      "text": "Dick Simmons.",
+      "renderHtml": false
+    },
+    {
+      "text": "Agent Washington.",
+      "renderHtml": false
+    },
+    {
+      "text": "Andy the bomb.",
+      "renderHtml": false
+    },
+    {
+      "text": "Picking up chicks in a tank.",
+      "renderHtml": false
+    },
+    {
+      "text": "Lavernius Tucker.",
+      "renderHtml": false
+    },
+    {
+      "text": "Leonard Church.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sheila the tank.",
+      "renderHtml": false
+    },
+    {
+      "text": "Michael J. Caboose.",
+      "renderHtml": false
+    },
+    {
+      "text": "Frank \"Doc\" DuFresne.",
+      "renderHtml": false
+    },
+    {
+      "text": "Agent Maine / the Meta.",
+      "renderHtml": false
+    },
+    {
+      "text": "Omega / O'Malley.",
+      "renderHtml": false
+    },
+    {
+      "text": "Agent Texas / Allison.",
+      "renderHtml": false
+    },
+    {
+      "text": "MOGAR!",
+      "renderHtml": false
+    },
+    {
+      "text": "Screen looking.",
+      "renderHtml": false
+    },
+    {
+      "text": "Joe the cat.",
+      "renderHtml": false
+    },
+    {
+      "text": "#DantheMan.",
+      "renderHtml": false
+    },
+    {
+      "text": "Slo Mo Guys.",
+      "renderHtml": false
+    },
+    {
+      "text": "X-Ray and Vav.",
+      "renderHtml": false
+    },
+    {
+      "text": "Rage Quit.",
+      "renderHtml": false
+    },
+    {
+      "text": "Achievement Hunter.",
+      "renderHtml": false
+    },
+    {
+      "text": "Pongo.",
+      "renderHtml": false
+    },
+    {
+      "text": "Soggy bread.",
+      "renderHtml": false
+    },
+    {
+      "text": "Sarge's funeral.",
+      "renderHtml": false
+    },
+    {
+      "text": "Camping, as a legitimate strategy.",
+      "renderHtml": false
+    },
+    {
+      "text": "Team-killing fucktards.",
+      "renderHtml": false
+    },
+    {
+      "text": "Calling dibs on a spaceship.",
+      "renderHtml": false
+    },
+    {
+      "text": "Because people like grapes.",
+      "renderHtml": false
+    },
+    {
+      "text": "Upside-down Kerry.",
+      "renderHtml": false
+    },
+    {
+      "text": "Epsilon's laser face.",
+      "renderHtml": false
+    },
+    {
+      "text": "MOTHERFUCKING TRIPLE SPIKES!",
+      "renderHtml": false
+    },
+    {
+      "text": "Mark Nutt.",
+      "renderHtml": false
+    },
+    {
+      "text": "AHWU.",
+      "renderHtml": false
+    },
+    {
+      "text": "Ray's sombrero.",
+      "renderHtml": false
+    },
+    {
+      "text": "Doing a dig-down.",
+      "renderHtml": false
+    }
+  ]
+}

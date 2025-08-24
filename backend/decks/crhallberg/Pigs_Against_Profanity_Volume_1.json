@@ -1,0 +1,453 @@
+{
+  "order": 176,
+  "displayName": "Pigs Against Profanity: Volume 1",
+  "name": "Pigs_Against_Profanity_Volume_1",
+  "whiteCards": [
+    {
+      "text": "_. Coming soon to a cinema near you",
+      "pick": 1
+    },
+    {
+      "text": "_. Sounded like a good idea at the time",
+      "pick": 1
+    },
+    {
+      "text": "_. The easiest way into a girl's pants",
+      "pick": 1
+    },
+    {
+      "text": "_. The only thing scarring people more than London acid attacks",
+      "pick": 1
+    },
+    {
+      "text": "A few shots of absinthe lets me forget about my habit of _",
+      "pick": 1
+    },
+    {
+      "text": "Alexa, add _ to my shopping list.",
+      "pick": 1
+    },
+    {
+      "text": "Despite what I've been told, _ is not a crime in the UK",
+      "pick": 1
+    },
+    {
+      "text": "Dominos now sell a pizza with two great toppings _ and _",
+      "pick": 2
+    },
+    {
+      "text": "Generally, most things can be solved by _",
+      "pick": 1
+    },
+    {
+      "text": "I probably should have left _ out of my best man's speech",
+      "pick": 1
+    },
+    {
+      "text": "I saw _ on Snapchat the other day.",
+      "pick": 1
+    },
+    {
+      "text": "I'm really struggling to get the sweet taste of _ out of my mouth",
+      "pick": 1
+    },
+    {
+      "text": "I've always enjoyed _ said _",
+      "pick": 2
+    },
+    {
+      "text": "If at first you don't succeed try _",
+      "pick": 1
+    },
+    {
+      "text": "In his most astonishing magic trick yet Dynamo is now able to control _ with _",
+      "pick": 2
+    },
+    {
+      "text": "In the UK it's now socially acceptable to have _ in public",
+      "pick": 1
+    },
+    {
+      "text": "It's been a long and difficult journey, but I'm now officially recovering from my encounter with _",
+      "pick": 1
+    },
+    {
+      "text": "My boss's wife really enjoys _ with _",
+      "pick": 2
+    },
+    {
+      "text": "Nothing reminds me of my ex more than _",
+      "pick": 1
+    },
+    {
+      "text": "On today's Jeremy Kyle show, Keith from Manchester is going to reveal _",
+      "pick": 1
+    },
+    {
+      "text": "One way of solving over-population is _",
+      "pick": 1
+    },
+    {
+      "text": "The main life lesson I learned in school was _",
+      "pick": 1
+    },
+    {
+      "text": "The Nobel Peace Prize goes to _ for _",
+      "pick": 2
+    },
+    {
+      "text": "The one thing Harvey Weinstein enjoys more than rape is _",
+      "pick": 1
+    },
+    {
+      "text": "The only way is _. The brutal new reality show coming to ITV3",
+      "pick": 1
+    },
+    {
+      "text": "The smell of _ is nothing compared to _",
+      "pick": 2
+    },
+    {
+      "text": "They say that _ is for life not just for _",
+      "pick": 2
+    },
+    {
+      "text": "Twenty years from now, the world will be filled with _ and _",
+      "pick": 2
+    },
+    {
+      "text": "Unfortunately Jimmy, you can't bring _ into Nursery",
+      "pick": 1
+    },
+    {
+      "text": "When I group up I want to be _",
+      "pick": 1
+    },
+    {
+      "text": "You should never ever put _ in your mouth",
+      "pick": 1
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "2 girls 1 cockroach",
+      "renderHtml": false
+    },
+    {
+      "text": "4 wraps of heroin",
+      "renderHtml": false
+    },
+    {
+      "text": "A absurd build up of smegma under the foreskin",
+      "renderHtml": false
+    },
+    {
+      "text": "A cury so hot it that it makes your arse feel like you've been picking up the soap in prison",
+      "renderHtml": false
+    },
+    {
+      "text": "A Donald Trump pussy grab",
+      "renderHtml": false
+    },
+    {
+      "text": "A gaping arsehole",
+      "renderHtml": false
+    },
+    {
+      "text": "A gynaecologist with a sex addiction",
+      "renderHtml": false
+    },
+    {
+      "text": "A jihadi terrorist attack",
+      "renderHtml": false
+    },
+    {
+      "text": "A paralell universe where men have vaginas and women have penises",
+      "renderHtml": false
+    },
+    {
+      "text": "A party in Michael Barrymore's pool",
+      "renderHtml": false
+    },
+    {
+      "text": "A shocking amount of Lurpak",
+      "renderHtml": false
+    },
+    {
+      "text": "A solar powered dildo",
+      "renderHtml": false
+    },
+    {
+      "text": "A teacher with a child grooming habit",
+      "renderHtml": false
+    },
+    {
+      "text": "Ainsley Harriott",
+      "renderHtml": false
+    },
+    {
+      "text": "Alcohol abuse",
+      "renderHtml": false
+    },
+    {
+      "text": "Another outbreak of Ebola in West Africa",
+      "renderHtml": false
+    },
+    {
+      "text": "Bare backing a lady boy in Thailand",
+      "renderHtml": false
+    },
+    {
+      "text": "Becoming a Jew",
+      "renderHtml": false
+    },
+    {
+      "text": "Being alone in bed with Kevin Spacey",
+      "renderHtml": false
+    },
+    {
+      "text": "Being arrested for necrophilia",
+      "renderHtml": false
+    },
+    {
+      "text": "Being banged from behind by a fat sweaty black dick",
+      "renderHtml": false
+    },
+    {
+      "text": "Being impregnated by 3 guys at once",
+      "renderHtml": false
+    },
+    {
+      "text": "Bruce Forsyth",
+      "renderHtml": false
+    },
+    {
+      "text": "Cabbage farts that burn your nostrils",
+      "renderHtml": false
+    },
+    {
+      "text": "Chemical attacks",
+      "renderHtml": false
+    },
+    {
+      "text": "Chester Bennington's rope collection",
+      "renderHtml": false
+    },
+    {
+      "text": "Chill flavoured anal lube",
+      "renderHtml": false
+    },
+    {
+      "text": "Decaying pussy flaps",
+      "renderHtml": false
+    },
+    {
+      "text": "Dog shit flavoured jelly beans",
+      "renderHtml": false
+    },
+    {
+      "text": "Donating blood when you know you have HIV",
+      "renderHtml": false
+    },
+    {
+      "text": "Dwarfs with large dicks",
+      "renderHtml": false
+    },
+    {
+      "text": "Ejaculating into ham slices and sticking them all over a woman",
+      "renderHtml": false
+    },
+    {
+      "text": "Ethnic Cleansing",
+      "renderHtml": false
+    },
+    {
+      "text": "Executig anyone with a speech impediment",
+      "renderHtml": false
+    },
+    {
+      "text": "Explosive diarrhoea",
+      "renderHtml": false
+    },
+    {
+      "text": "Feeding a Muslim bacon",
+      "renderHtml": false
+    },
+    {
+      "text": "Feminism",
+      "renderHtml": false
+    },
+    {
+      "text": "Finger blasting your Nan until she squirts",
+      "renderHtml": false
+    },
+    {
+      "text": "Fisting a granny",
+      "renderHtml": false
+    },
+    {
+      "text": "Fucking a wet soggy cardboard box",
+      "renderHtml": false
+    },
+    {
+      "text": "Gay porn",
+      "renderHtml": false
+    },
+    {
+      "text": "Harvey Price's hot creamy semen",
+      "renderHtml": false
+    },
+    {
+      "text": "Having inappropiate thoughts about being fucked by a horse",
+      "renderHtml": false
+    },
+    {
+      "text": "Hillsborough disaster part II",
+      "renderHtml": false
+    },
+    {
+      "text": "Hugh Heffner's rotting foreskin",
+      "renderHtml": false
+    },
+    {
+      "text": "Indecent images of Boris Johnson felching",
+      "renderHtml": false
+    },
+    {
+      "text": "Interracial double penetration",
+      "renderHtml": false
+    },
+    {
+      "text": "Islamic State's take on the events of 9/11",
+      "renderHtml": false
+    },
+    {
+      "text": "Jeremy Corbyn",
+      "renderHtml": false
+    },
+    {
+      "text": "Kim Jong-Un's crusty ass ring",
+      "renderHtml": false
+    },
+    {
+      "text": "Madeleine McCann's new age progression image",
+      "renderHtml": false
+    },
+    {
+      "text": "Making jokes about gender fluidity",
+      "renderHtml": false
+    },
+    {
+      "text": "Mensturation porn",
+      "renderHtml": false
+    },
+    {
+      "text": "Mild racism and extreme homophobia",
+      "renderHtml": false
+    },
+    {
+      "text": "No ketchup, just sauce",
+      "renderHtml": false
+    },
+    {
+      "text": "Obesity",
+      "renderHtml": false
+    },
+    {
+      "text": "Oozing herpes scabs",
+      "renderHtml": false
+    },
+    {
+      "text": "Osama Bin Laden tribute videos",
+      "renderHtml": false
+    },
+    {
+      "text": "Pubic lice",
+      "renderHtml": false
+    },
+    {
+      "text": "Pulling out just before ejaculation and pouring tobasco sauce into the receiving hole",
+      "renderHtml": false
+    },
+    {
+      "text": "Pushing the big red nuke button",
+      "renderHtml": false
+    },
+    {
+      "text": "Putting a blind man into a circular room and asking him to find the corner",
+      "renderHtml": false
+    },
+    {
+      "text": "Putting it balls deep into the stink",
+      "renderHtml": false
+    },
+    {
+      "text": "Realising that Derren Brown is a cock muncher",
+      "renderHtml": false
+    },
+    {
+      "text": "Riming the bowl of a festival toilet",
+      "renderHtml": false
+    },
+    {
+      "text": "Robinsons fruit shoot mixed with rohypnol",
+      "renderHtml": false
+    },
+    {
+      "text": "Severe down's syndrome",
+      "renderHtml": false
+    },
+    {
+      "text": "Sliding some roast pork into a vegan's salad",
+      "renderHtml": false
+    },
+    {
+      "text": "Squeezing out a turd bigger than King Kong's finger",
+      "renderHtml": false
+    },
+    {
+      "text": "Telling holocaust jokes at a bar mitzvah",
+      "renderHtml": false
+    },
+    {
+      "text": "The back end of a wart hog",
+      "renderHtml": false
+    },
+    {
+      "text": "The end of the Earth",
+      "renderHtml": false
+    },
+    {
+      "text": "The scent of rotting corpse",
+      "renderHtml": false
+    },
+    {
+      "text": "The smell of Lucky Lucky man's ball sack at the end of a season in Ibiza",
+      "renderHtml": false
+    },
+    {
+      "text": "The smell of vaginal discharge",
+      "renderHtml": false
+    },
+    {
+      "text": "Theresa May's landing strip",
+      "renderHtml": false
+    },
+    {
+      "text": "Under-age pregnancy",
+      "renderHtml": false
+    },
+    {
+      "text": "Using barbed wire as a cock ring",
+      "renderHtml": false
+    },
+    {
+      "text": "Vegans being slaughtered in the streets",
+      "renderHtml": false
+    },
+    {
+      "text": "Watching Princess Diana's car go up in flames",
+      "renderHtml": false
+    }
+  ]
+}
