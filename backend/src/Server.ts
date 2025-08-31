@@ -5,6 +5,7 @@ import express from "express";
 import { createServer as createHttpServer } from 'http';
 import { DeckCollection } from "./deck/DeckCollection";
 import { readDeckCollections } from "./deck/CardLoader";
+import { DeckRouter } from "./routes/decks/DeckRouter";
 
 
 export class Server {
@@ -21,6 +22,8 @@ export class Server {
 
     this.express = express();
     this.http = createHttpServer(this.express);
+
+    new DeckRouter(this).register();
 
     this.socket = new SocketServer(this.http);
     this.start();
