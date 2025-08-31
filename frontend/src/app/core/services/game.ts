@@ -2,6 +2,7 @@ import { Injectable } from '@angular/core';
 import { io, Socket } from 'socket.io-client';
 
 const ReconnectTokenKey = "cah_reconnectToken";
+const UsernameKey = "cah_username";
 
 @Injectable({
   providedIn: 'root'
@@ -14,11 +15,18 @@ export class Game {
     this.connectSocket();
   }
 
-  public connectSocket() {
+  private get socketHeaders() {
     const headers: { [key: string]: string } = {};
     if (localStorage.getItem(ReconnectTokenKey)) {
-      headers[ReconnectTokenKey] = localStorage.getItem(ReconnectTokenKey) as string;
+      headers["x-reconnect-token"] = localStorage.getItem(ReconnectTokenKey) as string;
     }
+    if (localStorage.getItem(UsernameKey)) {
+      headers["x-username"] = localStorage.getItem(UsernameKey) as string;
+    }
+    return headers;
+  }
+
+  public connectSocket() {
     console.log("Game::connectSocket()");
     if (this._socket != null) {
       this._connected = false;
@@ -28,9 +36,7 @@ export class Game {
 
     this._socket = io({
       reconnection: true,
-      extraHeaders: {
-        ...headers,
-      },
+      extraHeaders: this.socketHeaders,
     });
 
     this._socket.on('connect', () => {
@@ -47,15 +53,13 @@ export class Game {
       this._connected = false;
     });
 
-    this._socket.on('message', (msg: any) => {
-      console.debug('Socket message received:', msg);
+    this._socket.on('message', (msg: string, data: any) => {
+      console.debug('Socket message received:', msg, data);
     });
 
     this._socket.on('reconnect_attempt', () => {
       if (this._socket != null) {
-        this._socket.io.opts.extraHeaders = {
-          ...headers,
-        };
+        this._socket.io.opts.extraHeaders = this.socketHeaders;
       }
     });
   }
