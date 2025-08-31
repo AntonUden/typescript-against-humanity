@@ -54,6 +54,7 @@ export class User {
       data: {
         type,
         reconnectToken: this.reconnectToken,
+        username: this.username,
       }
     })
   }

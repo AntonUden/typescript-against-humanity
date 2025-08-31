@@ -15,6 +15,7 @@ export class Game {
   private _socket: Socket | null = null;
   private _connected = false;
   private _packetReceivedSubject = new Subject<Packet<any>>();
+  private _username = "Anonymous";
 
   constructor(
     private toastr: ToastrService,
@@ -33,6 +34,16 @@ export class Game {
         } else {
           this.toastr.success("Connected");
         }
+
+        this._username = String(packet.data.username);
+        console.log("Username set to: " + this.username);
+        localStorage.setItem(UsernameKey, this.username);
+      } else if (packet.type == PacketType.S2CUsernameSet) {
+        const username = String(packet.data);
+        console.log("Username set to: " + username);
+        this.toastr.info("Username set to: " + username);
+        this._username = username;
+        localStorage.setItem(UsernameKey, this.username);
       }
     });
   }
@@ -112,6 +123,10 @@ export class Game {
 
   public get socket() {
     return this._socket;
+  }
+
+  public get username() {
+    return this._username;
   }
 }
 
