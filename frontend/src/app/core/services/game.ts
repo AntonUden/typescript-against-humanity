@@ -1,5 +1,9 @@
 import { Injectable } from '@angular/core';
+import { Subject } from 'rxjs';
 import { io, Socket } from 'socket.io-client';
+import { Packet } from '../packet/Packet';
+import { PacketType } from '../packet/PacketType';
+import { ToastrService } from 'ngx-toastr';
 
 const ReconnectTokenKey = "cah_reconnectToken";
 const UsernameKey = "cah_username";
@@ -10,6 +14,28 @@ const UsernameKey = "cah_username";
 export class Game {
   private _socket: Socket | null = null;
   private _connected = false;
+  private _packetReceivedSubject = new Subject<Packet<any>>();
+
+  constructor(
+    private toastr: ToastrService,
+  ) {
+    this.packetReceived$.subscribe(packet => {
+      if (packet.type == PacketType.S2CConnectionAck) {
+        const connectionType = packet.data.type as ConnectionType;
+        console.log("Server acknowledged connection. type: " + connectionType);
+        const reconnectToken = packet.data.reconnectToken;
+        console.debug("Reconnect token: " + reconnectToken);
+        localStorage.setItem(ReconnectTokenKey, reconnectToken);
+
+        if (connectionType == ConnectionType.Reconnection) {
+          console.log("Reconnect successful");
+          this.toastr.success("Reconnected successfully");
+        } else {
+          this.toastr.success("Connected");
+        }
+      }
+    });
+  }
 
   public init() {
     this.connectSocket();
@@ -24,6 +50,10 @@ export class Game {
       headers["x-username"] = localStorage.getItem(UsernameKey) as string;
     }
     return headers;
+  }
+
+  public get packetReceived$() {
+    return this._packetReceivedSubject.asObservable();
   }
 
   public connectSocket() {
@@ -54,7 +84,11 @@ export class Game {
     });
 
     this._socket.on('message', (msg: string, data: any) => {
-      console.debug('Socket message received:', msg, data);
+      if (msg == "message") {
+        //TODO: remove log
+        console.debug("Received packet: ", data);
+        this._packetReceivedSubject.next(data as Packet<any>);
+      }
     });
 
     this._socket.on('reconnect_attempt', () => {
@@ -79,4 +113,9 @@ export class Game {
   public get socket() {
     return this._socket;
   }
+}
+
+enum ConnectionType {
+  NewConnection = "new_connection",
+  Reconnection = "reconnection",
 }
