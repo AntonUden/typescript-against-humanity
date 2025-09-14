@@ -4,6 +4,7 @@ import { io, Socket } from 'socket.io-client';
 import { Packet } from '../packet/Packet';
 import { PacketType } from '../packet/PacketType';
 import { ToastrService } from 'ngx-toastr';
+import { GameSession } from '../classes/GameSession';
 
 const ReconnectTokenKey = "cah_reconnectToken";
 const UsernameKey = "cah_username";
@@ -16,6 +17,11 @@ export class Game {
   private _connected = false;
   private _packetReceivedSubject = new Subject<Packet<any>>();
   private _username = "Anonymous";
+  private _activeSession: GameSession | null = null;
+
+  public get activeSession() {
+    return this._activeSession;
+  }
 
   constructor(
     private toastr: ToastrService,
