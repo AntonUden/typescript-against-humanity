@@ -4,6 +4,7 @@ import { Socket } from "socket.io";
 import { cyan } from "colors";
 import { Packet } from "../packet/Packet";
 import { PacketType } from "../packet/PacketType";
+import { ToastNotificationType } from "../packet/data/ToastNotificationType";
 
 const DisconnectTimerValue = 60 * 10; // 10 seconds in ticks
 
@@ -59,6 +60,13 @@ export class User {
     })
   }
 
+  public removeFromActiveGame() {
+    const sessions = this.server.gameSessions.find(s => s.players.find(p => p.user.uuid === this.uuid) != null);
+    if (sessions != null) {
+      sessions.leaveGame(this);
+    }
+  }
+
   public setUsername(name: string) {
     this._username = name;
     this.sendPacket({
@@ -95,6 +103,13 @@ export class User {
     if (this._disconnected) {
       this._disconnectTimer--;
     }
+  }
+
+  public sendToastNotification(message: string, type: ToastNotificationType = ToastNotificationType.Info) {
+    this.sendPacket({
+      type: PacketType.S2CToastNotification,
+      data: { message, type },
+    });
   }
 }
 

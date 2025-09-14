@@ -8,9 +8,9 @@ import { readDeckCollections } from "./deck/CardLoader";
 import { DeckRouter } from "./routes/decks/DeckRouter";
 import { User } from "./user/User";
 import { isUUIDv4 } from "./utils/UUIDUtils";
+import { GameSession } from "./session/GameSession";
 
-const MaxUsernameLength = 32;
-
+export const MaxUsernameLength = 32;
 
 export class Server {
   public readonly config: Configuration;
@@ -19,6 +19,7 @@ export class Server {
   public readonly deckCollections: DeckCollection[];
   private _users: User[] = [];
   private readonly http;
+  private _gameSessions: GameSession[] = [];
 
   constructor(config: Configuration) {
     this.config = config;
@@ -72,14 +73,22 @@ export class Server {
     return this._users;
   }
 
+  public get gameSessions() {
+    return this._gameSessions;
+  }
+
   private tick() {
     this.users.forEach(u => u.tick());
 
+    this.gameSessions.filter(s => s.players.length <= 0).forEach(session => {
+      console.log("Removing empty game session: " + cyan(session.uuid));
+    });
+    this._gameSessions = this.gameSessions.filter(s => s.players.length > 0);
+
     this.users.filter(u => u.disconnectTimer <= 0).forEach(user => {
       console.log("User disconnected: " + cyan(user.uuid) + " (" + cyan(user.username) + ")");
-      //TODO: Disconnect user
+      user.removeFromActiveGame();
     });
-
     this._users = this.users.filter(u => u.disconnectTimer > 0); // Remove the users from the array
   }
 }
