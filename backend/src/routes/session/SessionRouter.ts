@@ -3,8 +3,14 @@ import { AbstractRouter } from "../AbstractRouter";
 
 export class SessionRouter extends AbstractRouter {
   constructor(server: Server) {
-    super(server, "/session");
+    super(server, "/sessions");
 
-    //this.router.
+    this.router.get("/", (req, res) => {
+      try {
+        res.json(this.server.gameSessions.map(s => s.getSessionListData()));
+      } catch (err) {
+        this.handleError(err, req, res)
+      }
+    });
   }
 }

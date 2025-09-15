@@ -107,7 +107,7 @@ export class GameSession {
     });
   }
 
-  public get sessionListData() {
+  public getSessionListData() {
     return {
       uuid: this.uuid,
       settings: this.settings,
