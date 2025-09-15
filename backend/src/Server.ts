@@ -9,6 +9,7 @@ import { DeckRouter } from "./routes/decks/DeckRouter";
 import { User } from "./user/User";
 import { isUUIDv4 } from "./utils/UUIDUtils";
 import { GameSession } from "./session/GameSession";
+import { SessionRouter } from "./routes/session/SessionRouter";
 
 export const MaxUsernameLength = 32;
 
@@ -30,6 +31,7 @@ export class Server {
     this.http = createHttpServer(this.express);
 
     new DeckRouter(this).register();
+    new SessionRouter(this).register();
 
     this.socket = new SocketServer(this.http);
     this.start();
