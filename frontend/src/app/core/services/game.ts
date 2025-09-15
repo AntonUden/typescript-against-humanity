@@ -18,6 +18,7 @@ export class Game {
   private _packetReceivedSubject = new Subject<Packet<any>>();
   private _username = "Anonymous";
   private _activeSession: GameSession | null = null;
+  private _accessToken = "";
 
   public get activeSession() {
     return this._activeSession;
@@ -33,6 +34,9 @@ export class Game {
         const reconnectToken = packet.data.reconnectToken;
         console.debug("Reconnect token: " + reconnectToken);
         localStorage.setItem(ReconnectTokenKey, reconnectToken);
+
+        this._accessToken = String(packet.data.accessToken);
+        console.debug("Access token: " + this._accessToken);
 
         if (connectionType == ConnectionType.Reconnection) {
           console.log("Reconnect successful");
@@ -56,6 +60,10 @@ export class Game {
 
   public init() {
     this.connectSocket();
+  }
+
+  public get accessToken() {
+    return this._accessToken;
   }
 
   private get socketHeaders() {

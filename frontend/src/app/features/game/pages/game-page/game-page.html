@@ -1,1 +1,13 @@
-<p>game-page works!</p>
+@if(hasSession) {
+<!-- We are connected to a session-->
+@if (isInWaitingLobby) {
+<!-- Waiting for active game to start -->
+<app-game-waiting-lobby-page />
+} @else {
+<!-- Active game session -->
+<app-in-game-page />
+}
+} @else {
+<!-- No active session. Show main lobby -->
+<app-lobby-page />
+}

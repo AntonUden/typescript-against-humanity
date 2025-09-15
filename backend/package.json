@@ -13,6 +13,7 @@
   "devDependencies": {
     "@types/body-parser": "^1.19.6",
     "@types/express": "^5.0.3",
+    "@types/jsonwebtoken": "^9.0.10",
     "@types/node": "^24.3.0",
     "nodemon": "^3.1.10",
     "ts-node": "^10.9.2",
@@ -23,6 +24,7 @@
     "console-stamp": "^3.1.2",
     "dotenv": "^17.2.1",
     "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
     "socket.io": "^4.8.1",
     "uuid": "^11.1.0",
     "zod": "^4.1.1"

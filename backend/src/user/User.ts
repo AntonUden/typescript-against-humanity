@@ -5,6 +5,7 @@ import { cyan } from "colors";
 import { Packet } from "../packet/Packet";
 import { PacketType } from "../packet/PacketType";
 import { ToastNotificationType } from "../packet/data/ToastNotificationType";
+import jwt from "jsonwebtoken";
 
 const DisconnectTimerValue = 60 * 10; // 10 seconds in ticks
 
@@ -56,6 +57,7 @@ export class User {
         type,
         reconnectToken: this.reconnectToken,
         username: this.username,
+        accessToken: this.generateJwtKey(),
       }
     })
   }
@@ -73,6 +75,13 @@ export class User {
       type: PacketType.S2CUsernameSet,
       data: this.username,
     })
+  }
+
+  public generateJwtKey() {
+    return jwt.sign({
+      uid: this.uuid,
+      iat: Math.floor(Date.now() / 1000),
+    }, this.server.jwtKey);
   }
 
   public sendPacket(packet: Packet<any>) {

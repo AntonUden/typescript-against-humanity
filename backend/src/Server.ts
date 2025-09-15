@@ -10,6 +10,8 @@ import { User } from "./user/User";
 import { isUUIDv4 } from "./utils/UUIDUtils";
 import { GameSession } from "./session/GameSession";
 import { SessionRouter } from "./routes/session/SessionRouter";
+import { existsSync, mkdirSync, readFileSync, writeFileSync } from "fs";
+import { authMiddleware } from "./middleware/AuthMiddleware";
 
 export const MaxUsernameLength = 32;
 
@@ -21,9 +23,31 @@ export class Server {
   private _users: User[] = [];
   private readonly http;
   private _gameSessions: GameSession[] = [];
+  public readonly jwtKey: string;
+  public readonly authMiddleware;
 
   constructor(config: Configuration) {
     this.config = config;
+
+    if (!existsSync("./data")) {
+      console.log("Creating " + cyan("./data") + " directory");
+      mkdirSync("./data");
+    }
+
+    if (!existsSync("./data/jwt.key")) {
+      console.log("Generating new JWT key");
+      // Generate 64 random bytes and convert to hex string
+      const key = Buffer.from(Array(64).fill(0).map(() => Math.floor(Math.random() * 256))).toString("hex");
+      writeFileSync("./data/jwt.key", key);
+    }
+
+    console.log("Reading JWT key");
+    this.jwtKey = readFileSync("./data/jwt.key").toString().trim();
+    if (this.jwtKey.length == 0) {
+      throw new Error("JWT key is empty");
+    }
+
+    this.authMiddleware = authMiddleware(this);
 
     this.deckCollections = readDeckCollections("./decks");
 
