@@ -12,7 +12,7 @@
     "nodemon": "^2.0.22",
     "socket.io": "^4.8.0",
     "typescript": "^5.0.4",
-    "uuid": "^9.0.0",
+    "uuid": "^14.0.0",
     "uuidv4": "^6.2.13"
   },
   "scripts": {
